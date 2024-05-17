@@ -5494,11 +5494,11 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co/W5KF2Qt/aisplaysports.png", AIS PLAY SPORTS ????
 https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7GJnHMX/adsport1.png" group-title="SPORTS", ABU DHABI SPORTS 1 ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-tv-ae.svg" group-title="SPORTS", ABU DHABI SPORTS 1 ????
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9vLdWtm/adsport2.png" group-title="SPORTS", ABU DHABI SPORTS 2 ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-tv-ae.svg" group-title="SPORTS", ABU DHABI SPORTS 2 ????
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
 
@@ -5520,17 +5520,17 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k57XRqD/kass5.png" group-title="SPORTS", AL KASS 5 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="SPORTS", AL KASS 5 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/KF4phjz/arenaesport.png" group-title="SPORTS", ARENA ESPORT
+#EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-esport-rs.png" group-title="SPORTS", ARENA ESPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 
-#EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://i.ibb.co/j500zg4/afight.png" group-title="SPORTS", ARENA FIGHT
+#EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="SPORTS", ARENA FIGHT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
@@ -5550,7 +5550,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORTS", ARENA SPORT 4 ????
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="SPORTS", ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
@@ -5641,7 +5641,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2506/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co/Hd04wqX/bahrainsport1.png", Bahrain Sport 1 ????
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png", Bahrain Sport 1 ????
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
@@ -5700,86 +5700,26 @@ https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 
 
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.ibb.co/xjJgpfz/bandsports.png" group-title="SPORTS" , BANDSPORTS ????
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://www.lyngsat.com/logo/tv/bb/band-sports-br.png" group-title="SPORTS" , BANDSPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
 ##https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://i.ibb.co/xjJgpfz/bandsports.png" group-title="SPORTS" , BANDSPORTS ????
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://www.lyngsat.com/logo/tv/bb/band-sports-br.png" group-title="SPORTS" , BANDSPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="SPORTS" , BEIN SPORTS 1 ?? ????
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="SPORTS" , BEIN SPORTS 3 ?? ????
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="SPORTS" , BEIN SPORTS 1 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-logo="https://i.ibb.co/1XzfTtD/daznxbein2.png" group-title="SPORTS" , BEIN SPORTS 2 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml_4-5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"-udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof_0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi_k1JwslM9Vr0c_Q","k":"uIP7-bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
-##https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="SPORTS" , BEIN SPORTS 3 ???? 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4531b93e48ab9ea0297a176c515cff14":"473c228f1a579fce6e710e24b22e461f","37a2874e91eedcba955ceeade5594ea6":"2a7feeb0f4717bdd812faa9daa88012d","92ba92959988b3dcc683c86ce540e3a2":"a4ba879567146a794ce2a28b902170a8","b0da602b7d8e4de69a7bc3b24b3d70bc":"b704f74b03b0be6a916b670a5da5eef9","aace08f82b2886e277e12b3565c7c745":"e4ac15509527d5f3b11b17d03354ffb0"}
-##https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-logo="https://i.ibb.co/txzTNNL/beinmax4.png" group-title="SPORTS" , BEIN SPORTS MAX 4 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","b6d0b6217c70b0f705002a070771b084":"746c02d1e6884fe2e4411624ba055528","d1140f0b87723297fc1a3820d989537f":"37c78b5fbbd97216b4813e135ab2c1ea"}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://i.ibb.co/s9yfNbx/beinmax5.png" group-title="SPORTS" , BEIN SPORTS MAX 5 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-logo="https://i.ibb.co/h864VzZ/beinmax6.png" group-title="SPORTS" , BEIN SPORTS MAX 6 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-logo="https://i.ibb.co/3sdcSYC/beinmax7.png" group-title="SPORTS" , BEIN SPORTS MAX 7 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-logo="https://i.ibb.co/mcKR74G/beinmax8.png" group-title="SPORTS" , BEIN SPORTS MAX 8 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-logo="https://i.ibb.co/Vt4BTkg/beinmax9.png" group-title="SPORTS" , BEIN SPORTS MAX 9 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-logo="https://i.ibb.co/sFgSN38/beinmax10.png" group-title="SPORTS" , BEIN SPORTS MAX 10 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="SPORTS" , BEIN SPORTS 1 ????
