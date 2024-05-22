@@ -1500,6 +1500,7 @@ http://iptvkita.my.id:25461/live/direct/hometv/2045.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://w7.pngwing.com/pngs/477/717/png-transparent-sky-sports-television-channel-streaming-media-live-stream-television-text-label-thumbnail.png" group-title="Sports",Skysports F1
 http://iptvkita.my.id:25461/live/direct/hometv/3501.m3u8
 
-#EXHTTP:{"Origin":"https://claplivehdplay.ru",Referer":"https://claplivehdplay.ru/","User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/&Origin=https://claplivehdplay.ru
 #EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosport1spain.webp" group-title="Sports",Eurosport 1 Spain
 https://webhdrunns.onlinehdhls.ru/lb/premium123/index.m3u8
