@@ -6690,16 +6690,16 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_key=202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 1 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 1 Australia
 https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 2 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 2 Australia
 https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 3 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 3 Australia
 https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 4 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 4 Australia
 https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -6707,7 +6707,7 @@ https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 5 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 5 Australia
 http://tsmu.25zlma.net:8080/live/rokh2018_724894/dzuutBWO/306278.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -6715,7 +6715,7 @@ http://tsmu.25zlma.net:8080/live/rokh2018_724894/dzuutBWO/306278.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports",OPTUS 6 Australia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 6 Australia
 http://tsmu.25zlma.net:8080/live/rokh2018_724894/dzuutBWO/306279.ts
 
 
@@ -7599,7 +7599,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/89.ts
 #EXTINF:-1 xui-id="158" tvg-id="" tvg-name="beIN Sports 1 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="OLAHRAGA",beIN Sports 1 MY
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJFOg0OPlsugRfELSOg5-84
 
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="" group-title="Good Sport Uptime",beIN Sports 2 MY
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="" group-title="OLAHRAGA",beIN Sports 2 MY
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRCvq7F2jTOHIbAjOjR4jssk
 
 #EXTINF:-1 xui-id="159" tvg-id="" tvg-name="beIN Sports 3 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg/revision/latest?cb=20150715190042" group-title="OLAHRAGA",beIN Sports 3 MY
@@ -7671,7 +7671,7 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHpK5Yre5e2l81Jdj4Sncq
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRK90BZQ_c2ZSvX1n-VdFOUA
 #EXTINF:-1 xui-id="14876" tvg-id="" tvg-name="SG: HUB SPORTS 2" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="OLAHRAGA", HUB SPORTS 2
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDmVePGj4MXdbUQXO6GwwHk
-#EXTINF:-1 xui-id="14877" tvg-id="" tvg-name="SG: HUB SPORTS 3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="Starhub Sport",SG: HUB SPORTS 3
+#EXTINF:-1 xui-id="14877" tvg-id="" tvg-name="SG: HUB SPORTS 3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="OLAHRAGA", HUB SPORTS 3
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREEjLB6q6aopSuAhRxUHtEM
 #EXTINF:-1 xui-id="14878" tvg-id="" tvg-name="SG: HUB SPORTS 4" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 4
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRNzAuxh_azSepSohhvWYX98
@@ -7698,7 +7698,7 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRI3Gl7Gck2ZTzft5FcNrnL
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMTBYV_PTMEWuUaMOpeeX9Q
 #EXTINF:-1 xui-id="7647" tvg-id="" tvg-name="SuperSport: Blitz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/SSBlitz.png/revision/latest/scale-to-width-down/300?cb=20190309141538" group-title="OLAHRAGA", Blitz
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKmRmQurotkDnJIfd3-QTk4
-#EXTINF:-1 xui-id="7649" tvg-id="" tvg-name="SuperSport: Football" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rjjC4vpx04Kcr6StXW4jlUjxBcWix3Uq-Fbhr-M6_TYo.png" group-title="OLAHRAGA" Football
+#EXTINF:-1 xui-id="7649" tvg-id="" tvg-name="SuperSport: Football" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rjjC4vpx04Kcr6StXW4jlUjxBcWix3Uq-Fbhr-M6_TYo.png" group-title="OLAHRAGA", Football
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzROxhaqUFIHADHnUl12hDNrI
 #EXTINF:-1 xui-id="7753" tvg-id="" tvg-name="SuperSport: Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2DSh0CjE_zbZ0QJJ6uP50YTrVxxh0Qeu6x9qv544AA&s" group-title="OLAHRAGA", Golf
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMrlmh1xvI6xPzvgBT9Of44
