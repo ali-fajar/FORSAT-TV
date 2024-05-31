@@ -4360,6 +4360,20 @@ https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
 https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 
 
+<==================== LIGA INGGRIS ================================>
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="???? LIGA INGGRIS???? ", LIVE 01
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREvGO3pa1uNGLjdRly_wuYw
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="???? LIGA INGGRIS???? ", LIVE 04
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAUPXsPa1DKoM94s_oMH-W0
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="???? LIGA INGGRIS???? ", LIVE 05
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHRM6veum-e7HzaEo07eHaA
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="???? LIGA INGGRIS???? ", LIVE 06
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDFEPhlJtasi5O7Zgd2gwsM
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="???? LIGA INGGRIS???? ", LIVE 07
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLeMglQyd-pkAylR9srRfuU
+
+
+
 
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
