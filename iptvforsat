@@ -517,7 +517,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://hometv.pw/logo/religi/muslim_tv.png" group-title="RELIGI",MUSLIM TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
-#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://hometv.pw/logo/religi/alquran.png" group-title="RELIGION", MAKKAH LIVE
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="https://hometv.pw/logo/religi/alquran.png" group-title="RELIGI", MAKKAH LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
@@ -851,63 +851,59 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Animal Planet HD World"  tvg-logo="https://i.ibb.co/tpLZdK6/animalplanet.png", ANIMAL PLANET ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png" group-title="KNOWLEDGE", BBC EARTH ????
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png" group-title="KNOWLEDGE", BBC EARTH
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.ibb.co/VgsqTFY/crimeinvest.png" group-title="KNOWLEDGE", CRIME INVESTIGATION ????
+#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="KNOWLEDGE", CRIME INVESTIGATION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FY4pj9S/curiosity.png" group-title="KNOWLEDGE", CURIOSITY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="KNOWLEDGE", CURIOSITY
 https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Wnb24Mg/curiositych.png" group-title="KNOWLEDGE", CURIOSITY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="KNOWLEDGE", CURIOSITY CHANNEL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nnf5htr/discoch.png" group-title="KNOWLEDGE", DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="KNOWLEDGE", DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
 https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://i.ibb.co/7WCYr2f/discovery.png" group-title="KNOWLEDGE", Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="KNOWLEDGE", Discovery
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
 https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
 
-#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://i.ibb.co/gj5J7vb/discoasia.png" group-title="KNOWLEDGE",Discovery Asia ???? ????
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
-https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="KNOWLEDGE",Discovery Asia
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery HD World"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png", DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Science"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Turbo"  tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png",DISCOVERY TURBO ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Turbo"  tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png",DISCOVERY TURBO
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="[London SD] DMAX"  tvg-logo="https://i.ibb.co/8DfxR99/dmax.png", DMAX ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="[London SD] DMAX"  tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png", DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-name="GLOBAL TREKKER" tvg-logo="https://i.ibb.co/RcKjW04/globaltrekker.png" group-title="KNOWLEDGE", GLOBAL TREKKER ????
+#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-name="GLOBAL TREKKER" tvg-logo="https://i.ibb.co/RcKjW04/globaltrekker.png" group-title="KNOWLEDGE", GLOBAL TREKKER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -926,7 +922,7 @@ https://liveaneviadev.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png" group-title="KNOWLEDGE", HISTORIA ???? ???? 
+#EXTINF:-1 tvg-id="Histori" tvg-name="" tvg-logo="https://images.indihometv.com/logo_history_ver3.png" group-title="KNOWLEDGE", HISTORI 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
 https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
@@ -934,13 +930,13 @@ https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
 #EXTINF:-1 channel-id="samsung-USBD1200009JI" tvg-id="USBD1200009JI" tvg-logo="https://i.ibb.co/r48XxcW/historyandwarfare.png" tvg-chno="1406" group-title="KNOWLEDGE" , History & Warfare Now ????
 https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://i.ibb.co/crPt4xH/indonesianatv.png", INDONESIANA TV ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://i.ibb.co/crPt4xH/indonesianatv.png", INDONESIANA TV 
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://i.ibb.co/0GrGjbk/investdisco.png", INVESTIGATION DISCOVERY ????
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png", INVESTIGATION DISCOVERY
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co/8bC9QZF/inwild.png" group-title="KNOWLEDGE" , INWILD ????
+#EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co/8bC9QZF/inwild.png" group-title="KNOWLEDGE" , INWILD
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="KNOWLEDGE", LOVE NATURE
@@ -949,25 +945,17 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="KNOWLEDGE", LOVE NATURE ????
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="KNOWLEDGE", LOVE NATURE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="KNOWLEDGE", LOVE NATURE 4K ????
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png" group-title="KNOWLEDGE", NASA ????
+#EXTINF:-1 tvg-id="NASA Television" tvg-name="NASA" tvg-logo="https://i.ibb.co/QnSvkmt/nasa.png" group-title="KNOWLEDGE", NASA 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="KNOWLEDGE", NATGEO ????
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
 
-
-
-#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="KNOWLEDGE", NATGEO ???? ????
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="KNOWLEDGE", NATGEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -976,29 +964,24 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="KNOWLEDGE", NATGEO ???? ???? 
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="KNOWLEDGE", NATGEO 
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD ???? ????
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD 🇺🇸 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD ????
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/6JQkBW9/natgeokids.png" group-title="KNOWLEDGE", NATGEO KIDS ON YT ????
-https://ythls-v2.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="KNOWLEDGE", NATGEO WILD ON YT ????
-https://ythls-v2.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-
-#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://i.ibb.co/cvtkS0b/odisea.png" group-title="KNOWLEDGE", ODISEA ???? ???? 
+#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://i.ibb.co/cvtkS0b/odisea.png" group-title="KNOWLEDGE", ODISEA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
 https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
@@ -2209,24 +2192,6 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 =========================================== SPORTS ID ===========================================
 
-#EXTINF:-1 tvg-name="USEE Sports 1" tvg-logo="https://i.ibb.co/WVD132W/Usee-sports-1-hometv.jpg" group-title="SPORTS ID",USEE Sports 1 (Max)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
-#EXTINF:-1 tvg-name="USEE Sports 2" tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="SPORTS ID",USEE Sports 2 (Max)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="USEE Sports 1" tvg-logo="https://i.ibb.co/WVD132W/Usee-sports-1-hometv.jpg" group-title="SPORTS ID",USEE Sports 1 (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="USEE Sports 2" tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="SPORTS ID",USEE Sports 2 (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -2234,11 +2199,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #EXTINF:-1 tvg-name="SPORTSTARS 1" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 1 (V+)
 https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-name="SPORTSTARS 1" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 1 (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -2246,11 +2206,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 tvg-name="SPORTSTARS 2" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 2 (V+)
 https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-name="SPORTSTARS 2" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 2 (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -2258,11 +2213,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 3 (V+)
 https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="SPORTS ID",SPORTSTARS 3 (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -2271,11 +2221,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="SPORTS ID",SOCCER CHANNEL (V+)
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -2283,35 +2228,20 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="SPORTS ID",SOCCER CHANNEL (V+)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="SPORTS ID",SOCCER CHANNEL (V+)
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="SPORTS ID",SPO TV 1 (V+)
+#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORTS ID",SPO TV 1 (V+)
 https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="SPORTS ID",SPO TV 1 (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="SPORTS ID",SPO TV 2 (V+)
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORTS ID",SPO TV 2 (V+)
 https://liveaneviadev.mncnow.id/live/edsSPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="SPORTS ID",SPO TV 2 (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -3819,132 +3749,132 @@ https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b89600
 ====================== INDIA 2 ===============================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="INDIA 2",ZEE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="INDIA",ZEE ACTION
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="INDIA 2",ZEE BANGLA CINEMA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="INDIA 2",ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="INDIA",ZEE BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="INDIA 2",ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="INDIA",ZEE CINEMA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="INDIA 2",ZEE CINEMA USA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="INDIA",ZEE CINEMA USA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="INDIA 2",ZEE ETC BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="INDIA ",ZEE ETC BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="INDIA 2",ZEE TV
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="INDIA",ZEE TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/54975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="INDIA 2",ZING
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="INDIA ",ZING
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="" group-title="INDIA 2",ZING INDIA
+#EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="" group-title="INDIA",ZING INDIA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="" group-title="INDIA 2",ZOOM
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="" group-title="INDIA",ZOOM
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="INDIA 2",&pictures
+#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="INDIA",&pictures
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1964.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="INDIA 2",& PRIVE
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="INDIA",& PRIVE
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="INDIA 2",&TV
+#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="INDIA",&TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="INDIA 2",9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="INDIA",9X JALWA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="INDIA 2",9X JHAKAAS
+#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="INDIA",9X JHAKAAS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="INDIA 2",&FLIX
+#EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="INDIA",&FLIX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="INDIA 2",9X TASHAN
+#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="INDIA ",9X TASHAN
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1955.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="9XM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="INDIA 2",9XM
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="9XM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="INDIA ",9XM
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1954.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="AJ TAK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="INDIA 2",AAJ TAK
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="AJ TAK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="INDIA",AAJ TAK
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="INDIA 2",ZOOM TV
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="INDIA",ZOOM TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1951.m3u8
-#EXTINF:-1 tvg-id="b4u.music.gb" tvg-name="B4U MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK158" group-title="INDIA 2",B4U MUSIC
+#EXTINF:-1 tvg-id="b4u.music.gb" tvg-name="B4U MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK158" group-title="INDIA",B4U MUSIC
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28901.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="B4U MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="INDIA 2",B4U MOVIES
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="B4U MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="INDIA",B4U MOVIES
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1942.m3u8
-#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="INDIA 2",B4U PLUS
+#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="INDIA",B4U PLUS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="INDIA 2",BALLE BALLE
+#EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="INDIA",BALLE BALLE
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="INDIA 2",BOLLYWOOD NOW
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="INDIA",BOLLYWOOD NOW
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="INDIA 2",BIG MAGIC
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="INDIA",BIG MAGIC
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="INDIA 2",BOLLYWOOD CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="INDIA",BOLLYWOOD CLASSIC
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1936.m3u8
-#EXTINF:-1 tvg-id="InTV.al" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="INDIA 2",BOOGLE BOLLYWOOD
+#EXTINF:-1 tvg-id="InTV.al" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="INDIA",BOOGLE BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1935.m3u8
-#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="COLORS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="INDIA 2",COLORS
+#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="COLORS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="INDIA",COLORS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1931.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="COLORS CINEPLEX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="INDIA 2",COLORS CINEPLEX
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="COLORS CINEPLEX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="INDIA",COLORS CINEPLEX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1929.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="COLORS RISHTEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="INDIA 2",COLORS RISHTEY
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="COLORS RISHTEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="INDIA",COLORS RISHTEY
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1924.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="MUSIC INDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN089ZeeNews.png" group-title="INDIA 2",MUSIC INDIA
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="MUSIC INDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN089ZeeNews.png" group-title="INDIA",MUSIC INDIA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1876.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="MASTIII" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN092ZeeTalkiesMarathi.png" group-title="INDIA 2",MASTIII
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="MASTIII" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN092ZeeTalkiesMarathi.png" group-title="INDIA",MASTIII
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1873.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="http://www.tvboxgroup.com/iptv/log
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148" group-title="INDIA 2",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148" group-title="INDIA",SONY MOVIES
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN157RajMusix.png" group-title="INDIA 2",SONY
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN157RajMusix.png" group-title="INDIA",SONY
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="INDIA 2",SONY ACTION
+#EXTINF:-1 tvg-id="" tvg-name="SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="INDIA",SONY ACTION
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="INDIA 2",SONY PIX
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="INDIA",SONY PIX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="INDIA 2",SONY SAB
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="INDIA",SONY SAB
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="INDIA 2",SONY SAB UK
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="INDIA",SONY SAB UK
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN168PuthiyaThalimurai.png" group-title="INDIA 2",SONY SIX
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN168PuthiyaThalimurai.png" group-title="INDIA ",SONY SIX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="INDIA 2",SONY TEN 1
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="INDIA",SONY TEN 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="INDIA 2",SONY TEN 2
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="INDIA",SONY TEN 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="INDIA 2",SONY TEN 3
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="INDIA",SONY TEN 3
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="INDIA 2",SONY TV ASIA
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="INDIA",SONY TV ASIA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="INDIA 2",Sony TV UK
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="INDIA",Sony TV UK
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="INDIA 2",STAR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="INDIA",STAR PLUS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN180DY365.png" group-title="INDIA 2",STAR SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN180DY365.png" group-title="INDIA",STAR SPORTS 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN181E24.png" group-title="INDIA 2",STAR SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN181E24.png" group-title="INDIA",STAR SPORTS 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="INDIA 2",STAR SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="INDIA",STAR SPORTS 3
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="INDIA 2",STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="INDIA",STAR SPORTS SELECT 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="INDIA 2",STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="INDIA ",STAR SPORTS SELECT 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="INDIA 2",SONY MAX
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="INDIA",SONY MAX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="INDIA 2",SONY MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="INDIA",SONY MAX 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="INDIA 2",SONY MIX
+#EXTINF:-1 tvg-id="" tvg-name="SONY MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="INDIA",SONY MIX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="INDIA 2",SONY PAL
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="INDIA",SONY PAL
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="INDIA 2",SONY YAY
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="INDIA",SONY YAY
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="INDIA 2",STAR BHARAT
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="INDIA ",STAR BHARAT
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="INDIA 2",STAR GOLD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="INDIA",STAR GOLD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="INDIA 2",STAR GOLD SELECT
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="INDIA",STAR GOLD SELECT
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="INDIA 2",STAR JALSHA
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="INDIA",STAR JALSHA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="INDIA 2",STAR MAA
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="INDIA",STAR MAA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="INDIA 2",STAR MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="INDIA ",STAR MOVIES
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="INDIA 2",UTV MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="INDIA ",UTV MOVIES
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="INDIA 2",UTSAV GOLD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55221.m3u8
@@ -3964,13 +3894,13 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA",Sportstars 3 HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="LIGA INDONESIA",Sportstars 3 HD
 https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA",Sportstars 4 HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="LIGA INDONESIA",Sportstars 4 HD
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ==============================================UCL============================================================
