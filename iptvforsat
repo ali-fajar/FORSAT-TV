@@ -3965,6 +3965,14 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRBLVG-HBlx2bubfeCicOqy
 #EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHpvHUqyDmppt0kLiNYs9Ns
 
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="UCL" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg", UCL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+
 
 ======================= LIGA INGGRIS ====================================
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 01
@@ -3977,6 +3985,31 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHRM6veum-e7HzaEo07eHa
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDFEPhlJtasi5O7Zgd2gwsM
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 07
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLeMglQyd-pkAylR9srRfuU
+
+
+
+
+
+
+
+
+
+
+==========================================COPA AMERICA=================================================================
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="Optus",COPA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLMfSBVUSn_CZ_rNZrY8fYQ
+#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="Optus",COPA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAjWfNWjzuHYHtSU_-4BCYI
+#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="Optus",COPA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRD2aCTtBSxpledsXlcXu7ZY
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="Optus",COPA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRI5xWcPj6A2CKIEeFI9jmVk
+
+
+
+
+
+
 
 =============================================EURO=================================================================
 
