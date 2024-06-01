@@ -4105,54 +4105,54 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/2051
 
 
 
-==================== ACL ==========
+==================== AFC CHAMPIONS LEAGUE====================================
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/AFC_Champions_League_logo.svg/640px-AFC_Champions_League_logo.svg.png",
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3cdXGB/eventinfo.png" group-title="ACL", ACL INFO ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport2/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://laotv.la/
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
@@ -4162,34 +4162,34 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manif
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AFC_Cup_logo.svg/480px-AFC_Cup_logo.svg.png",
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3cdXGB/eventinfo.png" group-title="AFC CUP", AFC CUP INFO ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP ????
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP ????
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP ????
+#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP ????
+#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP 
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
