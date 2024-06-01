@@ -3751,7 +3751,7 @@ https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b89600
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="INDIA",ZEE ACTION
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="INDIA 2",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="INDIA",ZEE BANGLA CINEMA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="INDIA",ZEE BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55212.m3u8
@@ -3876,7 +3876,7 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55254.m3u8
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="INDIA ",UTV MOVIES
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="INDIA 2",UTSAV GOLD
+#EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="INDIA",UTSAV GOLD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55221.m3u8
 
 
@@ -3978,8 +3978,21 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDFEPhlJtasi5O7Zgd2gws
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 07
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRLeMglQyd-pkAylR9srRfuU
 
+=============================================EURO=================================================================
 
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
