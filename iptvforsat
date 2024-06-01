@@ -4189,7 +4189,7 @@ https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/inde
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP ????
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -4197,29 +4197,29 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 
 
 
-```````` LIVE````````
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/pb4oju44ycclc.m3u8?s=EfZemoyPumOkiOadibntBA&e=1717231788
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/wjgb6m.m3u8?s=xsY5lFtIbHmmHMQveRtoMQ&e=1717231902
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/lcyw5.m3u8?s=mrgucWWB9Fu3wn9T2BODfA&e=1717231953
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/m13ol1jmh9jli4.m3u8?s=w3Jby2ECT0Y9cOdDFbnx8g&e=1717232003
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/2ov0r1.m3u8?s=YZLBiL6xN3jyPyhQ6H9PxQ&e=1717232049
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/61i6q3jvgok.m3u8?s=zQLX6kNaaNNbzJrsQ5pZOQ&e=1717232137
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
-https://fehvnd4jbw76aycr9tgx5k.cdnkidney.net:8443/hls/xacw31cgq.m3u8?s=LpVKvHDkICGlTk4czj4e0g&e=1717232204
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
+===============================================LIVE=====================================
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPVGbnFbzaHqv1m90_ucH00
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKjgAfC0XdxXxXD5W6QUBrI
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDeSLa5HLOiY3lG3oEmk-jg
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRC7VbxjeS35-yEUHndXxGYE
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRNZIO1a9XacTvYghpdgxGSI
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJj7iTcvSDnXsyiTmM94PZw
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRFCYjK4O9352oWaHv1Ue944
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE",LIVE
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
