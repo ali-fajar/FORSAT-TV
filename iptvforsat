@@ -3908,6 +3908,15 @@ https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/chunklist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="LIGA INDONESIA" tvg-id="001" tvg-name="", INDONESIA VS TANZANIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97a2eab1196c4399306ff49619ad404f:1466c7f4c47eb3474077b6243411060e
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17400_stream.mpd?hdnts=exp=1717332031~acl=/drm/dash/*~id=145248617~hmac=2cda0f17a4d347437e607a3662828ff708bb80ad95c69efdd9481d774da25b74
+
+
+
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
