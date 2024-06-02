@@ -3903,6 +3903,11 @@ https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="LIGA INDONESIA",Sportstars 4 HD
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="LIGA INDONESIA", TIMNAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
+https://obevcimanyd179249207.thapcam.link/live/Z2FHD/chunklist.m3u8
+
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
