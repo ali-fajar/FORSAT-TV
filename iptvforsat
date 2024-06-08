@@ -5208,16 +5208,16 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 1 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport1.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/302776
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 2 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport2.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/302777
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 3 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport3.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/304106
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 4 Australia
-https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
+http://iptvtree.net:8080/F14995/a84c0963/304107
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -5225,15 +5225,11 @@ https://raw.githubusercontent.com/hendroagung2904/source/main/OptusSport4.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 5 Australia
-http://tsmu.25zlma.net:8080/live/rokh2018_724894/dzuutBWO/306278.ts
+http://iptvtree.net:8080/live/F14995/a84c0963/304108.ts
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 6 Australia
-http://tsmu.25zlma.net:8080/live/rokh2018_724894/dzuutBWO/306279.ts
+http://iptvtree.net:8080/F14995/a84c0963/304109
 
 
 
@@ -5742,55 +5738,57 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/89.ts
 
 
 #EXTINF:-1 xui-id="158" tvg-id="" tvg-name="beIN Sports 1 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="OLAHRAGA",beIN Sports 1 MY
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJFOg0OPlsugRfELSOg5-84
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="" group-title="OLAHRAGA",beIN Sports 2 MY
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRCvq7F2jTOHIbAjOjR4jssk
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="OLAHRAGA",beIN Sports 2 MY
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:-1 xui-id="159" tvg-id="" tvg-name="beIN Sports 3 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg/revision/latest?cb=20150715190042" group-title="OLAHRAGA",beIN Sports 3 MY
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREsT2ojPiAhqW-70rt2cFTk
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="OLAHRAGA",Star Sports Select 1
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDH4jcHsgda46hvOGbUEvdw
-#EXTINF:-1 xui-id="8107" tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="OLAHRAGA",Star Sports Select 2
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAiJA1oXVpjqYwFkMbkJazk
-
-#EXTINF:-1 xui-id="7982" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest?cb=20190322143710" group-title="OLAHRAGA",SONY TEN 1 HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRBLVG-HBlx2bubfeCicOqyg
-#EXTINF:-1 xui-id="7983" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest?cb=20190322144000" group-title="OLAHRAGA",SONY TEN 2 HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHpvHUqyDmppt0kLiNYs9Ns
-#EXTINF:-1 xui-id="7984" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/ST3HD.png/revision/latest?cb=20171031110426" group-title="OLAHRAGA",SONY TEN 3 HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRH1gOBZ-ImMb4CJXpl7q5Ng
 
 #EXTINF:-1 xui-id="11538" tvg-id="" tvg-name="Portugal- SPORT TV +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sporttv-mais.svg/revision/latest/scale-to-width-down/250?cb=20231020154804" group-title="OLAHRAGA",Portugal- SPORT TV +
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRFMK5qMgfy0hvc2KjWUPhOY
+http://iptvtree.net:8080/F14995/a84c0963/1481
+
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="OLAHRAGA",Portugal- SPORT TV 1 HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRK-UxWYtdGyeENfwJEmOvHE
+http://iptvtree.net:8080/F14995/a84c0963/1483
+
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="OLAHRAGA",Portugal- Sport TV 2
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRIW88zKQdHxz5AOU8HPtAoI
+http://iptvtree.net:8080/F14995/a84c0963/1486
+
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="OLAHRAGA",Portugal- Sport TV 3
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRA4VG8QTOR4nZWf83W71j48
+http://iptvtree.net:8080/F14995/a84c0963/1489
+
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="OLAHRAGA",Portugal- Sport TV 4
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPGHuFuUVWzxIVyrpFgdmOs
+http://iptvtree.net:8080/F14995/a84c0963/1492
+
 #EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="OLAHRAGA",Portugal- Sport TV 5
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHmTcWqPr5-dTDAi9qoeYlM
+http://iptvtree.net:8080/F14995/a84c0963/1495
+
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="OLAHRAGA", Sport Klub 1 SR HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREA2F9c30-ymNNXd55rREAo
+http://iptvtree.net:8080/F14995/a84c0963/3473
+
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="OLAHRAGA", Sport Klub 2 SR HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPCHcYfleibwGbPgp2E77EY
+http://iptvtree.net:8080/F14995/a84c0963/279841
+
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="OLAHRAGA", Sport Klub 3 SR
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzROZDXLLsIbc7gWCFdIx_iBs
+http://iptvtree.net:8080/F14995/a84c0963/279840
 
 #EXTINF:-1 xui-id="11519" tvg-id="" tvg-name="Sport Klub Fight" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="OLAHRAGA"",Sport Klub Fight
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDPfg8wxvZoILkvKgVdzUvc
+http://iptvtree.net:8080/F14995/a84c0963/279839
+
 #EXTINF:-1 xui-id="11176" tvg-id="" tvg-name="PL: POLSAT SPORT HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Polsat_Sport_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/150?cb=20210819120448" group-title="OLAHRAGA", POLSAT SPORT HD LQ
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRD_iKBxwaS03aeYPVecnb9M
+
 #EXTINF:-1 xui-id="11177" tvg-id="" tvg-name="PL: POLSAT SPORT NEWS HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Polsat_Sport_News_2021_horizontal.svg/revision/latest/scale-to-width-down/150?cb=20210821192614" group-title="OLAHRAGA", POLSAT SPORT NEWS HD LQ
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGTcjfAPb4Yg-mx7K1SleOI
+
 #EXTINF:-1 xui-id="11178" tvg-id="" tvg-name="PL: Polsat Sport Premium 1 HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Polsat_Sport_Premium_1_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/200?cb=20210819120938" group-title="OLAHRAGA", Polsat Sport Premium 1 HD LQ
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRL2Ri2QwuNCt4tCN2YIp3qg
+
 #EXTINF:-1 xui-id="11179" tvg-id="" tvg-name="PL: Polsat Sport Premium 2 HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Polsat_Sport_Premium_2_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/200?cb=20210819121807" group-title="OLAHRAGA", Polsat Sport Premium 2 HD LQ
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJJTuWCF-oB_bVflefh1Ll8
+
 #EXTINF:-1 xui-id="13363" tvg-id="" tvg-name="UK: Sky Sports Premier League FHD HEVC 25fps" tvg-logo="http://play.fastkobar.my.id:8080/images/zVeZGotsuCqDsOltYjrMDsszjtHsGYXDxb1F7avvkaWwUZ3i78dh49rCwGSjK9fr.png" group-title="OLAHRAGA", Sky Sports Premier League FHD HEVC 25fps
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHRM6veum-e7HzaEo07eHaA
 
