@@ -2277,87 +2277,81 @@ https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g7szPS8/palestinetv.png" group-title="WORLD TV", Palestine TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="WORLD TV", Palestine TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PWhmx1g/palestinechlive.png" group-title="WORLD TV", Palestine Channel Live ????
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnBZPBL/voiceofpalestine.png" group-title="WORLD TV", Voice Of Palestine ????
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c36Qkdm/musawatv.png" group-title="WORLD TV", Musawa Channel ????
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/musawa-ps.png" group-title="WORLD TV", Musawa Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/musawahd/index.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel NewsAsia HD" tvg-logo="https://i.ibb.co/RCS6JWF/cna.png",CNA ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel NewsAsia HD" tvg-logo="https://iili.io/JyHHuhQ.jpg",CNA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel 5 HD" tvg-logo="https://i.ibb.co/pj0SBWf/m5.png",Channel 5 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel 5 HD" tvg-logo="https://iili.io/JyHJqtR.png",Channel 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel 8 HD" tvg-logo="https://i.ibb.co/VQ1vCzC/m8.png",Channel 8 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel 8 HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-8-iq.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel U HD" tvg-logo="https://i.ibb.co/zZL6Y7V/mchannelu.png",Channel U ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Channel U HD" tvg-logo="https://iili.io/JyHHevs.jpg",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Suria HD"  tvg-logo="https://i.ibb.co/KLfmfq7/msuria.png",Channel Suria ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Suria HD"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sama-tv-sy.png",Channel Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Vasantham HD" tvg-logo="https://i.ibb.co/YR4kxxX/mvasantham.png",Channel Vasantham ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Vasantham HD" tvg-logo="https://iili.io/JyHdnbj.jpg",Channel Vasantham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/17f5SY9/oktolidays.png",oktolidays ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyHdQhx.png",oktolidays
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/dbRJFB3/mlive1.png",M LIVE 1 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2Hkg.png",M LIVE 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/58c6bft/mliveplus1.png",M LIVE+ 1 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2Hkg.png",M LIVE+ 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/88f6a7022fd54e759ee6d09f5117ab62/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/9GmV2fF/mlive2.png",M LIVE 2 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2Mjj.png",M LIVE 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/3FhLthP/mlive5.png",M LIVE 5 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyHJqtR.png",M LIVE 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/xSQQ81r/mlive6.png",M LIVE 6 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyHJqtR.png",M LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/J7nxg09/mwspl01.png",M LIVE SPL 01 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2iFI.png",M LIVE SPL 01 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co/vHM6GF8/mwspl02.png",M LIVE SPL 02 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2iFI.png",M LIVE SPL 02 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
@@ -2365,69 +2359,52 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="AmarinTV HD.th" tvg-logo="https://i.ibb.co/TL1wxNY/amarintv.png", AMARIN TV 5 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="AmarinTV HD.th" tvg-logo="https://iili.io/JyH3NV4.png", AMARIN TV 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="CH5 HD.th" tvg-logo="https://i.ibb.co/zJ27CHf/ch5th.png", CHANNEL 5 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="CH5 HD.th" tvg-logo="https://iili.io/JyHFqJt.png", CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="NBT 2 HD.th" tvg-logo="https://i.ibb.co/FgCJ1F7/nbt2th.png", NBT 2 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="NBT 2 HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png", NBT 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png", PPTV 36 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png", PPTV 36 ????
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
-
-#EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png", PPTV 36 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
-https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="ThaiPBS" tvg-logo="https://i.ibb.co/H2hKM44/thaipbs.png", THAI PBS ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ThaiPBS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png", THAI PBS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://i.ibb.co/Dw2H3Xm/thairath32.png", THAIRATH 32 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png", THAIRATH 32 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://i.ibb.co/Dw2H3Xm/thairath32.png", THAIRATH 32 ????
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://i.ibb.co/Dw2H3Xm/thairath32.png", THAIRATH 32 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png", THAIRATH 32 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 https://streaming-web.thairath.co.th/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://i.ibb.co/P49WrDX/true4u24.png", TRUE4U 24 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png", TRUE4U 24 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://i.ibb.co/P49WrDX/true4u24.png", TRUE4U 24 ????
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="T-Sports7.th" tvg-logo="https://i.ibb.co/52NpLPP/tsports7th.png", TSPORTS 7 ????
+#EXTINF:-1 group-title="WORLD TV" tvg-id="T-Sports7.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png", TSPORTS 7 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
