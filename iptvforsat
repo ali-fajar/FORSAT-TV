@@ -3158,162 +3158,97 @@ http://iptvtree.net:8080/F14995/a84c0963/285308
 =========================================== INDIA ===========================================
 
 
-#EXTINF:0 group-title="INDIA",DILLAGI
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507859
-#EXTINF:0 group-title="INDIA",9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_jalwa.png" group-title="INDIA",9X JALWA
 http://cdn2.pishow.tv/live/133/master.m3u8
-#EXTINF:0 group-title="INDIA",9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_jalwa.png" group-title="INDIA",9X JALWA
 http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
-#EXTINF:0 group-title="INDIA",9xM
+#EXTINF:-1 tvg-id="" tvg-name="9X M" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="INDIA",9xM
 http://cdn2.pishow.tv/live/137/master.m3u8
-#EXTINF:0 group-title="INDIA",9xM
+#EXTINF:-1 tvg-id="" tvg-name="9X M" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="INDIA",9xM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
-#EXTINF:0 group-title="INDIA",9xMusic
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0 group-title="INDIA",9TASHAN
+#EXTINF:-1 tvg-id="" tvg-name="9TASHAN" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x-tashan-in.png" group-title="INDIA",9TASHAN
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:0 group-title="INDIA",9x JHAKAS
+#EXTINF:-1 tvg-id="" tvg-name="9TJHKAAS" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x-jhakaas-in.png" group-title="INDIA",9x JHAKAS
 http://cdn1.pishow.tv/live/219/master.m3u8
-#EXTINF:0 group-title="INDIA",9x JHAKAS
+#EXTINF:-1 tvg-id="" tvg-name="9TJHKAAS" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x-jhakaas-in.png" group-title="INDIA",9x JHAKAS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:0 group-title="INDIA",MUSIC INDIA
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tarang_music_in.png" group-title="INDIA",MUSIC INDIA
 http://cdn2.pishow.tv/live/135/master.m3u8
-#EXTINF:0 group-title="INDIA",MASTII
+#EXTINF:-1 tvg-id="" tvg-name="MASTII" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mastiii_tv_in.png" group-title="INDIA",MASTII
 http://cdn2.pishow.tv/live/136/master.m3u8
-#EXTINF:0 group-title="INDIA",CITY MUSIC
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:0 group-title="INDIA",DESI CHANEL
+#EXTINF:-1 tvg-id="" tvg-name="DESI" tvg-logo="https://www.lyngsat.com/logo/radio/dd/desi_radio.png" group-title="INDIA",DESI CHANEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
-#EXTINF:0 group-title="INDIA",B4U MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="BAU MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="INDIA",B4U MUSIC
 http://cdn2.pishow.tv/live/141/master.m3u8
-#EXTINF:0 group-title="INDIA",B4U MUSIC
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115465
-#EXTINF:0 group-title="INDIA",B4U MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="BAU MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="INDIA",B4U MOVIES
 http://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:0 group-title="INDIA",B4U MOVIES
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115373
-#EXTINF:0 group-title="INDIA",B4U PLUS
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/11725
-#EXTINF:0 group-title="INDIA",B4U BHOJPURI
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507579
-#EXTINF:0 group-title="INDIA",B4U KADAK
+#EXTINF:-1 tvg-id="" tvg-name="BAU KADAK" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u-kadak-in.png" group-title="INDIA",B4U KADAK
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507789
-#EXTINF:0 group-title="INDIA",B4U KADAK
-http://cdn2.pishow.tv/live/160/master.m3u8
-#EXTINF:0 group-title="INDIA",DANGAL
+#EXTINF:-1 tvg-id="" tvg-name="DANGAL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal_in.png" group-title="INDIA",DANGAL
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:0 group-title="INDIA",DANGAL 2
+#EXTINF:-1 tvg-id="" tvg-name="DANGAL 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="INDIA",DANGAL 2
 http://cdn2.pishow.tv/live/159/master.m3u8
-#EXTINF:0 group-title="INDIA",DANGAL 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:0 group-title="INDIA",CINEMA TV
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_tv_in.png" group-title="INDIA",CINEMA TV
 http://cdn2.pishow.tv/live/161/master.m3u8
-#EXTINF:0 group-title="INDIA",TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="TELAGANA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="INDIA",TELANGANA
 http://cdn2.pishow.tv/live/101/master.m3u8
-#EXTINF:0 group-title="INDIA",STUDIO ONE
-http://cdn2.pishow.tv/live/102/master.m3u8
-#EXTINF:0 group-title="INDIA",SHALINI
+#EXTINF:-1 tvg-id="" tvg-name="SHALINI" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shalini-tv-in.png" group-title="INDIA",SHALINI
 http://cdn2.pishow.tv/live/276/master.m3u8
-#EXTINF:0 group-title="INDIA",MOVIE PLUS
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indian-fashion-tv-in.png" group-title="INDIA",MOVIE PLUS
 http://cdn1.pishow.tv/live/222/master.m3u8
-#EXTINF:0 group-title="INDIA",ENTER 10
+#EXTINF:-1 tvg-id="" tvg-name="ENTER 10" tvg-logo="https://www.lyngsat.com/logo/tv/ee/enterr-10-in.png" group-title="INDIA",ENTER 10
 http://cdn1.pishow.tv/live/225/master.m3u8
-#EXTINF:0 group-title="INDIA",BALLE BALLE
+#EXTINF:-1 tvg-id="" tvg-name="BALLE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/balle-balle-in.png" group-title="INDIA",BALLE BALLE
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:0 group-title="INDIA",BOOGLE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_times_bollywood.png" group-title="INDIA",BOOGLE BOLLYWOOD
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0 group-title="INDIA",HINDI HITS HD (MASTII)
-http://146.59.253.52:8080/hindihitshd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="INDIA",ARABICA MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arabica_tv_lb.png" group-title="INDIA",ARABICA MUSIC
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 group-title="INDIA",NAZARA
+#EXTINF:-1 tvg-id="" tvg-name="NAZARA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nazara-in.png" group-title="INDIA",NAZARA
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
-#EXTINF:0 group-title="INDIA",SONY TV
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-aath-in.png" group-title="INDIA",SONY TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/master.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD HUNGAMA
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD HUNGAMA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood-hungama-in.png" group-title="INDIA",BOLLYWOOD HUNGAMA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD CLASSIC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-clasic-il-ro.png" group-title="INDIA",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="INDIA",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/ea0a933a-ef30-431e-9c52-097277199d49:TPE2/variant/ccdf2687bee8d157a997eb576254e6f2/bandwidth/699600.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD PRIME
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD PRIME" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="INDIA",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
-#EXTINF:0 group-title="INDIA",BFLIX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
-#EXTINF:0 group-title="INDIA",SONY CHANNELS ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115697
-#EXTINF:0 group-title="INDIA",SONY ?
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.lyngsat.com/logo/corp/ss/sony_pictures_networks_in.png" group-title="INDIA",SONY
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115699
-#EXTINF:0 group-title="INDIA",SONY MAX
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIA",SONY MAX
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115701
-#EXTINF:0 group-title="INDIA",SONY MAX 2 ?
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIA",SONY MAX 2
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115703
-#EXTINF:0 group-title="INDIA",SONY PIX ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115705
-#EXTINF:0 group-title="INDIA",SONY BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIA",SONY BBC EARTH
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115707
-#EXTINF:0 group-title="INDIA",SONY SAB
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIA",SONY SAB
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115709
-#EXTINF:0 group-title="INDIA",SONY PAL
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pal-in.png" group-title="INDIA",SONY PAL
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115711
-#EXTINF:0 group-title="INDIA",SONY WAH
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115713
-#EXTINF:0 group-title="INDIA",SONY YAY
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-yay-in.png" group-title="INDIA",SONY YAY
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115715
-#EXTINF:0 group-title="INDIA",SONY SIX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/11571
-#EXTINF:0 group-title="INDIA",SONY ENTERTAINMENT
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",SONY CHANNEL
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX 
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIA",SONY PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",STAR CHANNEL
-https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
-
-#EXTINF:0 group-title="INDIA",STAR GOLD
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-in.png" group-title="INDIA",STAR GOLD
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669
-#EXTINF:0 group-title="INDIA",STAR GOLD 2
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-2-hk-in.png" group-title="INDIA",STAR GOLD 2
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115671
-#EXTINF:0 group-title="INDIA",STAR GOLD SELECT
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIA",STAR GOLD SELECT
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115673
-#EXTINF:0 group-title="INDIA",STAR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-in.png" group-title="INDIA",STAR PLUS
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115675
-#EXTINF:0 group-title="INDIA",STAR UTSAV
+#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="INDIA",STAR UTSAV
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115677
-#EXTINF:0 group-title="INDIA",STAR UTSAV MOVIES ?
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="INDIA",STAR UTSAV MOVIES ?
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115679
 
-#EXTINF:0 group-title="INDIA",STAR PLUS HD
-http://148.113.5.31:8106/play/a00i/index.m3u8
-#EXTINF:0 group-title="INDIA",STAR JHALSA MOVIES
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
-#EXTINF:0 group-title="INDIA",STAR GOLD SELECT HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#EXTINF:0 group-title="INDIA",STAR MOVIE SELECT
-http://37.49.225.197:8070/bubullea83/fWSgcNAqNOjTif3t/267542
-#EXTINF:0 group-title="INDIA",Colors
-http://103.120.172.74:1070
-#EXTINF:0 group-title="INDIA",Colors Cineplex Superhit
-http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0 group-title="INDIA",COLORS CINEPLEX
-http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:0 group-title="INDIA",COLORS CINEPLEX HD
-http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:0 group-title="INDIA",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0 group-title="INDIA",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="INDIA",Manoranjan Movies
-http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:0 group-title="INDIA",Maha Movies
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 #EXTINF:0 group-title="INDIA",& TV
@@ -3335,26 +3270,17 @@ http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117469
 #EXTINF:0 group-title="INDIA",8XM HD
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117471
 
-
-EXTINF:0 tvg-id="ext" group-title="INDIA",SONY CHANNEL
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX 
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Sony MAX 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIA",SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",STAR CHANNEL
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 #EXTINF:0 group-title="INDIA",ZING
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117257
-#EXTINF:0 group-title="INDIA",ZEE CHANNELS ?
+#EXTINF:0 group-title="INDIA",ZEE CHANNELS
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115619
 #EXTINF:0 group-title="INDIA",ZEE ACTION ?
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115621
-#EXTINF:0 group-title="INDIA",ZEE TV ?
+#EXTINF:0 group-title="INDIA",ZEE TV 
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115623
 #EXTINF:0 group-title="INDIA",ZEE CINEMA ?
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115625
