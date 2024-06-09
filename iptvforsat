@@ -2045,157 +2045,141 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang World (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang World (V+)
 https://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia (V+)
 https://liveaneviadev.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie (V+)
 https://liveaneviadev.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV (V+)
 https://liveaneviadev.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Shenzen TV (F*)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="",Shenzen TV (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="INTERNATIONAL TV", Shenzen (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="INTERNATIONAL TV",Zhejiang (Indi)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="WORLD TV",Zhejiang (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="INTERNATIONAL TV",TVB Jade
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="WORLD TV",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="INTERNATIONAL TV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
+#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="INTERNATIONAL TV",MBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="WORLD TV",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INTERNATIONAL TV", MBC 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="WORLD TV", MBC 2
 
-#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
 https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="INTERNATIONAL TV",Dubai One
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="WORLD TV",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="INTERNATIONAL TV",Dubai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="WORLD TV",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-```````` WORLD TV ````````
+============================= WORLD TV ===================================
 
 #EXTINF:-1 group-logo="https://i.ibb.co/M8RkjmQ/cat-worldtv.png",
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tFY7tC/rtbaneka.png" group-title="WORLD TV", RTB ANEKA ????
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/7tFY7tC/rtbaneka.png" group-title="WORLD TV", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cgQ39qT/rtbgolive.png" group-title="WORLD TV", RTB GOLIVE ????
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cgQ39qT/rtbgolive.png" group-title="WORLD TV", RTB GOLIVE
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="WORLD TV", RTB SUKMAINDERA ????
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="WORLD TV", RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 ????
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_premium.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 ????
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 ????
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="WORLD TV" tvg-name="La 1", LA 1 ????
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
-
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="WORLD TV" tvg-name="La 2", LA 2 ????
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="WORLD TV" tvg-name="La 2", LA 2 ????
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="WORLD TV" tvg-name="La 2", LA 2 ????
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="WORLD TV" tvg-name="La 2", LA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 
-#EXTINF:-1 tvg-id="TV3 Cat" tvg-logo="https://i.ibb.co/crNNYG8/tv3cat.png" group-title="WORLD TV" tvg-name="",TV3CAT ????
+#EXTINF:-1 tvg-id="TV3 Cat" tvg-logo="https://i.ibb.co/crNNYG8/tv3cat.png" group-title="WORLD TV" tvg-name="",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jb2q2Zh/rthk32.png" group-title="WORLD TV", RTHK32 ????
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jb2q2Zh/rthk32.png" group-title="WORLD TV", RTHK32 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVk2VwR/iribtv3.png" group-title="WORLD TV", IRIB TV3 ????
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVk2VwR/iribtv3.png" group-title="WORLD TV", IRIB TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 https://cdnw.telewebion.com/tv3/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVk2VwR/iribtv3.png" group-title="WORLD TV", IRIB TV3 ????
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVk2VwR/iribtv3.png" group-title="WORLD TV", IRIB TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn-bsht1c84.telewebion.com/tv3/live/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pb3dbr4/20tv.png" group-title="WORLD TV", 20 ????
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pb3dbr4/20tv.png" group-title="WORLD TV", 20 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nkHFVKP/8tv.png" group-title="WORLD TV", 8TV ????
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nkHFVKP/8tv.png" group-title="WORLD TV", 8TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="" tvg-logo="https://i.ibb.co/L5xTZgk/asawani.png" group-title="WORLD TV", AWANI ????
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="" tvg-logo="https://i.ibb.co/L5xTZgk/asawani.png" group-title="WORLD TV", AWANI 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="" tvg-logo="https://i.ibb.co/Dfb2k9C/bernama.png" group-title="WORLD TV", BERNAMA ????
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="" tvg-logo="https://i.ibb.co/Dfb2k9C/bernama.png" group-title="WORLD TV", BERNAMA 
 https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/4KB7QbW/beritartm.png" group-title="WORLD TV", BERITA RTM ????
