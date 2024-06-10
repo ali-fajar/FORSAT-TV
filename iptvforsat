@@ -5922,15 +5922,36 @@ https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/w
 ============================   HIBURAN  =======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="HIBURAN",CNBC Indonesia
-http://abcnew.site:8880/12mmk180105/81462658/2985
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/36535
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="HIBURAN",CNBC Indonesia
-http://abcnew.site:8880/12mmk180105/81462658/2984
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/37276
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="HIBURAN",CNBC Indonesia
-http://abcnew.site:8880/12mmk180105/81462658/2981
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3796
 
-
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN", CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/8311
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD1 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296945
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/8310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296946
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD2 +2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297569
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/8315
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD4" tvg-logo="https://bit.ly/JejeVisionEPG" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/8314
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD5" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/8313
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD6" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3307
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/295183
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD8" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="HIBURAN",CNBC Indonesia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/295184
 
 
 
