@@ -2405,6 +2405,128 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
+#EXTINF:-1 group-title="WORLD TV" tvg-id="TPBS.t" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0014.png", TPBS
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TV5 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ch5new.logo.png",TV5 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Boomerang.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png",Boomerang Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Channel 8.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Jomyut" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/x240.png",Jomyut
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+
+#EXTINF:-1 group-title="WORLD" tvg-id="MOVIES WORLD 1.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw1.jpg",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="MOVIES WORLD 2.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw2.jpg",MOVIES WORLD 2
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="MOVIES WORLD 3.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/mw3.jpg",MOVIES WORLD 3
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="ANIMAL KINGDOM.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ak.jpg",ANIMAL KINGDOM
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="ATTV.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0039.png",ATTV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TNN.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R2_0053.png",TNN
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="TVB Thai.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/TVBThai.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="JKN 18.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",JKN 18
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="7Flix.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/7flix.jpg",7Flix
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Mangkorn.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png",Mangkorn
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="News 1.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0036.png",News 1
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Nation TV.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Workpoint TV.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0015_R.png",Workpoint TV
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="True 4 U.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0054.png",True 4 U
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="GMM25.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="BOX FILM.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/box-flim.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="CH8.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Cartoon Club.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="MONO.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="MCOT HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="ONE 31 HD.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE 31 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="Thairath TV HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="3 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="AmarinTV HD.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="CH7 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC1" tvg-logo="https://iili.io/JyHqSBj.png", BBC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
