@@ -3623,15 +3623,15 @@ https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=E
 
 ======================= LIGA INGGRIS ====================================
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 01
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2710
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2710.m3u8
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 04
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1003
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1003.m3u8
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 05
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/471953
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/471953.m3u8
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 06
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/445
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/445.m3u8
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 07
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/455
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/455.m3u8
 
 
 
@@ -3644,13 +3644,13 @@ http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/455
 
 ==========================================COPA AMERICA=================================================================
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94816
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94816.m3u8
 #EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94817
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94817.m3u8
 #EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155437
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155437.m3u8
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155439
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155439.m3u8
 
 
 
