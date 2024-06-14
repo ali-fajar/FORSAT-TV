@@ -3353,41 +3353,96 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.lyngsat.com/logo/corp/ss/sony_pictures_networks_in.png" group-title="INDIA",SONY
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115699
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="INDIA",SONY MAX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115701
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIA",SONY MAX 2
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115703
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-2-in.png" group-title="INDIA",SONY BBC EARTH
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115707
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="INDIA",SONY SAB
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115709
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pal-in.png" group-title="INDIA",SONY PAL
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115711
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-yay-in.png" group-title="INDIA",SONY YAY
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115715
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-in.png" group-title="INDIA",STAR GOLD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-2-hk-in.png" group-title="INDIA",STAR GOLD 2
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115671
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="INDIA",STAR GOLD SELECT
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115673
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-in.png" group-title="INDIA",STAR PLUS
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115675
-#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="INDIA",STAR UTSAV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115677
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="INDIA",STAR UTSAV MOVIES ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115679
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="INDIA", Sony Pal
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="INDIA",Sony Pix
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/49539
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="INDIA", Sony SAB
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="INDIA", Sony Sports Ten 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="INDIA", Sony Sports Ten 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="INDIA", Sony Sports Ten 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/ab50261b4778357fe5faacdeb64661c8.png" group-title="INDIA", Sony Sports Ten 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/302357
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/784a40b1a8222a8f30ec469a1b0c0220.png" group-title="India", Sony Sports Ten 5
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/301072
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA", Sony TV Asia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/4867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="INDIA", Sony Wah
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165801
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2c50667949c8e4b2fbfa9d65dd550d7f.png" group-title="INDIA", Sony Yay!
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1355
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sooriyan Tamil TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sooriyan Tamil TV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304017
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="INDIA", Star Bharat
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/284583
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="INDIA", Star Gold
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="INDIA", Star Gold 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/43919
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="INDIA", Star Gold Select
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297547
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="INDIA", Star Jalsha
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/12979
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="INDIA", Star Maa Movies
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/82624
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="INDIA", Star Movies
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/11511
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="INDIA", Star Movies Select
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/267542
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India ➾ Movie",IN: Star Plus
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16091
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="INDIA", Star Sports 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="INDIA", Star Sports 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="INDIA", Star Sports 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="INDIA", Star Sports Select 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="INDIA", Star Sports Select 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Ghanta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c8f1da0128e2eec1a1f93811e761f7d8.png" group-title="INDIA", Zee 24 Ghanta
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193187
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Kalak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8df915e2607e4ae07918bc72a56f1d3f.png" group-title="INDIA", Zee 24 Kalak
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/45484
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="INDIA", Zee Action
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1353
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Aflam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="INDIA", Zee Aflam
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/22067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Alwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/5051ee33fcc917e09eeae4861db9c858.png" group-title="INDIA", Zee Alwan
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304493
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c5fee6bbc5e1c2292220e23c6e6d780f.png" group-title="INDIA", Zee Anmol Cinema
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/19467
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="INDIA", Zee Bangla
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/145632
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title="INDIA", Zee Bangla Cinema
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/21658
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Biskope" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7233d1c55fa2743287fdb526f9a771a8.png" group-title="INDIA", Zee Biskope
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193009
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="INDIA", Zee Bollywood
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1351
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="INDIA", Zee Business
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16984
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Café" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="INDIA", Zee Café
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/49561
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="INDIA", Zee Cinema Asia
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1350
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="INDIA", Zee Classic
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/21578
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e76a9bdf41d34fde4f1b8221efc355b4.png" group-title="INDIA", Zee Hindustan
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/145633
 #EXTINF:0 group-title="INDIA",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0 group-title="INDIA",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="INDIA",Maha Movies
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
-#EXTINF:0 group-title="INDIA",& TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="INDIA",IN: & TV
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16964
 #EXTINF:0 group-title="INDIA", Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:0 group-title="INDIA",Anjan
@@ -3398,107 +3453,16 @@ http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
 http://108.181.132.217:8070/bubullea83/fWSgcNAqNOjTif3t/82238
 #EXTINF:0 group-title="INDIA",JOO MUSIC
 http://37.49.225.197:8070/bubullea83/fWSgcNAqNOjTif3t/168909
-#EXTINF:0 group-title="INDIA",MUSIC ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117463
-#EXTINF:0 group-title="INDIA",JALWA MUSIC
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117469
-#EXTINF:0 group-title="INDIA",8XM HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117471
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d95816cfe587520ba64ac4a3621423f.png" group-title="INDIA",IN: Music India
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1358
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIA",SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDIA",STAR CHANNEL
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
-#EXTINF:0 group-title="INDIA",ZING
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117257
-#EXTINF:0 group-title="INDIA",ZEE CHANNELS
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115619
-#EXTINF:0 group-title="INDIA",ZEE ACTION ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115621
-#EXTINF:0 group-title="INDIA",ZEE TV 
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115623
-#EXTINF:0 group-title="INDIA",ZEE CINEMA ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115625
-#EXTINF:0 group-title="INDIA",ZEE ANMOL
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115627
-#EXTINF:0 group-title="INDIA",ZEE ANMOL CINEMA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115629
-#EXTINF:0 group-title="INDIA",ZEETV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132009
-#EXTINF:0 group-title="INDIA",ZING
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132011
-#EXTINF:0 group-title="INDIA",CINEMA WORLD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132021
-#EXTINF:0 group-title="INDIA",ZEE CINEMA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132025
-#EXTINF:0 group-title="INDIA",ZEE BOLLYWOOD CANADA HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507673
-#EXTINF:0 group-title="INDIA",ZEE BOLLYWOOD SD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507699
-#EXTINF:0 group-title="INDIA",ZEE5 MUSIC CO HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507733
-#EXTINF:0 group-title="INDIA",ZEE CAFE FHD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507787
 
-#EXTINF:0 group-title="INDIA",HUNGAMA DIL SE HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/381737
-#EXTINF:0 group-title="INDIA",HUNGAMA NAZRANA HD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/381739
-#EXTINF:0 group-title="INDIA",HUNGAMA POP PATAKA
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/381741
-#EXTINF:0 group-title="INDIA",MOVIES ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115369
-#EXTINF:0 group-title="INDIA",COLORS ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115371
-#EXTINF:0 group-title="INDIA",COLORS RISHTEY TV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117247
-#EXTINF:0 group-title="INDIA",COLORS CINEPLEX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/117249
 
-#EXTINF:0 group-title="INDIA",&TVHD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132023
-#EXTINF:0 group-title="INDIA",& PICTURES
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115379
-#EXTINF:0 group-title="INDIA",& TV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115381
-#EXTINF:0 group-title="INDIA",BIG MAGIC
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115385
-#EXTINF:0 group-title="INDIA",CINEPLEX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115389
-#EXTINF:0 group-title="INDIA",COMEDY ACTIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115391
-#EXTINF:0 group-title="INDIA",CINEMA TV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115393
-#EXTINF:0 group-title="INDIA",CINE ACTIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115395
-#EXTINF:0 group-title="INDIA",GOLDMINES
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/256937
-#EXTINF:0 group-title="INDIA",ENTER 10 MOVIES
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115397
-#EXTINF:0 group-title="INDIA",EPIC
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115401
-#EXTINF:0 group-title="INDIA",EVERGREEN CLASSIC
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115403
-#EXTINF:0 group-title="INDIA",FOX LIFE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115405
-#EXTINF:0 group-title="INDIA",MINIPLEX
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115407
-#EXTINF:0 group-title="INDIA",UTV
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115409
-#EXTINF:0 group-title="INDIA",UTV MOVIES
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115411
-#EXTINF:0 group-title="INDIA",UTV ACTION
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115413
-#EXTINF:0 group-title="INDIA",TATA SKY BOLLYWOOD ?
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115415
-#EXTINF:0 group-title="INDIA",TATA SKY BOLLYWOOD PREMIERE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115417
-#EXTINF:0 group-title="INDIA",MOVIES NOW
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115423
-#EXTINF:0 group-title="INDIA",& FLIX FHD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507709
-#EXTINF:0 group-title="INDIA",BOOGLE BOLLYWOOD SD
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507713
+
 #EXTINF:0 group-title="INDIA",YASHRAJ MUSIC ONLINE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/5c765f50-8f79-498c-8265-f5e612a7297e/0.m3u8
 #EXTINF:0 group-title="INDIA",SHEMAROO FILMY GAANE
