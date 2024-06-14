@@ -3353,157 +3353,34 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="INDIA", Sony Pal
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193645
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="INDIA",Sony Pix
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/49539
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="INDIA", Sony SAB
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1073
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="INDIA", Sony Sports Ten 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="INDIA", Sony Sports Ten 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="INDIA", Sony Sports Ten 3
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/ab50261b4778357fe5faacdeb64661c8.png" group-title="INDIA", Sony Sports Ten 4
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/302357
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/784a40b1a8222a8f30ec469a1b0c0220.png" group-title="India", Sony Sports Ten 5
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/301072
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA", Sony TV Asia
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/4867
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="INDIA", Sony Wah
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165801
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2c50667949c8e4b2fbfa9d65dd550d7f.png" group-title="INDIA", Sony Yay!
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1355
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sooriyan Tamil TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sooriyan Tamil TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304017
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="INDIA", Star Bharat
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/284583
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="INDIA", Star Gold
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1070
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="INDIA", Star Gold 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/43919
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="INDIA", Star Gold Select
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/297547
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="INDIA", Star Jalsha
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/12979
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="INDIA", Star Maa Movies
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/82624
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="INDIA", Star Movies
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/11511
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="INDIA", Star Movies Select
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/267542
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India ➾ Movie",IN: Star Plus
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16091
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="INDIA", Star Sports 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="INDIA", Star Sports 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="INDIA", Star Sports 3
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="INDIA", Star Sports Select 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/82628
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="INDIA", Star Sports Select 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16619
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Ghanta" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c8f1da0128e2eec1a1f93811e761f7d8.png" group-title="INDIA", Zee 24 Ghanta
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193187
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Kalak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8df915e2607e4ae07918bc72a56f1d3f.png" group-title="INDIA", Zee 24 Kalak
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/45484
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="INDIA", Zee Action
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1353
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Aflam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="INDIA", Zee Aflam
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/22067
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Alwan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/5051ee33fcc917e09eeae4861db9c858.png" group-title="INDIA", Zee Alwan
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/304493
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c5fee6bbc5e1c2292220e23c6e6d780f.png" group-title="INDIA", Zee Anmol Cinema
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/19467
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="INDIA", Zee Bangla
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/145632
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title="INDIA", Zee Bangla Cinema
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/21658
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Biskope" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7233d1c55fa2743287fdb526f9a771a8.png" group-title="INDIA", Zee Biskope
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/193009
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="INDIA", Zee Bollywood
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1351
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="INDIA", Zee Business
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16984
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Café" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="INDIA", Zee Café
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/49561
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="INDIA", Zee Cinema Asia
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1350
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="INDIA", Zee Classic
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/21578
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e76a9bdf41d34fde4f1b8221efc355b4.png" group-title="INDIA", Zee Hindustan
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/145633
-#EXTINF:0 group-title="INDIA",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:0 group-title="INDIA",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="INDIA",Maha Movies
-http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="INDIA",IN: & TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16964
-#EXTINF:0 group-title="INDIA", Pictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:0 group-title="INDIA",Anjan
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:0 group-title="INDIA",Tom & Jerry Classic
-http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
-#EXTINF:0 group-title="INDIA",FILM WORLD
-http://108.181.132.217:8070/bubullea83/fWSgcNAqNOjTif3t/82238
-#EXTINF:0 group-title="INDIA",JOO MUSIC
-http://37.49.225.197:8070/bubullea83/fWSgcNAqNOjTif3t/168909
-#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d95816cfe587520ba64ac4a3621423f.png" group-title="INDIA",IN: Music India
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/1358
 
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="INDIA",SONY PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDIA",STAR CHANNEL
-https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
-
-
-
-#EXTINF:0 group-title="INDIA",YASHRAJ MUSIC ONLINE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/5c765f50-8f79-498c-8265-f5e612a7297e/0.m3u8
-#EXTINF:0 group-title="INDIA",SHEMAROO FILMY GAANE
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/9ab340d9-d502-475c-9478-76310ff94a80/1.m3u8
-#EXTINF:0 group-title="INDIA",SHEMAROO  BOLLYWOOD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/a223cc4e-bd3f-41ee-b154-43f4ed114ea0/3.m3u8
-#EXTINF:0 group-title="INDIA",SHEMAROO  UMAANG PLUS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/7876a82e-78a8-4537-8a21-b73915b35257/3.m3u8
-#EXTINF:0 group-title="INDIA",BOLLYWOOD HUNGAMA
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/fb71558d-8e1f-4c10-9272-b3bef45eee6a/0.m3u8
-#EXTINF:0 group-title="INDIA",BBO HD
-https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u8?hdntl=exp=1714245207~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=d2c6fd775e009024c5c2b93000f72cab4db79924857bb8c9d2c53e81fb65dc62&hdnts=st=1714158806~exp=1714162406~acl=!*/28072023/smil:bbo1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=f182108518cc67fc58b6e8bbc95085903014bd21dba80a93cc57582e93424d10&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1
-#EXTINF:0 group-title="INDIA",BBO CLASSIC
-https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1714245378~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a832635eff1389c21ca81259a819c8c125b187d9556659c42f60b909fb694ade
 
 ====================== INDIA 2 ===============================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="INDIA",ZEE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="INDIA",ZEE ACTION
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="INDIA",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title="INDIA",ZEE BANGLA CINEMA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241" group-title="INDIA",ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="INDIA",ZEE BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="INDIA",ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="INDIA",ZEE CINEMA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="INDIA",ZEE CINEMA USA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="INDIA",ZEE CINEMA USA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="INDIA ",ZEE ETC BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="INDIA ",ZEE ETC BOLLYWOOD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="INDIA",ZEE TV
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="INDIA",ZEE TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/54975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="INDIA ",ZING
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="INDIA ",ZING
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="" group-title="INDIA",ZING INDIA
+#EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="INDIA",ZING INDIA
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="" group-title="INDIA",ZOOM
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/568f50fca8c93f5f54d6ba044d570687.png" group-title="INDIA",ZOOM
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="INDIA",&pictures
+#EXTINF:-1 tvg-id="" tvg-name="&pictures" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="INDIA",&pictures
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1964.m3u8
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="INDIA",& PRIVE
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="INDIA",& PRIVE
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1963.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="INDIA",&TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1962.m3u8
@@ -3722,15 +3599,15 @@ https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=E
 
 ======================= LIGA INGGRIS ====================================
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 01
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2710.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQNfxXInRL7fIfMIdhExh6A/ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 04
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1003.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbdZg5SMBkogpaS2DvAeEI64/ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 05
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/471953.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbe6hdGWORm22sFJdbBcBlgg/ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 06
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/445.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbX76BYUNGehDSysLfh2_7k8/ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="LIGA INGGRIS", LIVE 07
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/455.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbWFh26XueK0d_eAYeukgtBQ/ts
 
 
 
@@ -3743,13 +3620,13 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/455.m3u8
 
 ==========================================COPA AMERICA=================================================================
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94816.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbVFWfgo6nBeY3s-Wr2QTXoI/ts
 #EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/94817.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQFE08NF5-Bhx_Yxz6JeT3o/ts
 #EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155437.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155439.m3u8
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
 
 
 
@@ -3783,7 +3660,8 @@ https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3952,19 +3830,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 
 ===============================================LIVE=====================================
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/155433
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbV5OgiTr6wbO5ZjmL3A-7Lw/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/96227
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbb8BPqV_ldbnmM3gtJUreR4/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/269221
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/531311
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQDQtV8fFWHYFqGrgf1jJrw/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135885
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbRP5PAehGBzcZ6GlvQpfAI8/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135887
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQaZ7Q7BPJp7s1k7tDu9JdM/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135431
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbc4nSnbPXZ7NQ1gQp0m8r7E/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
@@ -4161,11 +4039,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MOTO GP
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138745
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbc4nSnbPXZ7NQ1gQp0m8r7E/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138747
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbfoGEhLUK7Xg0OiHfXhLkQs/ts
 
 
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
@@ -4180,7 +4058,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
@@ -4206,7 +4084,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP ",  MotoGP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
