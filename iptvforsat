@@ -819,11 +819,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="KNOWLEDGE", Discovery
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
-https://cors-proxy.pulsesoftware.com/https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYrg20NwwsMJztHDgF-w3I0/ts
 
 #EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="KNOWLEDGE",Discovery Asia
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
@@ -3619,16 +3616,18 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbWFh26XueK0d_eAYeukgtBQ/ts
 
 
 ==========================================COPA AMERICA=================================================================
-#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbVFWfgo6nBeY3s-Wr2QTXoI/ts
-#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
+#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 2
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQFE08NF5-Bhx_Yxz6JeT3o/ts
-#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
+#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 3
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 4
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
-
-
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 5
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 6
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWM85LgSPnctnXuKLgDNhPk/ts
 
 
 
@@ -3636,31 +3635,31 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
 
 =============================================EURO=================================================================
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 5
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 
 =========================================== MOLA ==============================================================================
@@ -4833,6 +4832,17 @@ https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS", PTV Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXDuC9OvHxtE6WdNE9oVIFs/ts
+#EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/dade191ddb0cc89a02ddff0e2d1853aa.png" group-title="SPORTS", Sports18 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUPnhDg1y-fwgU5XxLam_3A/ts
+#EXTINF: -1 tvg-name="Ten Cricket" group-title="SPORTS", Ten Cricket
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSvxoik1hu_h3wAldT56B60/ts
+#EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="SPORTS", Ten Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJePXLKfByYoML-ihG5oGZIc/ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qazsport-kz.png" group-title="SPORTS", QAZSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
