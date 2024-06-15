@@ -1,0 +1,1445 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="lohg" group-title="🅐︎🅑︎🅘︎🅓︎ 🅓︎🅣︎🅗︎", @AbidDth
+http://xtv.ooo:8080/Sehrish/12345/245940
+
+#EXTINF: -1 tvg-name="Copa America live 1" tvg-logo="http://lifetvbd.xyz:8080/images/1fcddf1648bc968dc9b458f11c8b91a9.png" group-title="FOOTBALL LIVE EVENT", Copa America live 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+#EXTINF: -1 tvg-name="Copa America live 2" tvg-logo="http://lifetvbd.xyz:8080/images/1fcddf1648bc968dc9b458f11c8b91a9.png" group-title="FOOTBALL LIVE EVENT", Copa America live 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWM85LgSPnctnXuKLgDNhPk/ts
+#EXTINF: -1 tvg-name="UEFA EURO 2024 Live 1" tvg-logo="http://lifetvbd.xyz:8080/images/4bd532903cd187b27e5779503b7ebde1.png" group-title="FOOTBALL LIVE EVENT", UEFA EURO 2024 Live 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWs8eZYJjVSMgmGUxyK1GxA/ts
+#EXTINF: -1 tvg-name="UEFA EURO 2024 Live 2" tvg-logo="http://lifetvbd.xyz:8080/images/4bd532903cd187b27e5779503b7ebde1.png" group-title="FOOTBALL LIVE EVENT", UEFA EURO 2024 Live 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeXT5f5Qj3hmgtmd3KOhyE8/ts
+#EXTINF: -1 tvg-name="EPL LIVE" tvg-logo="http://lifetvbd.xyz:8080/images/e1785adea8f1e788d6a5544851fa4629.png" group-title="FOOTBALL LIVE EVENT", EPL LIVE
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeVksi-GneUpmCsr-bTpO1w/ts
+#EXTINF: -1 tvg-name="EPL Live 2" tvg-logo="http://lifetvbd.xyz:8080/images/e1785adea8f1e788d6a5544851fa4629.png" group-title="FOOTBALL LIVE EVENT", EPL Live 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQfqFDXo-ZEmzsQ8V05-vWc/ts
+#EXTINF: -1 tvg-name="La liga RH" tvg-logo="http://lifetvbd.xyz:8080/images/e1785adea8f1e788d6a5544851fa4629.png" group-title="FOOTBALL LIVE EVENT", La liga RH
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVKEsZG9YhqlR-X9P3b0FWo/ts
+#EXTINF: -1 tvg-name="Ligue 1 LIVE" tvg-logo="http://lifetvbd.xyz:8080/images/e1785adea8f1e788d6a5544851fa4629.png" group-title="FOOTBALL LIVE EVENT", Ligue 1 LIVE
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTuhMKAo1eEBJkBgzzqp1rA/ts
+#EXTINF: -1 tvg-name="MLS LIVE" tvg-logo="http://lifetvbd.xyz:8080/images/0a74a3a1b2e0b1df9b775cde6a3e1648.png" group-title="FOOTBALL LIVE EVENT", MLS LIVE
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYNsDHVSqhMzabgFsOBOw1I/ts
+#EXTINF: -1 tvg-name="Seria A Live" tvg-logo="http://lifetvbd.xyz:8080/images/e1785adea8f1e788d6a5544851fa4629.png" group-title="FOOTBALL LIVE EVENT", Seria A Live
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaDeT6Yr9djRleUmvNRW0w4/ts
+#EXTINF: -1 tvg-name="T Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="FOOTBALL LIVE EVENT", T Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaXA8d1NY7UYlP2KU1jqbv4/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 1 Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/1c75d73105033e18cbf65f778598f7d5.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 1 Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 2 English" tvg-logo="http://lifetvbd.xyz:8080/images/1c75d73105033e18cbf65f778598f7d5.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 2 English
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJecZsyp0lMxipO5FrS0-SnA/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 2 English 2" tvg-logo="http://lifetvbd.xyz:8080/images/3008f185b0790a942c79f06340f1eb32.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 2 English 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbimBGbKgzEG3Jp2u5kxXN4/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 3" tvg-logo="http://lifetvbd.xyz:8080/images/f0ae48928080f4260e7a1d6bfffc6c6f.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 3
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZZyg9QHc4eEGBUxrMgmtwo/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 4" tvg-logo="http://lifetvbd.xyz:8080/images/f6a5a011ea2c346d1ce444edf53efc2d.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 4
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJen1icWEJFH-hAAest2aDTA/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 5" tvg-logo="http://lifetvbd.xyz:8080/images/db046983550bb30dfab574a4b73df272.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 5
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZG32OL3XibVkkkMSJvRGPY/ts
+#EXTINF: -1 tvg-name="World Cup T20 Live 6" tvg-logo="http://lifetvbd.xyz:8080/images/7937324a053061f083a44004f7be3fa8.png" group-title="ICC WC T20 LIVE", World Cup T20 Live 6
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSx_LMFPAlenvNHM9fUXCVQ/ts
+#EXTINF: -1 tvg-name="& Picture HD" tvg-logo="http://lifetvbd.xyz:8080/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="INDIA | Movies", & Picture HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVJf6DkWmJEzQhWsYsms400/ts
+#EXTINF: -1 tvg-name="B4u Kadak" tvg-logo="http://lifetvbd.xyz:8080/images/95a73393735c339ee27f75a5a4515e8c.png" group-title="INDIA | Movies", B4u Kadak
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdO6oEuJRiIrQ5R77W3tLNY/ts
+#EXTINF: -1 tvg-name="B4u Movie" tvg-logo="http://lifetvbd.xyz:8080/images/bf91f247d01ddc44443408b1ff3238b6.png" group-title="INDIA | Movies", B4u Movie
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJesl8sg-6mmnc-uGkqTy87Y/ts
+#EXTINF: -1 tvg-name="Bflix" group-title="INDIA | Movies", Bflix
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYdh9lMVivW2qyng3QtqT-w/ts
+#EXTINF: -1 tvg-name="Bollywood Classic" tvg-logo="http://lifetvbd.xyz:8080/images/799fb075c910013ff3a9d12b99e41034.png" group-title="INDIA | Movies", Bollywood Classic
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQAnduIxsH51X5AibcEPUt4/ts
+#EXTINF: -1 tvg-name="Bollywood HD" tvg-logo="http://lifetvbd.xyz:8080/images/b22977edb862d2ee098604abe58262ed.png" group-title="INDIA | Movies", Bollywood HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSpjh_46iIyvoy7zySCNF4o/ts
+#EXTINF: -1 tvg-name="Bollywood prime" tvg-logo="http://lifetvbd.xyz:8080/images/2c98c97043fb9250b18c6125127116db.png" group-title="INDIA | Movies", Bollywood prime
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaguRqqZaP2ILxunh45QMRs/ts
+#EXTINF: -1 tvg-name="Colors Cineplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/3c72e0fb843a57fb610b08c61650c0e3.png" group-title="INDIA | Movies", Colors Cineplex HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRZQJjyIwNhh6K8VSgs8j28/ts
+#EXTINF: -1 tvg-name="GoldMines" group-title="INDIA | Movies", GoldMines
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQIK35NjVOOaqDZGW-LyArk/ts
+#EXTINF: -1 tvg-name="MBC Bollywood" tvg-logo="http://lifetvbd.xyz:8080/images/65789dad3c09429ab0fe05aef5bca4fb.png" group-title="INDIA | Movies", MBC Bollywood
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY1ivOHJPwFJV6ROz4zGIzI/ts
+#EXTINF: -1 tvg-name="Miniplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/61088ad4c6f26a19c891825dcd6fab07.png" group-title="INDIA | Movies", Miniplex HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRfuNVLt81NRpHkWp-0ltCA/ts
+#EXTINF: -1 tvg-name="Sony Max 2" tvg-logo="http://lifetvbd.xyz:8080/images/744da6ee370d653a0784dda2a823c05b.png" group-title="INDIA | Movies", Sony Max 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcYK7WuXDVOl3J_ATGqrXOQ/ts
+#EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="http://lifetvbd.xyz:8080/images/89c359989145c2073ef0935eec24cb32.png" group-title="INDIA | Movies", Sony Max HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQIj61z46jLmb1o1VwvOr80/ts
+#EXTINF: -1 tvg-name="Star Gold 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/e4bfb5ba388b68b63a82f7830466accd.png" group-title="INDIA | Movies", Star Gold 2 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS1RqxMtEScP6VYAgEYgCUY/ts
+#EXTINF: -1 tvg-name="Star Gold HD" tvg-logo="http://lifetvbd.xyz:8080/images/5d75dc990709d30de24eace6f1f21d93.png" group-title="INDIA | Movies", Star Gold HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdHsKgMMYAYnbow8y-rzjW4/ts
+#EXTINF: -1 tvg-name="Star Gold Romance" tvg-logo="http://lifetvbd.xyz:8080/images/ab746f08acec0568b017f3b98cd4cdb4.png" group-title="INDIA | Movies", Star Gold Romance
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeFhuz73FtEj5JIXiK2uA-M/ts
+#EXTINF: -1 tvg-name="Star Gold Thrills" tvg-logo="http://lifetvbd.xyz:8080/images/4523ede2f652c681463765a870aa1962.png" group-title="INDIA | Movies", Star Gold Thrills
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdiN_mzPHiOC_Qw2qbrvAwc/ts
+#EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe42Ton9ythGsUNOXXoOoIc/ts
+#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="http://lifetvbd.xyz:8080/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="INDIA | Movies", Zee Cinema HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTQYPVtSSCdXDyQAomOxlU0/ts
+#EXTINF: -1 tvg-name="Zee Classic" tvg-logo="http://lifetvbd.xyz:8080/images/31238401c43a6ce95f2324d441ab05a5.png" group-title="INDIA | Movies", Zee Classic
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd6a85LORQ0ptxXmLSbuzCc/ts
+#EXTINF: -1 tvg-name="& Tv HD" group-title="INDIA | Entertainment", & Tv HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW4xusMYo-Dgn1ZyD6RdDJg/ts
+#EXTINF: -1 tvg-name="BHAKTHI TV" group-title="INDIA | Entertainment", BHAKTHI TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRf2FaE4fv6USHBw3WB_6B8/ts
+#EXTINF: -1 tvg-name="Colors Asia" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment", Colors Asia
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTSkbFndKf89ibeq6s-76ko/ts
+#EXTINF: -1 tvg-name="Colors HD India" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment", Colors HD India
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYhtIIPDFdlXlmJxYMAkwCg/ts
+#EXTINF: -1 tvg-name="Colors UK" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment", Colors UK
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVoglxLwPfppc7V9fPfCRSw/ts
+#EXTINF: -1 tvg-name="Dil Lagi" group-title="INDIA | Entertainment", Dil Lagi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcXaZd0BErS7J6dTurJHOhU/ts
+#EXTINF: -1 tvg-name="India Tv" group-title="INDIA | Entertainment", India Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb1aJUyC0rQYl2Hf0zaj2o0/ts
+#EXTINF: -1 tvg-name="Network 10" group-title="INDIA | Entertainment", Network 10
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ3gNskTR2GpnMCsExUQeoA/ts
+#EXTINF: -1 tvg-name="Shemaroo Tv" group-title="INDIA | Entertainment", Shemaroo Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQEF-8FEkd4p9OfyQhN40S4/ts
+#EXTINF: -1 tvg-name="Sony HD" tvg-logo="http://lifetvbd.xyz:8080/images/39876053482b7501aac3e824e443d342.png" group-title="INDIA | Entertainment", Sony HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZE-L_amvz7RX9oGayNVlpM/ts
+#EXTINF: -1 tvg-name="Sony HD USA" tvg-logo="http://lifetvbd.xyz:8080/images/39876053482b7501aac3e824e443d342.png" group-title="INDIA | Entertainment", Sony HD USA
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTs67stR4U8JRR6TIwizBVc/ts
+#EXTINF: -1 tvg-name="Sony Kal" group-title="INDIA | Entertainment", Sony Kal
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJakIUcrcpmAo61Ssw408_Tc/ts
+#EXTINF: -1 tvg-name="Sony Pal" group-title="INDIA | Entertainment", Sony Pal
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRDAKXJMG3NzG1-XD7mk67s/ts
+#EXTINF: -1 tvg-name="Star Plus HD" tvg-logo="http://lifetvbd.xyz:8080/images/9f2356ec28a04358d6e1c56fd0cf2d12.png" group-title="INDIA | Entertainment", Star Plus HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQmN9ZQFzKuwd5syMkmPoeY/ts
+#EXTINF: -1 tvg-name="Star Plus HD Backup" tvg-logo="http://lifetvbd.xyz:8080/images/9f2356ec28a04358d6e1c56fd0cf2d12.png" group-title="INDIA | Entertainment", Star Plus HD Backup
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQl8IeAB2flMNat1PNDpAVY/ts
+#EXTINF: -1 tvg-name="Zee Anmol" group-title="INDIA | Entertainment", Zee Anmol
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZg6K-oy7wK78TZ_cMnGGsw/ts
+#EXTINF: -1 tvg-name="Zee Tv HD India" tvg-logo="http://lifetvbd.xyz:8080/images/b16fee0a37ac4168eaa929427263fb17.png" group-title="INDIA | Entertainment", Zee Tv HD India
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ9ZJQRhGSD9XEl16TO1XE0/ts
+#EXTINF: -1 tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie", &Flix HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbmjB5HK2R4H2Q-dQh6l2o4/ts
+#EXTINF: -1 tvg-name="&Xplore HD" tvg-logo="http://lifetvbd.xyz:8080/images/28bcd6a8a93b3ee53f2c8c7b175605ad.png" group-title="English Movie", &Xplore HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ7UjmIiGjFv-YWz1qC13S4/ts
+#EXTINF: -1 tvg-name="AXN" tvg-logo="http://lifetvbd.xyz:8080/images/144404b37f4b5d847a7f1a8f45b6fc06.png" group-title="English Movie", AXN
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXSX1nVsAfG2rw3I_Jq9Mjk/ts
+#EXTINF: -1 tvg-name="HBO" tvg-logo="http://lifetvbd.xyz:8080/images/e037d3c0db28ff0a995a07f4353f7dd3.png" group-title="English Movie", HBO
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVaAuZyrN2g4AjfR6X7dPeI/ts
+#EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQNk4X6C5rbTtDtIpax7yS0/ts
+#EXTINF: -1 tvg-name="Movies Now" tvg-logo="http://lifetvbd.xyz:8080/images/73b129f09b75f522359b906ed754414d.png" group-title="English Movie", Movies Now
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdhtZ3XnfL2NOcC7d602S-E/ts
+#EXTINF: -1 tvg-name="Romedy Now" tvg-logo="http://lifetvbd.xyz:8080/images/4379f7f91e9ad73c2dab9aead9936a56.png" group-title="English Movie", Romedy Now
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRBaFJKjkWqdLkgfQlwIRP8/ts
+#EXTINF: -1 tvg-name="Sony Movies" group-title="English Movie", Sony Movies
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSdjN2Z8SltLmrZ9KW2nYS0/ts
+#EXTINF: -1 tvg-name="Sony Pix HD" tvg-logo="http://lifetvbd.xyz:8080/images/2237db5515ed959929d7014e091dd109.png" group-title="English Movie", Sony Pix HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSE6OJMvfrM7QI6LhRwsBhY/ts
+#EXTINF: -1 tvg-name="Star Movies HD" tvg-logo="http://lifetvbd.xyz:8080/images/bacdd59198c92cf05aaee0aaf6abfbb9.png" group-title="English Movie", Star Movies HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQzP4E8FEvkxnz6MXCZUaRk/ts
+#EXTINF: -1 tvg-name="9xm" group-title="Music", 9xm
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTVMEeuvtU2WTC7vMth0Aeg/ts
+#EXTINF: -1 tvg-name="B4u Music" tvg-logo="http://lifetvbd.xyz:8080/images/b5d9fd2ce95b11f2a1fedcdf0c5e62ff.png" group-title="Music", B4u Music
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJac-htiksESX22gb8st2fPc/ts
+#EXTINF: -1 tvg-name="Hindi Bollywood Songs" group-title="Music", Hindi Bollywood Songs
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVC6orWQYMPR2iWKRU4dd5U/ts
+#EXTINF: -1 tvg-name="Hindi Hits HD" group-title="Music", Hindi Hits HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXjiMvf4IaYaylClEED-x4g/ts
+#EXTINF: -1 tvg-name="Masti" group-title="Music", Masti
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUdf0CkfKSf4tvggBJXS0Zg/ts
+#EXTINF: -1 tvg-name="MTV" tvg-logo="http://lifetvbd.xyz:8080/images/80e215892e6def7dbf2a909e00cf6f7e.png" group-title="Music", MTV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfNfZRyYIiRVCPzmXtFijEA/ts
+#EXTINF: -1 tvg-name="MTV Beats HD" tvg-logo="http://lifetvbd.xyz:8080/images/d2242f8e929ab2e7ddaa80da65282722.png" group-title="Music", MTV Beats HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ7fG-RbXDIsF85nMgxk0UQ/ts
+#EXTINF: -1 tvg-name="MTV HD Plus" tvg-logo="http://lifetvbd.xyz:8080/images/80e215892e6def7dbf2a909e00cf6f7e.png" group-title="Music", MTV HD Plus
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeJu-IxNNTOpKi2o68T99iA/ts
+#EXTINF: -1 tvg-name="Romantic Songs Old" group-title="Music", Romantic Songs Old
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTX1vkUERbWLcsyl3khT4tY/ts
+#EXTINF: -1 tvg-name="Sangeet Bhojpuri" group-title="Music", Sangeet Bhojpuri
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVoi7TrGOeGMDY1ylNMCGAs/ts
+#EXTINF: -1 tvg-name="Vision beats" group-title="Music", Vision beats
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWA5G_Y4F66xw6yMCNbOgvo/ts
+#EXTINF: -1 tvg-name="yrf Music" tvg-logo="http://lifetvbd.xyz:8080/images/1fe6890569a58e2eced62f0b34148747.png" group-title="Music", yrf Music
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUGAMIsP104oHjXbJ9S6gsI/ts
+#EXTINF: -1 tvg-name="Zing" group-title="Music", Zing
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUBBEF8qH4_eqk0uXhobouQ/ts
+#EXTINF: -1 tvg-name="A Sports Backup" tvg-logo="http://lifetvbd.xyz:8080/images/2f9462fc8b6b9d629ae5623f25867577.png" group-title="SPORTS | Football", A Sports Backup
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQZM8geXL36KE18eE8AZWLk/ts
+#EXTINF: -1 tvg-name="TYC Sports" tvg-logo="http://lifetvbd.xyz:8080/images/49cffbc499525e5f8f8ec94264041492.png" group-title="SPORTS | Football", TYC Sports
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbD1jnPG34Hh-1auIK3Irlo/ts
+#EXTINF: -1 tvg-name="Aaj Tak news" group-title="International News", Aaj Tak news
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXPBOxeihHRZsIOUJavPjw8/ts
+#EXTINF: -1 tvg-name="ABC News" group-title="International News", ABC News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVoxCutJlPwhkHTNSGyxsu4/ts
+#EXTINF: -1 tvg-name="AL Jajeera" group-title="International News", AL Jajeera
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZGAtc7UQdg84ARNG_O9gZo/ts
+#EXTINF: -1 tvg-name="APN" group-title="International News", APN
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVDhxyheEnIlcU4sKwEcxbE/ts
+#EXTINF: -1 tvg-name="BBC America" tvg-logo="http://lifetvbd.xyz:8080/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="International News", BBC America
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW-M8lV_h62golIUXt2ScHs/ts
+#EXTINF: -1 tvg-name="BBC News" tvg-logo="http://lifetvbd.xyz:8080/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="International News", BBC News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSUGBG3pvtUW6Lt_xpO5wSg/ts
+#EXTINF: -1 tvg-name="CNN News" group-title="International News", CNN News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRU4FcgKgX9Zynx9ymahx7U/ts
+#EXTINF: -1 tvg-name="DW News" group-title="International News", DW News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQoXx5nUQblBIXdvhzFD1oU/ts
+#EXTINF: -1 tvg-name="Fateh Tv" group-title="International News", Fateh Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfbS_46SsOXj8rbjaSoAaAg/ts
+#EXTINF: -1 tvg-name="Fox News" group-title="International News", Fox News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJReqRULlgQc_5FEzyHfFxFU/ts
+#EXTINF: -1 tvg-name="NBC News" group-title="International News", NBC News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe9Bhtq73zzKSYyHaaUfcLM/ts
+#EXTINF: -1 tvg-name="Wion News" group-title="International News", Wion News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcbWMDL_fp5NRtUWs2Bir94/ts
+#EXTINF: -1 tvg-name="Zee 25 Ghonta" group-title="International News", Zee 25 Ghonta
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQHXWpFHrmNBvicP6KmgBJY/ts
+#EXTINF: -1 tvg-name="Zee News" group-title="International News", Zee News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX1enXkUrnQoWR2_1iM_lxI/ts
+#EXTINF: -1 tvg-name="Abhijeet Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Abhijeet Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeyo14-7OZM9gj9yAsRSOy8/ts
+#EXTINF: -1 tvg-name="Adnan Sami Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Adnan Sami Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTTetx8MxqQ-L-Pux-M5drE/ts
+#EXTINF: -1 tvg-name="Alka yagnik hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Alka yagnik hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYCqYcbQXnr4ew5Jm9fIEQ4/ts
+#EXTINF: -1 tvg-name="Arjit Singh Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Arjit Singh Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU6-I3QEV60XCKjvkdhiAuA/ts
+#EXTINF: -1 tvg-name="Himesh Reshmiya Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Himesh Reshmiya Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb71fvaVkoWDOA5m3dsKda8/ts
+#EXTINF: -1 tvg-name="Kishor kumar Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Kishor kumar Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV6ao4WrDE5IKDpr-9kL7FY/ts
+#EXTINF: -1 tvg-name="Kumar Sanu Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Kumar Sanu Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdto3dyzaf7EnFqCSsyVRy0/ts
+#EXTINF: -1 tvg-name="Lata Mangeskar Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Lata Mangeskar Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXeucPBgVe4ApbhONt_jYcY/ts
+#EXTINF: -1 tvg-name="Mohit Chouhan Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Mohit Chouhan Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcWDvu4tOq7xBe1ZM4dwp7M/ts
+#EXTINF: -1 tvg-name="Neha Kakkar hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Neha Kakkar hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWorQWiaFJz0XPVo8uLS6Lg/ts
+#EXTINF: -1 tvg-name="Shaan Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Shaan Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboKgcsch5PlTP4EwOybqAc/ts
+#EXTINF: -1 tvg-name="Sonu Nigam Hit Songs" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Sonu Nigam Hit Songs
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZw_bp8MOccQT83tw1E4sMU/ts
+#EXTINF: -1 tvg-name="Sundhi Chouhan Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/8d393561b2c2644b23f9a2b602cdc48d.png" group-title="24x7 Music", Sundhi Chouhan Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV17DdbXIB1_M9rCgw9hJgE/ts
+#EXTINF: -1 tvg-name="ABP Ananda" tvg-logo="http://lifetvbd.xyz:8080/images/34312c8a65f9583aa8095b6a9fbac101.png" group-title="INDIA | Bangla", ABP Ananda
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTF6bnoG6UYq6LGQFOHqVl4/ts
+#EXTINF: -1 tvg-name="Akash Aath" tvg-logo="http://lifetvbd.xyz:8080/images/deabfb05ff86c1c82193dc101208ebd2.png" group-title="INDIA | Bangla", Akash Aath
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUp8Nq0p1N4NJvKn7MzRDPI/ts
+#EXTINF: -1 tvg-name="Akash Aath Global" tvg-logo="http://lifetvbd.xyz:8080/images/deabfb05ff86c1c82193dc101208ebd2.png" group-title="INDIA | Bangla", Akash Aath Global
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRjipII2gpPUMzi9HNGbRUk/ts
+#EXTINF: -1 tvg-name="Amar Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/42e6049ad22e5534b94f840168469fb5.png" group-title="INDIA | Bangla", Amar Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdEPGT4UjB2gJETc1IcpXjk/ts
+#EXTINF: -1 tvg-name="Ananda Barta" tvg-logo="http://lifetvbd.xyz:8080/images/8ad268303b303eefb22e47c50c0853cf.png" group-title="INDIA | Bangla", Ananda Barta
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJetF941LB5WZIKIPKBg7iao/ts
+#EXTINF: -1 tvg-name="Colors Bangla backup" tvg-logo="http://lifetvbd.xyz:8080/images/abf517e6fd05279c4295dfc24ce70352.png" group-title="INDIA | Bangla", Colors Bangla backup
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJawntsvu5dV4y6NYcq_OM5A/ts
+#EXTINF: -1 tvg-name="Colors Bangla Cinema" tvg-logo="http://lifetvbd.xyz:8080/images/5fa3c29de4ecee106cc762063ca09c48.png" group-title="INDIA | Bangla", Colors Bangla Cinema
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUcA3hcV23DhKA6tqxdqFdk/ts
+#EXTINF: -1 tvg-name="Colors Bangla HD" tvg-logo="http://lifetvbd.xyz:8080/images/abf517e6fd05279c4295dfc24ce70352.png" group-title="INDIA | Bangla", Colors Bangla HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVVESVN7qZKATLLeKJ4lyUs/ts
+#EXTINF: -1 tvg-name="Enterr 10 Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/f38f04b3fcb2a9f3f281c8c214eaefbb.png" group-title="INDIA | Bangla", Enterr 10 Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWDPfLciW47H8auKzU72Wo4/ts
+#EXTINF: -1 tvg-name="Jalsha Movie HD" tvg-logo="http://lifetvbd.xyz:8080/images/db0577986b04bb3f06c16ea40f222bab.png" group-title="INDIA | Bangla", Jalsha Movie HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfc01EoahoHc8znUcFyuFTg/ts
+#EXTINF: -1 tvg-name="Jalsha Movie SD" tvg-logo="http://lifetvbd.xyz:8080/images/db0577986b04bb3f06c16ea40f222bab.png" group-title="INDIA | Bangla", Jalsha Movie SD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTySyXay40C0FLLyRbtCuTs/ts
+#EXTINF: -1 tvg-name="Khusboo Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/80858835692ad57f7033e1616545416a.png" group-title="INDIA | Bangla", Khusboo Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWDYPRD2TfvEnThfk76dURk/ts
+#EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbQ-DjXPY6Q4av0AdQBp6_U/ts
+#EXTINF: -1 tvg-name="Star Jalsha HD" tvg-logo="http://lifetvbd.xyz:8080/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIA | Bangla", Star Jalsha HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb2F0BWVRSzj1GgH3gx1Uag/ts
+#EXTINF: -1 tvg-name="Star Jalsha HD 1" tvg-logo="http://lifetvbd.xyz:8080/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIA | Bangla", Star Jalsha HD 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZUQ8HUt5Xd6p3T28_PDQyk/ts
+#EXTINF: -1 tvg-name="Star Jalsha HD Global" tvg-logo="http://lifetvbd.xyz:8080/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="INDIA | Bangla", Star Jalsha HD Global
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRWw2w611KR2Ra0BSoaioB4/ts
+#EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/4c51104a81300a5af27174e46970d789.png" group-title="INDIA | Bangla", Sun Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfCj1gNzRBUfvxnyu-r_YQA/ts
+#EXTINF: -1 tvg-name="Zee Bangla Cinema HD" tvg-logo="http://lifetvbd.xyz:8080/images/92ba1bdc0c08c5b5e879d2a884e3b427.png" group-title="INDIA | Bangla", Zee Bangla Cinema HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS7FUgSdPaFqP2OLwyUnnxs/ts
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://lifetvbd.xyz:8080/images/e0337d61585a56a0fcd24950cd18ecf3.png" group-title="INDIA | Bangla", Zee Bangla HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVOEx1ak-zxibs60qwg3CUo/ts
+#EXTINF: -1 tvg-name="Zee Bangla HD Global" tvg-logo="http://lifetvbd.xyz:8080/images/e0337d61585a56a0fcd24950cd18ecf3.png" group-title="INDIA | Bangla", Zee Bangla HD Global
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcHGZ57ETDdU60pYfAm8hmI/ts
+#EXTINF: -1 tvg-name="Akit TV (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/35e107a2996656e2c0894c4cd2ad2af6.png" group-title="Turkey", Akit TV (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUK7lmhcRY_XKcJl4AAeOz0/ts
+#EXTINF: -1 tvg-name="Al Hayat TV (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/9c901029af9cd489970e9c5e74165222.png" group-title="Turkey", Al Hayat TV (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd4TuZP3FAkWpscj4coketA/ts
+#EXTINF: -1 tvg-name="FOX" group-title="Turkey", FOX
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQnx8UCbcWZL-vkRuBV7mL0/ts
+#EXTINF: -1 tvg-name="Kanal D" group-title="Turkey", Kanal D
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY-NW5MmlBEKQxLr-HuisIM/ts
+#EXTINF: -1 tvg-name="Show TV" group-title="Turkey", Show TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY62YX6z_e6wea24C2nlwlc/ts
+#EXTINF: -1 tvg-name="Star Tv" group-title="Turkey", Star Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcUWKRJNOgADHrSg2vrm4Co/ts
+#EXTINF: -1 tvg-name="TRT 1 HD" group-title="Turkey", TRT 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRn4U9YAB3_gnr-GxQ2c0DA/ts
+#EXTINF: -1 tvg-name="TV 8" group-title="Turkey", TV 8
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZvebtrw_AtI2EgGR4JV0_M/ts
+#EXTINF: -1 tvg-name="Al Jazeera Arabic (1080p)" tvg-logo="http://lifetvbd.xyz:8080/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="Qatar", Al Jazeera Arabic (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa20QpI9ZOluOM5DtAM9N3Q/ts
+#EXTINF: -1 tvg-name="Al Jazeera Mubasher (1080p)" tvg-logo="http://lifetvbd.xyz:8080/images/5705d9847971936bf45f3904e8475e69.png" group-title="Qatar", Al Jazeera Mubasher (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY-Z04cnHqwDxgsAtRpqUko/ts
+#EXTINF: -1 tvg-name="Al Rayyan (1080p)" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="Qatar", Al Rayyan (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWDcgEbArw3XIAlG2WI_QLU/ts
+#EXTINF: -1 tvg-name="Al Rayyan Al Qadeem (1080p)" tvg-logo="http://lifetvbd.xyz:8080/images/2c185f491522e8d1935c6edd10db57d2.png" group-title="Qatar", Al Rayyan Al Qadeem (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUkkEf_AX3_zOgBttA0eJFY/ts
+#EXTINF: -1 tvg-name="Alaraby 2 TV (1080p)" tvg-logo="http://lifetvbd.xyz:8080/images/f99e655f308032af6af6f79b82e0f523.png" group-title="Qatar", Alaraby 2 TV (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTLDkcR7WRU79rDXthOVfFI/ts
+#EXTINF: -1 tvg-name="Alaraby TV (1080p)" tvg-logo="http://lifetvbd.xyz:8080/images/91eca517a83eb01228fdf8fc6b29455a.png" group-title="Qatar", Alaraby TV (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWPhpaTHYB2fZJ9vZc2wivY/ts
+#EXTINF: -1 tvg-name="Angel TV Arabia (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/a6bf4406927015ad74074628f23cedf5.png" group-title="Qatar", Angel TV Arabia (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTIUZ5izjVC0irKJY_n5qQA/ts
+#EXTINF: -1 tvg-name="BBC Arabic (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/d1a93fd50b3410a4fb16d289e1693de7.png" group-title="Qatar", BBC Arabic (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSZGoc1gfd1IOEgdcWrBx8g/ts
+#EXTINF: -1 tvg-name="Dubai One (1080p)" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="Qatar", Dubai One (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcGVYl5fz2ymoqAn8gp-TRc/ts
+#EXTINF: -1 tvg-name="Amitabh Bacchan Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Amitabh Bacchan Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQQ5QZjwoVvDs2lz_pOY4MI/ts
+#EXTINF: -1 tvg-name="Bollywood Hitz 1" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Bollywood Hitz 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQrBkwk6-YTFUOh8kuY3UhM/ts
+#EXTINF: -1 tvg-name="Hindi dubbed 1" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Hindi dubbed 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW16WqGErODNr6OeClKtfwM/ts
+#EXTINF: -1 tvg-name="Indian Bangla Movies hit" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Indian Bangla Movies hit
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRWTro0ATNpMd3u7D36kksQ/ts
+#EXTINF: -1 tvg-name="Kolkata Bangla Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Kolkata Bangla Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXzWNS-9PfKyb0YOeYZDO_A/ts
+#EXTINF: -1 tvg-name="Premium Hindi Movies 2" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Premium Hindi Movies 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfMsPb8nUTyBE9se6XqUXvw/ts
+#EXTINF: -1 tvg-name="Premium Hindi Movies 3" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Premium Hindi Movies 3
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXTS-c7OI64IlBCpER74_bU/ts
+#EXTINF: -1 tvg-name="Premium hindi Movies 4" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Premium hindi Movies 4
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWxIW8VVPlobCuWbru0lwHA/ts
+#EXTINF: -1 tvg-name="Shahrukh Khan Movie 1" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Shahrukh Khan Movie 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTMrkRKnVA5CTsHnz9pjB8I/ts
+#EXTINF: -1 tvg-name="Sunny Deol Hitz" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie", Sunny Deol Hitz
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdKHmQO3kCpJa72u32jm-2U/ts
+#EXTINF: -1 tvg-name="Anal" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Anal
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWD2b_ZYfCAc0aoPPt-wELE/ts
+#EXTINF: -1 tvg-name="Asian" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Asian
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR16Ru_B10PVczQV02a5CGM/ts
+#EXTINF: -1 tvg-name="Blonde" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Blonde
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeoU1ZwZP3GI_pHJ3REVHJA/ts
+#EXTINF: -1 tvg-name="Blowjob" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Blowjob
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRwOkthBwGPvPGsUsTulY44/ts
+#EXTINF: -1 tvg-name="Brunette" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Brunette
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZjKLsR79uBzLhnH2W25JWk/ts
+#EXTINF: -1 tvg-name="Compilation" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Compilation
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRbjf1Hel7n6kvGe3OUfzlM/ts
+#EXTINF: -1 tvg-name="Cuckold" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Cuckold
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUxkt5ldY7c9XCbIOXUe0is/ts
+#EXTINF: -1 tvg-name="Gangbang" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Gangbang
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcJikRl9uU4coMrdzas6cZc/ts
+#EXTINF: -1 tvg-name="Gay" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Gay
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSxrXnSNJR-RbVs_CDKouL8/ts
+#EXTINF: -1 tvg-name="Hardcore" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Hardcore
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZBi1sulAoA-IfI9J7Dq9lA/ts
+#EXTINF: -1 tvg-name="Interracial" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Interracial
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUiuKVJblzuyavrhe6CQNyY/ts
+#EXTINF: -1 tvg-name="Latina" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Latina
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWn6VgmWFE6aGgEogu160rI/ts
+#EXTINF: -1 tvg-name="Lesbian" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Lesbian
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWoBczVefbkvCOC1KXDR2l4/ts
+#EXTINF: -1 tvg-name="Milf" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Milf
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQFJ5rhklf1USKezOFeACME/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #1" group-title="Adult", MyCamTV XXX Vod #1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTZaaR3bd0FVNL4fTJma68k/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #10" group-title="Adult", MyCamTV XXX Vod #10
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUZr3LNwPac3oi27Rf3mgus/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #100" group-title="Adult", MyCamTV XXX Vod #100
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdM3VZXIiQ3xkULf5uVmbNo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #101" group-title="Adult", MyCamTV XXX Vod #101
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbxh79yPdhLjwHS2skN2cdY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #102" group-title="Adult", MyCamTV XXX Vod #102
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRRIaPL0jXstJL_Spvrf4BI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #103" group-title="Adult", MyCamTV XXX Vod #103
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRuKX1PCeNSsff0Ck6N9AOo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #104" group-title="Adult", MyCamTV XXX Vod #104
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb3QXRS5TGQNF6nFWU9cXhs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #105" group-title="Adult", MyCamTV XXX Vod #105
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZT0p-ty7nX7Sfj7EiFZwwA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #106" group-title="Adult", MyCamTV XXX Vod #106
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV4Tz_8ENdlhPehd_naNV-I/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #107" group-title="Adult", MyCamTV XXX Vod #107
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQxrERSR_Hp_YOs5otfnoYs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #108" group-title="Adult", MyCamTV XXX Vod #108
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYHLUsP-vZOJPJtDQHvYZfc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #109" group-title="Adult", MyCamTV XXX Vod #109
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQhXp21KbXOXKZ6uxIGFzqM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #11" group-title="Adult", MyCamTV XXX Vod #11
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcVky_pfwofI0gnCNyQAnHE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #110" group-title="Adult", MyCamTV XXX Vod #110
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSZIK6XffhZXYy7YwiiWO5Q/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #111" group-title="Adult", MyCamTV XXX Vod #111
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV7qOAmGkMBf_6aDvC55qH8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #112" group-title="Adult", MyCamTV XXX Vod #112
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfvQUSdCwXNjSCZ1QhPVE9Q/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #113" group-title="Adult", MyCamTV XXX Vod #113
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd3dZXl5qlIUvpYSMGd2jg0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #114" group-title="Adult", MyCamTV XXX Vod #114
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa4lwWb89o3ozGL6ROrYyCE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #115" group-title="Adult", MyCamTV XXX Vod #115
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa4rZKhgPhpgPjCvleFcSPU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #116" group-title="Adult", MyCamTV XXX Vod #116
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYGSxEibt71cEl1r1_6Fdlk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #117" group-title="Adult", MyCamTV XXX Vod #117
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX4wTRzaWlBrJqE_X__DvSU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #118" group-title="Adult", MyCamTV XXX Vod #118
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX8Krpn-UntKZ7qqorcvolA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #119" group-title="Adult", MyCamTV XXX Vod #119
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQT_EmdtXavTHD8LgjCSmKY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #12" group-title="Adult", MyCamTV XXX Vod #12
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJShJe6M-AU8Eu_ILwxDeN28/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #120" group-title="Adult", MyCamTV XXX Vod #120
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXbA1p_brU9ZCJjCCR_aayM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #121" group-title="Adult", MyCamTV XXX Vod #121
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTlUDsHEDr5UCRIjPDPueDs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #122" group-title="Adult", MyCamTV XXX Vod #122
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdcGIZ-VnCbrM3AFdBjA1_I/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #123" group-title="Adult", MyCamTV XXX Vod #123
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSminzFeKbUa1oQm3RG8W2I/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #124" group-title="Adult", MyCamTV XXX Vod #124
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTStz8ph9sKYIbr411F_YnM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #125" group-title="Adult", MyCamTV XXX Vod #125
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbpgk886Ia3teNG1lwod1TA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #126" group-title="Adult", MyCamTV XXX Vod #126
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd5b_iboY6EkS_Rzhr-x_ps/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #127" group-title="Adult", MyCamTV XXX Vod #127
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJes2MDqI545Jww7-aJudYNc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #128" group-title="Adult", MyCamTV XXX Vod #128
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR2RVeXwG1k5SrouvtOSG4s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #129" group-title="Adult", MyCamTV XXX Vod #129
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWElFwTRXE6oOcuq9kDI2xg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #13" group-title="Adult", MyCamTV XXX Vod #13
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUnJjVKTl1dxnkaBj5O4mHE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #130" group-title="Adult", MyCamTV XXX Vod #130
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTTBfJFRgEyIfIR7RPISR-c/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #131" group-title="Adult", MyCamTV XXX Vod #131
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeiHN13dqfxVg61aZF9Q-NQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #132" group-title="Adult", MyCamTV XXX Vod #132
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWgWbLXdMEdh7dZzjhFa-x4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #133" group-title="Adult", MyCamTV XXX Vod #133
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYW1dQo7OmSn2OyuXaJmTEE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #134" group-title="Adult", MyCamTV XXX Vod #134
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTF2hmZMOn3HhTZc5l1XK1M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #135" group-title="Adult", MyCamTV XXX Vod #135
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYd90k5m5IGXgNOPIBhn7dY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #136" group-title="Adult", MyCamTV XXX Vod #136
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeWQhp1w1wsgoMjvcKUUTxE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #137" group-title="Adult", MyCamTV XXX Vod #137
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZxs8Y638BxLBT7ipzUdkQs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #138" group-title="Adult", MyCamTV XXX Vod #138
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRK8boqtjNH4gkUPE1Y35kc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #139" group-title="Adult", MyCamTV XXX Vod #139
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZj_M7jxrcnvPX90Mi-7U3s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #14" group-title="Adult", MyCamTV XXX Vod #14
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdnxxvRsDzghLljkJjF4zF0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #140" group-title="Adult", MyCamTV XXX Vod #140
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeBchFUL_e_i_NVq-cE0NLI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #141" group-title="Adult", MyCamTV XXX Vod #141
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaMZrnfmg9ILe71-TWC-9vA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #142" group-title="Adult", MyCamTV XXX Vod #142
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSS_PCwcc2f00iTJJs1BsQY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #143" group-title="Adult", MyCamTV XXX Vod #143
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTAFlEV8Dc2JtwHV6y1VMPE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #144" group-title="Adult", MyCamTV XXX Vod #144
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTveSpo0Zor-4o2LU_Ojbws/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #145" group-title="Adult", MyCamTV XXX Vod #145
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSvrDlYb9-atFdeeDyOKUYs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #146" group-title="Adult", MyCamTV XXX Vod #146
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSLwXFJy2Mpb5HlDYSH1lfA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #147" group-title="Adult", MyCamTV XXX Vod #147
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfvOQOaHxwaT0ez92R4niHc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #148" group-title="Adult", MyCamTV XXX Vod #148
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSYu7ELkb3eTbosSnwXT8gw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #149" group-title="Adult", MyCamTV XXX Vod #149
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJReHp4RGcoZL5dFXhp8_yC0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #15" group-title="Adult", MyCamTV XXX Vod #15
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXyInA5uSiljiwzQA9uQURk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #150" group-title="Adult", MyCamTV XXX Vod #150
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVa9_FfI9Leat4s6Mue26Fs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #151" group-title="Adult", MyCamTV XXX Vod #151
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRXhr5_-Pti4_hoLGtJdows/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #152" group-title="Adult", MyCamTV XXX Vod #152
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdrGfKupBcrn4pBkAeOwCZQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #153" group-title="Adult", MyCamTV XXX Vod #153
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWPUQ3Oqor9B-Ky1PyWmJXg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #154" group-title="Adult", MyCamTV XXX Vod #154
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWe2gKNiDvuJX2G6uuSby0o/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #155" group-title="Adult", MyCamTV XXX Vod #155
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJclQYx1v4jhXvJGR5VutYX0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #156" group-title="Adult", MyCamTV XXX Vod #156
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbinksRHJ9JPBRF8eecGx6s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #157" group-title="Adult", MyCamTV XXX Vod #157
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaJOdEOjw4A2p829TTPFWfQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #158" group-title="Adult", MyCamTV XXX Vod #158
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUKiVna2BnAJRZGyBI3rBgA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #159" group-title="Adult", MyCamTV XXX Vod #159
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaONAzPE-UuNcugi9CY4IBU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #16" group-title="Adult", MyCamTV XXX Vod #16
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJanEyC06kWW09IYnRLlsDL0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #160" group-title="Adult", MyCamTV XXX Vod #160
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYadzAd9qYc6rK7XNJ9Dgfk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #161" group-title="Adult", MyCamTV XXX Vod #161
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWYfN50uNdGQlKrvZaYk_io/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #162" group-title="Adult", MyCamTV XXX Vod #162
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQidMcxBbQFrHSXKMJAUsZg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #163" group-title="Adult", MyCamTV XXX Vod #163
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ_htMnUl6plXaId_0OA_RY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #164" group-title="Adult", MyCamTV XXX Vod #164
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJctqwQ6JDY0GgwO6GwZ4dUY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #165" group-title="Adult", MyCamTV XXX Vod #165
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVjLYveILtP_Odgg__bfYKY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #166" group-title="Adult", MyCamTV XXX Vod #166
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSzd7lb6c6Gt7Eg7jWBWZXQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #167" group-title="Adult", MyCamTV XXX Vod #167
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWFlTbheUaPId7rdIxxgbls/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #168" group-title="Adult", MyCamTV XXX Vod #168
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY7tUEQ4DlUXFiN__LauznI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #169" group-title="Adult", MyCamTV XXX Vod #169
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWiF8wYSkC0JmBTNbkkTSsA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #17" group-title="Adult", MyCamTV XXX Vod #17
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdPBM4-Kk_Cxxy19BFp0T6E/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #170" group-title="Adult", MyCamTV XXX Vod #170
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaR-JEdRepoZU0SPFvjwR1U/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #171" group-title="Adult", MyCamTV XXX Vod #171
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW_6e97WXzaQxmAQcLwyIJ8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #172" group-title="Adult", MyCamTV XXX Vod #172
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUiZ3-1pVIKa1Bc0XzA-CPU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #173" group-title="Adult", MyCamTV XXX Vod #173
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXiKq3AYkQqrrzHSKDJKqfk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #174" group-title="Adult", MyCamTV XXX Vod #174
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTQta48_-dy7vkLGlbUmK0M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #175" group-title="Adult", MyCamTV XXX Vod #175
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaJfBwW4H7x_iuzGOc_S7ts/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #176" group-title="Adult", MyCamTV XXX Vod #176
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYb0ZfZodfbWxR6xoxiwU88/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #177" group-title="Adult", MyCamTV XXX Vod #177
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZR4oAU5VgBgL7fJUvL3HmE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #178" group-title="Adult", MyCamTV XXX Vod #178
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT1W6R3jAJ5Tyr1JbVJrLrs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #179" group-title="Adult", MyCamTV XXX Vod #179
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcDSO-WFm926bthGH3CGolU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #18" group-title="Adult", MyCamTV XXX Vod #18
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaGc9KMLy9vCMtC8PzAdtSQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #180" group-title="Adult", MyCamTV XXX Vod #180
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdoFo6sdYPLDb3XcCD3blIk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #181" group-title="Adult", MyCamTV XXX Vod #181
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcjRD9Wto__sICPikxsCfzc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #182" group-title="Adult", MyCamTV XXX Vod #182
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWeAjpgUVNZ-yCmGVMVKf0Y/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #183" group-title="Adult", MyCamTV XXX Vod #183
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQRElD5RraEPwHYqBUIu_m8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #184" group-title="Adult", MyCamTV XXX Vod #184
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdobYxzeIky-Emum7y0h-sc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #185" group-title="Adult", MyCamTV XXX Vod #185
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUgZ64SxLwRJoIXBSBVnyw4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #186" group-title="Adult", MyCamTV XXX Vod #186
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJemzVj-DOCl08xicX2C3YZk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #187" group-title="Adult", MyCamTV XXX Vod #187
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaGiLD1UTe2lUxs3kn5UlMA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #188" group-title="Adult", MyCamTV XXX Vod #188
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdNN7_0tcGbLtSKQ1EiluRY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #189" group-title="Adult", MyCamTV XXX Vod #189
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUoDzqMuif3zVmwKU4m2C88/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #19" group-title="Adult", MyCamTV XXX Vod #19
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU_5OITOHBdGPCbBpxBytWA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #190" group-title="Adult", MyCamTV XXX Vod #190
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTm89r_g88YlBtlH5XZyIB8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #191" group-title="Adult", MyCamTV XXX Vod #191
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbmXC1eEgi3DPlqIWSBXP5I/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #192" group-title="Adult", MyCamTV XXX Vod #192
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXE4-F0aV5xd8yI0klgyR3w/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #193" group-title="Adult", MyCamTV XXX Vod #193
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJadGm9Kjvsv3nMaxH7OJiZo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #194" group-title="Adult", MyCamTV XXX Vod #194
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe73T0miYfY4Os_acKhpyXY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #195" group-title="Adult", MyCamTV XXX Vod #195
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVKvfntRmHgHXxyJOOGWRVg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #196" group-title="Adult", MyCamTV XXX Vod #196
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWLKiWa6TSJvH94OpgS5hIo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #197" group-title="Adult", MyCamTV XXX Vod #197
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdj7aXZ5ogPbETT3zvFiNjY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #198" group-title="Adult", MyCamTV XXX Vod #198
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQstv2WnyFtxGCeksZOS6D4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #199" group-title="Adult", MyCamTV XXX Vod #199
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd4BfXWSdNUKJg6hG_pe3Rg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #2" group-title="Adult", MyCamTV XXX Vod #2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbI0neyVduLheyqLYIuIkdE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #20" group-title="Adult", MyCamTV XXX Vod #20
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW90g1IHz1RLdI6CndLdygs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #200" group-title="Adult", MyCamTV XXX Vod #200
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQrn8P6YMo7pqZI78qTUJ4E/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #201" group-title="Adult", MyCamTV XXX Vod #201
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa5HpZcCrTV0-ngNhNhGDm0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #202" group-title="Adult", MyCamTV XXX Vod #202
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf6rWxLYN3_gvoXaR5LQnXE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #203" group-title="Adult", MyCamTV XXX Vod #203
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVHyPUUYbgJrVGJSZFrc8Mo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #204" group-title="Adult", MyCamTV XXX Vod #204
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR5VWDqA-AcEbfHeiYNndX8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #205" group-title="Adult", MyCamTV XXX Vod #205
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdeUTE9D6ERIbEhSBDwSy48/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #206" group-title="Adult", MyCamTV XXX Vod #206
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa0vVZRvPN6Ve-g-PXcu9V8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #207" group-title="Adult", MyCamTV XXX Vod #207
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVAtWjYZado-chbbRu7Mbb0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #208" group-title="Adult", MyCamTV XXX Vod #208
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbhv6D38SqpCapaGgy55uRU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #209" group-title="Adult", MyCamTV XXX Vod #209
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcaSUiQKP_FcvjnFph3TtSQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #21" group-title="Adult", MyCamTV XXX Vod #21
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZABMYcUwPDn7hV2mTEs_xA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #210" group-title="Adult", MyCamTV XXX Vod #210
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZ4nZyOMdVtIiOWrXE8AoQU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #211" group-title="Adult", MyCamTV XXX Vod #211
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR2HNYlt1EVlk2WUn2RfI3g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #212" group-title="Adult", MyCamTV XXX Vod #212
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUWpxi03BIgeHZaQsFeMkqM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #213" group-title="Adult", MyCamTV XXX Vod #213
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbrpxG4aiTAsjOA-pqe9TV4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #214" group-title="Adult", MyCamTV XXX Vod #214
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaADaViWUL0alGxJ64NfNOA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #215" group-title="Adult", MyCamTV XXX Vod #215
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW-VpHCwxpVd6x03usOHDvc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #216" group-title="Adult", MyCamTV XXX Vod #216
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVsH3_J_-xBSRqRloWAiDcA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #217" group-title="Adult", MyCamTV XXX Vod #217
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSD-jYf5wQJesS7Q8TgECao/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #218" group-title="Adult", MyCamTV XXX Vod #218
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbPjp6HnIW70YvXeSC4POPI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #219" group-title="Adult", MyCamTV XXX Vod #219
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUk_HviBHfLq2d6fPRUqxpw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #22" group-title="Adult", MyCamTV XXX Vod #22
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfs9MkATMHyGukq_C5ApmWY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #220" group-title="Adult", MyCamTV XXX Vod #220
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTwnNanLuKibFHggmHkOQss/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #221" group-title="Adult", MyCamTV XXX Vod #221
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf_jPgkLNRkXHYzTR3LnECA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #222" group-title="Adult", MyCamTV XXX Vod #222
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZTaJogr-DXOnVkiGRu8Ul0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #223" group-title="Adult", MyCamTV XXX Vod #223
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQbugE2D1xD7bqgM6a9_iHs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #224" group-title="Adult", MyCamTV XXX Vod #224
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQNFVLpzSdOd2OZcJ5PN-fA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #225" group-title="Adult", MyCamTV XXX Vod #225
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVa0QfrTO1bTlps7d_a-jkE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #226" group-title="Adult", MyCamTV XXX Vod #226
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcGWl7Zl3tmonLfdTwt8KTg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #227" group-title="Adult", MyCamTV XXX Vod #227
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbs_ClG8xmK6ZUJuK98hub0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #228" group-title="Adult", MyCamTV XXX Vod #228
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYS2ljHl1DMzb6_u0DHWXko/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #229" group-title="Adult", MyCamTV XXX Vod #229
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdWZmlgADfeZb2V5qnbo5TU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #23" group-title="Adult", MyCamTV XXX Vod #23
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZGXftMh_nm7XjumGjgp-1s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #230" group-title="Adult", MyCamTV XXX Vod #230
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdgMLT1vaq0iQyYckCpwbWI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #231" group-title="Adult", MyCamTV XXX Vod #231
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVSow42ciVSCKtDOtfSWjJ8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #232" group-title="Adult", MyCamTV XXX Vod #232
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU6hOTP6G9NjS50ridyZXMM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #233" group-title="Adult", MyCamTV XXX Vod #233
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZunw2ZOS03uwUoP7oAMQZE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #234" group-title="Adult", MyCamTV XXX Vod #234
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZvMQUUIjPgM4WDaopHS6Vc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #235" group-title="Adult", MyCamTV XXX Vod #235
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUBgfEvJkFgSKsGg3ynql-w/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #236" group-title="Adult", MyCamTV XXX Vod #236
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbyS-5kP7GmWUZEZGSRwk88/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #237" group-title="Adult", MyCamTV XXX Vod #237
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbo3HCE8tKuY2F7n3h3_Y1g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #238" group-title="Adult", MyCamTV XXX Vod #238
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcKEY0Y3_9NhU6W9exnHcWw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #239" group-title="Adult", MyCamTV XXX Vod #239
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUAjcp0WEz2icsbm0mszVzA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #24" group-title="Adult", MyCamTV XXX Vod #24
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdo4Uayb9ut3eFecDVxDDyc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #240" group-title="Adult", MyCamTV XXX Vod #240
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTOCbkI2UlvnQ29h7reGYNQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #241" group-title="Adult", MyCamTV XXX Vod #241
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJex52R8uI1ywxxg1WOIP4Rk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #242" group-title="Adult", MyCamTV XXX Vod #242
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJehJLp9DpZ4OngExmq5T2SU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #243" group-title="Adult", MyCamTV XXX Vod #243
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfYpZ4TvJy6eUzHk1pZFRdU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #244" group-title="Adult", MyCamTV XXX Vod #244
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcKorj8MeQoPgp8O-b5pLPE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #245" group-title="Adult", MyCamTV XXX Vod #245
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJd0xCYowWl-oaBEXLFhmqxk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #246" group-title="Adult", MyCamTV XXX Vod #246
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTg9NSgNVctlnxMmR4gD_wE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #247" group-title="Adult", MyCamTV XXX Vod #247
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYhArvHdnNlazQQpWFvOMu0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #248" group-title="Adult", MyCamTV XXX Vod #248
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUNYxHDYi3jlVWmV5hDugKI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #249" group-title="Adult", MyCamTV XXX Vod #249
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYw3PojTB59iedcbXseh32M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #25" group-title="Adult", MyCamTV XXX Vod #25
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdAolx3_LCcnUcGr_VPTjI4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #250" group-title="Adult", MyCamTV XXX Vod #250
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdiSb_HOqwC_bNxlz1cjGCI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #251" group-title="Adult", MyCamTV XXX Vod #251
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXIfq0j5XCu2raQwzNnQlLE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #252" group-title="Adult", MyCamTV XXX Vod #252
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeAhevOICYwDmkzO5jHAf_c/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #253" group-title="Adult", MyCamTV XXX Vod #253
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbdMzZ8c2Dz1ydUSm7u9Uuk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #254" group-title="Adult", MyCamTV XXX Vod #254
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeLmiI0llVhxfQqg4GEguKQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #255" group-title="Adult", MyCamTV XXX Vod #255
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYsQ5uiuAeZdTRKLlQfs3Xw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #256" group-title="Adult", MyCamTV XXX Vod #256
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW8OZJKBJrLnd_6WsLV5jsI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #257" group-title="Adult", MyCamTV XXX Vod #257
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYcS1DFuE-Eq0_dE0g9VsjE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #258" group-title="Adult", MyCamTV XXX Vod #258
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfyh4kB82mkmc6NjsJmQi9E/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #259" group-title="Adult", MyCamTV XXX Vod #259
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVydoxpEDwz8O02EotiDKsg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #26" group-title="Adult", MyCamTV XXX Vod #26
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdoyxMHj1OYrz5SDEj03x4M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #260" group-title="Adult", MyCamTV XXX Vod #260
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW-T_NBiRa3Llrz-TgfPxSY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #261" group-title="Adult", MyCamTV XXX Vod #261
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZKdWorkLbKDbHGQkXF7fVE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #262" group-title="Adult", MyCamTV XXX Vod #262
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVO07hBroTcINQbE4SRs8rk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #263" group-title="Adult", MyCamTV XXX Vod #263
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQw_3tFo-oNfNpW3e4m9fls/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #264" group-title="Adult", MyCamTV XXX Vod #264
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXxbM_9GWuZoXMkx4Ainpzk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #265" group-title="Adult", MyCamTV XXX Vod #265
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdlrJNCwJ0DZlof4gpougYs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #266" group-title="Adult", MyCamTV XXX Vod #266
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZfs10OevcxnorMUIe170b4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #267" group-title="Adult", MyCamTV XXX Vod #267
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVQQqyoL1Cr6xSuyou9WjCA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #268" group-title="Adult", MyCamTV XXX Vod #268
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbEf_1mBS5X1lSnVe5GXw8g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #269" group-title="Adult", MyCamTV XXX Vod #269
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTgipHkjK6LFvlSvpzORaNM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #27" group-title="Adult", MyCamTV XXX Vod #27
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTwV_v7eV8S9sz-IbTylDnI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #270" group-title="Adult", MyCamTV XXX Vod #270
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXU9zUIbZXR8JCESwpEdKrk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #271" group-title="Adult", MyCamTV XXX Vod #271
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbGaJyjuA9ElNH-fHu7Llyw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #272" group-title="Adult", MyCamTV XXX Vod #272
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXoJDG_OGyFFraRk2ip4YLc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #273" group-title="Adult", MyCamTV XXX Vod #273
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWDbLtd9j-YJE8Oznq4ZQcQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #274" group-title="Adult", MyCamTV XXX Vod #274
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe9zAOTt2GgSwRz42x4IWXY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #275" group-title="Adult", MyCamTV XXX Vod #275
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUYlVO05DJKGvJn5Cs4Qlpk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #276" group-title="Adult", MyCamTV XXX Vod #276
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVQlo0_-xNfKPQTsJMdkYFY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #277" group-title="Adult", MyCamTV XXX Vod #277
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeDwDWboOngqGtzHXOy5nK0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #278" group-title="Adult", MyCamTV XXX Vod #278
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZGFqPC5xTIeJyaym-LG54s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #279" group-title="Adult", MyCamTV XXX Vod #279
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYaaUOKgGP5NUHOGe0KqlR0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #28" group-title="Adult", MyCamTV XXX Vod #28
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTMbd4UOWqBCOVtBnL2kmTY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #280" group-title="Adult", MyCamTV XXX Vod #280
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJejNK1RIJKYP0q8AYIThZS8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #281" group-title="Adult", MyCamTV XXX Vod #281
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSEP1jJR0uTe9hNZKK4qygA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #282" group-title="Adult", MyCamTV XXX Vod #282
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR_pz1huikttgBddWqXqAWU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #283" group-title="Adult", MyCamTV XXX Vod #283
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSC2OUNVYZclf_IMKFe2fE0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #284" group-title="Adult", MyCamTV XXX Vod #284
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU1F2qxerXBwYJzC5gaICsc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #285" group-title="Adult", MyCamTV XXX Vod #285
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXoJ-pYIf_-2BeqB7xV-lkk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #286" group-title="Adult", MyCamTV XXX Vod #286
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYjxzxyaq-i3YAk8RZ04vAQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #287" group-title="Adult", MyCamTV XXX Vod #287
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZA14BNAXK495HOcEi6wNaQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #288" group-title="Adult", MyCamTV XXX Vod #288
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW88sRCVixKE-_RwIm_4pJo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #289" group-title="Adult", MyCamTV XXX Vod #289
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcWMZSlBedg3jBWSIUzFXbg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #29" group-title="Adult", MyCamTV XXX Vod #29
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTEmLXtJp-M8PqHUk6Mhvtk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #290" group-title="Adult", MyCamTV XXX Vod #290
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRL5xkpklot9Wt0pvI6O3TM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #291" group-title="Adult", MyCamTV XXX Vod #291
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT_n7S4fRmlAcynj15iKmtI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #292" group-title="Adult", MyCamTV XXX Vod #292
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT_wON6KVscANPkivUJYKD0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #293" group-title="Adult", MyCamTV XXX Vod #293
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS7k3MZV2ShoSM9UIBL2Vi8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #294" group-title="Adult", MyCamTV XXX Vod #294
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJedKoVZy4MwpkqPLBze0YtI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #295" group-title="Adult", MyCamTV XXX Vod #295
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa9PGQww-DMfXu1fqNUV1LE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #296" group-title="Adult", MyCamTV XXX Vod #296
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa1vD6sccQufjNDWHndJuzI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #297" group-title="Adult", MyCamTV XXX Vod #297
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYvU3SzQXjeEQxqgc8oy9xQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #298" group-title="Adult", MyCamTV XXX Vod #298
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJel1qc9dT_uCrrwggdYIZS8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #299" group-title="Adult", MyCamTV XXX Vod #299
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS_J7UdSDR3HjvIxViX7IiM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #3" group-title="Adult", MyCamTV XXX Vod #3
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbMElY6c_5ke9GdAfTXXj_0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #30" group-title="Adult", MyCamTV XXX Vod #30
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdlaMu1lfkQiLynMU8BgbxE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #300" group-title="Adult", MyCamTV XXX Vod #300
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUbXlwf_5F_Ujd0tZarE5nI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #301" group-title="Adult", MyCamTV XXX Vod #301
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYk8onfoARrGPv5uoHyPTbY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #302" group-title="Adult", MyCamTV XXX Vod #302
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJerrBFyqZBqgeGAoJnhEGcY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #303" group-title="Adult", MyCamTV XXX Vod #303
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWQe3r-PKv-Il6bVZCgW-o0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #304" group-title="Adult", MyCamTV XXX Vod #304
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdM1fGb3ACZFsD2b0Mne0dU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #305" group-title="Adult", MyCamTV XXX Vod #305
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYBZ96ahmKtvGPvRoHAe7X8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #306" group-title="Adult", MyCamTV XXX Vod #306
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTmmBAgwwl0O4aAmIKTqb6w/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #307" group-title="Adult", MyCamTV XXX Vod #307
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeINzMrMYxUlBrOUvFr-VZw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #308" group-title="Adult", MyCamTV XXX Vod #308
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe5itZtC5rvVbhpDYrJEZ_g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #309" group-title="Adult", MyCamTV XXX Vod #309
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVo_8TT5eJb7OjMlfMcHQwI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #31" group-title="Adult", MyCamTV XXX Vod #31
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUmOFSF-EHcJku8_V6PfeEo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #310" group-title="Adult", MyCamTV XXX Vod #310
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTiqNyxOE2XtkULalyC_Uz8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #311" group-title="Adult", MyCamTV XXX Vod #311
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWFP9VXUpbKf9wyODFcoU_o/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #312" group-title="Adult", MyCamTV XXX Vod #312
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZO5TFUJjEHtbepDlVziPQI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #313" group-title="Adult", MyCamTV XXX Vod #313
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS6JI8bQvlSXtkEVVSEMVMg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #314" group-title="Adult", MyCamTV XXX Vod #314
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVxgOAdijOiSwuPkTgyKUhQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #315" group-title="Adult", MyCamTV XXX Vod #315
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJc_IryIP4gicSRvORzHuqlM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #316" group-title="Adult", MyCamTV XXX Vod #316
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUJCH_Gd8Jchsj350gMTUz4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #317" group-title="Adult", MyCamTV XXX Vod #317
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdd9JB-TLBz9W78Gi-vWXKU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #318" group-title="Adult", MyCamTV XXX Vod #318
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbdBF5zuJ2aoIgj1AZLU4J8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #319" group-title="Adult", MyCamTV XXX Vod #319
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQbVwUVUuPK-7mxB2rrllCI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #32" group-title="Adult", MyCamTV XXX Vod #32
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcBqVHHXsUv1_llhn9ELdtU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #320" group-title="Adult", MyCamTV XXX Vod #320
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb1IRD--_pKd-VmzURab5W8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #321" group-title="Adult", MyCamTV XXX Vod #321
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW6R618rFxBEH_GhP-G5jYs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #322" group-title="Adult", MyCamTV XXX Vod #322
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXZSWLOUEx2Rfahijq6lcCg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #323" group-title="Adult", MyCamTV XXX Vod #323
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYCw-8JSPUqWCmNuelUSOs0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #324" group-title="Adult", MyCamTV XXX Vod #324
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJREv79xRIrC1jpTlbpwR4zs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #325" group-title="Adult", MyCamTV XXX Vod #325
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTj60wzJksrcMBps7-pEfm4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #326" group-title="Adult", MyCamTV XXX Vod #326
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfu6IakUkgY64n-XkmOz8AY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #327" group-title="Adult", MyCamTV XXX Vod #327
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVKqM1N3dfg_fcCwdouozs8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #328" group-title="Adult", MyCamTV XXX Vod #328
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXnltisyQpB6XmBNELtWNUw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #329" group-title="Adult", MyCamTV XXX Vod #329
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYRquAcOao99NVUuTK7v60A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #33" group-title="Adult", MyCamTV XXX Vod #33
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf0rnfERupdyHAiqsCzkxiE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #330" group-title="Adult", MyCamTV XXX Vod #330
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXNtz7wKbQBhMfPBZcoGUDU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #331" group-title="Adult", MyCamTV XXX Vod #331
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeq8I3KqtJxHIjExVGaIlVE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #332" group-title="Adult", MyCamTV XXX Vod #332
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSnTnWBhc2Uhr33u1kKoSnU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #333" group-title="Adult", MyCamTV XXX Vod #333
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV02dFjPFibKLK0qWjZwg3Q/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #334" group-title="Adult", MyCamTV XXX Vod #334
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWOkrC4Fhgjc5zNcUfq3PA8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #335" group-title="Adult", MyCamTV XXX Vod #335
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT4GvEBYzu60pUbFctRxUhM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #336" group-title="Adult", MyCamTV XXX Vod #336
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQMeiZNuPLUdqa1ORCbvuSw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #337" group-title="Adult", MyCamTV XXX Vod #337
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJegtroiPiu9zyLYJdCfKJrk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #338" group-title="Adult", MyCamTV XXX Vod #338
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWgmtiff5kBff3hzg9ANAI0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #339" group-title="Adult", MyCamTV XXX Vod #339
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbS1CTUXO-P42kbKw2duc7s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #34" group-title="Adult", MyCamTV XXX Vod #34
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYVdTO2VGLYIbz87BTg8eRM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #340" group-title="Adult", MyCamTV XXX Vod #340
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdd2-DFUHEq--3JUR-q18aI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #341" group-title="Adult", MyCamTV XXX Vod #341
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQJ51Y_Li5GY95szr5pRKus/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #342" group-title="Adult", MyCamTV XXX Vod #342
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU5LpVYdEvxcY62AkadcPhI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #343" group-title="Adult", MyCamTV XXX Vod #343
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUH_6ghhAq2FSOByu4XK3ME/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #344" group-title="Adult", MyCamTV XXX Vod #344
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVYUhlsRZs7_QuwNNWmI_Ss/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #345" group-title="Adult", MyCamTV XXX Vod #345
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfyOEGe5RTnQIc-ZSBUG65w/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #346" group-title="Adult", MyCamTV XXX Vod #346
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdRTD-S2etmS09DkddCWeUQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #347" group-title="Adult", MyCamTV XXX Vod #347
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeFuO_vhCs6AtGm178AE6AQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #348" group-title="Adult", MyCamTV XXX Vod #348
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeZ3uPNghytIAzs1H8nmaSk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #349" group-title="Adult", MyCamTV XXX Vod #349
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJccs-ySD7LmUh4Sngr3qxKs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #35" group-title="Adult", MyCamTV XXX Vod #35
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXqGS5egZQeovBDnWOoMhDs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #350" group-title="Adult", MyCamTV XXX Vod #350
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZdF2YZKLjmOSULR2murq2M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #351" group-title="Adult", MyCamTV XXX Vod #351
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRVc2YbnATQYre9Vs3hdBVU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #352" group-title="Adult", MyCamTV XXX Vod #352
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb9Zd5rubu0xjIcaNyvWdgk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #353" group-title="Adult", MyCamTV XXX Vod #353
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJabSA-ChAEKccpnYvsxfK2A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #354" group-title="Adult", MyCamTV XXX Vod #354
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYVNZ237lvUF73pvK4IVGiE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #355" group-title="Adult", MyCamTV XXX Vod #355
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfgHMFpT1mt--lc2tnSu9LE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #356" group-title="Adult", MyCamTV XXX Vod #356
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRcxXi6wVFCfYvaEKeacYGM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #357" group-title="Adult", MyCamTV XXX Vod #357
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUKu-NvpfJ5553lNpKOAlgs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #358" group-title="Adult", MyCamTV XXX Vod #358
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcl1lMrFBq7XEP2pfhSMeE0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #359" group-title="Adult", MyCamTV XXX Vod #359
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVS8jMutH_8ZNMldKaCUjjE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #36" group-title="Adult", MyCamTV XXX Vod #36
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYW25Vs3fb8gbuZsapFuIbk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #360" group-title="Adult", MyCamTV XXX Vod #360
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRiViLGsEEYTLa78APGRukI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #361" group-title="Adult", MyCamTV XXX Vod #361
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYyh3-zkYC6HqWbTMQ7QuMY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #362" group-title="Adult", MyCamTV XXX Vod #362
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUacNkxVVkkQzkoHNx0Mtxo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #363" group-title="Adult", MyCamTV XXX Vod #363
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZK6N2o8K0PKFW3Zact2enI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #364" group-title="Adult", MyCamTV XXX Vod #364
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT07r-7Kh-HkorHIKhdcBlE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #365" group-title="Adult", MyCamTV XXX Vod #365
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe9CDG-PxQ867Nrwm10-t64/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #366" group-title="Adult", MyCamTV XXX Vod #366
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW3EzcfL4AOOtWIwuDka6n4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #367" group-title="Adult", MyCamTV XXX Vod #367
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRuymk7lqzKofiCnbZc_4rU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #368" group-title="Adult", MyCamTV XXX Vod #368
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdIJ1jtM_02HlM2ailTNz4M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #369" group-title="Adult", MyCamTV XXX Vod #369
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJanqMjlZb14RWHP7pNHNck4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #37" group-title="Adult", MyCamTV XXX Vod #37
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZViT6OiIupjsmfMuPWVw4Q/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #370" group-title="Adult", MyCamTV XXX Vod #370
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZYJJa1E3WzI48lPqKswWPk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #371" group-title="Adult", MyCamTV XXX Vod #371
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfJUyH-Iib5fp25OvmZAO8Y/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #372" group-title="Adult", MyCamTV XXX Vod #372
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZe97ac2xGMaY-UkAFMjFJk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #373" group-title="Adult", MyCamTV XXX Vod #373
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQQrhbkzNuPZa0O3wLtwZxU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #374" group-title="Adult", MyCamTV XXX Vod #374
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZlSfFsAquTPderAYsOMP9U/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #375" group-title="Adult", MyCamTV XXX Vod #375
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeD83S8EegWuPgJT-VakIRw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #376" group-title="Adult", MyCamTV XXX Vod #376
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZxg0Csd4TQ8uXS7JmdKg9E/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #377" group-title="Adult", MyCamTV XXX Vod #377
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJezQmicq_HMkS5A-WbamcyY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #378" group-title="Adult", MyCamTV XXX Vod #378
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRHGvWr6GvfCCVYUHGRUoH8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #379" group-title="Adult", MyCamTV XXX Vod #379
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRYKrmaJu0aOw9liyIRjv8o/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #38" group-title="Adult", MyCamTV XXX Vod #38
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWmmRNeFuiFQoXNi61e0hpE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #380" group-title="Adult", MyCamTV XXX Vod #380
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJea6q8jXVh6jla2W_YdMvI0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #381" group-title="Adult", MyCamTV XXX Vod #381
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTsfClU6JtpFZGAuanJDAd4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #382" group-title="Adult", MyCamTV XXX Vod #382
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJa-QubyawLQy_HTNVD4jqLA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #383" group-title="Adult", MyCamTV XXX Vod #383
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW10SyTvv5NjEFYv5wxWEIw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #384" group-title="Adult", MyCamTV XXX Vod #384
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQJd3Y9GqjNFtxAcl4wrJFU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #385" group-title="Adult", MyCamTV XXX Vod #385
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYIAtfOJ-k9v-2rOsWGGkv4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #386" group-title="Adult", MyCamTV XXX Vod #386
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYq9rr_pCtOWLxvo5f8W8BI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #387" group-title="Adult", MyCamTV XXX Vod #387
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRMuHco2b-c_visHqW5e9L0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #388" group-title="Adult", MyCamTV XXX Vod #388
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb8WB2AArlp-Lp7vDre7akY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #389" group-title="Adult", MyCamTV XXX Vod #389
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWqNQMpXFBuENivIwNawRpA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #39" group-title="Adult", MyCamTV XXX Vod #39
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXApfly--s1jYp91tlzk7a0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #390" group-title="Adult", MyCamTV XXX Vod #390
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRERztrI8_Gx3x2poHQc_OU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #391" group-title="Adult", MyCamTV XXX Vod #391
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZKB1LcIt8M6y5xizEn7SSw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #392" group-title="Adult", MyCamTV XXX Vod #392
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQiBuRtDTCEGHGTITmCavBw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #393" group-title="Adult", MyCamTV XXX Vod #393
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbQhbOOXHjEoYJ_m568sxL0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #394" group-title="Adult", MyCamTV XXX Vod #394
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYeLUGUO-JCZpTY7X-gWGPs/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #395" group-title="Adult", MyCamTV XXX Vod #395
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQaX8Abe8LKoH3eJ2JInrvU/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #396" group-title="Adult", MyCamTV XXX Vod #396
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJatM4FMkm05x2Z2UzDJBXpQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #397" group-title="Adult", MyCamTV XXX Vod #397
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV3D7gjsNhvFPWuMXeekuwg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #398" group-title="Adult", MyCamTV XXX Vod #398
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY7Urzkg7MG9TYHoVdXTw5A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #399" group-title="Adult", MyCamTV XXX Vod #399
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVmLtpNB06V19T3rZN6A0Ig/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #4" group-title="Adult", MyCamTV XXX Vod #4
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVWaKu8xjYZEbwF66GPmGCQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #40" group-title="Adult", MyCamTV XXX Vod #40
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZmbsOiElXzTvu9b_mYvwBM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #400" group-title="Adult", MyCamTV XXX Vod #400
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU_A9bhVsJ7rRp9BPbdbLQA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #41" group-title="Adult", MyCamTV XXX Vod #41
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZqAdOxu64xn1TqhNIpnJvI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #42" group-title="Adult", MyCamTV XXX Vod #42
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUaFNPRhBAeuDVsFqYa8JT0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #43" group-title="Adult", MyCamTV XXX Vod #43
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR6flgXKQNHPMy392hRU3LE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #44" group-title="Adult", MyCamTV XXX Vod #44
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbVEYWgQNIapqyQP8LnWDmE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #45" group-title="Adult", MyCamTV XXX Vod #45
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY8E3OfeH6zP_cuJr0gGgkg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #46" group-title="Adult", MyCamTV XXX Vod #46
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRbu9xUX7P3whG_Ts33bT58/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #47" group-title="Adult", MyCamTV XXX Vod #47
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSNek_HqNJMo1UO9zatjW6A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #48" group-title="Adult", MyCamTV XXX Vod #48
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWvihDyvLQhFJrEFP4qY6rI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #49" group-title="Adult", MyCamTV XXX Vod #49
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUZ5HDZR_YWppodvIu8289E/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #5" group-title="Adult", MyCamTV XXX Vod #5
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV8fb8UZ5NDmUSt_0LfqOxg/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #50" group-title="Adult", MyCamTV XXX Vod #50
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdgKrV4Bj2juZY-x4MMFWJM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #51" group-title="Adult", MyCamTV XXX Vod #51
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdKrLwM9TH57IIaMjD3DJCI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #52" group-title="Adult", MyCamTV XXX Vod #52
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVXfCBCloMCGoU85aWoizD0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #53" group-title="Adult", MyCamTV XXX Vod #53
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJegztSmVTxiotzI6wc6SInE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #54" group-title="Adult", MyCamTV XXX Vod #54
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS2ovy6_wD-3UwqLIbZQuPw/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #55" group-title="Adult", MyCamTV XXX Vod #55
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYlpMjs6dmxFzv-B-I9QLos/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #56" group-title="Adult", MyCamTV XXX Vod #56
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSUYMqTEpEwpDiuGV9-k-Lo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #57" group-title="Adult", MyCamTV XXX Vod #57
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVyqJ7CcZdUZ_ycpbvURrFY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #58" group-title="Adult", MyCamTV XXX Vod #58
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQWSumOIoe1L2YKBqEI4C_s/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #59" group-title="Adult", MyCamTV XXX Vod #59
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZe_5b-PRg7_-UtXFX9xoYY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #6" group-title="Adult", MyCamTV XXX Vod #6
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJV8wL6ZnVurgzJSTWE-joa4/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #60" group-title="Adult", MyCamTV XXX Vod #60
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWkJS1n7JEx7CXSLznMlb2U/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #61" group-title="Adult", MyCamTV XXX Vod #61
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUqoj0A7D5Gm3xRTMXj51Qk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #62" group-title="Adult", MyCamTV XXX Vod #62
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS9hTI6LBZB8fOF6p6sy3kM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #63" group-title="Adult", MyCamTV XXX Vod #63
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ2HwtYdMBKNM4sj1CHCajo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #64" group-title="Adult", MyCamTV XXX Vod #64
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYBYSy4DvX14PUoUZ1yCR20/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #65" group-title="Adult", MyCamTV XXX Vod #65
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVl9A7s1vJJq079p2uHtDlI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #66" group-title="Adult", MyCamTV XXX Vod #66
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSktorAFI-4OE4tQRH_TjSI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #67" group-title="Adult", MyCamTV XXX Vod #67
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTjHmVaOe9rJxYx9VJ2xVU8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #68" group-title="Adult", MyCamTV XXX Vod #68
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRlLiK8fRc-NJoRyQFii79I/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #69" group-title="Adult", MyCamTV XXX Vod #69
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaDRVY0zYM85lkRs7A15puM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #7" group-title="Adult", MyCamTV XXX Vod #7
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXkHUlTTDghBGXM1O667K18/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #70" group-title="Adult", MyCamTV XXX Vod #70
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUx1ghpyWnT85HUXO9puuSc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #71" group-title="Adult", MyCamTV XXX Vod #71
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZ3gtfLh_O2Ox_HgHwwhkyE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #72" group-title="Adult", MyCamTV XXX Vod #72
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfdzGOWF0hzS5thEVkvNQTo/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #73" group-title="Adult", MyCamTV XXX Vod #73
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVr6mBuMQElGM25gspTI17g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #74" group-title="Adult", MyCamTV XXX Vod #74
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbofQKDQrtMJGiCb8hJPLIE/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #75" group-title="Adult", MyCamTV XXX Vod #75
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUHcTxBdlVTRQQsMvXAOpg8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #76" group-title="Adult", MyCamTV XXX Vod #76
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVOj-K0nDh6SycbGxGkrx3U/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #77" group-title="Adult", MyCamTV XXX Vod #77
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT7sSCta2jIvIonOHSRGN8U/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #78" group-title="Adult", MyCamTV XXX Vod #78
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXIHbRKTN1uuzdYSlrpWsWA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #79" group-title="Adult", MyCamTV XXX Vod #79
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYVHqcedJa4S09-wd596CfY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #8" group-title="Adult", MyCamTV XXX Vod #8
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXBEoPxTDWu0MTb9Mmigtj8/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #80" group-title="Adult", MyCamTV XXX Vod #80
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQAx_mwxRrkvh-8TXFdIsfI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #81" group-title="Adult", MyCamTV XXX Vod #81
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXwPjjG5Pxglpt9yUnkRqKc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #82" group-title="Adult", MyCamTV XXX Vod #82
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdxSlDs2Xqy3G0zOEeYuenI/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #83" group-title="Adult", MyCamTV XXX Vod #83
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf33_bwdHgx30jkQDakMOck/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #84" group-title="Adult", MyCamTV XXX Vod #84
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaeMcA_z-rD60q07f_P69sk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #85" group-title="Adult", MyCamTV XXX Vod #85
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUAj9IQAJv-T5pbQaHr-gxc/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #86" group-title="Adult", MyCamTV XXX Vod #86
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaMMlFpAqoCLo7xKDadxST0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #87" group-title="Adult", MyCamTV XXX Vod #87
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdV305M2NSqeoY5KyDL8o-M/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #88" group-title="Adult", MyCamTV XXX Vod #88
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJejgSmgdaHAKedDzNFPRq4g/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #89" group-title="Adult", MyCamTV XXX Vod #89
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSx-W2e793th8mAtsOVOsU0/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #9" group-title="Adult", MyCamTV XXX Vod #9
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSNDkOVhIJC7GVzQZMjwt8Y/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #90" group-title="Adult", MyCamTV XXX Vod #90
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSqoaO3vxLShjzS-l613rNM/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #91" group-title="Adult", MyCamTV XXX Vod #91
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXiK3SHwqmv1X4XB5UZ3TzQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #92" group-title="Adult", MyCamTV XXX Vod #92
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRZMEGBwsyIbjeS8C8Jbr_c/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #93" group-title="Adult", MyCamTV XXX Vod #93
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZ3PWCeNUddBlwHT2QT-4rY/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #94" group-title="Adult", MyCamTV XXX Vod #94
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdFy4D4studwrR2d3l7kR-A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #95" group-title="Adult", MyCamTV XXX Vod #95
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbbzDp74VTyyCTpH7Savw_A/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #96" group-title="Adult", MyCamTV XXX Vod #96
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJacVNPjgnHHkNNt5IdPbpuA/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #97" group-title="Adult", MyCamTV XXX Vod #97
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZyrcojzWVCHB5AXSHnDfuk/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #98" group-title="Adult", MyCamTV XXX Vod #98
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUYfyEH7GbI2yAAj0F-k4uQ/ts
+#EXTINF: -1 tvg-name="MyCamTV XXX Vod #99" group-title="Adult", MyCamTV XXX Vod #99
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcYduE4dhZge9_RKUp_xvXM/ts
+#EXTINF: -1 tvg-name="POV" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", POV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW7i7U9BpVd7kGosriKgVQI/ts
+#EXTINF: -1 tvg-name="Rough" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Rough
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVMvBzMOnu2uEiH6uvC3_xk/ts
+#EXTINF: -1 tvg-name="Russian" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Russian
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU22eIzZrV1NbsXllDcis2I/ts
+#EXTINF: -1 tvg-name="Teen" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Teen
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWZtioJkLgZmBxyFDJ_RtE0/ts
+#EXTINF: -1 tvg-name="Threesome" tvg-logo="http://lifetvbd.xyz:8080/images/8f64eb70cdcf3e2a97e295a57e6a4d30.jpg" group-title="Adult", Threesome
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfsbJv1vgVi3P2IAgDi3nHs/ts
+#EXTINF: -1 tvg-name="Ananda Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3faba8f3f9889724cd4856caad42efe1.png" group-title="Bangladesh", Ananda Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX8-lOjmd5TBuzfkqbfu3UE/ts
+#EXTINF: -1 tvg-name="Asian TV HD" tvg-logo="http://lifetvbd.xyz:8080/images/8afc338cd2f611d1bf83de1f172611fc.png" group-title="Bangladesh", Asian TV HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf6ANQEMjWySBGp0qmQXkFg/ts
+#EXTINF: -1 tvg-name="ATN Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/06459ac3880487fe7aa5df85f099a004.png" group-title="Bangladesh", ATN Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYARZ-0liNRoa6Al6EuT8uc/ts
+#EXTINF: -1 tvg-name="ATN Music" tvg-logo="http://lifetvbd.xyz:8080/images/188b595147f12e6aeea2e2aefa534836.png" group-title="Bangladesh", ATN Music
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ2m8K8mGdvN0vUS_aFGdT0/ts
+#EXTINF: -1 tvg-name="Bangla Vision" tvg-logo="http://lifetvbd.xyz:8080/images/c6938f7eba2a97a97c2bd2f51826a7e1.png" group-title="Bangladesh", Bangla Vision
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZ6imzKgOd5H0UgNjdF49EA/ts
+#EXTINF: -1 tvg-name="Bijoy Tv" tvg-logo="http://lifetvbd.xyz:8080/images/890c4b612aded4cbc5356e38a7e40f3a.png" group-title="Bangladesh", Bijoy Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQQtcmqDxZplK1uCFdPr78g/ts
+#EXTINF: -1 tvg-name="Boishakhi Tv" tvg-logo="http://lifetvbd.xyz:8080/images/c979b4d0666b54873607acb6b53e832d.png" group-title="Bangladesh", Boishakhi Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS-UpEd4VJO8R7_a3n3-ABQ/ts
+#EXTINF: -1 tvg-name="BTV CTG" tvg-logo="http://lifetvbd.xyz:8080/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="Bangladesh", BTV CTG
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR-X7uO0c3q7kyrPxIlKsUk/ts
+#EXTINF: -1 tvg-name="BTV HD" tvg-logo="http://lifetvbd.xyz:8080/images/229aa3197d43cabbd254ce8813d0c55b.png" group-title="Bangladesh", BTV HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQeW5Iv3vp_KEvWAn-YNFXs/ts
+#EXTINF: -1 tvg-name="BTV World" tvg-logo="http://lifetvbd.xyz:8080/images/289266f7ce6d6c550c0258f6d165dde7.png" group-title="Bangladesh", BTV World
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU-O9UCxjcb4T-KH9SRQ5TA/ts
+#EXTINF: -1 tvg-name="Channel 9" tvg-logo="http://lifetvbd.xyz:8080/images/897a47586a7e59446bbb5c5014d17e9c.png" group-title="Bangladesh", Channel 9
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYB6LqXDHRv0Ad5l5f86aQI/ts
+#EXTINF: -1 tvg-name="Channel i HD" tvg-logo="http://lifetvbd.xyz:8080/images/3892ea18b4490fe705b193cad23914ce.png" group-title="Bangladesh", Channel i HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS8ni5wftBtf3zIgP6T0TzI/ts
+#EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdXTclI_zKGNSjN7I9gwFrI/ts
+#EXTINF: -1 tvg-name="Ekushey Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="Bangladesh", Ekushey Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJejRi88VaXmtKhyKEVqU9hw/ts
+#EXTINF: -1 tvg-name="Gaanbangla" tvg-logo="http://lifetvbd.xyz:8080/images/ee10909a71fe8d47197473539cb785ab.png" group-title="Bangladesh", Gaanbangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRX86ATRlOUh4k8r2V_RFAk/ts
+#EXTINF: -1 tvg-name="Gazi Tv" tvg-logo="http://lifetvbd.xyz:8080/images/a97267af7ba924a8610153b421e0509e.png" group-title="Bangladesh", Gazi Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWTyGwHvQ7o1ZU_2Yl2ixqo/ts
+#EXTINF: -1 tvg-name="Global Tv" tvg-logo="http://lifetvbd.xyz:8080/images/2b7c64332566b6c26b261c87788895ff.png" group-title="Bangladesh", Global Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTS32IsB2ohbMyGDia4FdiQ/ts
+#EXTINF: -1 tvg-name="Green Tv" tvg-logo="http://lifetvbd.xyz:8080/images/7091a5ff2a3fedcd1bc3fd7ee7e503b2.png" group-title="Bangladesh", Green Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfpAc6z0ehQ_YeYpCEMjbE0/ts
+#EXTINF: -1 tvg-name="Jagoroni Tv" tvg-logo="http://lifetvbd.xyz:8080/images/5382bb90c9887fa0b1725bb01772a658.png" group-title="Bangladesh", Jagoroni Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdGV8cerwRZO3ns_w26E73g/ts
+#EXTINF: -1 tvg-name="Janmavumi Tv" tvg-logo="http://lifetvbd.xyz:8080/images/6c17ef327a4dcaa29b6b027dadf77316.png" group-title="Bangladesh", Janmavumi Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQbJusxUK4i4-YR5Cw2sA2Y/ts
+#EXTINF: -1 tvg-name="Machranga Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3f5cb5cb7ef2d917ec4bd1ff264adf29.png" group-title="Bangladesh", Machranga Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcvr-0fi3la1JWkDJ_Bt_SA/ts
+#EXTINF: -1 tvg-name="Mohona" tvg-logo="http://lifetvbd.xyz:8080/images/702250bb06082e249061bfe5a06c50b4.png" group-title="Bangladesh", Mohona
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTyvgaMKwZ_KVTCGEe24fpM/ts
+#EXTINF: -1 tvg-name="Movie Bangla" group-title="Bangladesh", Movie Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf6KnVZYmkI3CfQCe-mNxgc/ts
+#EXTINF: -1 tvg-name="My Tv" tvg-logo="http://lifetvbd.xyz:8080/images/d9fc636c7979352b82ccd72a34820a92.png" group-title="Bangladesh", My Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcR1WBOmd-e8nQvftb3Z9cw/ts
+#EXTINF: -1 tvg-name="Nan Tv" tvg-logo="http://lifetvbd.xyz:8080/images/69cc5b8e7601bf00aa96bcd81491d6e6.png" group-title="Bangladesh", Nan Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJc8wPGyEfyNv2GKlZb_lRnc/ts
+#EXTINF: -1 tvg-name="Nexus Tv" tvg-logo="http://lifetvbd.xyz:8080/images/b9202a78e6dd112d3a166aceabf76b04.png" group-title="Bangladesh", Nexus Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT1k1jumgQ4uOZxsBP_MhQE/ts
+#EXTINF: -1 tvg-name="NTV" tvg-logo="http://lifetvbd.xyz:8080/images/dc6c0af3c907c07b3a4fd97d13b10c0d.png" group-title="Bangladesh", NTV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcc9UZunvtp99HyqTq-Q9-A/ts
+#EXTINF: -1 tvg-name="P.B-AB Tv" tvg-logo="http://lifetvbd.xyz:8080/images/3880d31c5b2691a939b5b6297f257486.png" group-title="Bangladesh", P.B-AB Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVKhylSEYjCy_xoReynGqGA/ts
+#EXTINF: -1 tvg-name="P.B-Bangla Tv" tvg-logo="http://lifetvbd.xyz:8080/images/b0a528d5727b1940c893ee51680e77e3.png" group-title="Bangladesh", P.B-Bangla Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSVQ99NEcPr_1nPNFtYMvmM/ts
+#EXTINF: -1 tvg-name="P.B-Biswa Bangla Tv" tvg-logo="http://lifetvbd.xyz:8080/images/2a70a8772c0a19290904e5150c97bfa6.png" group-title="Bangladesh", P.B-Biswa Bangla Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSl2YmT0oAhqSqujECIOCkw/ts
+#EXTINF: -1 tvg-name="P.B-DESHE BIDESHE TV" tvg-logo="http://lifetvbd.xyz:8080/images/07a8c8ad867d8c6117786545c2060fc4.png" group-title="Bangladesh", P.B-DESHE BIDESHE TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW29mURIralTZuPnSxRZYFw/ts
+#EXTINF: -1 tvg-name="P.B-Doyel Tv" group-title="Bangladesh", P.B-Doyel Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbikluLxejbCjWP4KSx-uME/ts
+#EXTINF: -1 tvg-name="P.B-IBTV USA Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/c2266fe8bf879fae9c470b6eaf5bb5ad.png" group-title="Bangladesh", P.B-IBTV USA Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf2MlAKU1LhTQukx5qIjVq4/ts
+#EXTINF: -1 tvg-name="P.B-Millennium TV" tvg-logo="http://lifetvbd.xyz:8080/images/4cf84bd868177e7a88172aa2b85595ae.png" group-title="Bangladesh", P.B-Millennium TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe-dgbDXL5CpmezF1hvXALQ/ts
+#EXTINF: -1 tvg-name="P.B-NRB Tv" tvg-logo="http://lifetvbd.xyz:8080/images/f7db1b22363477b3b6f6f31b272ba4e3.png" group-title="Bangladesh", P.B-NRB Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW6oW7MuteMh_XPYCWjVPTk/ts
+#EXTINF: -1 tvg-name="P.B-Probashi Tv" group-title="Bangladesh", P.B-Probashi Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXxQEVKewt3DNprQVR4zUsQ/ts
+#EXTINF: -1 tvg-name="P.B-The Channel Tv" tvg-logo="http://lifetvbd.xyz:8080/images/19f86c3238caf47b101faaaaae458773.png" group-title="Bangladesh", P.B-The Channel Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaPOE6FuXct5exvH1RIP86o/ts
+#EXTINF: -1 tvg-name="Rajdhani Tv" tvg-logo="http://lifetvbd.xyz:8080/images/29970cf1ea4c26e2b2b0f875272fe31b.png" group-title="Bangladesh", Rajdhani Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRsEr2cFmQOCCUBFq44-kyg/ts
+#EXTINF: -1 tvg-name="Rtv" tvg-logo="http://lifetvbd.xyz:8080/images/31804ce743f2efbbbe47cb3efcebbc89.png" group-title="Bangladesh", Rtv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYyQnpAJU3zClssHNIztU8M/ts
+#EXTINF: -1 tvg-name="SA TV" tvg-logo="http://lifetvbd.xyz:8080/images/f9c40d6742a28b71803599b070986f00.png" group-title="Bangladesh", SA TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcj86b-nw45IyJR-0H_b1t8/ts
+#EXTINF: -1 tvg-name="T Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/70d30cb785480dd8c1261ce78cc2dc70.png" group-title="Bangladesh", T Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVLXUEbrBHZudPOsZgoN1mg/ts
+#EXTINF: -1 tvg-name="Toffe Drama" group-title="Bangladesh", Toffe Drama
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUTBA0xICsOTW7Gl0ZVDMAs/ts
+#EXTINF: -1 tvg-name="Toffe Movies" group-title="Bangladesh", Toffe Movies
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZMbxo3gxZP9n6eG2jTGNdU/ts
+#EXTINF: -1 tvg-name="Varendra Tv" tvg-logo="http://lifetvbd.xyz:8080/images/6f755f5d58deda67f48a7df18f03a3c9.png" group-title="Bangladesh", Varendra Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeYz1-BXKdZhom5SqDP3jVw/ts
+#EXTINF: -1 tvg-name="Angel TV America (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/a6bf4406927015ad74074628f23cedf5.png" group-title="Canada", Angel TV America (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTpakUPnopjRrvHn-APGLwQ/ts
+#EXTINF: -1 tvg-id="BNNB" tvg-name="BNN Bloomberg" tvg-logo="http://lifetvbd.xyz:8080/images/212a3b3f2474e24a95f53fecdc9b5556.png" group-title="Canada", BNN Bloomberg
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYjbJ7f6zWZbaRryAakdoMc/ts
+#EXTINF: -1 tvg-name="Canada Star TV (720p)" tvg-logo="https://i.imgur.com/57iXCDh.png" group-title="Canada", Canada Star TV (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfVyzuLToPGPP0EkrY29-_k/ts
+#EXTINF: -1 tvg-name="CBC News (720p)" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada", CBC News (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQCeqjNQWyufs3-Ju6eVfuY/ts
+#EXTINF: -1 tvg-name="CCTV-4 America (1080p)" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Canada", CCTV-4 America (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQDctDvugYlgjqn6Dm-xtX4/ts
+#EXTINF: -1 tvg-name="Corporation de Télévision Brandon (CTB TV)" tvg-logo="http://lifetvbd.xyz:8080/images/c988af76c50dffde80d85dd609951593.png" group-title="Canada", Corporation de Télévision Brandon (CTB TV)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSqe9MOXDnyKJ275FaLDi84/ts
+#EXTINF: -1 tvg-name="CPAC (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/c4d1818470aa4783dc04f3f9a9c1adb3.png" group-title="Canada", CPAC (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdoxqDCfR8kuVWLlHIu6OOY/ts
+#EXTINF: -1 tvg-name="Degrassi The Next Generation (Canada) (720p)" tvg-logo="https://i.imgur.com/FaHYS73.png" group-title="Canada", Degrassi The Next Generation (Canada) (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRxGbJ7Qxq1qX2rrEMjJ59w/ts
+#EXTINF: -1 tvg-name="Erfan Halgheh TV (720p)" tvg-logo="http://lifetvbd.xyz:8080/images/f9a6e68a226b4928fa1228711225db9f.png" group-title="Canada", Erfan Halgheh TV (720p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdsbepZc89ynfF5n2kf6Rak/ts
+#EXTINF: -1 tvg-name="Fight Network (1080p)" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Canada", Fight Network (1080p)
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdBSinYqr8ZrA4IKM8IW140/ts
+#EXTINF: -1 tvg-name="Animal Planet HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/0bbfc806f5ab766e049cc9f848823196.png" group-title="INFO & DOCUMENTORY", Animal Planet HD Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZHO9ioOxQ15W5bgIL8ZQwU/ts
+#EXTINF: -1 tvg-name="Discovery Australia" group-title="INFO & DOCUMENTORY", Discovery Australia
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYrg20NwwsMJztHDgF-w3I0/ts
+#EXTINF: -1 tvg-name="Discovery Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/48e3cf79657da58d23a465bfb123207b.png" group-title="INFO & DOCUMENTORY", Discovery Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZ2u3t9pqGNVSnV5nVKdsOQ/ts
+#EXTINF: -1 tvg-name="Discovery bangla Backup" tvg-logo="http://lifetvbd.xyz:8080/images/48e3cf79657da58d23a465bfb123207b.png" group-title="INFO & DOCUMENTORY", Discovery bangla Backup
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSbspudG-sX08wFo2x3pHU8/ts
+#EXTINF: -1 tvg-name="Discovery Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/48e3cf79657da58d23a465bfb123207b.png" group-title="INFO & DOCUMENTORY", Discovery Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdkUoI9UVSJuyyJpb5p9NEs/ts
+#EXTINF: -1 tvg-name="Discovery Relaxation" group-title="INFO & DOCUMENTORY", Discovery Relaxation
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeaOENnVN6zhkHA_0CpwhZk/ts
+#EXTINF: -1 tvg-name="Fox Weather" group-title="INFO & DOCUMENTORY", Fox Weather
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfpe1E5FKMUsoIJS-l6BQZU/ts
+#EXTINF: -1 tvg-name="History TV 18 India" tvg-logo="http://lifetvbd.xyz:8080/images/3f0cda7d238e2611b23e36a031fda1b0.png" group-title="INFO & DOCUMENTORY", History TV 18 India
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQiZvaepDcQP4hOb7VTCnDU/ts
+#EXTINF: -1 tvg-name="Nat Geo Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/2e994647df142e4138fc029c2de62a2e.png" group-title="INFO & DOCUMENTORY", Nat Geo Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeK-S-E4tESYrZ4Y2hOT8s8/ts
+#EXTINF: -1 tvg-name="Nat Geo HD ENG" tvg-logo="http://lifetvbd.xyz:8080/images/2e994647df142e4138fc029c2de62a2e.png" group-title="INFO & DOCUMENTORY", Nat Geo HD ENG
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWA4nKgRdjiCHQQaw7A5xxw/ts
+#EXTINF: -1 tvg-name="Nat Geo HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/2e994647df142e4138fc029c2de62a2e.png" group-title="INFO & DOCUMENTORY", Nat Geo HD Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXJzBxntsAOVa7Q_tZIFRCo/ts
+#EXTINF: -1 tvg-name="Nat Geo Kids" group-title="INFO & DOCUMENTORY", Nat Geo Kids
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRundoENIpE8RaRYmj9wUWs/ts
+#EXTINF: -1 tvg-name="NAT GEO Wild Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/a63bc739b61b16dc13f425e0a34a7a1d.png" group-title="INFO & DOCUMENTORY", NAT GEO Wild Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfYjpNHQGBvPTdKfbH4R2gI/ts
+#EXTINF: -1 tvg-name="Sony BBC Earth" group-title="INFO & DOCUMENTORY", Sony BBC Earth
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUdWg3tXKgoif8ASZAkYUms/ts
+#EXTINF: -1 tvg-name="Ary Zindegi" group-title="Pakistani", Ary Zindegi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX9fA48B-_CUCggGad5QeMQ/ts
+#EXTINF: -1 tvg-name="ATV" group-title="Pakistani", ATV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXj3rZfM2WC4qUY-GIWDYLM/ts
+#EXTINF: -1 tvg-name="Bol Entertainment" group-title="Pakistani", Bol Entertainment
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSj7acOzBezNcpnGtfzqWpQ/ts
+#EXTINF: -1 tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Pakistani", Discover Pakistan
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJceroATiUCfJZ3TNQT-aoUA/ts
+#EXTINF: -1 tvg-name="Geo Kahani" group-title="Pakistani", Geo Kahani
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQpTm64Wl8ewDma9XI7_KFc/ts
+#EXTINF: -1 tvg-name="GEO News" group-title="Pakistani", GEO News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXs9e2IHv1bq3arW7fQbaeU/ts
+#EXTINF: -1 tvg-name="Green Entertainment" group-title="Pakistani", Green Entertainment
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJf_CaEZH8__MYt-S00Kgz_k/ts
+#EXTINF: -1 tvg-name="Hum Masala" group-title="Pakistani", Hum Masala
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRJr7m3ahnMbav35ZvYbzIs/ts
+#EXTINF: -1 tvg-name="HUM TV" group-title="Pakistani", HUM TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQfTEMxOzLsN8pF4rctrYAA/ts
+#EXTINF: -1 tvg-name="Play Entertainment" group-title="Pakistani", Play Entertainment
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUvRU228t8v1gKmZvlktiRs/ts
+#EXTINF: -1 tvg-name="Ashrafi Tv" tvg-logo="http://lifetvbd.xyz:8080/images/d935e692771c6f47ac1da2158faefc94.png" group-title="Religious", Ashrafi Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJc-Nh7bxV0kjqO-hk3D8y7U/ts
+#EXTINF: -1 tvg-name="Azan Tv" tvg-logo="http://lifetvbd.xyz:8080/images/e0e25ee1020774bfec8600767c659141.png" group-title="Religious", Azan Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJevI3hc4SXL1VTL16fWh_uY/ts
+#EXTINF: -1 tvg-name="Deen Tv" tvg-logo="http://lifetvbd.xyz:8080/images/54d7beb6e439d15f88fc0d660c53beff.png" group-title="Religious", Deen Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJelJmCYpCIDpwHVmgacbbc0/ts
+#EXTINF: -1 tvg-name="Islam Tv" group-title="Religious", Islam Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTnt-UGYNnKFoiT9CcWLRP0/ts
+#EXTINF: -1 tvg-name="Madina live" tvg-logo="http://lifetvbd.xyz:8080/images/db09fd5113896a4b205c437315ef8822.png" group-title="Religious", Madina live
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeBGE2CggzzxZbocwOf_qnY/ts
+#EXTINF: -1 tvg-name="Makka Live" tvg-logo="http://lifetvbd.xyz:8080/images/4daa77c436a58e9f7fcaccf95224c574.png" group-title="Religious", Makka Live
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJX8IEBDxIr0w5kxTlNEiD5o/ts
+#EXTINF: -1 tvg-name="Peace of Mind Hindi" group-title="Religious", Peace of Mind Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTe0FLXpxChZMX4igIgpMqg/ts
+#EXTINF: -1 tvg-name="Peace Tv Eng" tvg-logo="http://lifetvbd.xyz:8080/images/5a6db57e845e8231e36e6e3bd976925a.png" group-title="Religious", Peace Tv Eng
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJapLc04pWHFX55UCVQ-9pF0/ts
+#EXTINF: -1 tvg-name="Astro Cricket" tvg-logo="http://lifetvbd.xyz:8080/images/b7c85f7d0bc66b8629e93add15c5497f.png" group-title="SPORTS | Cricket", Astro Cricket
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR-bBIdKmAhKOe04ohQxbbg/ts
+#EXTINF: -1 tvg-name="Fox Cricket" tvg-logo="http://lifetvbd.xyz:8080/images/5f16d8984444973b603c84b75924ac70.png" group-title="SPORTS | Cricket", Fox Cricket
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWB6zlkRCloo2X3UtDIaOk8/ts
+#EXTINF: -1 tvg-name="JIO Cricket English" group-title="SPORTS | Cricket", JIO Cricket English
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaWUwFTAmwZf6dh1cFkUWmI/ts
+#EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS | Cricket", PTV Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXDuC9OvHxtE6WdNE9oVIFs/ts
+#EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/dade191ddb0cc89a02ddff0e2d1853aa.png" group-title="SPORTS | Cricket", Sports18 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUPnhDg1y-fwgU5XxLam_3A/ts
+#EXTINF: -1 tvg-name="Ten Cricket" group-title="SPORTS | Cricket", Ten Cricket
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSvxoik1hu_h3wAldT56B60/ts
+#EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="SPORTS | Cricket", Ten Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJePXLKfByYoML-ihG5oGZIc/ts
+#EXTINF: -1 tvg-name="ATN News" tvg-logo="http://lifetvbd.xyz:8080/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="Bangladeshi News", ATN News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTZwzUirN-8og-BAwI6UNcE/ts
+#EXTINF: -1 tvg-name="Channel 24" tvg-logo="http://lifetvbd.xyz:8080/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="Bangladeshi News", Channel 24
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS2miav27g-yeOIgOF4zVt0/ts
+#EXTINF: -1 tvg-name="DBC News" tvg-logo="http://lifetvbd.xyz:8080/images/06f8c00fb687b120e47fda666733fb89.png" group-title="Bangladeshi News", DBC News
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbUr6wumpcMZbpYVc-cMU3c/ts
+#EXTINF: -1 tvg-name="Ekattor Tv" tvg-logo="http://lifetvbd.xyz:8080/images/156b24455f88cd88ea623e35278b5594.png" group-title="Bangladeshi News", Ekattor Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXrL_dGymYy41ImTtvu-wgo/ts
+#EXTINF: -1 tvg-name="Independent Tv" tvg-logo="http://lifetvbd.xyz:8080/images/f1ea975834a5b63f4903ef3f3a8153c5.png" group-title="Bangladeshi News", Independent Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUO98RLlxHmFtVB8XRox6ao/ts
+#EXTINF: -1 tvg-name="Jago News 24" tvg-logo="http://lifetvbd.xyz:8080/images/0bf9fdad70170c8d1c1174b7fc023869.png" group-title="Bangladeshi News", Jago News 24
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJY3r5G7PYKSR-iDTm4zOudc/ts
+#EXTINF: -1 tvg-name="Jamuna Tv" tvg-logo="http://lifetvbd.xyz:8080/images/70f0394f75c4b4aa1f96c03337594e3c.png" group-title="Bangladeshi News", Jamuna Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcwhrFT_Tn1IjEi85gQfebY/ts
+#EXTINF: -1 tvg-name="News 24" tvg-logo="http://lifetvbd.xyz:8080/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="Bangladeshi News", News 24
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXa0hNRRZKrfMm5H-OqPU3s/ts
+#EXTINF: -1 tvg-name="Somoy TV" tvg-logo="http://lifetvbd.xyz:8080/images/38db69f097cfccf074d99a480c073f50.png" group-title="Bangladeshi News", Somoy TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQC7L5qIPPu57e_AyRa42bk/ts
+#EXTINF: -1 tvg-name="Somoy Tv HD" tvg-logo="http://lifetvbd.xyz:8080/images/38db69f097cfccf074d99a480c073f50.png" group-title="Bangladeshi News", Somoy Tv HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRgttvO7CTdjTbTo1rEsJj4/ts
+#EXTINF: -1 tvg-name="Bhojpuri Cinema" group-title="Indian Regional", Bhojpuri Cinema
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ9n36ykZmVLU8AH5cRd8uw/ts
+#EXTINF: -1 tvg-name="Dhamaal" group-title="Indian Regional", Dhamaal
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcEeVq-X9evTB7P8UcIdfp8/ts
+#EXTINF: -1 tvg-name="Shemaroo Marathibana" group-title="Indian Regional", Shemaroo Marathibana
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXAQ6z9t14vWYhgI6De1cH0/ts
+#EXTINF: -1 tvg-name="Bollywood Movies 1" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", Bollywood Movies 1
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUDq1kfwEajfjKNy0VegoqA/ts
+#EXTINF: -1 tvg-name="Bollywood Movies 2" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", Bollywood Movies 2
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUeSmBYW8F2AGZMGgP1Gm4w/ts
+#EXTINF: -1 tvg-name="Bollywood Movies 3" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", Bollywood Movies 3
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSEJL4uSOcHvJdjF1BIt2Z0/ts
+#EXTINF: -1 tvg-name="Bollywood Movies 4" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", Bollywood Movies 4
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWtUF3nw_sxgYOc9nUbONnQ/ts
+#EXTINF: -1 tvg-name="Bollywood Movies 5" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", Bollywood Movies 5
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUrE9V4KVOa6_Da_8xd3iz0/ts
+#EXTINF: -1 tvg-name="James Bond Movies" tvg-logo="http://lifetvbd.xyz:8080/images/65452d2f4cd249151fe21d1bbbc314a5.png" group-title="Netflix Movies & Series", James Bond Movies
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU1diGLh8PN_0a6cUGJV89s/ts
+#EXTINF: -1 tvg-name="Cartoon Net HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/e311cde4840d9ec2085d908c20d998e8.png" group-title="KIDS", Cartoon Net HD Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeTseRodqWpuZJ1VcEiO8MY/ts
+#EXTINF: -1 tvg-name="Cartoon Net UK" tvg-logo="http://lifetvbd.xyz:8080/images/e311cde4840d9ec2085d908c20d998e8.png" group-title="KIDS", Cartoon Net UK
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdfqtz8G_1pk1x0qgN1wt24/ts
+#EXTINF: -1 tvg-name="Cartoon Network" tvg-logo="http://lifetvbd.xyz:8080/images/e311cde4840d9ec2085d908c20d998e8.png" group-title="KIDS", Cartoon Network
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQRRi9xTJUKtNU-7UC1vmmg/ts
+#EXTINF: -1 tvg-name="Disney HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="KIDS", Disney HD Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXSHgYx34u3rnD8cCuzhWpE/ts
+#EXTINF: -1 tvg-name="Disney SD" tvg-logo="http://lifetvbd.xyz:8080/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="KIDS", Disney SD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSf7kC_D2XenRTSW6Yo3-yM/ts
+#EXTINF: -1 tvg-name="Disney XD" tvg-logo="http://lifetvbd.xyz:8080/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="KIDS", Disney XD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeciROordtrQ2TRTPdmUr44/ts
+#EXTINF: -1 tvg-name="Duranto TV" tvg-logo="http://lifetvbd.xyz:8080/images/46af308772f6f3bd73620358df48d7fc.png" group-title="KIDS", Duranto TV
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJexS-LEThiGcHQKmguSDoJQ/ts
+#EXTINF: -1 tvg-name="Duranto Tv backup" group-title="KIDS", Duranto Tv backup
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUaN_7Jfwghd3DOWAeFyZyI/ts
+#EXTINF: -1 tvg-name="Hungama" tvg-logo="http://lifetvbd.xyz:8080/images/ba7a464aacc1cbf68278c7051679ec0e.png" group-title="KIDS", Hungama
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRdmxl6fQ43Ha8mlLzAbQa4/ts
+#EXTINF: -1 tvg-name="Kids Creation" tvg-logo="http://lifetvbd.xyz:8080/images/f4f655bd7cf90541db55a08cf18ab78d.png" group-title="KIDS", Kids Creation
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWZm8siFhoBUCakfAbk3Kng/ts
+#EXTINF: -1 tvg-name="Nick Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/67e3337de6d6315fc280860a89ad4f48.png" group-title="KIDS", Nick Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS27yiDugazVaufg3JaDHTM/ts
+#EXTINF: -1 tvg-name="Nick HD Plus" tvg-logo="http://lifetvbd.xyz:8080/images/67e3337de6d6315fc280860a89ad4f48.png" group-title="KIDS", Nick HD Plus
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTWIBcKkDtRM33kecZYekXg/ts
+#EXTINF: -1 tvg-name="Nick Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/67e3337de6d6315fc280860a89ad4f48.png" group-title="KIDS", Nick Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfOY-hQDYODsf-4agv00RtI/ts
+#EXTINF: -1 tvg-name="Nick Jr" tvg-logo="http://lifetvbd.xyz:8080/images/67e3337de6d6315fc280860a89ad4f48.png" group-title="KIDS", Nick Jr
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVkJ_0S_JI79Bzx-DIWv9Ao/ts
+#EXTINF: -1 tvg-name="Nicktoons" tvg-logo="http://lifetvbd.xyz:8080/images/842696790d40bcc63ed460ff6a683432.png" group-title="KIDS", Nicktoons
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJS1aRmVN-ViZ8R4OO7Em1BY/ts
+#EXTINF: -1 tvg-name="Pogo" tvg-logo="http://lifetvbd.xyz:8080/images/cf7b4a7af9dec670dcc655d739ca33fc.png" group-title="KIDS", Pogo
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT1f1ZLUVb8HC-KFqaHgwdM/ts
+#EXTINF: -1 tvg-name="Rongeen Tv" tvg-logo="http://lifetvbd.xyz:8080/images/366294cfd797e3f367783fc72ed6b90b.png" group-title="KIDS", Rongeen Tv
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJePmpqryozOYSJw9xZboi7c/ts
+#EXTINF: -1 tvg-name="Sonic Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/48942282904605980f8da906b9c4ed5d.png" group-title="KIDS", Sonic Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXoFgogj_tcqNU6jtr0n41o/ts
+#EXTINF: -1 tvg-name="Sonic Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/48942282904605980f8da906b9c4ed5d.png" group-title="KIDS", Sonic Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW6UhHdyIzSQ7--gpJL4hJg/ts
+#EXTINF: -1 tvg-name="Super Hungama" group-title="KIDS", Super Hungama
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUzuiAerk_k2JCuIwMb4UZk/ts
+#EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTEs_EjEZ7Yf_Jx02VSuj7g/ts
+#EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXvDSK9g6Fg9nbA6o2TcFQc/ts
+#EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaBYUXiK8mknWGb7tRlSkQY/ts
+#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcjjo7uZvDRKzbwOzsHE1yk/ts
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/f0ae48928080f4260e7a1d6bfffc6c6f.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJT_YwovXWh5oO4f_xTdS7yk/ts
+#EXTINF: -1 tvg-name="Star Sports 1 HD Hindi" tvg-logo="http://lifetvbd.xyz:8080/images/b3a553e5b2bc560f1f54ebfb3aba6c93.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 1 HD Hindi
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTPugtTtw552351nbhcCvGw/ts
+#EXTINF: -1 tvg-name="Star Sports 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/65f773022f9a918b171149276a853008.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 2 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcf3uIj6iv9kDX8QQsfif2Q/ts
+#EXTINF: -1 tvg-name="Star Sports 3" tvg-logo="http://lifetvbd.xyz:8080/images/917c53e7782fac4d45e179d98c6b1b61.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports 3
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfym4GWRiYw-r-p3Irb0xgw/ts
+#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/a1449592b0120eaf34e8aeb2305eb35a.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports Select 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdgHlP_aX098fzKVPs__IQ0/ts
+#EXTINF: -1 tvg-name="Star Sports Select 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/e42adaadcc5802782c8cf4820ce7f937.png" group-title="SPORTS | Star Sports & Sony Ten", Star Sports Select 2 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXaYDDbQS_h6j1v5CrHrLDY/ts
+#EXTINF: -1 tvg-name="Star Maa Movies" group-title="Tamil Channel", Star Maa Movies
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQVR6xZMyT2BxLkIuW9a7JI/ts
+#EXTINF: -1 tvg-name="T Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="CRICKET LIVE EVENT", T Sports HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbf5nNxwN8jPYF9LNFo5ceM/ts
+#EXTINF: -1 tvg-name="T20I Tri-Series LIVE" tvg-logo="http://lifetvbd.xyz:8080/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT", T20I Tri-Series LIVE
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcNOcxLGpLNEB__Ulvlml1o/ts
+#EXTINF: -1 tvg-name="WC T20 Live" tvg-logo="http://lifetvbd.xyz:8080/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT", WC T20 Live
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRw2XYxjcM520vICvay0Kzc/ts
+#EXTINF: -1 tvg-name="West Indies vs S. Africa" tvg-logo="http://lifetvbd.xyz:8080/images/a6bd435242f10d79653eadae8ffb21d8.png" group-title="CRICKET LIVE EVENT", West Indies vs S. Africa
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUZ8CsTSimEgFobAraXwt7Y/ts
