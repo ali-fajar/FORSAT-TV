@@ -589,6 +589,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
 
+#EXTINF:-1 tvg-name="MUROTTAL 1" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 1
+http://sky-tv.org:88/live/02020943052251/4156696358/148228.m3u8
+
+#EXTINF:-1 tvg-name="MUROTTAL 2" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 2
+http://sky-tv.org:88/live/02020943052251/4156696358/148260.m3u8
+
+#EXTINF:-1 tvg-name="MUROTTAL 3" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 3
+http://sky-tv.org:88/live/02020943052251/4156696358/224465.m3u8
+
 =========================================== ENTERTAINMENT ===========================================
 
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
