@@ -4427,23 +4427,22 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS" , DIEMA SPORT 
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/156171
+http://sky-tv.org:88/live/02020943052251/4156696358/615496.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORTS" , DIEMA SPORT 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/156173
+http://sky-tv.org:88/02020943052251/4156696358/615497
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORTS" , DIEMA SPORT 3
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/250671
+http://sky-tv.org:88/02020943052251/4156696358/615498
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORTS" , DIGI SPORT 1
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135099
+http://sky-tv.org:88/live/02020943052251/4156696358/95544.m3u8
 
 #EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135103
+http://sky-tv.org:88/02020943052251/4156696358/95546
 
 #EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 3
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135103
-
+http://sky-tv.org:88/02020943052251/4156696358/95548
 
 
 
@@ -4460,7 +4459,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 ##https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS" , ELEVEN SPORTS 
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/156171
+http://sky-tv.org:88/02020943052251/4156696358/615511
 
 
 
@@ -4497,18 +4496,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 
 
 #EXTINF:-1 tvg-id="Fox SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png" group-title="SPORTS",  FOX SPORT
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/96204
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbT5aoEOYycangDmbBdiYi3g/ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png", FOX SOCCER PLUS 
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/155433
-
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbYGdYjyIQPtpT7e4kyrGtbs/ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FOX SPORTS 1 
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/155437
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQFE08NF5-Bhx_Yxz6JeT3o/ts
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", FOX SPORTS 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/155439
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
 
 
 
@@ -4617,15 +4615,15 @@ https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel377.isml/m
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1" tvg-logo="https://iili.io/Jp5o744.pnghttps://iili.io/JpjQtoX.png", MATCH! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135689
+http://sky-tv.org:88/live/02020943052251/4156696358/567486.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 2" tvg-logo="https://iili.io/JpjZuDP.png", MATCH! FOOTBALL 2
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135691
+http://sky-tv.org:88/live/02020943052251/4156696358/567487.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 3" tvg-logo="https://iili.io/JpjZERp.png", MATCH! FOOTBALL 3
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135693
+http://sky-tv.org:88/live/02020943052251/4156696358/567488.m3u8
 
 
 
@@ -4693,16 +4691,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 
 #EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova_sport_bg.png" group-title="SPORTS",Nova Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135867
+http://sky-tv.org:88/02020943052251/4156696358/286526
 
 #EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-1-cz.png" group-title="SPORTS",Nova Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135871
+http://sky-tv.org:88/live/02020943052251/4156696358/100288.m3u8
 
 #EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-2-cz.png" group-title="SPORTS",Nova Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://smartchoice.pro:80/S62P16X25H81B4/YEYVREWATIBRGNTE/135873
-
+http://sky-tv.org:88/live/02020943052251/4156696358/100289.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 1 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4831,13 +4828,13 @@ https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS", PTV Sports HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXDuC9OvHxtE6WdNE9oVIFs/ts
-#EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/dade191ddb0cc89a02ddff0e2d1853aa.png" group-title="SPORTS", Sports18 1 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUPnhDg1y-fwgU5XxLam_3A/ts
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbV6RUGP0O6yR5mdLnqkQoRU/ts
+#EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="SPORTS", Sports18 1 HD
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQaZ7Q7BPJp7s1k7tDu9JdM/ts
 #EXTINF: -1 tvg-name="Ten Cricket" group-title="SPORTS", Ten Cricket
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJSvxoik1hu_h3wAldT56B60/ts
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbdNNSUIXUbh7jPn8Z46It5Q/ts
 #EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="SPORTS", Ten Sports HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJePXLKfByYoML-ihG5oGZIc/ts
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbUxvF8ikcCGGp50pUfYBlcM/ts
 
 
 
