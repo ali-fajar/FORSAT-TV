@@ -3202,59 +3202,97 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbWFh26XueK0d_eAYeukgtBQ/ts
 
 
 ==========================================COPA AMERICA=================================================================
-#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
+
+#EXTINF:-1 tvg-id="V Sport Premium" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 2
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbVFWfgo6nBeY3s-Wr2QTXoI/ts
-#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 2
+#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 3
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQFE08NF5-Bhx_Yxz6JeT3o/ts
-#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 3
+#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 4
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 4
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 5
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 6
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 7
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWM85LgSPnctnXuKLgDNhPk/ts
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 7
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 8
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbU6e-yWiH390aHznAOs5Hvc/ts
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 8
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcQQCFk9LX3QjtCiK_r2L3I/ts
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbb09kOsTdHKC6ZiIz1XXNCU/ts
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 11
 http://sky-tv.org:88/02020943052251/4156696358/94202
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 11
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 12
 http://sky-tv.org:88/02020943052251/4156696358/94203
+
+#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 13 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
 
 
 
 =============================================EURO=================================================================
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 1
+https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="EURO",EURO 2
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 3
+
+#EXTINF:-1 group-title="EURO" tvg-id="PPTV HD.th" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO", EURO 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
+https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+
+#EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 6
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 4
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 5
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 9
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -3262,7 +3300,7 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO", EURO 6
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO", EURO 10
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
 =========================================== MOLA ==============================================================================
