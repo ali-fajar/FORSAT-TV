@@ -3220,9 +3220,9 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 5
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 6
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJboIPfpg18oBXtB96SKIb_0/ts
+http://sky-tv.org:88/live/02020943052251/4156696358/95411.m3u8
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 7
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJWM85LgSPnctnXuKLgDNhPk/ts
+http://sky-tv.org:88/02020943052251/4156696358/151819
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 8
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbU6e-yWiH390aHznAOs5Hvc/ts
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
@@ -3230,9 +3230,9 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcQQCFk9LX3QjtCiK_r2L3I/ts
 #EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbb09kOsTdHKC6ZiIz1XXNCU/ts
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 11
-http://sky-tv.org:88/02020943052251/4156696358/94202
+http://sky-tv.org:88/02020943052251/4156696358/102350
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 12
-http://sky-tv.org:88/02020943052251/4156696358/94203
+http://sky-tv.org:88/02020943052251/4156696358/102351
 
 #EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 13 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
