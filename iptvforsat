@@ -3484,7 +3484,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
 
-```````` WC QF ````````
+========================================WC QF ==================================================
 
 
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers
@@ -3571,7 +3571,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
 
-```````` F1 ````````
+========================================F1========================================================
 
 #EXTINF:-1 group-logo="https://i.ibb.co/f9k211Z/f1.png",
 
@@ -3608,8 +3608,7 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138719.m3u8
 
 
 
-```````` FORMULA ONE ````````
-
+============================== FORMULA ONE ===============================
 #EXTINF:-1 group-title="F1" tvg-id="TNTSports3.uk" tvg-logo="https://iili.io/JyvMYQe.png", E-PRIX 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3641,7 +3640,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-```````` MotoGP ````````
+=======================================MotoGP====================================================
 #EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MOTO GP
@@ -3969,12 +3968,12 @@ https://streamer.zapitv.com/betis/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="SPORTS" , CCTV-5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="SPORTS" , CCTV5+
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 
 
