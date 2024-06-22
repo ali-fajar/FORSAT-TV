@@ -3716,28 +3716,32 @@ http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
 ########VNL##################
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 1
-#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-https://smartchoice.pro/S62P16X25H81B4/YEYVREWATIBRGNTE/137413
+#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title="VNL |  LIVE VOLLY", LIVE 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-https://smartchoice.pro/S62P16X25H81B4/YEYVREWATIBRGNTE/137419
+http://sky-tv.org:88/02020943052251/4156696358/615500
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-https://smartchoice.pro/S62P16X25H81B4/YEYVREWATIBRGNTE/137419
+http://sky-tv.org:88/02020943052251/4156696358/94941
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/94951
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/79776
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/79777
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc7.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/577110
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc8.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/615499
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc9.m3u8
+http://sky-tv.org:88/02020943052251/4156696358/615500
 
 
 
