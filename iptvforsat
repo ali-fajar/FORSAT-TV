@@ -3728,7 +3728,7 @@ https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/w
 http://sky-tv.org:88/02020943052251/4156696358/615500
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-http://sky-tv.org:88/02020943052251/4156696358/94941
+http://sky-tv.org:88/live/02020943052251/4156696358/94941.ts
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
 http://sky-tv.org:88/02020943052251/4156696358/94951
