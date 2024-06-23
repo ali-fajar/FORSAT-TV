@@ -3324,15 +3324,15 @@ https://d1u68oyra9spme.cloudfront.net/master_3.m3u8
 
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cors-proxy.cooks.fyi/https://edge03-alm.beetv.kz:443/bpk-token/1an@vtpyqhcb4bd4y0hiyhtl45qbpm32dg2rvjuylrca/btv/SWM/Qazsport_HD/Qazsport_HD_270p_1200kbps.m3u8
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://sky-tv.org:88/02020943052251/4156696358/627497
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://sky-tv.org:88/02020943052251/4156696358/627499
+https://s6.hopslan.com/ardx1/tracks-v1a1/mono.m3u8
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
