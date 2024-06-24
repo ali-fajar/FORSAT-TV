@@ -4312,7 +4312,7 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 1 Australia
-http://iptvtree.net:8080/F14995/a84c0963/302776
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbWFh26XueK0d_eAYeukgtBQ/ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 2 Australia
 http://iptvtree.net:8080/F14995/a84c0963/302777
