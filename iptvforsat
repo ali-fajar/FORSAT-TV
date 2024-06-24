@@ -17,7 +17,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NATIONAL", SINGAPORE VS LAOS U16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/bipsd2/chunklist.m3u8
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DW6kg.png" group-title="NATIONAL", PHILIPINA VS INDONESIA U 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
