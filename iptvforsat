@@ -2909,38 +2909,12 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/66709.m3u8
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1964.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="& PRIVE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="INDIA",& PRIVE
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="INDIA",&TV
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="INDIA",9X JALWA
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="INDIA",9X JHAKAAS
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="INDIA",&FLIX
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="INDIA ",9X TASHAN
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1955.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="9XM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="INDIA ",9XM
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1954.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="AJ TAK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="INDIA",AAJ TAK
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="INDIA",ZOOM TV
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/568f50fca8c93f5f54d6ba044d570687.png" group-title="INDIA",ZOOM TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1951.m3u8
-#EXTINF:-1 tvg-id="b4u.music.gb" tvg-name="B4U MUSIC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="INDIA",B4U MUSIC
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28901.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="B4U MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_movies_in.png" group-title="INDIA",B4U MOVIES
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1942.m3u8
-#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="INDIA",B4U PLUS
+#EXTINF:-1 tvg-id="GeminiComedy.in" tvg-name="B4U PLUS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="INDIA",B4U PLUS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="INDIA",BALLE BALLE
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD NOW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="INDIA",BOLLYWOOD NOW
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="INDIA",BIG MAGIC
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/033d5b2035f8a221a263600badd4a9b5.png" group-title="INDIA",BIG MAGIC
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="INDIA",BOLLYWOOD CLASSIC
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1936.m3u8
-#EXTINF:-1 tvg-id="InTV.al" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="INDIA",BOOGLE BOLLYWOOD
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1935.m3u8
 #EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="COLORS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="INDIA",COLORS
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1931.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="COLORS CINEPLEX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="INDIA",COLORS CINEPLEX
@@ -2951,9 +2925,6 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1924.m3u8
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1876.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="MASTIII" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="INDIA",MASTIII
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/1873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="http://www.tvboxgroup.com/iptv/log
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148" group-title="INDIA",SONY MOVIES
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55305.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="INDIA",SONY
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="INDIA",SONY ACTION
@@ -2964,36 +2935,16 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55291.m3u8
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55290.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="INDIA",SONY SAB UK
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="INDIA ",SONY SIX
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="INDIA",SONY TEN 1
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="INDIA",SONY TEN 2
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="INDIA",SONY TEN 3
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="INDIA",SONY TV ASIA
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="INDIA",Sony TV UK
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA",SONY TV ASIA
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbUnuzNZSUU5Kw0WMIQ3qGY8/ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA",Sony TV UK
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="INDIA",STAR PLUS
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="INDIA",STAR SPORTS 1
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="INDIA",STAR SPORTS 2
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="INDIA",STAR SPORTS 3
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="INDIA",STAR SPORTS SELECT 1
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="INDIA ",STAR SPORTS SELECT 2
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="INDIA",STAR PLUS
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbark3eC1jUYJDchpqrecCrw/ts
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="INDIA",SONY MAX
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="INDIA",SONY MAX 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="INDIA",SONY MIX
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="INDIA",SONY PAL
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="INDIA",SONY YAY
