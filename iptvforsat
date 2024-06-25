@@ -4714,77 +4714,57 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="OLAHRAGA",SONY SPORTS TEN 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="OLAHRAGA",SS Football Africa
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="OLAHRAGA",SS Football Plus
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="OLAHRAGA",SS Premier League
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="OLAHRAGA",SS Variety 1
-http://muka03.wanicelife.com:8880/live/JH12M1D010/7aUvFjZmWX/60743.ts
+#EXTINF:-1 xui-id="7646" tvg-id="" tvg-name="SuperSport: Action" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="OLAHRAGA", Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
+#EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="OLAHRAGA", Variety 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/Variety_1_Live_TV/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="OLAHRAGA",SS Variety 2
-http://muka03.wanicelife.com:8880/live/JH12M1D010/7aUvFjZmWX/60744.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/Variety_2_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="OLAHRAGA",SS Variety 3
-http://muka03.wanicelife.com:8880/live/JH12M1D010/7aUvFjZmWX/60745.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/Variety_3_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="OLAHRAGA",SS Variety 4
-http://muka03.wanicelife.com:8880/live/JH12M1D010/7aUvFjZmWX/60746.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/Variety_4_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="OLAHRAGA",SS Laliga
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="OLAHRAGA",SS Maximo
-http://muka03.wanicelife.com:8880/live/JH12M1D010/7aUvFjZmWX/60798.ts
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60798.m3u8
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -4961,33 +4941,6 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28132.m3u8
 #EXTINF:-1 xui-id="7871" tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Logo_RMC_Sport_4_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133111" group-title="OLAHRAGA", RMC Sport 4 HD
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28131.m3u8
 
-#EXTINF:-1 xui-id="7646" tvg-id="" tvg-name="SuperSport: Action" tvg-logo="http://play.fastkobar.my.id:8080/images/vGr67nq-J-_xrK6KYrFfZ3YMHYNfEG7Xg56t134VYHyaGECJqpfQu57tM32Gx_gNhx5TUdCWD9ATWHUDqjobGg.png" group-title="OLAHRAGA", Action
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60800.m3u8
-
-#EXTINF:-1 xui-id="7647" tvg-id="" tvg-name="SuperSport: Blitz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/SSBlitz.png/revision/latest/scale-to-width-down/300?cb=20190309141538" group-title="OLAHRAGA", Blitz
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60791.m3u8
-
-#EXTINF:-1 xui-id="7649" tvg-id="" tvg-name="SuperSport: Football" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rjjC4vpx04Kcr6StXW4jlUjxBcWix3Uq-Fbhr-M6_TYo.png" group-title="OLAHRAGA", Football
-https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 xui-id="7753" tvg-id="" tvg-name="SuperSport: Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2DSh0CjE_zbZ0QJJ6uP50YTrVxxh0Qeu6x9qv544AA&s" group-title="OLAHRAGA", Golf
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60795.m3u8
-
-#EXTINF:-1 xui-id="7651" tvg-id="" tvg-name="SuperSport: Grandstand" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-r7YLkrXQAAs6aGYJG8ot6ijInUoFyOfDL5wmiScHDTJM.png" group-title="OLAHRAGA", Grandstand
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60796.m3u8
-
-#EXTINF:-1 xui-id="7657" tvg-id="" tvg-name="SuperSport: Premier League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KEtk-oyNcEL0t8hymFvPYmMa4f-sKcw-mTYA5A9uCQH-0TdCboPIjIu_h4bSl1dUCWdms5H5XpSTuItKkV7nDqCVFORXn6uZDMKl3cfVdP8b18RFJKdzwTwXAPQsAzXksBDmD-WGf42s/s2825/SuperSport_Premier_League_2020.png" group-title="OLAHRAGA", Premier League
-https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rNuciZ-9q7I5RdNWJSaB2hPBhvlVs77-Zlbp5UpuOiyo.png" group-title="OLAHRAGA", Variety 01
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60577.m3u8
-
-#EXTINF:-1 xui-id="7661" tvg-id="" tvg-name="SuperSport: Variety 02" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rpY-oL2yqon7b18uZnze-W-5qN0ywTZREJ8QugaEJJDk.png" group-title="OLAHRAGA", Variety 02
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60578.m3u8
-
-#EXTINF:-1 xui-id="7662" tvg-id="" tvg-name="SuperSport: Variety 03" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rxnpc5n8eLEI8Ql0Ub7-S0zcyRODaybo-hmSlXmWB_uM.png" group-title="OLAHRAGA", Variety 03
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60579.m3u8
 
 #EXTINF:-1 xui-id="7854" tvg-id="" tvg-name="UK: SKY SPORT GOLF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539" group-title="OLAHRAGA", SKY SPORT GOLF
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbV5OgiTr6wbO5ZjmL3A-7Lw/ts
