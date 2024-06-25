@@ -14,7 +14,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NATIONAL", SINGAPORE VS LAOS U16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NATIONAL", KAMBOJA VS VIETNAM CHIKI CHIKI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179939170.cdnfree.pro/live/paosd2/chunklist.m3u8
