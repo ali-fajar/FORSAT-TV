@@ -2715,6 +2715,27 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png",8TV Malaysia
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png", ASTRO BOO
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/113.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-my.png", ASTRO PREMIER
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/114.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png", ASTRO OASIS
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/115.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-rania-my.png", ASTRO RANIA
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/116.m3u8
+
+#EXTINF:-1 group-title="HOME TV Pro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASTRO AURA
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14er
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/117.m3u8
+
+
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
@@ -3168,8 +3189,10 @@ https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 6
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
+#EXTINF:-1 group-title="EURO" tvg-id="" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 6
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/235.m3u8
+
 
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4882,19 +4905,31 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/33487.m3u8
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbX76BYUNGehDSysLfh2_7k8/ts
 
 #EXTINF:-1 xui-id="163" tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="OLAHRAGA",Astro Supersport 1
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
 
 #EXTINF:-1 xui-id="164" tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="OLAHRAGA",Astro Supersport 2
-http://iptvtree.net:8080/F14995/a84c0963/157556
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/119.m3u8
 
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" group-title="OLAHRAGA",Astro Supersport 3
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/120.m3u8
 
 #EXTINF:-1 xui-id="166" tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="OLAHRAGA",Astro Supersport 4
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/121.m3u8
 
 #EXTINF:-1 xui-id="167" tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest/scale-to-width-down/1000?cb=20220421064927" group-title="OLAHRAGA",Astro Supersport 5
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/254887.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11629.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11815.m3u8
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607" group-title="OLAHRAGA",BEIN SPORTS 1 ENGLISH
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/172.m3u8
@@ -4921,11 +4956,16 @@ http://iptvtree.net:8080/F14995/a84c0963/304096
 http://iptvtree.net:8080/F14995/a84c0963/304095
 
 #EXTINF:-1 xui-id="7731" tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhMNQGoaAAxRJlUwBA2ar_nFQHDKOyETeOGOeMwza70HalM9calipgerCsyFzrLt7Ik.png" group-title="OLAHRAGA",beIN SPORTS PREMIUM 1 Full-HD
-http://iptvtree.net:8080/F14995/a84c0963/109
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11937.m3u8
+
 #EXTINF:-1 xui-id="7732" tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhPM_Id3TLiTQtTzEPspMyMOYQ29e1JbfskuWFT7zA4XCvt1r1NIQHUYynXMQO4iS_8.png" group-title="OLAHRAGA",beIN SPORTS PREMIUM 2 Full-HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHtDlomrdgI_GnppZJtbGAA
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11938.m3u8
+
 #EXTINF:-1 xui-id="7733" tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhNh8lXmOfRvxYkqKPvXsPXbwP2NL84vdKKJdU6w955AApqMJX6bMdNSekYqi_KcO-M.png" group-title="OLAHRAGA",beIN SPORTS PREMIUM 3 Full-HD
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRJR6-bce5eSam_JbEygXXQg
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11939.m3u8
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="OLAHRAGA", RMC Sport 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/28134.m3u8
