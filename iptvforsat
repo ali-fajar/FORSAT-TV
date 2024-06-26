@@ -1219,7 +1219,7 @@ https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/71.m3u8
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14yer
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/72.m3u8
 
-#EXTINF:-1 group-title="HOME TV Pro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", Bioskop Warkop DKI
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Warkop DKI
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/73.m3u8
 
