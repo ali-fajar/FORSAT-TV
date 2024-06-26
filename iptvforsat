@@ -2731,7 +2731,7 @@ https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/115.m3u8
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/116.m3u8
 
-#EXTINF:-1 group-title="HOME TV Pro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASTRO AURA
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-aura-my.png", ASTRO AURA
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14er
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/117.m3u8
 
