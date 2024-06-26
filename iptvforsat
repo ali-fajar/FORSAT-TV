@@ -2735,6 +2735,9 @@ https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/116.m3u8
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14er
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/117.m3u8
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awesome-tv-my.png", AWESOME
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/118.m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
@@ -4492,7 +4495,8 @@ https://streamer.zapitv.com/sevillafc/index.mpd
 
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="SPORTS", Sky SPORT ARENA
-http://sky-tv.org:88/live/02020943052251/4156696358/56232.m3u8
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/180.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://iili.io/d9iom9s.jpg" group-title="SPORTS", Sky SPORT CALCIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4521,8 +4525,8 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbV5OgiTr6wbO5ZjmL3A-7Lw/ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="SPORTS", Sky SPORTS MAIN EVENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://sky-tv.org:88/live/02020943052251/4156696358/102227.m3u8
-
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/178.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.ibb.co/Fg5SKyD/skymix.png" group-title="SPORTS", Sky SPORTS MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4531,7 +4535,8 @@ http://sky-tv.org:88/02020943052251/4156696358/102225
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://iili.io/Jpw0blp.png" group-title="SPORTS", Sky SPORTS PL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbX76BYUNGehDSysLfh2_7k8/ts
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/176.m3u8
 
 
 
@@ -4695,31 +4700,18 @@ http://iptvtree.net:8080/F14995/a84c0963/162592
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",True Premier 3 
 http://iptvtree.net:8080/live/F14995/a84c0963/162593.ts
 
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="OLAHRAGA",SONY SPORTS TEN 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/209.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="OLAHRAGA",SONY SPORTS TEN 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/210.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="OLAHRAGA",SONY SPORTS TEN 3
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/211.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -4861,13 +4853,16 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/1481
 
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="OLAHRAGA",Portugal- SPORT TV 1 HD
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/3192.m3u8
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/212.m3u8
 
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="OLAHRAGA",Portugal- Sport TV 2
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/3191.m3u8
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/213.m3u8
 
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="OLAHRAGA",Portugal- Sport TV 3
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/3190.m3u8
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/214.m3u8
 
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="OLAHRAGA",Portugal- Sport TV 4
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/3189.m3u8
