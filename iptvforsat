@@ -3882,45 +3882,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kDbsh3m/ballthai1.png" group-title="SPORTS" , BALL THAI 1
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nkdHCz1/ballthai2.png" group-title="SPORTS" , BALL THAI 2 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1fNby5z/ballthai3.png" group-title="SPORTS" , BALL THAI 3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k6y8X51/ballthai4.png" group-title="SPORTS" , BALL THAI 4
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pQSvfvX/ballthai5.png" group-title="SPORTS" , BALL THAI 5
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wBt8F1S/ballthai6.png" group-title="SPORTS" , BALL THAI 6 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dMnFm64/ballthai7.png" group-title="SPORTS" , BALL THAI 7
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McsZYYR/ballthai8.png" group-title="SPORTS" , BALL THAI 8
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##https://cors-proxy.pulsesoftware.com/https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",Beinsport 1 
@@ -4530,11 +4491,7 @@ https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
-#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://www.lyngsat.com/logo/radio/rr/rtl_radio_fr.png" group-title="SPORTS" , RTL SPORTS 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="SPORTS", SETANTA SPORTS
