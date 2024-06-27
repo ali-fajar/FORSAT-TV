@@ -21,11 +21,13 @@ https://179939170.cdnfree.pro/live/phuhd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DW6kg.png" group-title="NATIONAL", LAOS VS INDONESIA U 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://108.181.132.217:8070/e9cd5f24/079fd2c9/162138
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.cdnfree.pro/live/phusd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p6yUwgrfKLxuy6DQDu6uTD516xA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3545820/c3040c.jpg" group-title="NATIONAL", TIMNAS U16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.cdnfree.pro/live/phusd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NATIONAL", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
