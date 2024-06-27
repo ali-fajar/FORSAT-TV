@@ -96,8 +96,7 @@ https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NATIONAL", MOJI
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-
+http://194.120.144.74:8070/live/AmirBilali/76448035/298550.m3u8
 
 
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="NATIONAL", NET TV (D*)
@@ -921,6 +920,16 @@ http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbf9-AKzvrgUrTA9uV3K2j3A/ts
 #KODIPROP:inputstream.adaptive.license_key=95919b598c8435bb94fe46276139f900:84dc19a90c2f6ecf77fdfb7b73112dbd
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="" tvg-logo="https://iili.io/d3txEAl.png", USA (EAST) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="" tvg-logo="https://iili.io/d3txEAl.png", USA (WEST) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 =========================================== KNOWLEDGE ===========================================
@@ -1329,36 +1338,33 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/26.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Action
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/66.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/123.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://iili.io/d31gvXj.png", Bioskop Thriller
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/67.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/60.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop China
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/68.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/124.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Bollywood
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/69.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/125.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Drama & Family
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/70.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/126.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Horror
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14er
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/71.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/61.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Indo
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14yer
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/72.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Warkop DKI
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/73.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/63.m3u8
 
 
 #EXTINF:-1 tvg-name="FLIK" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="MOVIES",FLIK A (Indi)
@@ -3859,18 +3865,17 @@ http://iptvtree.net:8080/F14995/a84c0963/287793
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fnMQ8nv/thaileague1.png" group-title="SPORTS" , BALL THAI 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fnMQ8nv/thaileague1.png" group-title="SPORTS" , BALL THAI 2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fnMQ8nv/thaileague1.png" group-title="SPORTS" , BALL THAI 3 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
-
+#KODIPROP:inputstream.adaptive.manifest_type=Dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="SPORTS  🇮🇩" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sports Indo 1
+https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
+  
+#KODIPROP:inputstream.adaptive.manifest_type=Dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 group-title="SPORTS  🇮🇩" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sports Indo 3
+https://okegas.transvision.workers.dev/dassdvr/133/beib2/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",Beinsport 1 
