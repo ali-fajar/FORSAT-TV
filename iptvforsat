@@ -370,6 +370,12 @@ https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TVMAX" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-Origin=https://claplivehdplay.ru
+https://webdrunns.onlinehdhls.ru/lb/premium102/index.m3u8
+
 =============================================EURO=================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
