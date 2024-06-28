@@ -402,9 +402,7 @@ https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
 #EXTINF:-1 group-title="EURO" tvg-id="" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 6
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/235.m3u8
-
+http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
