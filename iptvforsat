@@ -4405,16 +4405,16 @@ https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.
 
 
 #EXTINF:-1 tvg-name="PolsatSport.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpjtjTB.png", POLSAT SPORT
-##https://cdn-nvm-chicago.lolokoko.tv/polsatsport.stream/index.m3u8
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/518245
 
 #EXTINF:-1 tvg-name="PolsatSportExtra.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpwkWAJ.pnghttps://iili.io/JpNoAEg.jpg", POLSAT SPORT EXTRA 
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportextra.stream/index.m3u8
+http://defaultgen.com:3050/live/erobles14@comcast.net/gRZsyLbR5U/518246.ts
 
 #EXTINF:-1 tvg-name="PolsatSportPremium1.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpNocpp.png", POLSAT SPORT PREMIUM 1 
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/518250
 
 #EXTINF:-1 tvg-name="PolsatSportPremium2.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpNovZ7.png", POLSAT SPORT PREMIUM 2
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+http://defaultgen.com:3050/erobles14@comcast.net/gRZsyLbR5U/518252
 
 
 
@@ -4541,7 +4541,7 @@ http://sky-tv.org:88/live/02020943052251/4156696358/56237.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwIXfe.jpghttps://iili.io/Jpw5Nt4.pnghttps://iili.io/JpwYNG2.png" group-title="SPORTS", Sky SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="SPORTS", Sky SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/9797.m3u8
 
