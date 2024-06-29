@@ -3437,26 +3437,41 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 ===============================================LIVE=====================================
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 1. FOOTBALL 1
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=82241&extension=ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 2. FOOTBALL 2
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=278512&extension=ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 3. FOOTBALL 3
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=634822&extension=ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 4. TENNIS
 http://152.89.62.76:8880/live/D12m1495/23236986/60572.ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 5. GP
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=539836&extension=ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 6. FORMULA 1
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78701&extension=ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 7. NBA
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630528&extension=ts
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 8. VOLLY
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 9. BULUTANGKIS
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 10. WWE
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 11.
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 12.
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=638503_&extension=ts
 
@@ -3714,20 +3729,28 @@ https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
-#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-http://sky-tv.org:88/live/02020943052251/4156696358/94941.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/PNpYBn6hAz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
 #EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
 http://sky-tv.org:88/02020943052251/4156696358/94951
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
 http://sky-tv.org:88/02020943052251/4156696358/79776
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
 http://sky-tv.org:88/02020943052251/4156696358/79777
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
 http://sky-tv.org:88/02020943052251/4156696358/577110
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
 http://sky-tv.org:88/02020943052251/4156696358/615499
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
 http://sky-tv.org:88/02020943052251/4156696358/615500
 
