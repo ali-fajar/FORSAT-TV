@@ -383,13 +383,12 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 
-#EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 5
+#EXTINF:-1 group-title="EURO" tvg-id="TIPIK" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
-https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 group-title="EURO" tvg-id="" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 6
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
@@ -729,27 +728,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",Nadoo commerse
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg", NaDoo Commerce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",Nadoo Korean
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", NaDoo KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",DENS Life & Style
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",Life & Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",DENS Knowledge
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg",Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",DENS Showbiz
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", Showbiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="ENTERTAINMENT",DENS Food Chanel
+#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg", Food Chanel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
@@ -1296,17 +1295,9 @@ https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/29.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/cine/license-proxy-widevine/cenc/?specConform=true
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="BOO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png", BOO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
-
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png" group-title="MOVIES",BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/26.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/62.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png", Bioskop Action
 #EXTVLCOPT:http-user-agent=ExoPlayer
@@ -1339,8 +1330,8 @@ https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/63.m3u8
 
 
 #EXTINF:-1 tvg-name="FLIK" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="MOVIES",FLIK A (Indi)
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/27.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/128.m3u8
 
 
 
