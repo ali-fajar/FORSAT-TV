@@ -14,15 +14,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NASIONAL", THAILAND VS VIETNAM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", INDONESIA VS AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/hplussd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/loisd2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DW6kg.png" group-title="NASIONAL", VIETNAM VS THAILAND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", INDONESIA VS AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/hplussd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/loisd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", TIMNAS U16 SILAHKAN DONASI DEMI KELANCARAN APLIKASI FORSAT TV DI 081341216753/DANA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
