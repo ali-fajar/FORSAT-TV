@@ -14,20 +14,20 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NASIONAL", THAILAND VS MALAYSIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DM5GI.png" group-title="NASIONAL", THAILAND VS VIETNAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/paosd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/hplussd2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DW6kg.png" group-title="NASIONAL", LAOS VS INDONESIA U 16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/d2DW6kg.png" group-title="NASIONAL", VIETNAM VS THAILAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/phusd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/hplussd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p6yUwgrfKLxuy6DQDu6uTD516xA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3545820/c3040c.jpg" group-title="NASIONAL", TIMNAS U16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/phusd2/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/9721.m3u8
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NASIONAL", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
