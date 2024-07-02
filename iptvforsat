@@ -3747,10 +3747,11 @@ https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1bup/hdntl=exp=17199
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-two-qa.png" group-title="SPORTS", AL KASS 2
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
+https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2hgof/master.m3u8?hdnts=exp=1719913393~hmac=126ca5c11e5aee533aea6ca1eaaece060b81c41770f526e4a801cfb84db48ca1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-three-qa.png" group-title="SPORTS", AL KASS 3
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://shoof.alkass.net/
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="SPORTS", AL KASS 4
