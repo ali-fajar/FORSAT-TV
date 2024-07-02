@@ -3752,15 +3752,15 @@ https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2hgof/master.m3u8?hd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-three-qa.png" group-title="SPORTS", AL KASS 3
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://shoof.alkass.net/
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="SPORTS", AL KASS 4
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="SPORTS", AL KASS 5 
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-esport-rs.png" group-title="SPORTS", ARENA ESPORT
