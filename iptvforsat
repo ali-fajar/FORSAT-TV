@@ -1052,12 +1052,14 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 
 
 =========================================== UNIFI SPORTS ===========================================
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="UNIFI Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAQzhBBnrTzZ0oT9dMTiWLZ-aJIaPwM8hJQ&usqp=CAU",UNIFI: BEIN SPORTS 1
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/beIN-SPORTS.png" group-title="UNIFI Sports", Bein Sport 1 (UNIFI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=MkllUEc0SE1Qd0U0bXpDNWd2eS9UWW9NTksvbkF0T2JMR0o5VUs3NVFmWlhWanBsdWZKNjZqaG1tVlQ1Q3g2TnhDQVlDeEdRTEYwaFJER3ZTeXhxUDVESWZiQXlJdmtadktPeFJOVG1HcG9OZ3JaWkQ5ZFRka2V6dGp2aXFxNlpoaWszVFNydHg1ZkJlWkRkUUxXMnVraXJ4QUMwL0pTVkExZnpwdzVBTnlOQno2NUNadzVldTBzc3FueFRtZ2FPaXBpTks3bm5CRmFmV2ZXOFJuWGRFbjZ1TnRaMXJnK1llVDYzakowUUlTZzdUTFJKQXdia1lSV3IwVjRFUHVvRjJQMXQzczVwUFdBYUdWdGtZZzRFVkxwOGRoVFFqR1BYcEpDdFJyV2FQZFZyYlUwQjlvc3FMZTE5dzFxYlY2ZDI3M1hGTGZScWphd2xvb0pHZUJKNnZONW9iZ0hobEt4L1BRdlVYTSt2VFZFV2lpUVVUUUpKcjhVVTUyQU02YmxjYmdrK3FqNS9hdEgxTmNzMk51bmxqMUVHUmt5RUoydVlwSkVOUktJUnZsL0Rjc0ZoL05lT1BBUCtqRDdPejlwZEpMdG1EeUVkbkRrYzROTE8wUTVHaHhyeXJqM2czYXZ2ZXNvNVBFbzYxYk90aEllMjA5Y3ErbDZ3cDRzYktqajE2b0taT0ZLVzhFUW9FZmpqclA5RFpFTUZmN3JpQ3ZIbmprc0VzcUZWRWNqcFlLYlhaR0gyVjhaa2pqbm9DWkV1R0h3U21UbW1xU0VzUFZ1TllBZmJDRzZlZnU3VU5qbkNrYUxpZzlUZWphVFNURE4ybGpLbmJjRUZUREJSY0FkWlI4aXQxVk9NeDlrVG4rRmVaaWh2TnBBTloybEpxSzBDSWp0eXNhZUZOcG1VZDJjallmRGJ6NHplcng0UDZrSGdZV2ZCSkFsckw4cWcrWStOdDFFSWFoSW1ZZkxEMjFjYjNpcDM0d0RsSUdtOHpRUkhqd2grU1NFMzFXYnFBTUdsYTRIWUZJNTBheHhhR1RZU3dKaW9DSnFQNTNMTEl3NnVLOGthdTFFMHk1S2RKdkJ5by9SN0RQYTV0VlBweDZSaG0yODVZcHdWSFZmREQ1OGFXVS95ZWw3bm12QmkwNkJQaXQwTUNJcC9WNTVKQTZpREVCZUVFa0lCWHZmRkJBS3JJNFFMbG5RczUyOVdOUkg1c2djd21xdUM5ZFhmMDZwVGk1MjFwRjNWeUo1cGhZUmh0bkxQVWh4alc1bWZlWTNzMUJaQURiMFYzeEgwNXMzRzZHVUFNQ29UR0U0dFZTNEF2Q0tCTWFLRXg1eTRMQTA5cnlYSzZRM2JheUNFSTBsczRuNWNIa0JWTk1BUkFwTDRkbi9yUDV4ZVhKTUZiMTgvUnZpTlRWYkx3OUZMVlJtMDhzTFhWaWxaZFFwSkorVXVqaVpVNXNVd1Y0TzVzb0tESU9PQ1hsb2RsS0F0b05EVmE3bHQxeG9TK29VPQ==
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
+
+
 =========================================== NEWS ===========================================
 
 
