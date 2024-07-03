@@ -1051,53 +1051,13 @@ https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 
 
-=========================================== KOREA ===========================================
-#EXTINF:-1 tvg-id="KRBC4400001TZ" tvg-chno="544" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230308T013155SQUARE.png_20230308013156.png" group-title="KOREA" , KBS 넝쿨째 굴러온 당신
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://webdrunns.mizhls.ru/lb/premium101/index.m3u8|Origin=https://qqwebplay.xyz/
-
-#EXTINF:-1 tvg-id="KRBB420001572" tvg-chno="546" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230322T010936SQUARE.png_20230322010937.png" group-title="KOREA" , SBS 빽드
-https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB5000069BS" tvg-chno="580" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20220824T102029SQUARE.png_20220824102030.png" group-title="KOREA" , MBC 무한도전
-https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200002MM" tvg-chno="582" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20221116T013643SQUARE.png_20221116013644.png" group-title="KOREA" , SBS 런닝맨
-https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20221214T020633SQUARE.png_20221214020634.png" group-title="KOREA" , SBS 미운 우리 새끼
-https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230111T005223SQUARE.png_20230111005224.png" group-title="KOREA" , SBS 동상이몽2 - 너는 내 운명
-https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200011RB" tvg-chno="593" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20221214T020635SQUARE.png_20221214020636.png" group-title="KOREA" , SBS 백종원의 골목식당
-https://d2riuzghn0kt92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-et8hq9b8jg99x-prod/hls-harvester2-1293-prod/us-east-1/cc-et8hq9b8jg99x/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200012PV" tvg-chno="595" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20221214T020641SQUARE.png_20221214020642.png" group-title="KOREA" , SBS 정글의 법칙
-https://d1qhklddeqjbtp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-35rocwtlqy12b-prod/hls-harvester2-1293-prod/us-east-1/cc-35rocwtlqy12b/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB42000100V" tvg-chno="596" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20221214T020637SQUARE.png_20221214020638.png" group-title="KOREA" , SBS 불타는 청춘
-https://d3ev7kkpknycu4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bedw21gabjfhb-prod/hls-harvester2-1293-prod/us-east-1/cc-bedw21gabjfhb/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBB4200014MY" tvg-chno="597" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20220915T035714SQUARE.png_20220915035714.png" group-title="KOREA" , SBS 패밀리가 떴다
-https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="KRBC32000261J" tvg-chno="601" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20230426T013710SQUARE.png_20230426013711.png" group-title="KOREA" , tvN 놀라운 토요일
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-
-#EXTINF:-1 tvg-id="KRBC3200027ED" tvg-chno="602" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200027ED_20230426T013723SQUARE.png_20230426013724.png" group-title="KOREA" , tvN 유퀴즈온더블럭
-https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
-
-#EXTINF:-1 tvg-id="KRBC3200025QG" tvg-chno="603" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20230426T013708SQUARE.png_20230426013709.png" group-title="KOREA" , tvN 꽃보다 할배 리턴즈
-https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
-
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="KOREA", FEED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb//bet6391715/playlist.m3u8|Origin=https://topembed.pw/
-
+=========================================== UNIFI SPORTS ===========================================
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="UNIFI Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SW1wr8PdFiVAbUfl_V5YLiPNK3i7qkOp4w&usqp=CAU",UNIFI: SPOTV 2
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=MkllUEc0SE1Qd0U0bXpDNWd2eS9UWW9NTksvbkF0T2JMR0o5VUs3NVFmWlhWanBsdWZKNjZqaG1tVlQ1Q3g2TnhDQVlDeEdRTEYwaFJER3ZTeXhxUDBTVGdZRW9Td0VqRFJxN2Z5UDU4a2hiVFNsUGxmZlNZbXo4YWxCZ200VjVJdm5sa25Ock1CaTJaem1BYTdtMlBOUGpkeWlRQXFpZGhlZGJ1VEg4RDNtMEE2U1orSFpZOFpaTGxOcjBQcEJCQ0ZBMGVQejVyalBna1dTbWdYTFFIRDFadDhXOG1xb1Z2WUxDRFJPazA4bTJUS1JxY3NtV3B6Mk13NE9yb2NBYm9NR05kV29Qd0ViSkp1QTZOSHRtRW9obFVXamg3VFRQOUc2cmVVNXVQTG5KOCtSV0FpS2lLVDlaUGs5WHFXbnJNUjJuZmhyMnJzdVRmeFJBZ0tqclM0ZGtTSmt0RW56VStpTlZwZC9RSldMQndmczR1VUZzR0xTYkZZb05yb1ovcnRvL3hnd3NwRUFOSWZzYm4zMVB3K005RUNDTHFCeHNjUStuVXJJN004TG5BSXREQ0RoVzVra3h5dHBiWURmUzhGQlFVd2RINzNLajYwZ01oZDV4YzBMQzU3QnJpZHVEdjZCcENoMWtBN1RIZnEwbGFQdUdWUlNrWlJ6SU1YZEVCYi9NcXlDUW1pdkk5RTI0b01DN2tNU2szaXNUOE9paDlXTVpOR2R0WnJmM1V6dWV4bnE1N3FEaEk2dUIyMEpuaEFFdmhiMGg4VHdxbHozL2hUTWw5QlMyQ3VDS1NxVkNFcXoyYUZYcW9YUU9wL0U3aDN0SENjcUR4U2p1enJsbmp3SWdYdGFKckxpVHhXeVJuNVgrM1hZclpWQWcxMGhkYmxTUXdOdjd6Yzd2YzFhckt0LzJmTjR0RXMvSHRtWjNidGN5aXI1QndDSTk5OGVLeHlRa242TjQ4N25ZR0Q4NW42ZHU2QzBZSzZTdTJ3TWR2TkpDOWVkdUVQcnRTT3lRM2hWeTNYYnZTd3pwYWxxMktGK3JTOVhkcllqN2ZHbEMvRTJTWGZhTFV5OXBoUmhNa2dhdU1mV3pTQWN2NUw2eFMreGttbUwzZWVVMXQvemxVbHI3TEt3blM0T3czTlp2V2xqZHhXVUhOVWhkSk9CVHVJbmZyc2pvUEtHV2o0MzZHZkVSbGdiM2h5THVuRVpaR1U4aU1kb0wyamI1RXN3WHNmYnFvSnFJSkVNY1JuTE4rN0NZaXJvL21NekxDa3RiSW9hcnlvcHJTRGxjeU5sSVN0YTM0bFV3REpwemlKaTlTM0txWTYrbk5sWmg5UE9LdDVyY1VJMHVUVFJpcHFDTHI1YW1kekNhTnhPRDJpWUhTUTk3YnR6WHZnTks2ZE55c1VLaUFSWVFYcGl6ZmNib2NNUDR6NnE1K3dPZ3B3aWxLN1NhaXlQcFMxNzRiRzF2b1VwU3BIZXU1TWcrNEN4T3lVNTY2NmlxeUNFPQ==
 =========================================== NEWS ===========================================
 
 
