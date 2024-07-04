@@ -451,11 +451,12 @@ https://skytest.starlive.workers.dev/https://aws-appeartv-cdn.rikstv.no/rikstv/1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://s6.hopslan.com/ardx1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 15
+#EXTINF:-1 group-title="EURO" tvg-id="CCTV 5" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 15
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-
+#EXTINF:-1 group-title="EURO" tvg-id="FEED" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 16
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401258760.m3u8
 
 
 
