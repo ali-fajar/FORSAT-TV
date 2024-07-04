@@ -306,19 +306,26 @@ https://katanaboss.online/chunklist/hlsch1.m3u8
 
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 2
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbVFWfgo6nBeY3s-Wr2QTXoI/ts
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/master.m3u8
+
 #EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 3
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbQFE08NF5-Bhx_Yxz6JeT3o/ts
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/master.m3u8
+
 #EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 4
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbaEEjpAhy4rclPSGEHHy0A4/ts
+https://mhdtvplay.com/sports24/live.m3u8?chunks=b8f8af090622a7969009ed90af54129f6e64e58720e3a42987f66fc1fae3852aed9fb5274301cb19b84350e72579c2604b27bc3f6977db73749095d2a74b6f8ea02d44af013a9275007841c0441a50f44250a3dc3e2848c4d55b35c6dc8c5325
+
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 5
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbXAY0etrGA77TIzgVvsT9ls/ts
+https://mhdtvplay.com/sports24/live.m3u8?chunks=b8f8af090622a7969009ed90af54129f59f51fdcded514761170efb387397b558c6515f3b60e9984bc47ca669cba2494c9f19429beae3007b2af8794e4447072f86dbdf05005fa245cfe0d72dcb172cc0682262269abf57ed9a01b3500cc8f01
+
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 6
 http://sky-tv.org:88/live/02020943052251/4156696358/95411.m3u8
+
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 7
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+https://mhdtvplay.com/sports24/live.m3u8?chunks=b8f8af090622a7969009ed90af54129fcaa27c1e43bfd6e17efab143e67f5e19a04c44c34411859a31707aa6309377a1c809243b7d893e5a5a478714b896405ce597591ab8d6632f97bf5196c94e8a6f5527faece906f79e8aef0f5a78812318992ddaac1c5a9ffb78da1d612381472d
+
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 8
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbU6e-yWiH390aHznAOs5Hvc/ts
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcQQCFk9LX3QjtCiK_r2L3I/ts
 #EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
