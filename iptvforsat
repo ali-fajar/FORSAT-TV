@@ -333,11 +333,19 @@ https://mhdtvplay.com/sports24/live.m3u8?chunks=b8f8af090622a7969009ed90af54129f
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcQQCFk9LX3QjtCiK_r2L3I/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/eplayerTSN_4_HD/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbb09kOsTdHKC6ZiIz1XXNCU/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 11
 http://sky-tv.org:88/02020943052251/4156696358/102350
+
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 12
 http://sky-tv.org:88/02020943052251/4156696358/102351
 
