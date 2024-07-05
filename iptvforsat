@@ -3375,10 +3375,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10223&deviceMac=00:1A:79:07:0
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=638503_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 13
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbV5OgiTr6wbO5ZjmL3A-7Lw/ts
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 14
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbb8BPqV_ldbnmM3gtJUreR4/ts
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 13 VOLY
+http://194.120.144.74:8070/e9cd5f24/079fd2c9/298550
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 14 VOLY
+http://194.120.144.74:8070/AmirBilali/76448035/298550
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 15
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbcRUQ5odlDP2JiqiUot95OI/ts
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 16
