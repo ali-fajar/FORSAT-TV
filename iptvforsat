@@ -350,9 +350,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253816.m3u8
 https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TVMAX" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bdix.proximitybd.xyz/
-https://bdix.proximitybd.xyz/lanka.php?id=live-02&e.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253834.m3u8
 
 #EXTINF:-1 tvg-id="Sportdigital Fußball.de" tvg-name="" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 15
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
