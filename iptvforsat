@@ -87,7 +87,7 @@ https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
 
 
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="NASIONAL", NET TV (D*)
