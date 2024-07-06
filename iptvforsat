@@ -17,10 +17,12 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", INDONESIA VS AUSTRALIA
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/9Jho_dG4HbNJ4QgHC_GnKjUR6nI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563197/c0a6f6.jpg" group-title="NASIONAL", PROLIGA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Ks1RNvzO2Ft0sWZgi4X1AShWQyw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563203/6d9e3d.jpg" group-title="NASIONAL", PROLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17471_stream.mpd?hdntl=exp=1720242455~acl=%2f*~id=69578335~data=hdntl~hmac=ee4505cb1661da0099a959216fe394a1dad3a6b2e1210713b1340e71aa615ed0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1720258699~acl=%2f*~id=69578335~data=hdntl~hmac=e3cca64abb72d3ef94f31988f196b4806fb0991c2cbdb65c921820fbc239d0c4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", TIMNAS U16 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
