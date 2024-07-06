@@ -303,7 +303,17 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radartv.png" group-title="NASIONAL", Radar TV
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
+=========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0urYYtHtejGKqwWar5RiOn2oyEc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563451/4201e7.jpg" group-title="LIVE EVENTS", ONE PRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17533/master.m3u8?hdnts=exp=1720264221~acl=/live/17533/*~id=69578335~hmac=2abb2c05a21854515e70d72d2630a2c69a8a49d5952ad2c36ce2567a8d4205d1
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iKDMmDY4f2k9gSaZh_fy4e1KD5I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563199/e48413.jpg" group-title="LIVE EVENTS", IBL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16906_240p/hdntl=exp=1720264564~acl=%2f*~id=69578335~data=hdntl~hmac=44ebd5c84aae6fa7abc28139d05e79c24fda1c9b69206cbbd0fd24184cb70ffe/index.m3u8
 
 ==========================================COPA AMERICA=================================================================
 
@@ -1077,17 +1087,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 
 
-=========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0urYYtHtejGKqwWar5RiOn2oyEc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563451/4201e7.jpg" group-title="LIVE EVENTS", ONE PRIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17533/master.m3u8?hdnts=exp=1720264221~acl=/live/17533/*~id=69578335~hmac=2abb2c05a21854515e70d72d2630a2c69a8a49d5952ad2c36ce2567a8d4205d1
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iKDMmDY4f2k9gSaZh_fy4e1KD5I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563199/e48413.jpg" group-title="LIVE EVENTS", IBL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16906_240p/hdntl=exp=1720264564~acl=%2f*~id=69578335~data=hdntl~hmac=44ebd5c84aae6fa7abc28139d05e79c24fda1c9b69206cbbd0fd24184cb70ffe/index.m3u8
 =========================================== NEWS ===========================================
 
 
