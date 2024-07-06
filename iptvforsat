@@ -1120,7 +1120,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://hometv.pw/logo/news/cnn_indonesia.png" group-title="NEWS",CNN INDONESIA NEWS
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1828,10 +1827,13 @@ http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png",NOW 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png",NOW 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
@@ -2488,7 +2490,7 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-##https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
+https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMm9G8d/hrt1.png" group-title="WORLD TV", HRT1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
@@ -3627,9 +3629,7 @@ http://sky-tv.org:88/02020943052251/4156696358/615500
 
 
 
-```````` SPORTS ````````
-
-#EXTINF:-1 group-logo="https://i.ibb.co/vk1GHy9/cat-sport.png",
+=========================================== SPORTS======================================================
 
 
 
@@ -3918,7 +3918,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="EDGE SPORT" tvg-logo="https://i.ibb.co/Sc8yFFf/edgesport.png" group-title="SPORTS", EDGE SPORT
-##https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=189536325766_image-header_pRow_1690609698000&quality=70&width=500",ELEVEN 1 PT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -4903,7 +4903,7 @@ x
 #KODIPROP:inputstream.adaptive.license_key=a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
 ##https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
 
-x
+
 
 #EXTINF:-1 tvg-id="TV4 Sport Live 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-4-sport-live-1-se.png" group-title="SPORTS", TV4 SPORT LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
