@@ -1287,7 +1287,7 @@ https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 
 
-EXTINF:-1 tvg-name="WARNER" tvg-logo="https://hometv.pw/logo/movies/warner.png" group-title="MOVIES",WARNER (*)
+EXTINF:-1 tvg-name="WARNER" tvg-logo="https://hometv.pw/logo/movies/warner.png" group-title="MOVIES",WARNER ROM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/tnt/playlist.m3u8
@@ -1581,20 +1581,6 @@ https://mhdtv.co.in/jio/stream.m3u8?id=185
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/jio/stream.m3u8?id=1349
-
-======================================================================================
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png", FX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.100
-http://185.245.0.136:8080/live/play/TjJSc1RqUTBTelJQYXpkT05XdFFRamxNVmt4RVkwdHZOakJGYmxOWmFEQTJlRzUxYzFGME1HRmlZejA9/45451
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="",OCN Movie*
-http://185.243.7.154:80/play/live.php?mac=00:1A:79:B1:30:05&stream=174745&extension=ts&play_token=eUB65L83fZ
-
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",HBO Signature* 
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/23.m3u8
-
 
 
 #EXTINF:-1 tvg-chno="" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="MOVIES",Action Hollywood Movies
