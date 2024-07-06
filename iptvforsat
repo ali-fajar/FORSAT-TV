@@ -337,7 +337,15 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17516/master.m3u8?hdnt
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16909_720p/hdntl=exp=1720272167~acl=%2f*~id=69578335~data=hdntl~hmac=af42d3664badb65ea9bec6b740906c0840abe02888a9aac751736ae4e5a108ff/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/uhaO_8MTIa83qxL_vRPG3k6-rtI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567891/04243f.jpg" group-title="LIVE EVENTS", COLOMBIA VS PANAMA 05.45 WIB 8JULI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16909_720p/hdntl=exp=1720272167~acl=%2f*~id=69578335~data=hdntl~hmac=af42d3664badb65ea9bec6b740906c0840abe02888a9aac751736ae4e5a108ff/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/k6giskwHtPZ2EtI7D7NnOS95t8o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3565531/d7ec8d.jpg" group-title="LIVE EVENTS", URUGUAY VS BRASIL 09.00 WIB 8 JULI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16909_720p/hdntl=exp=1720272167~acl=%2f*~id=69578335~data=hdntl~hmac=af42d3664badb65ea9bec6b740906c0840abe02888a9aac751736ae4e5a108ff/index.m3u8
 
 ==========================================COPA AMERICA=================================================================
 
