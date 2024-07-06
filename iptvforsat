@@ -304,7 +304,8 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/C-KwECuYblbzdgfdhr_SOtpceE8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567895/28fa45.jpg" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17533/master.m3u8?hdnts=exp=1720264221~acl=/live/17533/*~id=69578335~hmac=2abb2c05a21854515e70d72d2630a2c69a8a49d5952ad2c36ce2567a8d4205d1
@@ -2000,11 +2001,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="SPORTS ID",beIN Sports 3 (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-name="beIN Sports 1 ID" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="SPORTS ID",beIN Sports 1
-https://s.id/20Nnc
-
-#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="SPORTS ID",beIN Sports 3
-https://s.id/20Nlf
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2026,8 +2022,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="SPORTS ID",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
 
 
