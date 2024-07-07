@@ -301,14 +301,25 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/C-KwECuYblbzdgfdhr_SOtpceE8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567895/28fa45.jpg" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17533/master.m3u8?hdnts=exp=1720264221~acl=/live/17533/*~id=69578335~hmac=2abb2c05a21854515e70d72d2630a2c69a8a49d5952ad2c36ce2567a8d4205d1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141_stream.mpd?hdntl=exp=1720341774~acl=%2f*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/C-KwECuYblbzdgfdhr_SOtpceE8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567895/28fa45.jpg" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141_stream.mpd?hdntl=exp=1720341774~acl=%2f*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/svUKD28IzwI0jrHVvcwGBH_JwQw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567894/c5a273.jpg" group-title="LIVE EVENTS", ONE PRIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16906_720p/hdntl=exp=1720281958~acl=%2f*~id=69578335~data=hdntl~hmac=2badda3ad1ba33551bac04883cfc165d3dd7d82f7d19d99df6c64ed1a22d8398/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17533_720p/hdntl=exp=1720341626~acl=%2f*~id=69578335~data=hdntl~hmac=4d6eeac0317255dec0bf73af6e38d0e0ab6bc06a5c32f1bf9b2725c0fbde3cb2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/dcUyRfMBHzSiDVtpzOqpUzBv14g=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567899/b2647d.jpg" group-title="LIVE EVENTS", PROLIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
