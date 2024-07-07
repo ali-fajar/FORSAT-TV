@@ -17,7 +17,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1720341140~acl=%2f*~id=69578335~data=hdntl~hmac=1e78837d6f717890c01287acdd1fa3dae042497bf3cddfd5c956829c66ab4bd4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0f5EB32_it0YDMODOO61fgwJA8k=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563204/6f7771.jpg" group-title="NASIONAL", PROLIGA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/dcUyRfMBHzSiDVtpzOqpUzBv14g=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567899/b2647d.jpg" group-title="NASIONAL", PROLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720353523~acl=%2f*~id=69578335~data=hdntl~hmac=656757ad94422d2892d9ed8a1ad5fe8e66356a9b4f148015ea83f7bda19d5378/index.m3u8
@@ -297,22 +297,6 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/C-KwECuYblbzdgfdhr_SOtpceE8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567895/28fa45.jpg" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141/primary/720p/v-720p-idx.mp4?hdntl=exp=1720341774~acl=/*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/C-KwECuYblbzdgfdhr_SOtpceE8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567895/28fa45.jpg" group-title="LIVE EVENTS", MXGP LOMBOK 7JULI 12.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141/primary/720p/v-720p-idx.mp4?hdntl=exp=1720341774~acl=/*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/svUKD28IzwI0jrHVvcwGBH_JwQw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567894/c5a273.jpg" group-title="LIVE EVENTS", ONE PRIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -322,12 +306,12 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17533_720p/hdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/dcUyRfMBHzSiDVtpzOqpUzBv14g=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567899/b2647d.jpg" group-title="LIVE EVENTS", PROLIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1720279603~acl=/live/17252/*~id=69578335~hmac=5deff6143a6087e2c75ab4e64f7670005b8485b50b42e89dde3b5bb6b7339f4f
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720353523~acl=%2f*~id=69578335~data=hdntl~hmac=656757ad94422d2892d9ed8a1ad5fe8e66356a9b4f148015ea83f7bda19d5378/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/t14QC-TULh0mH37DWIwZeyvXgYs=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563205/2af2c0.jpg" group-title="LIVE EVENTS", PROLIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_360p/hdntl=exp=1720284714~acl=%2f*~id=69578335~data=hdntl~hmac=76688a2d0e737909be04ed1f2132bbc22262a51782222bd8152cf4077e1a8d4d/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720353523~acl=%2f*~id=69578335~data=hdntl~hmac=656757ad94422d2892d9ed8a1ad5fe8e66356a9b4f148015ea83f7bda19d5378/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0gPnuCK6xjsGBAMTKg-eeO3AWfg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3565250/7ea1f6.jpg" group-title="LIVE EVENTS", ML
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
