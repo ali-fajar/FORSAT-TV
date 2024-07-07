@@ -15,7 +15,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1720341140~acl=%2f*~id=69578335~data=hdntl~hmac=1e78837d6f717890c01287acdd1fa3dae042497bf3cddfd5c956829c66ab4bd4
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6685_stream.mpd?hdntl=exp=1720372405~acl=%2f*~id=69578335~data=hdntl~hmac=573e32198a1446223b932b762ac190b739ea4f98106b4a1f0741bd9790599166
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/DQwNenfWSlLhIHJW77Cz8Tm3hRM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567901/f7a620.jpg" group-title="NASIONAL", PROLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
