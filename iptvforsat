@@ -313,7 +313,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141_stream.mpd?h
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141_stream.mpd?hdntl=exp=1720341774~acl=%2f*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141/primary/720p/v-720p-idx.mp4?hdntl=exp=1720341774~acl=/*~id=69578335~data=hdntl~hmac=7f7edb178541aa6b239fa04bc7b6162f440d384a4b0edcb4c95fe190a4e064a7
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/svUKD28IzwI0jrHVvcwGBH_JwQw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567894/c5a273.jpg" group-title="LIVE EVENTS", ONE PRIX
