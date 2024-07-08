@@ -449,8 +449,14 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
-#EXTINF:-1 group-title="EURO" tvg-id="FEED 2" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401258761.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="EURO" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO3
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO", EURO 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4740,16 +4746,20 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/33487.m3u8
 http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbX76BYUNGehDSysLfh2_7k8/ts
 
 #EXTINF:-1 xui-id="163" tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="OLAHRAGA",Astro Supersport 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153953.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 
 #EXTINF:-1 xui-id="164" tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="OLAHRAGA",Astro Supersport 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153952.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
 
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" group-title="OLAHRAGA",Astro Supersport 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153952.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 
 #EXTINF:-1 xui-id="166" tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="OLAHRAGA",Astro Supersport 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/153951.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 #EXTINF:-1 xui-id="167" tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest/scale-to-width-down/1000?cb=20220421064927" group-title="OLAHRAGA",Astro Supersport 5
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/254887.m3u8
