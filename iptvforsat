@@ -530,7 +530,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401254949.m3u8
 
 #EXTINF:-1 group-title="EURO" tvg-id="SKY CALCIO" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
 https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/31209/FHD/skysportseriea/master.mpd
