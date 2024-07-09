@@ -368,6 +368,23 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17516_720p/hdn
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16906_720p/hdntl=exp=1720371624~acl=%2f*~id=69578335~data=hdntl~hmac=edc2d6ea54043aaf2062220a0f3f8169f3439b4d52436386985ac5e9fac75cd3/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17544/master.m3u8?hdnts=exp=1720511744~acl=/live/17544/*~id=69578335~hmac=929a7a3f0454bc2289eebe7096a9e32fd0a46f7e5cc5f6131455b5fe02ff143a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17541/master.m3u8?hdnts=exp=1720512049~acl=/live/17541/*~id=69578335~hmac=0baeaa80f25d4d4643892f1736dbdf212fc9ba0a354b98056385f5248e542ebc
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdntl=exp=1720512128~acl=%2f*~id=69578335~data=hdntl~hmac=5605a34d3b1dfb0c70291e1a951851363484962e999b6469db46fbab351878ef/index.m3u8
+
+
+
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
