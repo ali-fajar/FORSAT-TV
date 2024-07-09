@@ -997,11 +997,11 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 #EXTINF:-1 tvg-id="SONY AATH" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-aath-in.png" group-title="ENTERTAINMENT", Sony AATH 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbfUSnb4Pr2tA9-bJr6UCnPw/ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400159477.m3u8
 
 #EXTINF:-1 tvg-id="SET HD" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" group-title="ENTERTAINMENT", Sony ENTERTAINMENT TELEVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbf9-AKzvrgUrTA9uV3K2j3A/ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232356.m3u8
 
 
 
@@ -1116,14 +1116,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="KNOWLEDGE", NATGEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbZQuhbtigaqoKBXhuU_wjfc/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/31/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://iili.io/JpsKDVs.jpg" group-title="KNOWLEDGE", NATGEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbc5htjkxEP9myTfCu4kn4jM/ts
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/53/playlist.m3u8
 
 
 
