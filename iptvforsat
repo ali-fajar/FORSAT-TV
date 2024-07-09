@@ -514,7 +514,7 @@ https://cors-proxy.cooks.fyi/https://video.beeline.tv/live/d/channel318.isml/man
 
 #EXTINF:-1 group-title="EURO" tvg-id="ITV1" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401245914.m3u8
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60799
 
 #EXTINF:-1 group-title="EURO" tvg-id="CCTV 5" tvg-logo="https://static.dw.com/image/59506085_605.jpg", EURO 15
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
