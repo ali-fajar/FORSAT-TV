@@ -495,8 +495,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
+https://bdix.proximitybd.xyz/gs1.php?id=live-02&e.m3u8
 
 #EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="EURO",EURO 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
