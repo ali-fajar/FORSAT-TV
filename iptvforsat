@@ -34,8 +34,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="NASIONAL", RCTI (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
