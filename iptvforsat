@@ -17,7 +17,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdntl=exp=1720672582~acl=%2f*~id=69578335~data=hdntl~hmac=3a5fb7940df69d8db21dac9632c9dd5d375416a4d4114ac7335bc4e776dce952
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/SFxa6rZaPmYNYbi7zB-30JkuSV0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3575068/7d19e7.jpg" group-title="NASIONAL", PROLIGA 11 juli
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/NspE_a3YWZ1bkaO1_siDENBT8eo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3575070/a82730.jpg" group-title="NASIONAL", PROLIGA 11 juli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720702811~acl=%2f*~id=69578335~data=hdntl~hmac=65433311bad163871127a24d77dbcae515eb7d4f094d1fa9e75bff6ec5b7470e/index.m3u8
