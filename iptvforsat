@@ -347,10 +347,10 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17533_720p/hdntl=exp=1720341626~acl=%2f*~id=69578335~data=hdntl~hmac=4d6eeac0317255dec0bf73af6e38d0e0ab6bc06a5c32f1bf9b2725c0fbde3cb2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/WdwkD5WZiDd5PjV-lkikpx6m5g0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3575071/dac416.jpg" group-title="LIVE EVENTS", PROLIGA 1 11 JULI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/WdwkD5WZiDd5PjV-lkikpx6m5g0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3575071/dac416.jpg" group-title="LIVE EVENTS", PROLIGA 1 11 JULI 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/11
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720702811~acl=%2f*~id=69578335~data=hdntl~hmac=65433311bad163871127a24d77dbcae515eb7d4f094d1fa9e75bff6ec5b7470e/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_360p/hdntl=exp=1720703118~acl=%2f*~id=69578335~data=hdntl~hmac=7faa4eaa3c1e6f85d34c5724429bf7d8f11e1e0707e8b25215d80ca70cb7bbe8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/NspE_a3YWZ1bkaO1_siDENBT8eo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3575070/a82730.jpg" group-title="LIVE EVENTS", PROLIGA 2 11 JULI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
