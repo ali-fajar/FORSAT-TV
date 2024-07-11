@@ -370,7 +370,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16906_720p/hdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17544/master.m3u8?hdnts=exp=1720511744~acl=/live/17544/*~id=69578335~hmac=929a7a3f0454bc2289eebe7096a9e32fd0a46f7e5cc5f6131455b5fe02ff143a
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17557_720p/hdntl=exp=1720703358~acl=%2f*~id=69578335~data=hdntl~hmac=485fbaf1381c6fe38330131e1c09239fce23974f1e6fbff3b33760ccf7d9f2c9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
