@@ -20,7 +20,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/MeYhloUWpBQtIdpnfNIRZoXPJ24=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3576855/e12043.jpg" group-title="NASIONAL", PROLIGA 11 juli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_240p/hdntl=exp=1720784622~acl=%2f*~id=69578335~data=hdntl~hmac=b9e21520cca5936e08364e7dc569147f3d2c334b20e3e1debcdadb0cc2ae2059/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720800893~acl=%2f*~id=69578335~data=hdntl~hmac=980d79d40ea6b0b284c6c6cf1952a189dcf6360fbc1e8ad408752b982266b42f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", TIMNAS U16 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -350,12 +350,12 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17533_720p/hdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/MeYhloUWpBQtIdpnfNIRZoXPJ24=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3576855/e12043.jpg" group-title="LIVE EVENTS", PROLIGA 1 12 JULI 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/11
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_240p/hdntl=exp=1720784622~acl=%2f*~id=69578335~data=hdntl~hmac=b9e21520cca5936e08364e7dc569147f3d2c334b20e3e1debcdadb0cc2ae2059/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720800893~acl=%2f*~id=69578335~data=hdntl~hmac=980d79d40ea6b0b284c6c6cf1952a189dcf6360fbc1e8ad408752b982266b42f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/n6ZBfjjpWDFkEGGN8uBDJTCk3QI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3576856/f39f55.jpg" group-title="LIVE EVENTS", PROLIGA 2 12 JULI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720784833~acl=%2f*~id=69578335~data=hdntl~hmac=7b99da9ae7051d9f43caf4a03079b6e5ea7bdb15cde45dfe086e4071878da474/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720800893~acl=%2f*~id=69578335~data=hdntl~hmac=980d79d40ea6b0b284c6c6cf1952a189dcf6360fbc1e8ad408752b982266b42f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0gPnuCK6xjsGBAMTKg-eeO3AWfg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3565250/7ea1f6.jpg" group-title="LIVE EVENTS", ML
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
