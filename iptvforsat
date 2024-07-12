@@ -2614,11 +2614,11 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-18.png",ช่อง SCTV17
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://iili.io/dqX9Zx4.png", SCTV17
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/index.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-22.png",ช่อง SCTV22
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://iili.io/dqXJ7Tb.png", SCTV22
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 
