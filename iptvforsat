@@ -5697,6 +5697,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="Japan" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Japan" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", Natgeo Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Japan" tvg-id="historych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="Japan",CNN Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="bbcnews" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png" group-title="JAPAN",BBC NEWS JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
 
 
 
