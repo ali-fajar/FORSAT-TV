@@ -342,10 +342,10 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/svUKD28IzwI0jrHVvcwGBH_JwQw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3567894/c5a273.jpg" group-title="LIVE EVENTS", ONE PRIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1JYrtvPKrYm75N26NNof8A2HW-U=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3578800/5ae881.jpg" group-title="LIVE EVENTS", ONE MMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17533_720p/hdntl=exp=1720341626~acl=%2f*~id=69578335~data=hdntl~hmac=4d6eeac0317255dec0bf73af6e38d0e0ab6bc06a5c32f1bf9b2725c0fbde3cb2/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_360p/hdntl=exp=1720802506~acl=%2f*~id=69578335~data=hdntl~hmac=108f4f20a140add8da49a6ae50f75debf0cfa1d4ac3ac5153f5d7c688caa9868/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/MeYhloUWpBQtIdpnfNIRZoXPJ24=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3576855/e12043.jpg" group-title="LIVE EVENTS", PROLIGA 1 12 JULI 21.00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -360,7 +360,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/0gPnuCK6xjsGBAMTKg-eeO3AWfg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3565250/7ea1f6.jpg" group-title="LIVE EVENTS", ML
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17516/master.m3u8?hdnts=exp=1720619590~acl=/live/17516/*~id=69578335~hmac=08932ccd37199cbd1c8141e13049dff3056af394d17e41fa19064722288b63b9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17517_720p/hdntl=exp=1720802597~acl=%2f*~id=69578335~data=hdntl~hmac=e805418117e059f8141b97578f0a5ad579ebd90e13f30963c35ae664463943ad/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/pHx35AHavdo2ZRqC8l1sE7NNuC8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3563201/4e18e2.jpg" group-title="LIVE EVENTS", IBL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
