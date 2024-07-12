@@ -2578,11 +2578,25 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 
-#EXTINF:-1 tvg-id="htv9hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 
+#EXTINF:-1 tvg-id="htv9hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/htv-9-vn.png",HTV9 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 
+#EXTINF:-1 tvg-id="vtc1hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtc1-vn.png",VTC1 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8 
 
+#EXTINF:-1 tvg-id="vtc5hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtc7-vn.png",VTC5 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/index.m3u8
+
+#EXTINF:-1 tvg-id="vtc9hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtc9-vn.png",VTC9 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/index.m3u8 
+
+#EXTINF:-1 tvg-id="vtc10hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtc-10-vn.png",VTC10
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/d3EPveI.png",Trực Tiếp 1
 http://171.238.181.52:18080/198.m3u8
