@@ -3176,7 +3176,29 @@ http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/1720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", LIVE 09
 http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/1719
 
+=====================================LIGA SPANYOL==========================================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 1
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60797
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
 =========================================== MOLA ==============================================================================
