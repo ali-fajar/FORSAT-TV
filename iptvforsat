@@ -5097,7 +5097,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
 #EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-2-no.png" group-title="SPORTS",  V Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5125,7 +5125,7 @@ https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
 
@@ -5141,21 +5141,21 @@ https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 tvg-id="V Sport Premium" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premium-se.png" group-title="SPORTS",  V Sport PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="SPORTS", V Sport UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
 
 
 
