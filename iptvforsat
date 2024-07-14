@@ -10,12 +10,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/p0V0cfGzSPzB2We4TmR2wR4YEdc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3554880/059992.jpg" group-title="NASIONAL", INDONESIA VS AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="NASIONAL", INDONESIA VS HONGKONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdntl=exp=1720672582~acl=%2f*~id=69578335~data=hdntl~hmac=3a5fb7940df69d8db21dac9632c9dd5d375416a4d4114ac7335bc4e776dce952
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17570_stream.mpd?hdntl=exp=1720963985~acl=%2f*~id=69578335~data=hdntl~hmac=5b56a79019a85ebd31573609a003ac65a97d7dab403793dd0eea2429b69521a9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JJsa064TpAencCP2mW00oyj2NBc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583122/ccf8b5.jpg" group-title="NASIONAL", PROLIGA 14 juli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
