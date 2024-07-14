@@ -345,8 +345,8 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_360p/hdntl=exp=1720802506~acl=%2f*~id=69578335~data=hdntl~hmac=108f4f20a140add8da49a6ae50f75debf0cfa1d4ac3ac5153f5d7c688caa9868/index.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JkpHoTOSoJD085suWGW8ad_g5Bk=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583124/832498.jpg" group-title="LIVE EVENTS", PROLIGA 1 14 JULI 19.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
