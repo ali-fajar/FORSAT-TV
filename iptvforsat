@@ -15,7 +15,7 @@ http://tv14s.xyz:8080/live/753468/894568/99568.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17570_stream.mpd?hdntl=exp=1720963985~acl=%2f*~id=69578335~data=hdntl~hmac=5b56a79019a85ebd31573609a003ac65a97d7dab403793dd0eea2429b69521a9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17570_stream.mpd?hdntl=exp=1720964431~acl=%2f*~id=69578335~data=hdntl~hmac=e4240dab3cccffefd14ceeeb47b3c03e36e55b7c7fdcc6582b3994f82b664e90
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JJsa064TpAencCP2mW00oyj2NBc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583122/ccf8b5.jpg" group-title="NASIONAL", PROLIGA 14 juli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
