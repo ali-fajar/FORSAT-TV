@@ -343,12 +343,12 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1JYrtvPKrYm75N26NNof8A2HW-U=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3578800/5ae881.jpg" group-title="LIVE EVENTS", ONE MMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_360p/hdntl=exp=1720802506~acl=%2f*~id=69578335~data=hdntl~hmac=108f4f20a140add8da49a6ae50f75debf0cfa1d4ac3ac5153f5d7c688caa9868/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JJsa064TpAencCP2mW00oyj2NBc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583122/ccf8b5.jpg" group-title="LIVE EVENTS", PROLIGA 1 14 JULI 14.30 WIB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JkpHoTOSoJD085suWGW8ad_g5Bk=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583124/832498.jpg" group-title="LIVE EVENTS", PROLIGA 1 14 JULI 19.30 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/11
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720875382~acl=%2f*~id=69578335~data=hdntl~hmac=c0929a8a28f8fd63323a8c40fdceb75d0939ca2b98d12ad4313108c65706ab89/index.m3u8
