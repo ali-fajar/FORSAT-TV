@@ -3200,6 +3200,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+=======================================LIGA ITALIA==========================================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A1
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2140
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A2
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2687
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A3
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28468
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A4
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28468
+
 
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
