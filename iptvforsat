@@ -342,6 +342,13 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lgBW7tz47da0twdGvJs2DWJLb5s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583120/6c1d25.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", ARGENTINA VS COLOMBIA 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe5680b6af6a055153254abeceab3a7e:89bd8fab74cd2c08ddfd8f607a87fe1a
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdnts=exp=1721016894~acl=/drm/dash/*~id=148329916~hmac=da3f385b25abf47f5dd2c3feb13af1c5eed7a8c9fa40f16e9b370ecaeaa3a603
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
