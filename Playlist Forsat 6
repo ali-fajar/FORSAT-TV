@@ -26,6 +26,14 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 
 
+#EXTINF:0 tvg-logo="https://bintangstreaming.my.id/poster/load.png" group-title="AFF-U19" tvg-id="001" tvg-name="016-LABURATV", INDONESIA -U19 VS FILIPINA U-19
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721231474~acl=/drm/dash/*~id=69578335~hmac=7da77e23a8d54c701dc8062f746004104fd674318429616752a2ee2fd18f6f32
+
+
+
 
 
 
