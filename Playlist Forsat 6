@@ -1,6 +1,10 @@
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721218415~acl=%2f*~id=69578335~data=hdntl~hmac=c7d4cca6201f30c9d8a1f42f7acbfe1da88b1a0a7cdb327c594d9f668cb343a9
 
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/q1SISxDbwhcqb9d2esyr88XYZpQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587248/d94005.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", ARGENTINA VS COLOMBIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
 
 
 
