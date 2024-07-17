@@ -14,7 +14,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204/primary/360p/v
 
 
 
-
+#EXTINF:0 tvg-logo="" group-title="FINAL" tvg-id="001" tvg-name="016-LABURATV", ARGENTINA VS COLOMBIA 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204/primary/360p/v-360p-1721198454_935826000.m4s?hdntl=exp=1721223290~acl=/*~id=69578335~data=hdntl~hmac=8794d33220af71205278be949906015440ce5497e63699c47fd36e57
 
 
 
