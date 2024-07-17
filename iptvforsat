@@ -346,8 +346,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe5680b6af6a055153254abeceab3a7e:89bd8fab74cd2c08ddfd8f607a87fe1a
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17470_stream.mpd?hdnts=exp=1721016894~acl=/drm/dash/*~id=148329916~hmac=da3f385b25abf47f5dd2c3feb13af1c5eed7a8c9fa40f16e9b370ecaeaa3a603
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721216831~acl=%2f*~id=69578335~data=hdntl~hmac=3ca27b2290fad6ee2881abf4018e74669fb39eda8f58ceb61defa0db3c745ca7
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
