@@ -371,7 +371,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17541/master.m3u8?hdnt
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdntl=exp=1720512128~acl=%2f*~id=69578335~data=hdntl~hmac=5605a34d3b1dfb0c70291e1a951851363484962e999b6469db46fbab351878ef/index.m3u8
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/q1SISxDbwhcqb9d2esyr88XYZpQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587248/d94005.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", TSL
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/yH44Zhy811sHoAxdH-MMImsFH34=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587194/c10a6c.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", TIMNAS
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
