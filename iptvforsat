@@ -375,7 +375,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdn
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721231663~acl=%2f*~id=69578335~data=hdntl~hmac=2067fd5a12259af7ca3c55502a099a9577c12aba988a6c2ba70236372bc6309e
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721231474~acl=/drm/dash/*~id=69578335~hmac=7da77e23a8d54c701dc8062f746004104fd674318429616752a2ee2fd18f6f32
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
