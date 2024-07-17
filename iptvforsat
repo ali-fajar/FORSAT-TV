@@ -10,22 +10,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/q1SISxDbwhcqb9d2esyr88XYZpQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587248/d94005.jpg" group-title="NASIONAL", INDONESIA VS HONGKONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdntl=exp=1721216342~acl=%2f*~id=69578335~data=hdntl~hmac=339f92d78aaedcea804561ffb6746d30a684f5c1a84cbf5b51ca9c206003db4d
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JJsa064TpAencCP2mW00oyj2NBc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583122/ccf8b5.jpg" group-title="NASIONAL", PROLIGA 14 juli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720963432~acl=%2f*~id=69578335~data=hdntl~hmac=a603ff1fa3cd6cd29930b22408708b4f59acb53f4fb0feee57af61e19ad8f4b4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="NASIONAL", TIMNAS CEWEK 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720963432~acl=%2f*~id=69578335~data=hdntl~hmac=a603ff1fa3cd6cd29930b22408708b4f59acb53f4fb0feee57af61e19ad8f4b4/index.m3u8
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -342,7 +326,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lgBW7tz47da0twdGvJs2DWJLb5s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583120/6c1d25.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", ARGENTINA VS COLOMBIA 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/q1SISxDbwhcqb9d2esyr88XYZpQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587248/d94005.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", ARGENTINA VS COLOMBIA 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe5680b6af6a055153254abeceab3a7e:89bd8fab74cd2c08ddfd8f607a87fe1a
