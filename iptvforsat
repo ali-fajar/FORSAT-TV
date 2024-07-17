@@ -374,9 +374,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdn
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/q1SISxDbwhcqb9d2esyr88XYZpQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587248/d94005.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", TSL
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204/primary/360p/v-360p-1721198454_935826000.m4s?hdntl=exp=1721223290~acl=/*~id=69578335~data=hdntl~hmac=8794d33220af71205278be949906015440ce5497e63699c47fd36e57
-
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721231663~acl=%2f*~id=69578335~data=hdntl~hmac=2067fd5a12259af7ca3c55502a099a9577c12aba988a6c2ba70236372bc6309e
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
