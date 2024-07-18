@@ -325,12 +325,11 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="LIVE" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/n0jwNTAVrqEgfalPQB2VnwWENKw=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587250/ec4ee6.jpg", | 14.25 WIB - Laos vs Australia - 18/07/2024
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/VPFX6LOAtXdTERZao2x4Gbb5-MM=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3589830/d57e36.jpg", | 19.00 WIB - Vietnam vs Myanmar - 18/07/2024
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aad3b98420ff07499eb2c064b6c4689c:7a9bcd82c08272df18f727d94d0034a9
+#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdnts=exp=1721303489~acl=/drm/dash/*~id=159149263~hmac=b8d8db04871c4b02230acaea1573b786953b7f29a0bd28711d0de76ab66b5c52
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1721319130~acl=/drm/dash/*~id=78793485~hmac=74d34390e5b236926cc18603f7d986940e862886b629d213a71dc524eeec4345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
