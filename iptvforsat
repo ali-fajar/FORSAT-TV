@@ -371,9 +371,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17541/master.m3u8?hdnt
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdntl=exp=1720512128~acl=%2f*~id=69578335~data=hdntl~hmac=5605a34d3b1dfb0c70291e1a951851363484962e999b6469db46fbab351878ef/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/7_Zm7vKS65xAfvMFMwNiDtXwYmQ=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3593725/21e50c.jpg", | 14.00 WIB - Opening Ceremony - 19/07/2024
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1721388818~acl=/live/205/*~id=85840739~hmac=a45b491f1e596cbbec046ccedb415731832d7a7233e6e795953d0bb0a09c743c
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/1zIMsHwWXhpa8J0M6fCFkZN1Ebg=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587261/4cdc26.jpg", | 15.25 WIB - Persib Bandung vs PSM Makassar - 19/07/2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721393543~acl=/drm/dash/*~id=69578335~hmac=285c4e3cd237b3f99e4bd61fcb9fa8180cca07733682b25c67d2304da5e6a520
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
