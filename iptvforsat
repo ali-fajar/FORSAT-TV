@@ -345,10 +345,9 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_720p/hdn
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rt6yF_Kf9Os9iE6gTqzuF92yAMQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3589827/f37b70.jpg", | Thailand vs Singapore - 19/07/2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f496db04f4061f57ccc2c93641db5437:2afb12987f05b6259a4d10bb4fe77cf3
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdntl=exp=1721405691~acl=/drm/dash/*~id=69578335~data=hdntl~hmac=808957631b366447dc2c2e64f72e1cea13febe8578071457a913a881416af6b0
+https://179939170.cdnfree.pro/live/paosd2/chunklist.m3u8
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
