@@ -331,20 +331,6 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/204_stream.mpd?hdnts=exp=1721389804~acl=/drm/dash/*~id=69578335~hmac=bc514aa15dce78de136a5e160d97663e11712a9a667980048812c1c00adb82bb
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/3phjp8JZ3Btkiu4oxmjzaE42g2o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3580822/df5493.jpg" group-title="LIVE EVENTS", FIFA MACTHDAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/JkpHoTOSoJD085suWGW8ad_g5Bk=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583124/832498.jpg" group-title="LIVE EVENTS", PROLIGA 1 14 JULI 19.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/11
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720875382~acl=%2f*~id=69578335~data=hdntl~hmac=c0929a8a28f8fd63323a8c40fdceb75d0939ca2b98d12ad4313108c65706ab89/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/MK8B0adAblyTKUkWDDQB73Jd_Uk=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3583123/41df6c.jpg" group-title="LIVE EVENTS", PROLIGA 2 14 JULI 17.00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1720963432~acl=%2f*~id=69578335~data=hdntl~hmac=a603ff1fa3cd6cd29930b22408708b4f59acb53f4fb0feee57af61e19ad8f4b4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -356,20 +342,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17526_720p/hdn
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_720p/hdntl=exp=1721406621~acl=%2f*~id=69578335~data=hdntl~hmac=745c43481c46eff34e992994ec9cc8cf3e32092e9f0313f5e0972800db1814f6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17565_720p/hdntl=exp=1720802989~acl=%2f*~id=69578335~data=hdntl~hmac=363bfd164496ebd2334c3a57ed6f2f30a89c34756396d28a95116534874eacfd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17541/master.m3u8?hdnts=exp=1720512049~acl=/live/17541/*~id=69578335~hmac=0baeaa80f25d4d4643892f1736dbdf212fc9ba0a354b98056385f5248e542ebc
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/iWxVSJEoTdCTaiWZJfNo1Td_EsQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3574422/9d5ba3.jpg" group-title="LIVE EVENTS", TOP SKORE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdntl=exp=1720512128~acl=%2f*~id=69578335~data=hdntl~hmac=5605a34d3b1dfb0c70291e1a951851363484962e999b6469db46fbab351878ef/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rt6yF_Kf9Os9iE6gTqzuF92yAMQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3589827/f37b70.jpg", | Thailand vs Singapore - 19/07/2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
