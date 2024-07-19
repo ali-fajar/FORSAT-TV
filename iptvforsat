@@ -374,8 +374,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17543_720p/hdn
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/yH44Zhy811sHoAxdH-MMImsFH34=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587194/c10a6c.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", TIMNAS
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721231474~acl=/drm/dash/*~id=69578335~hmac=7da77e23a8d54c701dc8062f746004104fd674318429616752a2ee2fd18f6f32
+#KODIPROP:inputstream.adaptive.license_key=1b70bcbccbb0bc4530c670b97a88d6b8:61e2328642dc1db49e21f9cad6fafb79
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1721388080~acl=%2f*~id=34967530~data=hdntl~hmac=9e9b4aeb96d195740f1654e636bbb3401415470cf53ac2583fd2e3760ef7557f
 ==========================================COPA AMERICA=================================================================
 
 #EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
