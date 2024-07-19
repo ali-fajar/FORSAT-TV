@@ -365,70 +365,21 @@ https://179939170.cdnfree.pro/live/paosd2/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
-==========================================COPA AMERICA=================================================================
-
-#EXTINF:-1 tvg-id="SPORT 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 1
-https://katanaboss.online/chunklist/hlsch1.m3u8
+==========================================OLIMPIADE=================================================================
 
 
-#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 2
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 1
 http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28862
 
-#EXTINF:-1 xui-id="15082" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 3
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/59217
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 2
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60794
 
-#EXTINF:-1 xui-id="15083" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253833.m3u8
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 3
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2917
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253817.m3u8
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 4
+http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28192
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 6
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8
-
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="COPA" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 7
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401258505.m3u8
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 8
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253831.m3u8
-
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerTSN_4_HD/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/PSAYLeDk13/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 11
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253817.m3u8
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 12
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253816.m3u8
-
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 13 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
-https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TVMAX" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 14
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/401253834.m3u8
-
-#EXTINF:-1 tvg-id="Sportdigital Fußball.de" tvg-name="" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 15
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="Premier Sport 1" tvg-logo="https://img.merahputih.com/media/f3/e9/8b/f3e98b8b6656de62dcc1beafa9272a8d.jpeg" group-title="COPA", COPA 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
 
 
 =============================================EURO=================================================================
