@@ -325,6 +325,14 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/SznLpdMmNJ4x8M51eZVSW318AZ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595912/f8d048.jpg", | Friendly Match: Rapid Vienna vs AC Milan 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c82188b4e66e0f52bbc4fdae8b457cfd:c497922f2cb789da59e68b135f235b5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdnts=exp=1721504446~acl=/drm/dash/*~id=69578335~hmac=9c1fe9d50bdcdf6441072d1bd12655c3857521a2353c92f9af9eb0cd91265feb
+
+
+
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/cIqN-1MuIZw2xI_ufJMFc8Nhz3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595910/45c5e8.jpg", | Friendly Match: Rangers vs Manchester United 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
