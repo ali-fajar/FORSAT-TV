@@ -326,17 +326,12 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/iFyXFiOq21O9BDOvO-EgAyXt1xQ=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3587195/965d18.jpg", | 14.48 WIB - Philippines vs Timor Leste - 20/07/2024
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/cIqN-1MuIZw2xI_ufJMFc8Nhz3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595910/45c5e8.jpg", | Friendly Match: Rangers vs Manchester United 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#KODIPROP:inputstream.adaptive.license_key=8f466061d032e0c7a953675783a0214d:85beef2c63d400190a2c08293e338dc8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721476309~acl=/drm/dash/*~id=69578335~hmac=fdff9c107156f81bc2edf8284143c57aee89faa89a0e312f4bfb0bf7c204c3fc
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdnts=exp=1721503478~acl=/drm/dash/*~id=69578335~hmac=dcbb5e1f0c4a303653a27cf41fa7db09f9ea3bf7689702118c8a3d48c3f3ecd0
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/pAYQDI7dFB0nXYQeDgECtMk36U0=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3593939/e3e6d3.jpg", | 19.12 WIB - Borneo FC Samarinda vs Persis Solo - 19/07/2024
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721407323~acl=/drm/dash/*~id=69578335~hmac=6b03ff2e7e568637541f0ec84941658f161c08439be0c5e61b334b4cba16e9ab
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/6ryYD9dkaYSnw06B51Y0qve-yvQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595840/a65464.jpg", | Kamboja vs Timnas- 20/07/2024
