@@ -347,12 +347,12 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m104nd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17526_720p/hdntl=exp=1721406444~acl=%2f*~id=69578335~data=hdntl~hmac=c73768720b194ed72bf7e82a077514bb9804f73cac608547f1e6ef2b2ebbbb57/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17526/master.m3u8?hdnts=exp=1721487604~acl=/live/17526/*~id=69578335~hmac=6a434f8516b03bd037d95cf5d5e305e2d037225c742818f8cbd53670984c2156
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/D8tpeCOOqzw2Ij4WptKUl_xQH-M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3561560/9f3096.jpg" group-title="LIVE EVENTS", PUBG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_720p/hdntl=exp=1721406621~acl=%2f*~id=69578335~data=hdntl~hmac=745c43481c46eff34e992994ec9cc8cf3e32092e9f0313f5e0972800db1814f6/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17528/master.m3u8?hdnts=exp=1721487768~acl=/live/17528/*~id=69578335~hmac=2eb07710df43bb1aeec2f66df8dab9b1fd9d6ffb658fc0b844ae2acafafc6401
 
 
 
