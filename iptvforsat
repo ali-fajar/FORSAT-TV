@@ -325,20 +325,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/SznLpdMmNJ4x8M51eZVSW318AZ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595912/f8d048.jpg", | Friendly Match: Rapid Vienna vs AC Milan 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c82188b4e66e0f52bbc4fdae8b457cfd:c497922f2cb789da59e68b135f235b5d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdnts=exp=1721504446~acl=/drm/dash/*~id=69578335~hmac=9c1fe9d50bdcdf6441072d1bd12655c3857521a2353c92f9af9eb0cd91265feb
-
-
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/cIqN-1MuIZw2xI_ufJMFc8Nhz3w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595910/45c5e8.jpg", | Friendly Match: Rangers vs Manchester United 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f466061d032e0c7a953675783a0214d:85beef2c63d400190a2c08293e338dc8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdnts=exp=1721503478~acl=/drm/dash/*~id=69578335~hmac=dcbb5e1f0c4a303653a27cf41fa7db09f9ea3bf7689702118c8a3d48c3f3ecd0
 
 
 
@@ -365,11 +351,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17528/master.m3u8?hdnt
 https://179939170.cdnfree.pro/live/paosd2/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rt6yF_Kf9Os9iE6gTqzuF92yAMQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3589827/f37b70.jpg", | Ajax vs Olympiakos
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
-
 
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/v.png" group-title="LIVE EVENTS" tvg-id="001" tvg-name="",Jakarta Popsivo Polwan vs Jakarta Pertamina Enduro - PLN Mobile Proliga 2024
@@ -377,9 +358,9 @@ https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721479358~acl=/live/17252/*~id=69578335~hmac=3513e74695354146f982868734d1aca7181a3a9c868d7e5b05e35a607bb5a80c
 
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/mSiaghs8aWaq9tShX3OAbnmSg1g=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595863/01f7c8.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="",Jakarta Bin vs PLN Electric - PLN Mobile Proliga FINAL 20.30
+#EXTINF:0 tvg-logo="" group-title="LIVE EVENTS" tvg-id="001" tvg-name="",Bank Sumsel Vs Stin BIn - PLN Mobile Proliga 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_240p/hdntl=exp=1721504574~acl=%2f*~id=69578335~data=hdntl~hmac=1d5336e13349e9df6b0c0186d1f35dc1af69e6df04bf35334ae54fb571efc98d/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_720p/hdntl=exp=1721565053~acl=%2f*~id=69578335~data=hdntl~hmac=34b4ded64c8354171717cac6a769eacd7ba3f26e4eea276421f9af8548fd0e38/index.m3u8
 ==========================================OLIMPIADE=================================================================
 
 
