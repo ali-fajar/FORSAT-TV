@@ -328,10 +328,10 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/6ryYD9dkaYSnw06B51Y0qve-yvQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3595840/a65464.jpg", | Kamboja vs Timnas- 20/07/2024
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/9gYgGPUUl_oKbBGFOK5ZK3apHf4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598182/6087f0.jpg", | Australia vs Vietnam
+#EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m104nd/chunklist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/kz-DRVMM9daerc2laf9DMA/Fv2lucGIbhPi2caWYvF5Lg/1721572592093/live/sd-6MsFu4j863nNzBoYfd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
