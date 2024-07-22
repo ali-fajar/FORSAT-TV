@@ -358,10 +358,10 @@ https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/ed
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721578404~acl=/drm/dash/*~id=69578335~hmac=98ff6639d7b851af71b55b4d658c308d85e1daa26b6552e2ec116ea1dcd539ff
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/9gYgGPUUl_oKbBGFOK5ZK3apHf4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598182/6087f0.jpg", | Australia vs Vietnam
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/dGNNfQSfl0yc2geIdEJurmF-54c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600546/795721.jpg", | PERSIB VS BORNEO
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://179939170.cdnfree.pro/live/phuhd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
