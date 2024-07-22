@@ -2004,7 +2004,7 @@ https://liveproxy.splus.ir/hls/tv3/tv3_360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.imvbox.com/channels/ff357766a3561ef9cbbdde5f2a3d6e88.png" group-title="WORLD TV", IRIB VARZESH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.aionet.ir/hls/varzesh/varzesh_360/index.m3u8
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pb3dbr4/20tv.png" group-title="WORLD TV", 20 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
