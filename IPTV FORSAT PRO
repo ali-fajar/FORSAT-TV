@@ -333,21 +333,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?h
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/QZ0OQjujzkXibft_p7232cRP8yA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600545/ac0cf8.jpg", | Persis Solo vs PSM Makassar - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721650541~acl=/drm/dash/*~id=69578335~hmac=0171f9fedf5948a7eec01f09274bc316a79dc533889b2247f5a2685975e33acc
-
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/N3v-_-X5RLsiqA7STApxil_F-N8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600512/d54da9.jpg", | Brunei Darussalam vs Thailand - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721650560~acl=/drm/dash/*~id=66784105~hmac=bbe08379acc7c480d61976e022ef166ee5198dcd276887c9193eaf06d1762492
-
-
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", | LIVE STREAMING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
@@ -355,15 +340,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?h
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-
-
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/fLfU1c0oqeCyyw0XGy8FH0nwpG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598186/cf7cbe.jpg", | Madura United FC vs Persija Jakarta - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721578404~acl=/drm/dash/*~id=69578335~hmac=98ff6639d7b851af71b55b4d658c308d85e1daa26b6552e2ec116ea1dcd539ff
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/dGNNfQSfl0yc2geIdEJurmF-54c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600546/795721.jpg", | PERSIB VS BORNEO
@@ -387,16 +363,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17528/master.m3u8?hdnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://apisportvb90xltcbk-secure.nsnd.live/DU8DTLLb0eeWxq2vpxwpLA/Fv2lucGIbhPi2caWYvF5Lg/1721673366543/live/sd-6MsFu4kcjG27FsUc6f/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/o76OTemYKR5gc61Cxyg7dZiEGE8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598184/7aa4c8.jpg", | Myanmar vs Laos - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721579648~acl=/drm/dash/*~id=37585759~hmac=64fbf01a874fae08220bd13ba23c88a10e9e0f9ce2aca3d9261d63ce31b47297
 
-
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/T-l5CHqWA9MFlVmdkIQE69I9rwc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3598188/1da594.jpg" group-title="LIVE EVENTS" tvg-id="001" tvg-name="", FINAL PRO LIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1721580110~acl=/live/17252/*~id=69578335~hmac=bc84989ce11e86352aed1760b9159ec6b6676e1ed75158c2efcdc4a78eda33c8
 ==========================================OLIMPIADE=================================================================
 
 
