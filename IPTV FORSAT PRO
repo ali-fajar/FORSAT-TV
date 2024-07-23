@@ -32,7 +32,9 @@ https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="NASIONAL", SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://filex.tv:8080/paramjeetsingh/002818/302301
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -325,13 +327,8 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ZEn3myHoganYaaj78C5KPmHseXk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600546/795721.jpg", | Persib Bandung vs Borneo FC Samarinda - Piala Presiden 2024 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721749309~acl=%2f*~id=69578335~data=hdntl~hmac=f797963861e05055edd082f4dfa161b4b3db9e3935907d715187a1ce69d59918
-
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/A-Efg3gPbToCO5933aKPi8QL2WI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3602695/fc5903.jpg", | INDONESIA VS TIMOR LESTE
+http://filex.tv:8080/paramjeetsingh/002818/302301
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", | LIVE STREAMING
