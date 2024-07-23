@@ -3493,11 +3493,14 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MOTO GP
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbc4nSnbPXZ7NQ1gQp0m8r7E/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium586/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbfoGEhLUK7Xg0OiHfXhLkQs/ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/16901.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
@@ -3519,25 +3522,22 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 
 
 #EXTINF:-1tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP ",  MotoGP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
-#EXTINF:-1tvg-id="EUROSPORT 1ITA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd
+#EXTINF:-1tvg-id="EUROSPORT 1ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
 
-#EXTINF:-1tvg-id="EUROSPORT 1ITA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd
+#EXTINF:-1tvg-id="EUROSPORT 2ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 
 ########VNL##################
@@ -3951,17 +3951,16 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 
 #EXTINF:-1 tvg-id="Fox SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png" group-title="SPORTS",  FOX SPORT
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/29694
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/29694
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png", FOX SOCCER PLUS 
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/29695
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/29695
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FOX SPORTS 1 
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/3130
-
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/3130
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", FOX SPORTS 2
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/3129
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/3129
 
 
 
@@ -4279,10 +4278,13 @@ https://canale.mizhls.ru/lb/premium585/playlist.m3u8
 
 #EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS", PTV Sports HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201958.m3u8
+
 #EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="SPORTS", Sports18 1 HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
+
 #EXTINF: -1 tvg-name="Ten Cricket" group-title="SPORTS", Ten Cricket
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201956.m3u8
+
 #EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="SPORTS", Ten Sports HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/376442.m3u8
 
@@ -4815,7 +4817,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191685.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-https://cors-proxy.mcjeffr.com/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="TV2 Sport 2 HD (N) (T)" tvg-logo="https://i.ibb.co/SX1Yvf4/tv2sport2.png" group-title="SPORTS", TV2 SPORT2 
@@ -4962,7 +4964,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
 #EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-2-no.png" group-title="SPORTS",  V Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -4990,7 +4992,7 @@ https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
 
@@ -4999,28 +5001,28 @@ https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-p
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2e68763da359799dd279ffa7476c81:b9e5d7d8f547aafa41634e845a47e051
-https://cors-proxy.mcjeffr.com/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra65/xtra65.isml/index.mpd
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 tvg-id="V Sport Football" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-fotboll-se.png" group-title="SPORTS",  V Sport FOOTBALL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 tvg-id="V Sport Premium" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premium-se.png" group-title="SPORTS",  V Sport PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="SPORTS", V Sport UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
 
 
 
@@ -5050,20 +5052,20 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 #EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/184.m3u8
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/31366
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="SPORTS", ZIGGO SPORT DOCU
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/186.m3u8
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/31404
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT SELECT
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/187.m3u8
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/31357
 
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://iili.io/JpNlDe1.png" group-title="SPORTS", ZIGGO SPORT VOETBAL
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/185.m3u8
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/31405
 
 =========================== PLUTO TV =============================================================
 
