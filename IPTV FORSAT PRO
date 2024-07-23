@@ -3525,14 +3525,19 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 
 
-```````` WSBK ````````
-
-
 #EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP ",  MotoGP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 
+#EXTINF:-1tvg-id="EUROSPORT 1ITA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd
 
+#EXTINF:-1tvg-id="EUROSPORT 1ITA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_mxgp.png" group-title="MotoGP", MXGP 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd
 
 
 ########VNL##################
