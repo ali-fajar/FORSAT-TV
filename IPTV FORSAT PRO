@@ -327,6 +327,16 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/GASM3cqEn153DC7jor3uaAvKTMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg", | Persija Jakarta vs Arema FC - Piala Presiden 2024 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721838068~acl=/drm/dash/*~id=164396008~hmac=ffcb799332ac7eb026aaa1384cec9cee1c3d87914371e9cddefb564e1083215c
+
+
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/33V-8d7sFP1E3H8RzbpxaOI7AUI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605742/89dc9f.jpg", | Taipe vs Iran - 22nd Asian Men's U-20 Volleyball Championship 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
