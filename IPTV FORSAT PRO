@@ -335,6 +335,14 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17599_stream.mpd?hdnts=exp=1721838216~acl=/drm/dash/480p/*~id=164396008~hmac=42351c8df8dbf10403e6cd98b12dac724d083a40c361d0da3faaa11adefd3638
 
 
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/j4LRdXePjcYwrCYrhQbL-0M2MVY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605497/5ad852.jpg", | Indonesia  - 22nd Asian Men's U-20 Volleyball Championship 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://astvstreamingtv.my.id/api/ck/8dbb275f903119e2ce2d44a52de1bb2f:a9926e960c2aa6a639bb3748d67c10aa,5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17599_stream.mpd?hdnts=exp=1721838216~acl=/drm/dash/480p/*~id=164396008~hmac=42351c8df8dbf10403e6cd98b12dac724d083a40c361d0da3faaa11adefd3638
+
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/GASM3cqEn153DC7jor3uaAvKTMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg", | Persija Jakarta vs Arema FC - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
