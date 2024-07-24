@@ -372,16 +372,16 @@ https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
 
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 1
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28862
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60799
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 2
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60794
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60797
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 3
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2917
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60794
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 4
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28192
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60746
 
 #EXTINF:-1 xui-id="EUROSPORT 1ES" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 5
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
@@ -389,8 +389,20 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/mani
 #EXTINF:-1 xui-id="EUROSPORT 2ES" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 6
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 7
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60745
 
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380133.m3u8
 
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 9
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380134.m3u8
+
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 10
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380135.m3u8
+
+#EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 11
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
 =============================================EURO=================================================================
 
 
