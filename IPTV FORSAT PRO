@@ -327,7 +327,12 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="", | Event 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1721840813~acl=/drm/dash/*~id=164396008~hmac=6b90c6fa888d5386c492771bf847323c2e254a78a9e89b550d5dc2946f1370ee
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/GASM3cqEn153DC7jor3uaAvKTMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg", | Persija Jakarta vs Arema FC - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
