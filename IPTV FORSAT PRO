@@ -327,6 +327,11 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/wIeBR7hHwzzVhLvMh85_t_P_8SU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3596272/7e3c80.jpg", | Hongkong vs Saudi - 22nd Asian Men's U-20 Volleyball Championship 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_206_720p/hdntl=exp=1721906476~acl=%2f*~id=69578335~data=hdntl~hmac=d3983e23093a0d73f58f6ace0e762418647ca7b6d40fc37ccce5307a7ed00deb/index.m3u8
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/SStpKY1nlNw8jHG-X4QT99yDkQc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607016/0e1f33.jpg", | BOLA TANGAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -360,20 +365,6 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_st
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdnts=exp=1721840903~acl=/drm/dash/*~id=164396008~hmac=7a4f471c3b205535d1b3182fe1256fc49f64bec3bb84ff778a722dee1e62e1b3
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/GASM3cqEn153DC7jor3uaAvKTMg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg", | Persija Jakarta vs Arema FC - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721838068~acl=/drm/dash/*~id=164396008~hmac=ffcb799332ac7eb026aaa1384cec9cee1c3d87914371e9cddefb564e1083215c
-
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/33V-8d7sFP1E3H8RzbpxaOI7AUI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605742/89dc9f.jpg", | Taipe vs Iran - 22nd Asian Men's U-20 Volleyball Championship 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1721832420~acl=%2f*~id=87736421~data=hdntl~hmac=e327a904f9954a781ce05ff9df5812e90074b60cc9f30c310b6bfe4a0426a8d0/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/A-Efg3gPbToCO5933aKPi8QL2WI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3602695/fc5903.jpg", | INDONESIA VS TIMOR LESTE
