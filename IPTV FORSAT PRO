@@ -327,12 +327,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/tUepZexnhbwZ63YHdsd4QCmmgdI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607970/2787f3.jpg", | Borneo FC Samarinda vs PSM Makassar - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/multikey/aff
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17584_stream.mpd?hdnts=exp=1721908837~acl=/drm/dash/480p/*~id=164396008~hmac=f5975e4e2543b778a7cd2f96385686e18b47ef7875623dd89723b41265180dae
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/W1CalWnjf3vXCQHTBDcitaDxPfs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607969/d0d6e2.jpg", | Singapore vs Brunei Darussalam - ASEAN U19 Boys Championship 2024 
@@ -402,10 +396,10 @@ https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/ed
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/dGNNfQSfl0yc2geIdEJurmF-54c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600546/795721.jpg", | PERSIB VS BORNEO
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/tUepZexnhbwZ63YHdsd4QCmmgdI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607970/2787f3.jpg", | BORNEO vs SAmarinda
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://179939170.cdnfree.pro/live/ximanghd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/loihd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
