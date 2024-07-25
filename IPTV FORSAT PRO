@@ -334,15 +334,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721924440~acl=/drm/dash/*~id=164396008~hmac=fcca16fff47ee95e8123ba09bffad26fc7f2be26a6be0dfc90bc011f7b7525bb
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/FNmWoQ9X6x4_wHl35PB0FHp9HW8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3596274/2d13d0.jpg", | Qatar vs Iran - 22nd Asian Men's U-20 Volleyball Championship 
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/4CzgQgtx2Aix1QVj3q90uNSNLjA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607019/fb7b43.jpg", | RUGBI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_206_720p/hdntl=exp=1721906476~acl=%2f*~id=69578335~data=hdntl~hmac=d3983e23093a0d73f58f6ace0e762418647ca7b6d40fc37ccce5307a7ed00deb/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17483_240p/hdntl=exp=1721925213~acl=%2f*~id=69578335~data=hdntl~hmac=378db0e4cf9792d2663499d27492e9ad2cafcc87e7dd14e18d7dee111f6f514f/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/SStpKY1nlNw8jHG-X4QT99yDkQc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607016/0e1f33.jpg", | BOLA TANGAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17482_720p/hdntl=exp=1721906391~acl=%2f*~id=69578335~data=hdntl~hmac=09b3292c596d99278e462bfb41e81ff9ef75b60f8c782a948469ff9ba18a7910/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17482_720p/hdntl=exp=1721925111~acl=%2f*~id=69578335~data=hdntl~hmac=14ac976daf31cd7317fb7e833c345a22ef94e2a68e4268e2a590eba34dbebd85/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/UxzKldnzAjOqduRUNVJxdFyyNrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605479/e90386.jpg", | Mesir vs Rep. Dominika
