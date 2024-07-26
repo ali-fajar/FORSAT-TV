@@ -327,20 +327,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rUwi3bUJCGTunj_eueexly3Tn_k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610011/013275.jpg", | Madura United FC vs Arema FC - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://astvstreamingtv.my.id/api/ck/49f04a0071eaa062d2e38a52ed7c3654:78116443eb19778ba7128da026c5c95f,bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-http://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/480p/17584_stream.mpd?hdnts=exp=1721995397~acl=/drm/dash/480p/*~id=164396008~hmac=351ac1b62710ef6d8235310c8fbbfbb99ea479b4ce363f8c9a94f368449c8595
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/LSPMiwzgmbwVP4b6IHymLnBc2lI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607973/4aee76.jpg", | Persib Bandung vs Persis Solo - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721924440~acl=/drm/dash/*~id=164396008~hmac=fcca16fff47ee95e8123ba09bffad26fc7f2be26a6be0dfc90bc011f7b7525bb
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/4CzgQgtx2Aix1QVj3q90uNSNLjA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607019/fb7b43.jpg", | RUGBI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -394,10 +380,9 @@ https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/ed
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/g5WNi_-H0ITqF5r8x7ZohmMR_8s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17585/piala-presiden-2024-5b7629.jpg", | Persib Vs Persisolo 19.30
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rUwi3bUJCGTunj_eueexly3Tn_k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610011/013275.jpg", | Madura United FC vs Arema FC - Piala Pres
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://179939170.cdnfree.pro/live/cohd2/chunklist.m3u8
+https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
