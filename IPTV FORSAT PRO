@@ -328,44 +328,23 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/4CzgQgtx2Aix1QVj3q90uNSNLjA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607019/fb7b43.jpg", | RUGBI
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/8KT0PO4NaDhiTD3pY-2Ramm8EBo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610007/706d7d.jpg", | Opening ceremony
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17483_240p/hdntl=exp=1721925213~acl=%2f*~id=69578335~data=hdntl~hmac=378db0e4cf9792d2663499d27492e9ad2cafcc87e7dd14e18d7dee111f6f514f/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/SStpKY1nlNw8jHG-X4QT99yDkQc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607016/0e1f33.jpg", | BOLA TANGAN
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/qQ4JaSCrEKslxaECbNXedz7pXZA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610015/c74698.jpg", | ONE MMA CHAMPIONSHIP 20.30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17482_720p/hdntl=exp=1721925111~acl=%2f*~id=69578335~data=hdntl~hmac=14ac976daf31cd7317fb7e833c345a22ef94e2a68e4268e2a590eba34dbebd85/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/UxzKldnzAjOqduRUNVJxdFyyNrQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605479/e90386.jpg", | Mesir vs Rep. Dominika
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/yYZVZgNrAjoo6D95yIPKT50Uncw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612236/09e99a.jpg", | Bulu Tangkis besok 14.30
 #KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdnts=exp=1721847265~acl=/drm/dash/*~id=164396008~hmac=1b0b3d1fff8e80711daf704d851680c347d1b062b81708b307ed1b14efc7c417
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/Kjl3aHcecve7gKXr7cvcHQfnqX0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605464/c49b7d.jpg", | Guinea vs Selandia Baru
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6645df7a0df55d9e8cdba1546ff20f2b:a32d96ec6e2ebbfb2135ec50613f8428
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/txGRePVHnWiEOFFWyvnRguvB1nA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605481/7266d9.jpg", | Argentina vs Maroko
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1721840813~acl=/drm/dash/*~id=164396008~hmac=6b90c6fa888d5386c492771bf847323c2e254a78a9e89b550d5dc2946f1370ee
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/XOeeiSbx_ngZeJdeCAEGgL9RCQM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605477/f13966.jpg", | Uzbekistan vs Spanyol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdnts=exp=1721840903~acl=/drm/dash/*~id=164396008~hmac=7a4f471c3b205535d1b3182fe1256fc49f64bec3bb84ff778a722dee1e62e1b3
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/A-Efg3gPbToCO5933aKPi8QL2WI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3602695/fc5903.jpg", | INDONESIA VS TIMOR LESTE
@@ -396,16 +375,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17517_360p/hdn
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17528/master.m3u8?hdnts=exp=1721580238~acl=/live/17528/*~id=69578335~hmac=8ef7d7f610f61c95b94f9b34c51d02e6218a2e529cb58608d82e5aa43f5d9e6d
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/nzX5bz05FzmpRr3BMajBKR_TkT4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3600524/c03107.jpg", | Singapore Vs Malaysia
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/OkPQUThwa5cqIHRBdHpzZFIU1lA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3607967/9d07cf.jpg" group-title="LIVE EVENTS", voly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=dash+xml
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdntl=exp=1721922127~acl=%2f*~id=69578335~data=hdntl~hmac=74263e6971639df7e457bb18cfc1b752714f065d37e99b0fd1f996ceecc2db94
 ==========================================OLIMPIADE=================================================================
 
 
