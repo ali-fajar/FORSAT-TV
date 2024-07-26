@@ -342,7 +342,7 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_1748
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/qQ4JaSCrEKslxaECbNXedz7pXZA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610015/c74698.jpg", | ONE MMA CHAMPIONSHIP 20.30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17482_720p/hdntl=exp=1721925111~acl=%2f*~id=69578335~data=hdntl~hmac=14ac976daf31cd7317fb7e833c345a22ef94e2a68e4268e2a590eba34dbebd85/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_480p/hdntl=exp=1722012803~acl=%2f*~id=69578335~data=hdntl~hmac=cbe294fbc92ef36119ad1517a50accef96623f76a987e8e12aca0bd807982475/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/yYZVZgNrAjoo6D95yIPKT50Uncw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612236/09e99a.jpg", | Bulu Tangkis besok 14.30
