@@ -359,7 +359,7 @@ https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/ed
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/rUwi3bUJCGTunj_eueexly3Tn_k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610011/013275.jpg", | Madura United FC vs Arema FC - Piala Pres
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/RhrW1IafqT4_sUn--KWergWtRn0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610014/e7da6b.jpg", | Bali United vs Persija - Piala Pres Segera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179939170.cdnfree.pro/live/hplushd2/chunklist.m3u8
@@ -372,8 +372,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17517_360p/hdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/D8tpeCOOqzw2Ij4WptKUl_xQH-M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3561560/9f3096.jpg" group-title="LIVE EVENTS", PUBG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17528/master.m3u8?hdnts=exp=1721580238~acl=/live/17528/*~id=69578335~hmac=8ef7d7f610f61c95b94f9b34c51d02e6218a2e529cb58608d82e5aa43f5d9e6d
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_240p/hdntl=exp=1722008927~acl=%2f*~id=69578335~data=hdntl~hmac=f47aa6d3d6d7ff5e0eb2f7aaea3002d9471c981e315548d5f5e309743a0f42bd/index.m3u8
 
 ==========================================OLIMPIADE=================================================================
 
