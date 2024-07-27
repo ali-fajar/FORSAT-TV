@@ -334,15 +334,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010472~acl=/drm/dash/*~id=164396008~hmac=60b7a81608e7c9d154f6e29d0447d917564071ae7864515fb260bad74f580044
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/8KT0PO4NaDhiTD3pY-2Ramm8EBo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610007/706d7d.jpg", | Opening ceremony
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/mLuQWgmsCTE78HG0NwMCpqqK7FY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612280/41ed17.jpg", | Bola tangan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17483_240p/hdntl=exp=1721925213~acl=%2f*~id=69578335~data=hdntl~hmac=378db0e4cf9792d2663499d27492e9ad2cafcc87e7dd14e18d7dee111f6f514f/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17483_240p/hdntl=exp=1722079292~acl=%2f*~id=74848694~data=hdntl~hmac=9e99325438a86b9f602ea417f5d326439e9a660e9f496a46a10e69d4628e859f/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/qQ4JaSCrEKslxaECbNXedz7pXZA=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610015/c74698.jpg", | ONE MMA CHAMPIONSHIP 20.30
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/hX28FT3zX2snRYKlvbOPW90cr6I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612355/c5110b.jpg", | ROAD RACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_480p/hdntl=exp=1722012803~acl=%2f*~id=69578335~data=hdntl~hmac=cbe294fbc92ef36119ad1517a50accef96623f76a987e8e12aca0bd807982475/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17151_240p/hdntl=exp=1722079501~acl=%2f*~id=138846722~data=hdntl~hmac=f13b49369f37b82f55caaa1fc11c263c2bb437fc4ed0302293fe9bd620c5f67d/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/yYZVZgNrAjoo6D95yIPKT50Uncw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612236/09e99a.jpg", | Bulu Tangkis besok 14.30
@@ -373,7 +373,7 @@ https://179939170.cdnfree.pro/live/cayhd2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17517_360p/hdntl=exp=1721999752~acl=%2f*~id=69578335~data=hdntl~hmac=6e8c147875ba37812c252952f6358b3515fe75bcedce488d2f474159e4ecd160/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17517_720p/hdntl=exp=1722079654~acl=%2f*~id=69578335~data=hdntl~hmac=6912d8d290335d7af1f304e46a11392ea4ff38c7e374b76db9672bb84ffccdc6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/D8tpeCOOqzw2Ij4WptKUl_xQH-M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3561560/9f3096.jpg" group-title="LIVE EVENTS", PUBG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
