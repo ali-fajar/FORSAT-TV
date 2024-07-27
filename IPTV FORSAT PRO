@@ -365,6 +365,21 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_1749
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17489_480p/hdntl=exp=1722106474~acl=%2f*~id=69578335~data=hdntl~hmac=6737532980eb2d8c30a02f39627f1cc1feeed4aacecb9e56296b5051f9fea83f/index.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/-xJYwTBkOVLw9ceNXg6KFAM9D2U=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612311/a0f0f7.jpg", | Tenis Mejo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17488_240p/hdntl=exp=1722106732~acl=%2f*~id=164417718~data=hdntl~hmac=d323525d32c6cbf81fa38e7f454da2430c803eb78a0c971ce3f46e19b283feb1/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/aPy1KsC5hNOuslqYCFquEhKtIDc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612769/8ff18c.jpg", | Polo Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17485_240p/hdntl=exp=1722106939~acl=%2f*~id=159125312~data=hdntl~hmac=99a96d7b4bb2c51d77cfba9d558f6c037f67bcad4a14e516a97ffe07f766a226/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/6fzYHqehI81LJi8nOjrYjH8gxKQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612290/6fb03c.jpg", | Tinju
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17484_240p/hdntl=exp=1722107022~acl=%2f*~id=164417718~data=hdntl~hmac=c7dcbd559c25e5b0328ce74b82f6a460c3d8b19da404b2931be30be080429308/index.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/hX28FT3zX2snRYKlvbOPW90cr6I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612355/c5110b.jpg", | ROAD RACE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
