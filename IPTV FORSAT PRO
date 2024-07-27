@@ -327,6 +327,14 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/JMLU0vI0puA3WEZEWs9NnVB3Eio=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612336/db19ec.jpg", | Semifinal: Australia vs Thailand - ASEAN U19 Boys Championship 2024 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722082099~acl=/drm/dash/*~id=164396008~hmac=5c1a532508143037a42969f670baf3fb12cc1fcd88917c1dbb8dd0b9080f87fc
+
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/MjRUkIlVbgEl8hdpmj2r1XijvE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610014/e7da6b.jpg", | Bali United vs Persija Jakarta - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
