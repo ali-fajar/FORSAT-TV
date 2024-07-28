@@ -364,11 +364,10 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_1749
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17484_240p/hdntl=exp=1722170929~acl=%2f*~id=69578335~data=hdntl~hmac=66f831f5c434a9f994a286534164cef1eff9b21c56a4235871d4a6e18a93e3e9/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/hX28FT3zX2snRYKlvbOPW90cr6I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612355/c5110b.jpg", | ROAD RACE
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/pRx4B7C-6cm_MIQakIjz26GaJns=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614868/ea538d.jpg", | AVC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17151_240p/hdntl=exp=1722079501~acl=%2f*~id=138846722~data=hdntl~hmac=f13b49369f37b82f55caaa1fc11c263c2bb437fc4ed0302293fe9bd620c5f67d/index.m3u8
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17599_720p/hdntl=exp=1722184103~acl=%2f*~id=69578335~data=hdntl~hmac=1da8bc826c5868442fab021f1ec3c7eb74fd447c615effb45c750874df478e0f/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/yYZVZgNrAjoo6D95yIPKT50Uncw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612236/09e99a.jpg", | Bulu Tangkis besok 14.30
 #KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
