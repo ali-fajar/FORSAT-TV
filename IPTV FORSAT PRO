@@ -327,57 +327,41 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/XIX76jBt4NcgvYLryReLsqqXqtQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612437/9ad0ec.jpg", | BEIN3
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdntl=exp=1722108588~acl=%2f*~id=69578335~data=hdntl~hmac=f1a3aaffd5bd6c0c86765eb5da5eafe0f466dd225829e793446494d9a894170e
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/JMLU0vI0puA3WEZEWs9NnVB3Eio=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612336/db19ec.jpg", | Semifinal: Australia vs Thailand - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722082099~acl=/drm/dash/*~id=164396008~hmac=5c1a532508143037a42969f670baf3fb12cc1fcd88917c1dbb8dd0b9080f87fc
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/MjRUkIlVbgEl8hdpmj2r1XijvE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3610014/e7da6b.jpg", | Bali United vs Persija Jakarta - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010472~acl=/drm/dash/*~id=164396008~hmac=60b7a81608e7c9d154f6e29d0447d917564071ae7864515fb260bad74f580044
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/uJAUjGoN3m5C52LGe72lfbkpqWw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612332/8786a2.jpg", | Balap Jaran
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/O9OAxqUuXXSuNU-6bff-iPZVDHw=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616842/ca1cb9.jpg", | SENAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17491_720p/hdntl=exp=1722106173~acl=%2f*~id=69578335~data=hdntl~hmac=9a60ed4ae4dcc3e9d81a4f60388958161a9bff220119234d911ad691bb7d6be8/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17485_480p/hdntl=exp=1722170154~acl=%2f*~id=69578335~data=hdntl~hmac=57ec7c76e70efd8164e7c1549a8733027cc2e91ee84584628f6cb0efb85d0167/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/GpDFrxY-tBeUTWy5r4IY4kSttqk=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612326/4281c0.jpg", | Rugby
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/Bz3dmLZbPDZ-6jzqyK3n31Sxi80=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614889/71e888.jpg", | Voly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17490_720p/hdntl=exp=1722106310~acl=%2f*~id=69578335~data=hdntl~hmac=15e415214bda4502f725e880bda0acb56be058eb52c318446a78e1ff1f998190/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17483_720p/hdntl=exp=1722170304~acl=%2f*~id=69578335~data=hdntl~hmac=64faac893c701acb8cdf89c8714668eff030dbb4e1877a25db75ba1cf25db758/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/iwVoGqDgGtvjQQ0NK58McyHFi4A=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612924/dae032.jpg", | Kano
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ZxPVSAin1Ef3Q_6_b6FsZCjAExo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614683/c8c7de.jpg", |Snieper
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17489_480p/hdntl=exp=1722106474~acl=%2f*~id=69578335~data=hdntl~hmac=6737532980eb2d8c30a02f39627f1cc1feeed4aacecb9e56296b5051f9fea83f/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17482_720p/hdntl=exp=1722170451~acl=%2f*~id=164654188~data=hdntl~hmac=1491d800df6746a012864c64cd1da56f47a892b7cd1758c6b9be7a45b5bb25c5/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/-xJYwTBkOVLw9ceNXg6KFAM9D2U=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612311/a0f0f7.jpg", | Tenis Mejo
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/aVfBM3ImQak9ghnNaj6qpthzFXg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614718/124b58.jpg", | Hokky Caraka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17488_240p/hdntl=exp=1722106732~acl=%2f*~id=164417718~data=hdntl~hmac=d323525d32c6cbf81fa38e7f454da2430c803eb78a0c971ce3f46e19b283feb1/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17488_720p/hdntl=exp=1722170536~acl=%2f*~id=69578335~data=hdntl~hmac=aadf920033a166205f27156420c4ab5cfc7ce2a7b16ef789b18ecb69ccad57c0/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/aPy1KsC5hNOuslqYCFquEhKtIDc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612769/8ff18c.jpg", | Polo Air
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/DDK3gWCiUloCgKJHcdvGg1--KR0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3615367/844795.jpg", | PingPong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17485_240p/hdntl=exp=1722106939~acl=%2f*~id=159125312~data=hdntl~hmac=99a96d7b4bb2c51d77cfba9d558f6c037f67bcad4a14e516a97ffe07f766a226/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17489_240p/hdntl=exp=1722170635~acl=%2f*~id=69578335~data=hdntl~hmac=83f1de828e28240b067fc0ed5cd4f6bc89aa5563aa8f1a29650561fed27288ea/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/6fzYHqehI81LJi8nOjrYjH8gxKQ=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612290/6fb03c.jpg", | Tinju
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/-TAjs9cGIn5gYVwhWyoSdOejpF0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614728/cd8592.jpg", | Polo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17484_240p/hdntl=exp=1722107022~acl=%2f*~id=164417718~data=hdntl~hmac=c7dcbd559c25e5b0328ce74b82f6a460c3d8b19da404b2931be30be080429308/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17490_720p/hdntl=exp=1722170784~acl=%2f*~id=69578335~data=hdntl~hmac=e4fa42fdb8456d6c2a6d962204ca5a289e2f9aec8aac9b26fc73f1c47360b667/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/3FaIVMymswhvaL5Bhhwz3pbwAGs=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614700/12495c.jpg", | Balap Jaran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17484_240p/hdntl=exp=1722170929~acl=%2f*~id=69578335~data=hdntl~hmac=66f831f5c434a9f994a286534164cef1eff9b21c56a4235871d4a6e18a93e3e9/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/hX28FT3zX2snRYKlvbOPW90cr6I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612355/c5110b.jpg", | ROAD RACE
