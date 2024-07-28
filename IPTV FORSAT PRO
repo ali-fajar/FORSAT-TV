@@ -330,15 +330,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/DDK3gWCiUloCgKJHcdvGg1--KR0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3615367/844795.jpg", | PingPong
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/IpAe66xZgJbH-4TObBI516xtN7E=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614714/72609b.jpg", | Sepeda gunung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17489_240p/hdntl=exp=1722170635~acl=%2f*~id=69578335~data=hdntl~hmac=83f1de828e28240b067fc0ed5cd4f6bc89aa5563aa8f1a29650561fed27288ea/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17487_720p/hdntl=exp=1722185380~acl=%2f*~id=69578335~data=hdntl~hmac=784bfe3af41ef4c6e451dc4966f6fb5d8887dedbe60b8abef9a036aa46d09b7b/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/-TAjs9cGIn5gYVwhWyoSdOejpF0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614728/cd8592.jpg", | Polo
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/k9jh2joHqgzvwHD9jolVfPc4P0Q=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3615447/a3792c.jpg", | Boltang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17490_720p/hdntl=exp=1722170784~acl=%2f*~id=69578335~data=hdntl~hmac=e4fa42fdb8456d6c2a6d962204ca5a289e2f9aec8aac9b26fc73f1c47360b667/index.m3u8
+https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17491_360p/hdntl=exp=1722185484~acl=%2f*~id=69578335~data=hdntl~hmac=0f6db241d97ecb062324fcdd950b169151cded0c4dae1f4c3fcdcdd73f58229d/index.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/3FaIVMymswhvaL5Bhhwz3pbwAGs=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614700/12495c.jpg", | Balap Jaran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
