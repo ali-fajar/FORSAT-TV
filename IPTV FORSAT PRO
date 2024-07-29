@@ -330,52 +330,11 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/IpAe66xZgJbH-4TObBI516xtN7E=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614714/72609b.jpg", | Sepeda gunung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17487_720p/hdntl=exp=1722185380~acl=%2f*~id=69578335~data=hdntl~hmac=784bfe3af41ef4c6e451dc4966f6fb5d8887dedbe60b8abef9a036aa46d09b7b/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/k9jh2joHqgzvwHD9jolVfPc4P0Q=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3615447/a3792c.jpg", | Boltang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17491_360p/hdntl=exp=1722185484~acl=%2f*~id=69578335~data=hdntl~hmac=0f6db241d97ecb062324fcdd950b169151cded0c4dae1f4c3fcdcdd73f58229d/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/3FaIVMymswhvaL5Bhhwz3pbwAGs=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614700/12495c.jpg", | Balap Jaran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17484_240p/hdntl=exp=1722170929~acl=%2f*~id=69578335~data=hdntl~hmac=66f831f5c434a9f994a286534164cef1eff9b21c56a4235871d4a6e18a93e3e9/index.m3u8
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/pRx4B7C-6cm_MIQakIjz26GaJns=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614868/ea538d.jpg", | AVC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17599_720p/hdntl=exp=1722184103~acl=%2f*~id=69578335~data=hdntl~hmac=1da8bc826c5868442fab021f1ec3c7eb74fd447c615effb45c750874df478e0f/index.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/sotIli2osG-hoY_2tsPWCGT6J5M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3614640/7f7e94.jpg", | MXGP
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17141_stream.mpd?hdntl=exp=1722184672~acl=%2f*~id=69578335~data=hdntl~hmac=49215f5a9c6c2a04038c6e36ecec9848e8cb39f25e6eaa768e970407d96c3b4e
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/e62i8WVzaWp34C90ULveaKbRcBo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612342/34c761.jpg", | INDONESIA VS MALAYSIA
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg", | INDONESIA VS Thailand
 http://filex.tv:8080/paramjeetsingh/002818/302301
 
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", | LIVE STREAMING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/8sESWNE4DEITJL9kQv2DR0TM-74=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612336/db19ec.jpg", | Australia vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/e62i8WVzaWp34C90ULveaKbRcBo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3612342/34c761.jpg", | Indonesia vs Malaysia
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg", | Indonesia vs Thailand Final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w845722833_b800000_sleng.m3u8
 
