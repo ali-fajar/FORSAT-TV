@@ -336,30 +336,6 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?h
 
 
 
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/S7mPCPRKTjciuHNuw9OKiCqow0Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3619040/ac46e0.jpg", | Semifinal: Borneo FC Samarinda vs Persija Jakarta - Piala Presiden 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722359431~acl=/drm/dash/*~id=164396008~hmac=a7e863951accd17b3783935cc42b4e39ce901afb2d70e08e9cea204d4e197a8c
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/sfRRgbiInNDbi4KGuTzE2Ajvcj4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3621196/cb5bf9.jpg", | AVC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a70c6e3eb4f65285eb10e326ac66c092:57222b1bd2662c0f293ac42477809f57
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdnts=exp=1722345990~acl=/drm/dash/*~id=164396008~hmac=8a17b4faccaf4f5586dd1ba7c0c98cd2a12f673d7d1f73589a83bbc03bf4dd0d
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/z9RMFr87ILWWaTzphaBYSbHLbmU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616794/d3628a.jpg", | Final: Thailand vs Indonesia - ASEAN U19 Boys Championship 2024 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722267042~acl=/drm/dash/*~id=164396008~hmac=7ccfe478d17f7836b7aa59b9f29bac3cef63b378d582a81e5b0e9918f748c332
-
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/ya0yD2L9t__mvLtWu0PpAcrOrqY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3616795/5cc79b.jpg", | INDONESIA VS Thailand
 http://filex.tv:8080/paramjeetsingh/002818/302301
 
@@ -370,13 +346,8 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunk
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", WORLD CUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_720p/hdntl=exp=1722185054~acl=%2f*~id=69578335~data=hdntl~hmac=2ce94df083db1877b73dbb53859e7f40b8caf139f509e95b4d9eabc43d5907e9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/D8tpeCOOqzw2Ij4WptKUl_xQH-M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3561560/9f3096.jpg" group-title="LIVE EVENTS", PUBG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17528_240p/hdntl=exp=1722008927~acl=%2f*~id=69578335~data=hdntl~hmac=f47aa6d3d6d7ff5e0eb2f7aaea3002d9471c981e315548d5f5e309743a0f42bd/index.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.cdnfree.pro/live/cachuoihd2/chunklist.m3u8
 
 ==========================================OLIMPIADE=================================================================
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 1
