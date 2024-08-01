@@ -351,6 +351,7 @@ https://179939170.cdnfree.pro/live/cachuoihd2/chunklist.m3u8
 
 ==========================================OLIMPIADE=================================================================
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
 https://testcors.starlive.workers.dev/https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
