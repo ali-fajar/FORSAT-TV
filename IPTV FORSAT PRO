@@ -788,14 +788,52 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
 
-#EXTINF:-1 tvg-name="MUROTTAL 1" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 1
-http://sky-tv.org:88/live/02020943052251/4156696358/148228.m3u8
-
-#EXTINF:-1 tvg-name="MUROTTAL 2" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 2
-http://sky-tv.org:88/live/02020943052251/4156696358/148260.m3u8
-
-#EXTINF:-1 tvg-name="MUROTTAL 3" tvg-logo="https://iili.io/d9hod0u.jpg" group-title="RELIGI",MUROTTAL 3
-http://sky-tv.org:88/live/02020943052251/4156696358/224465.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",001. Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",002. Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",003. Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",004. An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",005. Al-An'aam (Binatang Ternak)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",006. Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",007. Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",008. At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",009. Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",010. Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",011. Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",012. Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",013. Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",014. Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",,015. Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",016. An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",017. Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",018. Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",019. Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",020. Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",021. Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",022. Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",023. Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
 
 =========================================== ENTERTAINMENT ===========================================
 
@@ -3400,7 +3438,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", DISCOVERY SCI(TRV)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="TRANSVISION", DISCOVERY SCI(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3409,7 +3447,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gT9XTVw/shareext-transvision-logo.jpg" group-title="TRANSVISION", CINEMA WORLD(TRV)
+#EXTINF:-1 tvg-logo="" group-title="TRANSVISION", CINEMA WORLD(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
