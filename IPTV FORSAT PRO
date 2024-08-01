@@ -2522,29 +2522,47 @@ https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
 https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 
 #EXTINF:-1 group-title="WORLD TV" group-logo="https://tchiphuong.github.io/iptv/images/background/vtv.png" tvg-id="vtv1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-1.png",VTV1
-http://171.238.181.52:18080/154.m3u8
-#EXTINF:-1 group-title="WORLD TV" group-logo="https://tchiphuong.github.io/iptv/images/background/vtv.png" tvg-id="vtv1hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-1.png",VTV1
-https://api.wintv.me/360/2/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8 
+
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv2hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-2.png",VTV2
-http://171.238.181.52:18080/192.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8 
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv3hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-3.png",VTV3
-http://171.238.181.52:18080/155.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv4hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-4.png",VTV4
-http://s4.nihontv.net:21585/vtv4/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8 
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv5hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5.png",VTV5
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5-manifest.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8 
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv5hdtnb" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5-tnb.png",VTV5 Tây Nam Bộ
-http://171.238.181.52:18080/307.m3u8
-#EXTINF:-1 group-title="WORLD TV" tvg-id="vtv5hdtn" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-5-tn.png",VTV5 Tây Nguyên
-http://171.238.181.52:18080/308.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
+
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv6hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-6-can-tho.png",VTV Cần Thơ
-http://171.238.181.52:18080/156.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8 
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv7hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-7.png",VTV7
-http://dinhdong.ddns.net:13579/udp/225.1.3.15:30120
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8 
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv8hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-8.png",VTV8
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv8-manifest.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+
 #EXTINF:-1 group-title="WORLD TV" tvg-id="vtv9hd" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtv-9.png",VTV9
-https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv9-manifest.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/htv-2-vn.png",HTV2 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
@@ -6077,26 +6095,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 =============================================================VOD INDO================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg" group-title="VOD INDO",KKN di Desa Penari
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zX7H49WS/kkndidesapenari.jpg" group-title="VOD",KKN di Desa Penari
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
 
 
-#EXTINF:-1 group-title="VOD INDO",Lara Ati
+#EXTINF:-1 group-title="VOD",Lara Ati
 https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Ngeri-Ngeri Sedap
+#EXTINF:-1 group-title="VOD",Ngeri-Ngeri Sedap
 https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Cinta Subuh
+#EXTINF:-1 group-title="VOD ",Cinta Subuh
 https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO",Love in Game
+#EXTINF:-1 group-title="VOD",Love in Game
 https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg", The Fast and The Furious 10
+https://storage.dewanonton.online/hls/37f2b3ab-e639-474a-a890-b9e951cd640a.mp4/index.m3u8
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg" group-title="VOD", AVATAR 1
+https://stream.hownetwork.xyz/xxx/avatar-2009-bluray/10/480.m3u8
 
-
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg" group-title="VOD", AVATAR : THE WAY OF WATER 2
+https://stream.hownetwork.xyz/xxx/avatar-the-way-of-water-2022-bluray/2/480.m3u8
 
 
 
