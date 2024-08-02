@@ -401,29 +401,19 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6b60d4db6f046ebb800b90bd9d08ad3:6d1594f639ea5de668ba41a191d1c215
-https://testcors.starlive.workers.dev/https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+http://tigerfights.xyz/live/moms/moms123/3527828.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffd62c517de4fc29887c3410ceb8d0b:e71be77c8149a1aa1dd09c5667700bfb
-https://mwmpos04.akamaized.net/out/v1/7858540d66b44c0583c19e6b90efdb0b/manifest.mpd
+http://tigerfights.xyz/live/moms/moms123/3527829.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e47d842706c048c98cde16f41c8c1f3f:ce46d2eeb1d648a18185023b7d772913
-https://mwmpos01.akamaized.net/out/v1/b37aba4f022f4cab973d80282c616904/manifest.mpd
+http://tigerfights.xyz/live/moms/moms123/3527830.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47d851deaae4504b0fedf842d2db9ef:943a9749cb54b17d9d0fc7c3ab5b7375
-https://mwmpos02.akamaized.net/out/v1/fce653c6a7d44a0288533b7a03e8dd00/manifest.mpd
+http://tigerfights.xyz/live/moms/moms123/3527831.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 14
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56439911482e4ea29baf9086250d17eb:4ede19976f7b9f3aba13b572fe193b62
-https://mwmpos01.akamaized.net/out/v1/5d9d4e9cc6154bea81321230403e319f/manifest.mpd
+http://tigerfights.xyz/live/moms/moms123/3527832.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name=", CH 15
 #KODIPROP:inputstream.adaptive.license_type=clearkey
