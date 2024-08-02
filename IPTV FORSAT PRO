@@ -416,32 +416,32 @@ http://tigerfights.xyz/live/moms/moms123/3527831.ts
 http://tigerfights.xyz/live/moms/moms123/3527832.ts
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name=", CH 15
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/240/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f32acdabea64b93bfacaa4dc2ccf7fa:1ca53b84806b4e3d57fa8febafe62656
-https://mwmpos03.akamaized.net/out/v1/43062599f633463688e28e331f7f0e47/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/241/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6ee935a59714f618b825c82d6bb0927:6f3f2a6bfa1aea20c32d6a7526296f12
-https://mwmpos04.akamaized.net/out/v1/9a0f8933d9d745ba8b12cbf05d9a3b58/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/242/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/243/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 19
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/244/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 1
@@ -495,23 +495,23 @@ https://topembed.mizhls.ru/lb/eplayerSuperSportLaLiga/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/245/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/usanetwork/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/246/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerSuperSportLaLiga/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/247/playlist.m3u8
 
 #EXTINF:-1 xui-id="EUROSPORT 2UK" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/248/playlist.m3u8
 =============================================EURO=================================================================
 
 
