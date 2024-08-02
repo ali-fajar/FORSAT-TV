@@ -726,6 +726,15 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
 =========================================== RELIGI ===========================================
 
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/kF-UoOa4_e9qj4_XXjnNLT85eoI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3628896/5e5950.jpg", | JEPANG VS SPANYOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1722621154~acl=/drm/dash/*~id=161571691~hmac=c758932937df1c7580c149277e012a765e39fc7dc49c6795ab768e64f4ec71b5
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
