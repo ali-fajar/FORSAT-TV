@@ -327,6 +327,14 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/0hdIBm93cxzZHzXUF5og8YQocJ0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/24224/indonesia-vs-thailand-aaf474.jpg", SEDANG LIVE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1389742081ccb586096d4f83f79282a:c7e8f55c4ac0721a0c656d52089ca7e6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17615_stream.mpd?hdnts=exp=1722601892~acl=/drm/dash/*~id=164396008~hmac=b2c837a0d9ddcb013e461659c7559a728e186c51ceb9596ff4d5edd6536b3750
+
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/akZW46S7tzR541bMiRLHZKNLUNw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3621780/692676.jpg", | Semifinal: Persis Solo vs Arema FC - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
