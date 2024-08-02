@@ -418,22 +418,22 @@ http://tigerfights.xyz/live/moms/moms123/3527832.ts
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name=", CH 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/240/playlist.m3u8
+https://canale.mizhls.ru/lb/premium240/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/241/playlist.m3u8
+https://canale.mizhls.ru/lb/premium241/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/242/playlist.m3u8
+https://canale.mizhls.ru/lb/premium242/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/243/playlist.m3u8
+https://canale.mizhls.ru/lb/premium243/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 19
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
@@ -441,7 +441,7 @@ http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/244/playlist.m3u8
+https://canale.mizhls.ru/lb/premium244/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="15081" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 1
@@ -480,38 +480,38 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
 #EXTINF:-1 xui-id="TVR1" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/8/playlist.m3u8
+https://canale.mizhls.ru/lb/premium250/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="TVR2" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/9/playlist.m3u8
+https://canale.mizhls.ru/lb/premium249/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerSuperSportLaLiga/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium244/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/245/playlist.m3u8
+https://canale.mizhls.ru/lb/premium245/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/246/playlist.m3u8
+https://canale.mizhls.ru/lb/premium246/playlist.m3u8
 
 #EXTINF:-1 xui-id="SUPER LALIGA" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/247/playlist.m3u8
+https://canale.mizhls.ru/lb/premium247/playlist.m3u8
 
 #EXTINF:-1 xui-id="EUROSPORT 2UK" tvg-id="" tvg-name="OLIMPIADE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/2024_Summer_Olympics_logo.svg/174px-2024_Summer_Olympics_logo.svg.png" group-title="OLIMPIADE", OLIMPIADE 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/248/playlist.m3u8
+https://canale.mizhls.ru/lb/premium248/playlist.m3u8
 =============================================EURO=================================================================
 
 
