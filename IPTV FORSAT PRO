@@ -4472,15 +4472,17 @@ https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 
-########VNL##################
+########################################VNL##################
 #EXTINF:-1 tvg-id="SK3" tvg-name="Premier Sport 1" tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
-#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium78/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -4488,23 +4490,40 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 https://topembed.mizhls.ru/lb/PNpYBn6hAz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
-#EXTVLCOPT:http-user-agent=AipiTV/35.5(Android 8.1.0)
-http://sky-tv.org:88/02020943052251/4156696358/94951
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium79/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
-http://sky-tv.org:88/02020943052251/4156696358/79776
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium80/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
-http://sky-tv.org:88/02020943052251/4156696358/79777
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium420/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
-http://sky-tv.org:88/02020943052251/4156696358/577110
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium234/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
-http://sky-tv.org:88/02020943052251/4156696358/615499
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium93/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
-http://sky-tv.org:88/02020943052251/4156696358/615500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium773/playlist.m3u8
+
 
 
 
