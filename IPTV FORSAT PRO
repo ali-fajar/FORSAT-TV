@@ -4480,7 +4480,7 @@ https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium78/playlist.m3u8
 
 
@@ -4491,37 +4491,37 @@ https://topembed.mizhls.ru/lb/PNpYBn6hAz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium79/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium80/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium420/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium234/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium93/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FLFi6fNAiJM/maxresdefault.jpg" group-title=" VNL |  LIVE VOLLY", LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium773/playlist.m3u8
 
 
