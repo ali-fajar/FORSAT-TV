@@ -327,6 +327,14 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/P2wCQny_KHEFepmLa7yeoO8s6Kc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3631140/5c9153.jpg", | Final: Borneo FC Samarinda vs Arema FC 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1722785476~acl=/drm/dash/*~id=161571691~hmac=3f5469b1eedf6ef1fc0a937650da6a8e114054c501c5c6fa537c8cc9fa49f504
+
+
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/haRnE_iVj2abp0ktG8igBO7l0To=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3629151/e9d68b.jpg", | Perebutan Tempat Ketiga:  Persis Solo vs Persija Jakarta - Piala Presiden 2024 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
