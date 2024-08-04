@@ -392,24 +392,29 @@ https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_h
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="016-LABURATV",ch 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium56/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium414/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium233/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="",CH 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium234/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="OLIMPIADE" tvg-id="001" tvg-name="", CH 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
