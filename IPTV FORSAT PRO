@@ -327,10 +327,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/HgQV3x8tQ-7l1M43mbmZ7NTqNS0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17620/press-conference-liga-1-2024-2025-515602.jpg" group-title="LIVE EVENTS", BRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/o_GpTMCCedO40rFRe6KfaDlWSqA=/1336x480/filters:quality(75)/vidio-web-prod-headline/uploads/headline/premium_image/24323/man-city-vs-man-united-4740f0.jpg" group-title="LIVE EVENTS", MU VS MAN CITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17620/master.m3u8?hdnts=exp=1722950812~acl=/live/17620/*~id=69578335~hmac=36a99f7e1e21cfdcea22153506bdc69709216fde455342812fa07e2468fc8cc4
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/9350cd58b67aaffb42d99e7aac14c016/1723317262513/live/may1HD/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/P2wCQny_KHEFepmLa7yeoO8s6Kc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3631140/5c9153.jpg", | Final: Borneo FC Samarinda vs Arema FC 
