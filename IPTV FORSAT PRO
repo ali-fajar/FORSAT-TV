@@ -5638,7 +5638,12 @@ https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="OLAHRAGA",SS Maximo
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/60798.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/159896.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="OLAHRAGA",SS Blitz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/110613.m3u8
 
 
 
