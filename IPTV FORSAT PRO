@@ -5166,7 +5166,6 @@ https://canale.mizhls.ru/lb/premium442/playlist.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 2 Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA",OPTUS 3 Australia
