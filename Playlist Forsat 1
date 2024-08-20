@@ -1,5 +1,132 @@
 ER#EXTM3U
 
+[
+  {
+    "credits": "This M3U is presented by t.me/buddyxiptv. API from byte-capsule."
+  },
+  {
+    "name": "B4U Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "B4U Music VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY ENTERTAINMENT TELEVISION",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY MAX",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live 01",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
+    "origin": "live-cdn.tsports.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724229319:KeyName=tsports-ed25519-01:Signature=Q2xpeUbSXmhZ6SBCmFpo-IPVh1OdPqt8oQS15jFNKdEFk5x9I6Q51ghGF409r2nQPeQqakNYcWtuRttc71R5BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live 02",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg",
+    "origin": "live-cdn.tsports.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1724229319:KeyName=tsports-ed25519-01:Signature=Q2xpeUbSXmhZ6SBCmFpo-IPVh1OdPqt8oQS15jFNKdEFk5x9I6Q51ghGF409r2nQPeQqakNYcWtuRttc71R5BA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Zee Bangla Cinema VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Zee Bangla VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "BuddyXiptv",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724328635:KeyName=prod_linear:Signature=uiUGJ8iCWaE0pAoVM4d1QLY9VU6yDSbHuLz7hUlUPRkKzpPLjl-C5LjBQhqwAWnoRskLNlUbdtNkCo4x4fN1BQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
+
 ===================================================================================================================
 ============================================ PLAYLIST INI GRATIS =====================================================
 ========================================= TIDAK UNTUK DIPERJUAL BELIKAN=============================================
