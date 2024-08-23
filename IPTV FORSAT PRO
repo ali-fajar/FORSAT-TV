@@ -564,14 +564,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
 =========================================== RELIGI ===========================================
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/kF-UoOa4_e9qj4_XXjnNLT85eoI=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3628896/5e5950.jpg", | JEPANG VS SPANYOL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdnts=exp=1722621154~acl=/drm/dash/*~id=161571691~hmac=c758932937df1c7580c149277e012a765e39fc7dc49c6795ab768e64f4ec71b5
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -611,10 +603,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708264439/ei/
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="RELIGI",MADINAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708264509/ei/3bfRZbfSC-Dg4t4Piu2PqAQ/ip/103.105.27.76/id/-mr6TD6YxR8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f5irvMtLK3SV5mT3tw_qkguT_CMA3y7bni3-S4hT57dYXElH6UlBngWS4Kc/vprv/1/playlist_type/DVR/initcwndbps/391250/mh/Z0/mm/44/mn/sn-uigxxi0ujipnvo-ngbs/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708242050/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRAIgCc2OvgoXSBbV-ovOb5kPLeMXdXXLQwkVRStKUsP3mt8CIFA-kf3eGEmRc9ZbFDkQzglW3gwdUSNGGSt_bCkbXsd4/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/APTiJQcwRQIhAK9GTQWjI0xW8lhp5WRhBKjYWM-6TqY0eMVCF2ze0BsoAiB6QpHtPyRBzxpxDqF0HARcyudCyHlEgGp-mkA_nWpeGA%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="RELIGI",MADINAH TV
-https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
