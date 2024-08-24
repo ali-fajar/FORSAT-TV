@@ -3879,25 +3879,25 @@ https://topembed.mizhls.ru/lb/premium289/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A7
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="LIGA ITALIA", SERIE A7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium624/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="LIGA ITALIA", SERIE A8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium429/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A9
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_4_hd.png" group-title="LIGA ITALIA", SERIE A9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium432/playlist.m3u8
+https://canale.mizhls.ru/lb/premium625/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Serie_A_logo.png/140px-Serie_A_logo.png" group-title="LIGA ITALIA", SERIE A9
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="LIGA ITALIA", SERIE A9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium135/playlist.m3u8
+https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 
 =====================================LIGA PRANCIS==========================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-360-fr.png" group-title="LIGA PRANCIS", FR 1
