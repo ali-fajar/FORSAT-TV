@@ -3963,6 +3963,26 @@ https://topembed.mizhls.ru/lb/premium886/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium467/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="BUNDESLIGA", BUNDES 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/bet6401202/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="BUNDESLIGA", BUNDES 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/bet6401206/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="BUNDESLIGA", BUNDES 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/bet6401211/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="BUNDESLIGA", BUNDES 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/bet6401215/playlist.m3u8
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
