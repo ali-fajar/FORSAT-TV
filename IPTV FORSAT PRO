@@ -5535,15 +5535,18 @@ http://iptvtree.net:8080/F14995/a84c0963/162592
 http://iptvtree.net:8080/live/F14995/a84c0963/162593.ts
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="OLAHRAGA",SONY SPORTS TEN 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium885/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="OLAHRAGA",SONY SPORTS TEN 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/187262.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium886/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="OLAHRAGA",SONY SPORTS TEN 3
