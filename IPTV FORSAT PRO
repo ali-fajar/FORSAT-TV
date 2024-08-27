@@ -4677,17 +4677,15 @@ http://filex.tv:8080/paramjeetsingh/002818/303496
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=Dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sports Indo 1
-https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
-  
-#KODIPROP:inputstream.adaptive.manifest_type=Dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sports Indo 3
-https://okegas.transvision.workers.dev/dassdvr/133/beib2/manifest.mpd
+#EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORTS",BEIN 1 THA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="BEIN 3 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png" group-title="SPORTS",BEIN 3 THA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",Beinsport 1 
@@ -5534,33 +5532,45 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",TRUE PREMIER 1 
+#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",TRUE PREMIER 1 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
 https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="OLAHRAGA",TRUE PREMIER 2
+#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="OLAHRAGA",TRUE PREMIER 2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
 https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",TRUE PREMIER 3
+#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",TRUE PREMIER 3
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
 https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="OLAHRAGA",TRUE PREMIER 4
+#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="OLAHRAGA",TRUE PREMIER 4
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
 https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",True Premier 3 
-http://iptvtree.net:8080/live/F14995/a84c0963/162593.ts
+#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="OLAHRAGA",TRUE SPORT 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="OLAHRAGA",TRUE SPORT 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="OLAHRAGA",TRUE SPORT 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/4/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="OLAHRAGA",TRUE SPORT 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.youdooball.com/?r=tv/
+https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="OLAHRAGA",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
