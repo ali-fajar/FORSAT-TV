@@ -5380,7 +5380,7 @@ https://canale.mizhls.ru/lb/premium130/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySports 1 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png" group-title="SPORTS", SkySPORTS 1 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=590
 
 
