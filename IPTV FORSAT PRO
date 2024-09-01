@@ -329,6 +329,13 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="LIVE EVENTS" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/20ejiifu5hdf3MuoRQRsgOogjyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg", WIB - Korea Selatan vs Indonesia - 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17701_stream.mpd?hdnts=exp=1725199636~acl=/drm/dash/*~id=69852964~hmac=33b124c79e3ea40545c360372177710b6f56dcc13f9eb176d64eadc2ea837b15
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 1
 http://iptvtree.net:8080/F14995/a84c0963/162138
 
