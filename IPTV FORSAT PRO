@@ -4490,7 +4490,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="MotoGP ",  MotoGP 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=cempedak
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-id="SPORT 6PT" group-title="F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/800px-Sport_TV6_%282023%29.svg.png",WSBK
