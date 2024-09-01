@@ -4291,18 +4291,36 @@ http://194.120.144.74:8070/e9cd5f24/079fd2c9/298550
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 14 VOLY
 http://194.120.144.74:8070/AmirBilali/76448035/298550
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 15
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60794
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 16
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/60797
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 17
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/49731
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 18
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/2917
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 19
-http://kmkus.wanicelife.com:8880/3ca7223n03/sdf32r323/28192
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 20
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 15 GOLF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium318/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 16 GOLF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium70/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 17 GOLF 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium449/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 18 GOLF 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium528/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 19 GOLF 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium522/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 20 GOLF 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/premium593/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 21
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 22
