@@ -390,6 +390,13 @@ https://topembed.mizhls.ru/lb/bet6579632/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/bet6571874/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ccLR8HH-8Kf-2nWjA3MAYP1laBQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17733/top-soccer-championship-2024-u-13-u-14-42f83d.jpg" group-title="LIVE EVENTS", TSC U13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17733_1080p/hdntl=exp=1725168873~acl=%2f*~id=69578335~data=hdntl~hmac=a28fc35335e901029919df5eca8cacee88b2df9e214287f9a956c631366d731d/index.m3u8
+
 ==========================================OLIMPIADE=================================================================
 
 
