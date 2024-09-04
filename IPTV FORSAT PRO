@@ -329,11 +329,31 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="LIVE EVENTS" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/20ejiifu5hdf3MuoRQRsgOogjyA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg", WIB - Korea Selatan vs Indonesia - 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17701_stream.mpd?hdnts=exp=1725199636~acl=/drm/dash/*~id=69852964~hmac=33b124c79e3ea40545c360372177710b6f56dcc13f9eb176d64eadc2ea837b15
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/BKwMElLg4kZ-xlOwwcVyW9xgqRc=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", World Cup 26™ Qualifiers SAUDI VS INDONESIA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/89x297:987x771/750x500/webp/photo/p1/519/2024/09/03/Screenshot_20240903_155716-2365177646.jpg" group-title="LIVE EVENTS", MALAYSIA VS PHILIPINA 21.00 WITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6626168/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/09/Australia-vs-Bahrain.png" group-title="LIVE EVENTS", AUSTRALIA VS BAHRAIN 18.00 WITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6595397/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.khelnow.com/news/uploads/2024/09/jpan-china-lp.jpg" group-title="LIVE EVENTS", JAPAN VS CHINA 18.35 WITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6564475/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/09/Korea-Selatan-vs-Palestina.png" group-title="LIVE EVENTS", KORSEL VS PALESTINA 19.00 WITA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6375779/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 1
