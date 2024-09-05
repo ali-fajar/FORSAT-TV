@@ -335,10 +335,21 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/89x297:987x771/750x500/webp/photo/p1/519/2024/09/03/Screenshot_20240903_155716-2365177646.jpg" group-title="LIVE EVENTS", MALAYSIA VS PHILIPINA 21.00 WITA
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
+https://mhdtv.co.in/daddy/stream.m3u8?id=5
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 4" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png", INDONESIA VS SAUDI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/bet6626168/playlist.m3u8
+https://topembed.mizhls.ru/lb/bet6571800/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/09/Australia-vs-Bahrain.png" group-title="LIVE EVENTS", AUSTRALIA VS BAHRAIN 18.00 WITA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -355,12 +366,6 @@ https://topembed.mizhls.ru/lb/bet6564475/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://topembed.mizhls.ru/lb/bet6375779/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 1
-http://iptvtree.net:8080/F14995/a84c0963/162138
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 3
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
