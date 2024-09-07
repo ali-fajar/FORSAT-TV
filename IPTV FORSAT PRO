@@ -329,26 +329,26 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/BKwMElLg4kZ-xlOwwcVyW9xgqRc=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4884776/original/028960900_1720268616-Kualifikasi_Piala_Dunia_2026_Zona_Asia_-_Arab_Saudi_Vs_Timnas_Indonesia_copy.jpg", World Cup 26™ Qualifiers SAUDI VS INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240907_indonesia-vs-australia-prediksi-ya.jpg", World Cup 26™ Qualifiers INDONESIA VS AUTRALIA 10 september
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 2
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240907_indonesia-vs-australia-prediksi-ya.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://live-eu-pzybaks9eeliv.thapcam.link/229b753b86b4b1137aa2e1b1ebd92b6e/1725579429396/live/may2HD/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI 3
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240907_indonesia-vs-australia-prediksi-ya.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179569584.thapcam.link/Kw-pr0KLiIseM4k-dTpmkg/Fv2lucGIbhPi2caWYvF5Lg/1725580498050/live/may2FHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS",  RCTI INDONESIA VS SAUDI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS",  RCTI INDONESIA VS AUSTRALIA
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=5
