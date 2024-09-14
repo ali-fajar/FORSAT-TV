@@ -4244,6 +4244,17 @@ https://live.mocdn.tv/out/v1/9e8f191625804cc5b78af9fca0e78aec/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.gmv02.verspective.net/?deviceId=NWI5YzQwMjQtNDcwMS0zN2ExLWE2YTgtMDdlOGFjNjhkN2Q3
 https://live.mocdn.tv/out/v1/0f558211487c4531ba911feca2036bb3/manifest_L1.mpd
 
+#EXTINF:-1 group-title="MOLA" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="sport TV 3" tvg-logo="https://i.ytimg.com/vi/cLCsLTjnFuA/hqdefault.jpg" group-title="MOLA", UFC FIGHT PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium86/playlist.m3u8
 
 ============================   BASKET  =======================================================================================================================================
 
