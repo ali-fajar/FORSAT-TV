@@ -3963,6 +3963,10 @@ https://topembed.mizhls.ru/lb/premium596/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=591
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", BACKUP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/TYCqvMIUCpHBTnBk9N-6uQ/Fv2lucGIbhPi2caWYvF5Lg/1726337794228/live/sd-6MsFQs12Jk8CkSBqUo/chunklist.m3u8
 =====================================LIGA SPANYOL==========================================================================
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/laliga-tv-hypermotion-es.png" group-title="LIGA SPANYOL", LALIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
