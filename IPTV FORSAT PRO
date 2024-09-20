@@ -4395,92 +4395,44 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 
 
-===============================================LIVE=====================================
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 1. FOOTBALL 1
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=82241&extension=ts
+===============================================FUTSAL WORLD CUP=====================================
+#EXTINF:-1 group-title="FUTSAL" tvg-id="Fox Soccer Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png", FOX SOCCER PLUS 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/212534.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 2. FOOTBALL 2
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=278512&extension=ts
+#EXTINF:-1 group-title="FUTSAL" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png", FOX SPORTS 1 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/181440.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 3. FOOTBALL 3
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=634822&extension=ts
+#EXTINF:-1 group-title="FUTSAL" tvg-id="Fox Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png", FOX SPORTS 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/181441.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 4. TENNIS
-http://152.89.62.76:8880/live/D12m1495/23236986/60572.ts
+#EXTINF:-1 group-title="FUTSAL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/63.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 5. GP
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="FUTSAL", SPORTV BRA 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium78/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 6. FORMULA 1
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78701&extension=ts
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 7. NBA
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630528&extension=ts
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 8. VOLLY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/qD0CEgwkod/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 9. BULUTANGKIS
-http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 10. WWE
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 11.
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10223&deviceMac=00:1A:79:07:07:43
-
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIVE", LIVE 12.
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=638503_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 13 VOLY
-http://194.120.144.74:8070/e9cd5f24/079fd2c9/298550
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 14 VOLY
-http://194.120.144.74:8070/AmirBilali/76448035/298550
-
-#EXTINF:-1 tvg-logo="https://usatvlive.com/wp-content/uploads/2024/07/golf_channel-usa.png" group-title="LIVE", LIVE 15 GOLF 1
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="FUTSAL", SPORTV BRA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium318/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium79/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 16 GOLF 2
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="FUTSAL",Portugal- SPORT TV 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium70/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium49/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 17 GOLF 3
+
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="FUTSAL",Portugal- Sport TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium449/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium74/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 18 GOLF 4
+#EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="FUTSAL",Portugal- Sport TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium528/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 19 GOLF 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium522/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 20 GOLF 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/premium593/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 21
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 22
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE", LIVE 23
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium290/playlist.m3u8
 
 ========================================WC QF ==================================================
 
