@@ -3710,7 +3710,7 @@ https://canale.mizhls.ru/lb/bet6582015/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/j9sTyujBav_uMG2FDts4qqpEZTs=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3726968/0416b6.jpg" group-title="LIGA INDONESIA", LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17761_240p/hdntl=exp=1726403664~acl=%2f*~id=allUsers~data=hdntl~hmac=b429242717a12f028d512636b4b2beb7e9cd0172c56437f0dc51ccdf23105790/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17760_1080p/hdntl=exp=1726836951~acl=%2flive%2f17760%2fmaster.m3u8!%2fhls-p%2fingest_17760*%2f*!%2fhls-b%2fingest_17760*%2f*~id=allUsers~data=hdntl~hmac=7ae433fa08669b6e3d8fa0308e0de66569681160157147d275c4d69da924b39d/index.m3u8
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
