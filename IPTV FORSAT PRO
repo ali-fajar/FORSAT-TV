@@ -6024,15 +6024,19 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/185822.m3u8
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607" group-title="OLAHRAGA",BEIN SPORTS 1 ENGLISH
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190004.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium61/playlist.m3u8
 
 #EXTINF:-1 xui-id="7943" tvg-id="" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903" group-title="OLAHRAGA",BEIN SPORTS 2 ENGLISH
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190006.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium90/playlist.m3u8
 
 #EXTINF:-1 xui-id="7944" tvg-id="" tvg-name="BEIN SPORTS 3 ENGLISH FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/BE_IN_SPORT_3_HD_2012.png/revision/latest/scale-to-width-down/250?cb=20191022180944" group-title="OLAHRAGA",BEIN SPORTS 3 ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium116/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium46/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="OLAHRAGA", HUB SPORTS 1
@@ -6052,8 +6056,8 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36301.m3u8
 
 #EXTINF:-1 xui-id="7731" tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhMNQGoaAAxRJlUwBA2ar_nFQHDKOyETeOGOeMwza70HalM9calipgerCsyFzrLt7Ik.png" group-title="OLAHRAGA",beIN SPORTS PREMIUM 1 Full-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium98/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://xyzdddd.mizhls.ru/lb/premium98/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="7732" tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhPM_Id3TLiTQtTzEPspMyMOYQ29e1JbfskuWFT7zA4XCvt1r1NIQHUYynXMQO4iS_8.png" group-title="OLAHRAGA",beIN SPORTS PREMIUM 2 Full-HD
