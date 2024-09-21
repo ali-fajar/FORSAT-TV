@@ -3707,10 +3707,10 @@ https://canale.mizhls.ru/lb/bet6631497/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/bet6582015/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/fyqCVE-O5iz66jYuZmIiDoKTBhU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3738271/da2795.jpg" group-title="LIGA INDONESIA", LIGA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Rk7HjhEA3_p3qAFjeyOC-41Km3s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3740101/00b399.jpg" group-title="LIGA INDONESIA", LIGA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17760_1080p/hdntl=exp=1726837149~acl=%2flive%2f17760%2fmaster.m3u8!%2fhls-p%2fingest_17760*%2f*!%2fhls-b%2fingest_17760*%2f*~id=167469478~data=hdntl~hmac=cdc1ac66e63bd40512ed88a17e1c77a56c65b214f0c705d6e1af561bdb1822a2/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17761_720p/hdntl=exp=1726925689~acl=%2flive%2f17761%2fmaster.m3u8!%2fhls-p%2fingest_17761*%2f*!%2fhls-b%2fingest_17761*%2f*~id=167516561~data=hdntl~hmac=2db5e9475ff759ec07302c45dd349f7b1ddf8c68c1e606ea3b61aedd884ca85f/index.m3u8
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
