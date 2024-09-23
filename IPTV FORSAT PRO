@@ -2516,9 +2516,9 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",BEIN SPORTS 1
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPO TV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",BEIN SPORTS 3
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPO TV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
@@ -2597,7 +2597,7 @@ https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 
 
 
-#EXTINF:-1 group-title="INDIHOME" tvg-logo="_______", HORIZON
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000859-.png", HORIZON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8?c
 
@@ -2607,29 +2607,29 @@ https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8?c
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDIHOME", SERU CHANNEL
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1695617140-.png" group-title="INDIHOME", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/seru/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="INDIHOME", MUSIKINDO
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655919958-.png" group-title="INDIHOME", MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/musikindo/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JrjtwgW/nhkworld-big-copy.png" group-title="INDIHOME", NHK WORLD
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586673474-.png" group-title="INDIHOME", NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/130/nhkworld/index.m3u8?c
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgtbdHC/lifetime-big-copy.png" group-title="INDIHOME", LIFETIME
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1637570873-.png" group-title="INDIHOME", LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="INDIHOME", MENTARI TV
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049308-.png" group-title="INDIHOME", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKS9LZC/moji-ocha-big-copy.png" group-title="INDIHOME", MOJI
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1669024049-.png" group-title="INDIHOME", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8?c
 
