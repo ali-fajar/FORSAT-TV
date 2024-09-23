@@ -2588,6 +2588,10 @@ https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/ikonser/chunklist_w455504243_b944100_sleng.m3u8
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000997-.png",TECHSTORM
 https://cdn09jtedge.indihometv.com/joss/133/techstorm/chunklist_w1950363995_b1244100_sleng.m3u8
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679154-.png",THRILL
+https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585823484-.jpg",AXN INDI
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000859-.png", HORIZON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
