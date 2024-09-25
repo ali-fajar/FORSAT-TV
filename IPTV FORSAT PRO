@@ -329,13 +329,13 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240907_indonesia-vs-australia-prediksi-ya.jpg", World Cup 26™ Qualifiers INDONESIA VS AUTRALIA 10 september
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg", World Cup 26™ Qualifiers INDONESIA VS AUTRALIA 10 september
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://asset-2.tstatic.net/kaltim/foto/bank/images/20240907_indonesia-vs-australia-prediksi-ya.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://apisportvb90xltcbk-secure.nsnd.live/qiO_KpLiRxoYYEdBpDEMcQ/Fv2lucGIbhPi2caWYvF5Lg/1725991420113/live/sd-6MsG9jCzF9oCsR733Z/chunklist.m3u8
