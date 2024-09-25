@@ -438,15 +438,15 @@ https://topembed.mizhls.ru/lb/bet6579632/playlist.m3u8
 https://topembed.mizhls.ru/lb/bet6571874/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ccLR8HH-8Kf-2nWjA3MAYP1laBQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17733/top-soccer-championship-2024-u-13-u-14-42f83d.jpg" group-title="LIVE EVENTS", TSC U13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ModbWEJwSLZ6t-4xPFVE8d-kjdI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3746835/306b69.jpg" group-title="LIVE EVENTS", KALBAR VS JABAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17733_1080p/hdntl=exp=1725168873~acl=%2f*~id=69578335~data=hdntl~hmac=a28fc35335e901029919df5eca8cacee88b2df9e214287f9a956c631366d731d/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_17895_240p/hdntl=exp=1727271635~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=26619131~data=hdntl~hmac=83d634f57726caf42f517fe8426a4cc4c69dfbdcc523107b12befdac372e8bf2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ccLR8HH-8Kf-2nWjA3MAYP1laBQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17733/top-soccer-championship-2024-u-13-u-14-42f83d.jpg" group-title="LIVE EVENTS", TSC U13,9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/lOc4Wp3K9yqAMSyHbCrVcAHVbQY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749023/cdfaeb.jpg" group-title="LIVE EVENTS", BANTEN VS SULBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17736_360p/hdntl=exp=1725169183~acl=%2f*~id=69578335~data=hdntl~hmac=306b93601700344d56f853059e769bf1921e73347afe913eaceae7f5be32cb71/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
 ==========================================OLIMPIADE=================================================================
 
 
@@ -3706,7 +3706,7 @@ https://canale.mizhls.ru/lb/bet6687608/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Rk7HjhEA3_p3qAFjeyOC-41Km3s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3740101/00b399.jpg" group-title="LIGA INDONESIA", LIGA 2 Rans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_1080p/hdntl=exp=1727267467~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=allUsers~data=hdntl~hmac=545d42e9a5e1ec3ade6b0f8919982ec821523094adf1bced96b8376b352c57f2/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_240p/hdntl=exp=1727271153~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=69189475~data=hdntl~hmac=8c473647ff30ac41e5ba62b85503be8a7b5fa04b198d8d0fcf2e76794abc7d4f/index.m3u8
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
