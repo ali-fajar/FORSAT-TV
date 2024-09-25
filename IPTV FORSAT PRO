@@ -329,11 +329,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="LIVE EVENTS" tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg", World Cup 26™ Qualifiers INDONESIA VS AUTRALIA 10 september
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -345,97 +340,15 @@ https://apisportvb90xltcbk-secure.nsnd.live/qiO_KpLiRxoYYEdBpDEMcQ/Fv2lucGIbhPi2
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://apisportvb90xltcbk-secure.nsnd.live/spFb2mggdWp_nzBggmGLEA/Fv2lucGIbhPi2caWYvF5Lg/1725991597740/live/hd-en-6MsG9jCzF9oCsR733Z/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="LIVE EVENTS",  RCTI INDONESIA VS AUSTRALIA
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://iili.io/dSLhtTX.png" group-title="LIVE EVENTS", INDONESIA VS AUSTRALIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://mhdtv.co.in/
-https://mhdtv.co.in/daddy/stream.m3u8?id=5
-
-
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-id="SSC 4" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png", INDONESIA VS SAUDI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/jogja/foto/bank/images/link-live-streaming-timnas-u-19-indonesia-vs-arab-saudi-via-metubeid-kick-off-pukul-1530-wib_20181010_145006.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/bet6571800/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/09/Australia-vs-Bahrain.png" group-title="LIVE EVENTS", MALAYSIA VS LEBANON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/bet6687482/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.khelnow.com/news/uploads/2024/09/jpan-china-lp.jpg" group-title="LIVE EVENTS", JAPAN VS CHINA 18.35 WITA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/bet6564475/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/09/Korea-Selatan-vs-Palestina.png" group-title="LIVE EVENTS", KORSEL VS PALESTINA 19.00 WITA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/bet6375779/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 3
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/z-UItr7wtu2g_wKqTctWyZsxzDU=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3695045/08afee.jpg" group-title="LIVE EVENTS", INDONESIA VS KORSEL 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/8MzRh1WOVgIjbWE0oXzRnuAjG_M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749106/ffb3ec.jpg" group-title="LIVE EVENTS", INDONESIA VS MALDIVES
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/c1raCFa6OK3UvVAo4oZNroGL8_A=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3672848/3c55b5.jpg" group-title="LIVE EVENTS", MLS CHICAGO VS MIAMI 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6276545/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/c1raCFa6OK3UvVAo4oZNroGL8_A=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3672848/3c55b5.jpg" group-title="LIVE EVENTS", MLS FC DALLAS VS COLORADO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6276546/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/c1raCFa6OK3UvVAo4oZNroGL8_A=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3672848/3c55b5.jpg" group-title="LIVE EVENTS", MLS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6276544/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", MALAYSIA VS LEBANON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", ALUROOBA VS ALNASR DUBAI 21.00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6543409/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", ALWAHDAH VS AJMAN 21.00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6543408/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", Amstetten - Sturm Graz II 22.00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6452134/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", Hannover - Hamburger SV 23.00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6536619/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", Grobina - FK Jelgava 23.00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6579632/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JbMqv1a.jpg" group-title="LIVE EVENTS", Tenis N.Noha Akugue/S.Sakellaridi - T.Krejcova/J.Pastikova
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/bet6571874/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ModbWEJwSLZ6t-4xPFVE8d-kjdI=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3746835/306b69.jpg" group-title="LIVE EVENTS", KALBAR VS JABAR
@@ -447,6 +360,25 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_17895_240p/hdn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/yz8qQnkcpiDit9de9kWb4sPDfIM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749024/905e0e.jpg" group-title="LIVE EVENTS", KALBAR VS SUMSEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_17895_240p/hdntl=exp=1727271635~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=26619131~data=hdntl~hmac=83d634f57726caf42f517fe8426a4cc4c69dfbdcc523107b12befdac372e8bf2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/wWI5H1CrhvSxBUt2UxCIXB33wSY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3746838/63f306.jpg" group-title="LIVE EVENTS", JAMBI VS SULUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/sO9iuBCLz6QaM8c-LIFb9wKnQ3c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749025/3e576f.jpg" group-title="LIVE EVENTS", SULTENG VS RIAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
+
+
+
+
 ==========================================OLIMPIADE=================================================================
 
 
