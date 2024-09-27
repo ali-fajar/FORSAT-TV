@@ -382,7 +382,10 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/VWjFPIsmOvAiCOr8JZe4rp6BYqg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17892/2024-asian-women-s-club-volleyball-championship-06e04e.jpg" group-title="LIVE EVENTS", AVC CHAMPS THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17892_360p/hdntl=exp=1727437715~acl=%2flive%2f17892%2fmaster.m3u8!%2fhls-p%2fingest_17892*%2f*!%2fhls-b%2fingest_17892*%2f*~id=69578335~data=hdntl~hmac=e78f5c9524bc2c604e19dad5a5e48d5759cf63cd19ea4b81e12cafae4c2e3ae2/index.m3u8
 
 
 ==========================================OLIMPIADE=================================================================
