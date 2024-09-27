@@ -4313,7 +4313,7 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manif
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 #EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
@@ -4335,8 +4335,12 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/09/25/kualifikasi-piala-asia-u-20-2025.png?w=600&q=90" group-title="AFC CHAMPIONS LEAGUE", U20 BAHRAIN VS NEPAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/IxQnhzWv_aVukwhkQChf-A/Fv2lucGIbhPi2caWYvF5Lg/1727446790632/live/sd-6MtLPXG7EZNHrfrDwy/chunklist.m3u8
 
 
 ===============================================FUTSAL WORLD CUP=====================================
