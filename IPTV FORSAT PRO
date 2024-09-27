@@ -367,17 +367,17 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_360p/hdntl
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17895_240p/hdntl=exp=1727436890~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=99992590~data=hdntl~hmac=a2322a27d1a75c4e42cc637960af9fd9b528f68465507dbea9f9f68440cf972f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/yz8qQnkcpiDit9de9kWb4sPDfIM=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749024/905e0e.jpg" group-title="LIVE EVENTS", KALBAR VS SUMSEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/2gp2w9Fc_-UpoiFa8GfboH4J47I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753175/4cb126.jpg" group-title="LIVE EVENTS", PAPUA VS BALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_17895_240p/hdntl=exp=1727271635~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=26619131~data=hdntl~hmac=83d634f57726caf42f517fe8426a4cc4c69dfbdcc523107b12befdac372e8bf2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/wWI5H1CrhvSxBUt2UxCIXB33wSY=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3746838/63f306.jpg" group-title="LIVE EVENTS", JAMBI VS SULUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ClbpGo267KPbbgxYzJHQkqJxqG4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749204/5a1cb1.jpg" group-title="LIVE EVENTS", JATIM VS DKI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/sO9iuBCLz6QaM8c-LIFb9wKnQ3c=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749025/3e576f.jpg" group-title="LIVE EVENTS", SULTENG VS RIAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/yEZDEILtdrgHficcHNkR4X2BtC0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753176/3e5cb8.jpg" group-title="LIVE EVENTS", JAMBI VS KALSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
