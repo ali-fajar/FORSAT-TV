@@ -329,11 +329,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/t6nky4YvZkzKET7j6kfr7zW1nEU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749106/ffb3ec.jpg", WIB - Indonesia vs Maldives - 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36eed60064f380997fc93263d226a074:967adafdf64e6cc3b4662920cfe0abab
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727279411~acl=/drm/dash/17904*~id=69852964~hmac=a9cc8e2bc325c761964eadce0d0ccbf574df154669c68920e9b4407bea5d137e
 
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
@@ -347,7 +342,7 @@ https://apisportvb90xltcbk-secure.nsnd.live/qiO_KpLiRxoYYEdBpDEMcQ/Fv2lucGIbhPi2
 https://apisportvb90xltcbk-secure.nsnd.live/spFb2mggdWp_nzBggmGLEA/Fv2lucGIbhPi2caWYvF5Lg/1725991597740/live/hd-en-6MsG9jCzF9oCsR733Z/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/8MzRh1WOVgIjbWE0oXzRnuAjG_M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749106/ffb3ec.jpg" group-title="LIVE EVENTS", INDONESIA VS MALDIVES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/7gcoJNkP8cDo4igpWKCvNtf_7T4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753184/f261aa.jpg" group-title="LIVE EVENTS", INDONESIA VS TIMOR LESTE
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 
@@ -357,15 +352,15 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/kuopd2VK6MsV1VOd3v9Co5QQFlc=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749203/af1fdf.jpg" group-title="LIVE EVENTS", BANTEN VS SULTENGG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1glsGBbgAmYAFCISi3oQH_w3dFE=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749205/353156.jpg" group-title="LIVE EVENTS", NTB VS KALSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_360p/hdntl=exp=1727436794~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=69578335~data=hdntl~hmac=bda044906e216807072601ddf4c4e048fb452f7ad5fdba6413e43dbf6c7a4a9c/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1727438071~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=160955530~hmac=6bc947eac73ebbe237bcf3e66939c6415a1399d3bffbb77dc13653ddbd42c531
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/9CB2vEGBOW2vn2Of4wWFFTl_zCo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753174/3430bb.jpg" group-title="LIVE EVENTS", PAPUA VS JABAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/9CB2vEGBOW2vn2Of4wWFFTl_zCo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753174/3430bb.jpg" group-title="LIVE EVENTS", JAMBI VS KALSEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17895_240p/hdntl=exp=1727436890~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=99992590~data=hdntl~hmac=a2322a27d1a75c4e42cc637960af9fd9b528f68465507dbea9f9f68440cf972f/index.m3u8
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17895/master.m3u8?hdnts=exp=1727438487~acl=/live/17895/master.m3u8!/hls-p/ingest_17895*/*!/hls-b/ingest_17895*/*~id=69578335~hmac=ef000102df3ee23dddd7b0fb933f25a985a917fdb5c1722d8858f0c89a547eeb
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/2gp2w9Fc_-UpoiFa8GfboH4J47I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753175/4cb126.jpg" group-title="LIVE EVENTS", PAPUA VS BALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
