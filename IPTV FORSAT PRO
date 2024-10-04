@@ -375,31 +375,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17892_360p/hdntl=exp=1727437715~acl=%2flive%2f17892%2fmaster.m3u8!%2fhls-p%2fingest_17892*%2f*!%2fhls-b%2fingest_17892*%2f*~id=69578335~data=hdntl~hmac=e78f5c9524bc2c604e19dad5a5e48d5759cf63cd19ea4b81e12cafae4c2e3ae2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports" group-title="LIVE EVENTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 tvg-id="beINSports" group-title="LIVE EVENTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-
-#EXTINF:-1 tvg-id="beINSports" group-title="LIVE EVENTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="LIVE EVENTS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="LIVE EVENTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 ==========================================OLIMPIADE=================================================================
 
@@ -4866,6 +4842,31 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS" , BEIN SPORTS XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+
+#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#EXTINF:-1 tvg-id="beINSports" group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/220px-Real_betis_logo.svg.png" group-title="SPORTS" , Betis TV 
