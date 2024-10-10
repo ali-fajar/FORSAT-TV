@@ -5063,25 +5063,17 @@ https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd 
 
 #EXTINF:-1 tvg-logo="https://usatvlive.com/wp-content/uploads/2024/07/ESPN-Logo-155x87.jpg" group-title="SPORTS", ESPN  USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium44/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/181387.m3u8
 
 #EXTINF:-1 tvg-logo="https://usatvlive.com/wp-content/uploads/2024/07/ESPN2-155x87.png" group-title="SPORTS", ESPN 2 USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium45/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/181514.m3u8
 
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium41/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17307.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", EUROSPORT 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium42/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17306.m3u8
 
 
 
@@ -5095,7 +5087,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
 
@@ -5321,9 +5313,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 http://sky-tv.org:88/02020943052251/4156696358/286526
 
 #EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-1-cz.png" group-title="SPORTS",Nova Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium631/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/160405.m3u8
 
 #EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-2-cz.png" group-title="SPORTS",Nova Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5331,24 +5321,16 @@ https://canale.mizhls.ru/lb/premium631/playlist.m3u8
 https://canale.mizhls.ru/lb/premium632/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 1 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium439/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17305.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 2 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium440/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17304.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 3 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium441/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17303.m3u8
 
 #EXTINF:-1 tvg-id="Orange Sport 4 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium442/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
@@ -5437,30 +5419,19 @@ https://canale.mizhls.ru/lb/premium550/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-1-ro.png", PRIMA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium583/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/169958.m3u8
 
 #EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-2-ro.png", PRIMA SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium584/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/170041.m3u8
 
 #EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-3-ro.png", PRIMA SPORTS 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium586/playlist.m3u8
-
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17329.m3u8
 
 #EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-4-ro.png", PRIMA SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium585/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
 
 #EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS", PTV Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium450/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157875.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="psjtv.id" tvg-logo="https://iptv.urfan.web.id/logo/psjtv.png",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
@@ -5490,9 +5461,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400803728.m3u8
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400201956.m3u8
 
 #EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="SPORTS", Ten Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium741/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400313209.m3u8
 
 
 
@@ -5548,53 +5517,34 @@ https://streamer.zapitv.com/sevillafc/index.mpd
 
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="SPORTS", Sky SPORT ARENA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium462/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/194526.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://iili.io/d9iom9s.jpg" group-title="SPORTS", Sky SPORT CALCIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium870/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400248367.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JpwIXfe.jpg" group-title="SPORTS", Sky SPORT F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium60/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/194529.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-golf-it.png" group-title="SPORTS", Sky SPORT GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium461/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/62442.m3u8
 
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://iili.io/JpNxFtI.png" group-title="SPORTS", Sky SPORT MOTOGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium575/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/35386.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="SPORTS", Sky SPORTS FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium35/playlist.m3u8
-
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/194525.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="SPORTS", Sky SPORTS MAIN EVENT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium38/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191674.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.ibb.co/Fg5SKyD/skymix.png" group-title="SPORTS", Sky SPORTS MIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium449/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/189987.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://iili.io/Jpw0blp.png" group-title="SPORTS", Sky SPORTS PL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium130/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
 
 #EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png" group-title="SPORTS", SkySPORTS 2 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5675,19 +5625,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="SPORTS", SPORTV BRA 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium78/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/171307.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="SPORTS", SPORTV BRA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium79/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/171308.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/800px-SporTV_3_logo_2011.png" group-title="SPORTS", SPORTV BRA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium80/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/171309.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png", SSC 1
@@ -5833,9 +5777,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS",SONY SPORTS TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium886/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",SONY SPORTS TEN 3
@@ -5855,53 +5797,36 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SS Football Africa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium56/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190006.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SS Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium414/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190004.m3u8
 
 
 #EXTINF:-1 xui-id="7646" tvg-id="" tvg-name="SuperSport: Action" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SPORTS", Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium420/playlist.m3u8
-
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190015.m3u8
 
 
 #EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SPORTS", Variety 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium416/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190007.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SPORTS",SS Variety 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium417/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190008.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="SPORTS",SS Variety 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium418/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190009.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SPORTS",SS Variety 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium419/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190010.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SS Laliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium415/playlist.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/190005.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="SPORTS",SS Maximo
