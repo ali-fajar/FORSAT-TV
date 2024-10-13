@@ -334,6 +334,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNj-CZdji7TIcoPKgBe6VMxJG6T7uRA0yUA&s" group-title="LIVE EVENTS", CINA VS INDONESIA SELASA 15 OKTOBER 19.00 WIB
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45Shh-aPlY7zihjmOuvd7eGm3fDJADn1-Rw&s" group-title="LIVE EVENTS", Kawasaki Frontale - Albirex Niigata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/bet6701712/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQpf3VaK7EkJ9iHEWvtFHtkdZh0ctwc6YaA&s" group-title="LIVE EVENTS", Nagoya Grampus vs Yokohama F. Marinos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/bet6787384/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg" group-title="LIVE EVENTS", INDONESIA VS AUSIE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
