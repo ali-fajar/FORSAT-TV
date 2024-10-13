@@ -359,9 +359,6 @@ https://apisportvb90xltcbk-secure.nsnd.live/qiO_KpLiRxoYYEdBpDEMcQ/Fv2lucGIbhPi2
 https://apisportvb90xltcbk-secure.nsnd.live/spFb2mggdWp_nzBggmGLEA/Fv2lucGIbhPi2caWYvF5Lg/1725991597740/live/hd-en-6MsG9jCzF9oCsR733Z/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/7gcoJNkP8cDo4igpWKCvNtf_7T4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753184/f261aa.jpg" group-title="LIVE EVENTS", INDONESIA VS TIMOR LESTE
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Gn28T_T2ht_0HBEiWZb6bZJ1t1M=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3591932/ee5d82.jpg" group-title="LIVE EVENTS", MALAYSIA VS LEBANON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -374,30 +371,6 @@ https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1727438071~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=160955530~hmac=6bc947eac73ebbe237bcf3e66939c6415a1399d3bffbb77dc13653ddbd42c531
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/9CB2vEGBOW2vn2Of4wWFFTl_zCo=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753174/3430bb.jpg" group-title="LIVE EVENTS", JAMBI VS KALSEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17895/master.m3u8?hdnts=exp=1727438487~acl=/live/17895/master.m3u8!/hls-p/ingest_17895*/*!/hls-b/ingest_17895*/*~id=69578335~hmac=ef000102df3ee23dddd7b0fb933f25a985a917fdb5c1722d8858f0c89a547eeb
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/2gp2w9Fc_-UpoiFa8GfboH4J47I=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753175/4cb126.jpg" group-title="LIVE EVENTS", PAPUA VS BALI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-b/ingest_17895_240p/hdntl=exp=1727271635~acl=%2flive%2f17895%2fmaster.m3u8!%2fhls-p%2fingest_17895*%2f*!%2fhls-b%2fingest_17895*%2f*~id=26619131~data=hdntl~hmac=83d634f57726caf42f517fe8426a4cc4c69dfbdcc523107b12befdac372e8bf2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/ClbpGo267KPbbgxYzJHQkqJxqG4=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749204/5a1cb1.jpg" group-title="LIVE EVENTS", JATIM VS DKI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/yEZDEILtdrgHficcHNkR4X2BtC0=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3753176/3e5cb8.jpg" group-title="LIVE EVENTS", JAMBI VS KALSEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_206_240p/hdntl=exp=1727271413~acl=%2flive%2f206%2fmaster.m3u8!%2fhls-p%2fingest_206*%2f*!%2fhls-b%2fingest_206*%2f*~id=78142134~data=hdntl~hmac=c220fc8e89861b342557237cd5d1a703ddbd5fb16149fe022c5ac98c55ff2f14/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/VWjFPIsmOvAiCOr8JZe4rp6BYqg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17892/2024-asian-women-s-club-volleyball-championship-06e04e.jpg" group-title="LIVE EVENTS", AVC CHAMPS THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17892_360p/hdntl=exp=1727437715~acl=%2flive%2f17892%2fmaster.m3u8!%2fhls-p%2fingest_17892*%2f*!%2fhls-b%2fingest_17892*%2f*~id=69578335~data=hdntl~hmac=e78f5c9524bc2c604e19dad5a5e48d5759cf63cd19ea4b81e12cafae4c2e3ae2/index.m3u8
 
 
 
