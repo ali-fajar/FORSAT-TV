@@ -334,17 +334,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNj-CZdji7TIcoPKgBe6VMxJG6T7uRA0yUA&s" group-title="LIVE EVENTS", CINA VS INDONESIA SELASA 15 OKTOBER 19.00 WIB
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45Shh-aPlY7zihjmOuvd7eGm3fDJADn1-Rw&s" group-title="LIVE EVENTS", Kawasaki Frontale - Albirex Niigata
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOooTNuR1iFyWVN_PQzu-nWbcDTIRz0IuEg&s" group-title="LIVE EVENTS", Japan - Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6701712/playlist.m3u8
+https://canale.mizhls.ru/lb/bet6571806/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQpf3VaK7EkJ9iHEWvtFHtkdZh0ctwc6YaA&s" group-title="LIVE EVENTS", Nagoya Grampus vs Yokohama F. Marinos
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_EZhpV-eTvRXNNrYWv8ltT5gZVBtlU_KYg&s" group-title="LIVE EVENTS", South Korea - Iraq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6787384/playlist.m3u8
+https://canale.mizhls.ru/lb/bet6481734/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/10/Uzbekistan-vs-UAE-1.jpg" group-title="LIVE EVENTS", Uzbekistan - UAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/bet6481733/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBvppVInkbhCk6Umkjk_LpJ_KozkfscR7gA&s" group-title="LIVE EVENTS", Palestine - Kuwait
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.hlsjs.ru/lb//bet6481737/playlist.m3u8
 
 
 
