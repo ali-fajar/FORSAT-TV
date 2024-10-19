@@ -5534,8 +5534,9 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/35386.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="SPORTS", Sky SPORTS FOOTBALL
-#EXTVLCOPT:http-referrer=https://https://us.bokulsports.com/
-https://us.bokulsports.com/AGV/stream.m3u8?id=460
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium460/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="SPORTS", Sky SPORTS MAIN EVENT 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191674.m3u8
