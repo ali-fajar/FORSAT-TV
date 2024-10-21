@@ -3637,10 +3637,10 @@ https://canale.webhd.ru/lb//bet6823998/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/bet6824286/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Rk7HjhEA3_p3qAFjeyOC-41Km3s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3740101/00b399.jpg" group-title="LIGA INDONESIA", LIGA 2 Rans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_240p/hdntl=exp=1727271153~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=69189475~data=hdntl~hmac=8c473647ff30ac41e5ba62b85503be8a7b5fa04b198d8d0fcf2e76794abc7d4f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Rk7HjhEA3_p3qAFjeyOC-41Km3s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3740101/00b399.jpg" group-title="LIGA INDONESIA", LIGA 2 Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.hlsjs.ru/lb//bet6884883/playlist.m3u8
 ==============================================UCL============================================================
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
