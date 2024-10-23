@@ -56,3 +56,8 @@ Manifest:
 
 Key:
 • 3461f761eec7443aa2a80632ea5ae8f8:63d4b0fb2a5d6f3dbb761e75f8b007ce
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="EVENT" tvg-id="001" tvg-name="016-LABURATV", SPORTSTAR 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3461f761eec7443aa2a80632ea5ae8f8:63d4b0fb2a5d6f3dbb761e75f8b007ce 
+https://oprek.mra.my.id/jamu/viscloud/d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
