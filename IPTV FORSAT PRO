@@ -3600,10 +3600,9 @@ https://canale.mizhls.ru/lb/premium1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.webhd.ru/lb/premium2/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTINF:-1 tvg-id="sportstars 3" group-title="LIGA INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png", Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3461f761eec7443aa2a80632ea5ae8f8:63d4b0fb2a5d6f3dbb761e75f8b007ce 
-#EXTINF:-1 tvg-id="sportstars 3" group-title="LIGA INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png", Sportstars 3
 https://oprek.mra.my.id/jamu/viscloud/d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
