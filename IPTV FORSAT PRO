@@ -324,7 +324,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyzcfb11DdWGQWgx5WepH9gGKfmd_bkEmnQ&s" group-title="LIVE EVENTS", AFC U17 23 OKT INDONESIA VS KUWAIT
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJKFEkpEy1IOqefatu3RkU7bhRSGPJD_b6PRecq7yVqs-ZAopFXCrJs9t&s=10" group-title="LIVE EVENTS", AFC U17 25 OKT INDONESIA VS MARIYUANA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
