@@ -4984,6 +4984,44 @@ https://xyzdddd.mizhls.ru/lb/premium626/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium627/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6685&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6685&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="SPORTS",Champions 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6686&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6686&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="SPORTS",Champions 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6786&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6786&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="SPORTS",Champions 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=9182&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=9182&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="SPORTS",Champions 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=9183&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=9183&type=dash
+
+
+
+
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORTS" , DAZN 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6236,35 +6274,41 @@ https://canale.mizhls.ru/lb/premium126/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/609330
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/185822.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/609331
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607" group-title="SPORTS",BEIN SPORTS 1 ENGLISH
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/81.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium61/playlist.m3u8
 
 #EXTINF:-1 xui-id="7943" tvg-id="" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903" group-title="SPORTS",BEIN SPORTS 2 ENGLISH
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/82.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium90/playlist.m3u8
 
 #EXTINF:-1 xui-id="7944" tvg-id="" tvg-name="BEIN SPORTS 3 ENGLISH FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/BE_IN_SPORT_3_HD_2012.png/revision/latest/scale-to-width-down/250?cb=20191022180944" group-title="SPORTS",BEIN SPORTS 3 ENGLISH FHD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/112517.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium46/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="SPORTS", HUB SPORTS 1
-http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501577
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501593
 
 #EXTINF:-1 xui-id="14876" tvg-id="" tvg-name="SG: HUB SPORTS 2" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="SPORTS", HUB SPORTS 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400230450.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501592
 
 #EXTINF:-1 xui-id="14877" tvg-id="" tvg-name="SG: HUB SPORTS 3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="SPORTS", HUB SPORTS 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400230449.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501591
 
 #EXTINF:-1 xui-id="14878" tvg-id="" tvg-name="SG: HUB SPORTS 4" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="SPORTS", HUB SPORTS 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/30401.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501590
 
 #EXTINF:-1 xui-id="14879" tvg-id="" tvg-name="SG: HUB SPORTS 5" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="SPORTS", HUB SPORTS 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/30400.m3u8
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501589
 
 #EXTINF:-1 xui-id="7731" tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhMNQGoaAAxRJlUwBA2ar_nFQHDKOyETeOGOeMwza70HalM9calipgerCsyFzrLt7Ik.png" group-title="SPORTS",beIN SPORTS PREMIUM 1 Full-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6283,24 +6327,21 @@ https://canale.mizhls.ru/lb/premium99/playlist.m3u8
 https://canale.mizhls.ru/lb/premium100/playlist.m3u8
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="SPORTS", RMC Sport 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/675.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium119/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORTS", RMC Sport 2 HD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/676.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium120/playlist.m3u8
 
 #EXTINF:-1 xui-id="7870" tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Logo_RMC_Sport_3_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133707" group-title="SPORTS", RMC Sport 3 HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/677.m3u8
 
 #EXTINF:-1 xui-id="7871" tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Logo_RMC_Sport_4_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133111" group-title="SPORTS", RMC Sport 4 HD
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/678.m3u8
-
-
-#EXTINF:-1 xui-id="7854" tvg-id="" tvg-name="UK: SKY SPORT GOLF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539" group-title="SPORTS", SKY SPORT GOLF
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191685.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://iili.io/Jpwel7s.png" group-title="SPORTS", TV2 SPORT1
