@@ -6265,9 +6265,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/9626.m3u8
 #EXTINF:-1 xui-id="11179" tvg-id="" tvg-name="PL: Polsat Sport Premium 2 HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Polsat_Sport_Premium_2_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/200?cb=20210819121807" group-title="SPORTS", Polsat Sport Premium 2 HD LQ
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/9625.m3u8
 
-#EXTINF:-1 xui-id="13363" tvg-id="" tvg-name="UK: Sky Sports Premier League FHD HEVC 25fps" tvg-logo="http://play.fastkobar.my.id:8080/images/zVeZGotsuCqDsOltYjrMDsszjtHsGYXDxb1F7avvkaWwUZ3i78dh49rCwGSjK9fr.png" group-title="SPORTS", Sky Sports Premier League FHD HEVC 25fps
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/6590.m3u8
-
 
 #EXTINF:-1 xui-id="163" tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="SPORTS",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6294,7 +6291,7 @@ https://canale.mizhls.ru/lb/premium126/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA 1
-http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/609330
+http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/605251
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
 http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/609331
