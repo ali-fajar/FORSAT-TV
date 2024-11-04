@@ -202,7 +202,7 @@ https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="NASIONAL", LINGKARTV 
 https://lingkartv.my.id/hls/lingkartv.m3u8
-
+ia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="NASIONAL", INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
@@ -373,9 +373,7 @@ https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1glsGBbgAmYAFCISi3oQH_w3dFE=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749205/353156.jpg" group-title="LIVE EVENTS", NTB VS KALSEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/206/master.m3u8?hdnts=exp=1727438071~acl=/live/206/master.m3u8!/hls-p/ingest_206*/*!/hls-b/ingest_206*/*~id=160955530~hmac=6bc947eac73ebbe237bcf3e66939c6415a1399d3bffbb77dc13653ddbd42c531
+https://www.youtube.com/live/rv060fqF3Og?si=AwMrS8vQ3mh6rqRL
 
 
 
