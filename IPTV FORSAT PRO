@@ -324,7 +324,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJKFEkpEy1IOqefatu3RkU7bhRSGPJD_b6PRecq7yVqs-ZAopFXCrJs9t&s=10" group-title="LIVE EVENTS", AFC U17 25 OKT INDONESIA VS MARIYUANA
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SUaZhQfHHC90KePXPGWNoFdT27UmvpYuZCcN_vEBiWXguoNgt-48zTM&s=10" group-title="LIVE EVENTS", INDONESIA VS JEPANG
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -332,25 +332,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOooTNuR1iFyWVN_PQzu-nWbcDTIRz0IuEg&s" group-title="LIVE EVENTS", Japan - Australia
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7q25yYhL4KluwvNKQtqpUCv7v-1RFa1N_c-HPxANVRpXWEVUnbRXhEE&s=10 " group-title="LIVE EVENTS", Kuwait vs Korsel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6571806/playlist.m3u8
+https://canale.mizhls.ru/lb/bet6606907/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_EZhpV-eTvRXNNrYWv8ltT5gZVBtlU_KYg&s" group-title="LIVE EVENTS", South Korea - Iraq
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/11/13/Bahrain-vs-China-Tiongkok-1144699158.png" group-title="LIVE EVENTS", Bahrain vs China
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6481734/playlist.m3u8
+https://canale.mizhls.ru/lb/bet6923827/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.posmetromedan.com/wp-content/uploads/2024/10/Uzbekistan-vs-UAE-1.jpg" group-title="LIVE EVENTS", Uzbekistan - UAE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LcnAenukU618jDXi1se3RvxcUw2wWzN3jisv6UNA16MFI7lGBFaqXio&s=10 " group-title="LIVE EVENTS", Oman vs Palestina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6481733/playlist.m3u8
+https://canale.mizhls.ru/lb/bet6606911/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBvppVInkbhCk6Umkjk_LpJ_KozkfscR7gA&s" group-title="LIVE EVENTS", Palestine - Kuwait
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpEvHYzoj-mU_eIxu6sHCF1d6AeGH6J4TmBSe3WktXSDkn8X0aXadubU5&s=10 " group-title="LIVE EVENTS", Uae vs Kyrgyzstan 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb//bet6481737/playlist.m3u8
+https://bigembed.hlsjs.ru/lb//bet6606909/playlist.m3u8
 
 
 
