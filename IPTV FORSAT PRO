@@ -330,7 +330,8 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/antara-Indonesia-vs-Arab-Saudi-akan.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7q25yYhL4KluwvNKQtqpUCv7v-1RFa1N_c-HPxANVRpXWEVUnbRXhEE&s=10 " group-title="LIVE EVENTS", Kuwait vs Korsel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3997,6 +3998,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 1
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 2
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_FpbvyWRq_L-tWczpfJDqfyyjIix1_iGEMpN61gUFDz4quy8h2SW_YDs-nyiTXdhwkU4cHJPepJLjzcxZ2lZpqyzgvq997HM8geixwMnfnEyoHMv5G6Z" group-title="LIGA INGGRIS", HUB 3
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
 
 
 
