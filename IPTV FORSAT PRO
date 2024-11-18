@@ -348,12 +348,15 @@ https://canale.mizhls.ru/lb/premium468/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium379/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpEvHYzoj-mU_eIxu6sHCF1d6AeGH6J4TmBSe3WktXSDkn8X0aXadubU5&s=10 " group-title="LIVE EVENTS", Uae vs Kyrgyzstan 
+#EXTINF:-1 tvg-logo="https://www.midor.co/wp-content/uploads/2024/11/Prediksi-Tiongkok-vs-Jepang-susunan-pemain-tip-dan-peluang-taruhan.jpg" group-title="LIVE EVENTS", CINA VS JEPANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb//bet6606909/playlist.m3u8
+https://canale.mizhls.ru/lb/premium92/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5b7XjHDqzvs35Clk-UL0ET6uk9t5XJsohUw&s" group-title="LIVE EVENTS", Bahrain vs AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium94/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://thumbor.prod.vidiocdn.com/DuH5EzwLFm1FfXDobF-VNzmi9T4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/25319/indonesia-vs-maldives-c3b68e.jpg" group-title="LIVE EVENTS", INDONESIA VS JEPANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -372,9 +375,6 @@ https://apisportvb90xltcbk-secure.nsnd.live/spFb2mggdWp_nzBggmGLEA/Fv2lucGIbhPi2
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179939170.cdnfree.pro/live/heohd2/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1glsGBbgAmYAFCISi3oQH_w3dFE=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3749205/353156.jpg" group-title="LIVE EVENTS", NTB VS KALSEL
-https://www.youtube.com/live/rv060fqF3Og?si=AwMrS8vQ3mh6rqRL
 
 
 
