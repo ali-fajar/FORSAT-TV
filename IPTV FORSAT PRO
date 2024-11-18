@@ -3897,7 +3897,7 @@ https://canale.mizhls.ru/lb/premium400/playlist.m3u8
 https://canale.mizhls.ru/lb/premium401/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", LIVE 09
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="LIGA INGGRIS", LIVE 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
