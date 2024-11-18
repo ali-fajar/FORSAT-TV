@@ -324,7 +324,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SUaZhQfHHC90KePXPGWNoFdT27UmvpYuZCcN_vEBiWXguoNgt-48zTM&s=10" group-title="LIVE EVENTS", INDONESIA VS JEPANG
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/antara-Indonesia-vs-Arab-Saudi-akan.jpg" group-title="LIVE EVENTS", INDONESIA VS JEPANG
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
