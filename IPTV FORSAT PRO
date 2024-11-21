@@ -1864,7 +1864,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangh
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png",HanacarakaTV (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/HanacarakaTV/sa_dash_vmx/HanacarakaTV.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/hanacarakaTV/sa_dash_vmx/hanacarakaTV.mpd
 
 
 
