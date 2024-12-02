@@ -4792,6 +4792,11 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="SPORTS",Arena Bola 1
+http://31.42.187.37:25461/watchpad13158/1234/4648
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="SPORTS",Arena Bola 2
+http://31.42.187.37:25461/watchpad13158/1234/332
 
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-esport-rs.png" group-title="SPORTS", ARENA ESPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
