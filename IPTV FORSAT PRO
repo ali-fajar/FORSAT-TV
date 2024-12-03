@@ -1871,26 +1871,28 @@ https://cempedak-live-cdn.mncnow.id/live/eds/hanacarakaTV/sa_dash_vmx/hanacaraka
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="WORLD TV",Zhejiang (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
 
+#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8 
 
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvb_hk_jade.png" group-title="WORLD TV",TVB Jade
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="WORLD TV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV3 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="WORLD TV",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
-https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV4 
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png" group-title="WORLD TV",Dubai One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-1.png",ช่อง SCTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-tv-ae.png" group-title="WORLD TV",Dubai TV
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-2.png",ช่อง SCTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 
 ============================= WORLD TV ===================================
 
