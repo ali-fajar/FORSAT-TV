@@ -1908,38 +1908,35 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtb-sukmaindera-bn.png" group-title="WORLD TV", RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-3.png",ช่อง SCTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-4.png",ช่อง SCTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-5.png",ช่อง SCTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV"tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-6.png",ช่อง SCTV6
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-7.png",ช่อง SCTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-8.png",ช่อง SCTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-9.png",ช่อง SCTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TV3 Cat" tvg-logo="https://i.ibb.co/crNNYG8/tv3cat.png" group-title="WORLD TV" tvg-name="",TV3CAT
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jb2q2Zh/rthk32.png" group-title="WORLD TV", RTHK32 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
-https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.imvbox.com/channels/154749121c642cf1c7069a1d53935364.png" group-title="WORLD TV", IRIB TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.aionet.ir/hls/tv1/tv1_360/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://assets.imvbox.com/channels/a015c0cf6e5cf8bb4b3c51afd8c2a4f4.png" group-title="WORLD TV", IRIB TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.aionet.ir/hls/tv2/tv2_360/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.imvbox.com/channels/b5aee82d78cd41c8d15af0a4565ce209.png" group-title="WORLD TV", IRIB TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveproxy.splus.ir/hls/tv3/tv3_360/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.imvbox.com/channels/ff357766a3561ef9cbbdde5f2a3d6e88.png" group-title="WORLD TV", IRIB VARZESH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pb3dbr4/20tv.png" group-title="WORLD TV", 20 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png" group-title="WORLD TV", 8TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
