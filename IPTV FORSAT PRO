@@ -4770,8 +4770,12 @@ https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium664/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  11
 https://p2.skypeak.cloud/stream.m3u8?type=s&id=2%2Csd%2Cl&auth=d5b0395a1a66700d947f2c262e1be8971939f858b03
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  12
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/y5e8nvkrkzoeecwxnutys7n2xj5fw23y8c/hdntl=exp=1733591542~acl=*%2Fy5e8nvkrkzoeecwxnutys7n2xj5fw23y8c%2F*~data=hdntl~hmac=5a9953092a43204f1ccc305563da348c9347d9b6b70d362d6b61c0ba65de1522/chunklist_480.stream.m3u8
 =========================================== SPORTS======================================================
 
 
