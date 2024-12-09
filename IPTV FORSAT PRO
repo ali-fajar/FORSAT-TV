@@ -5557,19 +5557,19 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/473595.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+https://iptv.wirdy.workers.dev/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="SPORTS" , PLAY SPORTS 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd  
+https://iptv.wirdy.workers.dev/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="SPORTS" , PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+https://iptv.wirdy.workers.dev/dazn-linear-053/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
