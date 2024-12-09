@@ -5125,6 +5125,20 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
+#EXTINF:-1 tvg-id="DAZN ELEVEN 1PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDstWjLbofeoZgSrAi3ak9AvzIfsyKM4ybbyWZl3RGE2_GVpAzr3mlEgJ_&s=10" group-title="SPORTS" , DAZN 1 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN ELEVEN 2PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6piorHg9nEB6eymc_Mjh_BnLOksrsnAdxtQ5SmIzgIRmBebp_R4C_bhk&s=10" group-title="SPORTS" , DAZN 2 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-055/stream.mpd
+
+
+
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS" , DIEMA SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
