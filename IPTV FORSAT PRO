@@ -5137,6 +5137,23 @@ https://iptv.wirdy.workers.dev/dazn-linear-054/stream.mpd
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://iptv.wirdy.workers.dev/dazn-linear-055/stream.mpd
 
+#EXTINF:-1 tvg-id="DAZN ELEVEN 3PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxIZLsFNzcS9HQt193T2vIhHH9D3pTEBgBDvRMdQA6edQanPkF0IJ05j1&s=10" group-title="SPORTS" , DAZN 3 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN ELEVEN 4PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZX-E9pp2x7GlumnT47Ac0SatJvwGWxr6KRAX-CpEoOxJ0X-1uuVIdcrN&s=10" group-title="SPORTS" , DAZN 4 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN ELEVEN 5PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwuP2CulDWIGTNKruNNHkTNKfS1uqWn1oFvylGmtXO6fNBwtPQqbo-4Dr&s=10" group-title="SPORTS" , DAZN 5 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://iptv.wirdy.workers.dev/dazn-linear-056/stream.mpd
 
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS" , DIEMA SPORT 
