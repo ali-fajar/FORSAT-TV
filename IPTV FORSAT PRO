@@ -324,14 +324,14 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/antara-Indonesia-vs-Arab-Saudi-akan.jpg" group-title="LIVE EVENTS", INDONESIA VS JEPANG
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Timnas-Indonesia-vs-Laos-di-Piala-AFF-2024-2.jpg" group-title="LIVE EVENTS", INDONESIA VS LAOS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/antara-Indonesia-vs-Arab-Saudi-akan.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset-2.tstatic.net/lombok/foto/bank/images/Philippines-vs-Myanmar-AFF-Championship-2024.jpg" group-title="LIVE EVENTS", PHILIPINA VS MYANMAR
+https://wax.emblazonn.com/live/v1/f5zEzbAvsP+o0jSo4um0Ym-NewRtTNWmNcYTa-S99EdJ9AlJz2jvNKe1vr6sgPBa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/antara-Indonesia-vs-Arab-Saudi-akan.jpg" group-title="LIVE EVENTS", INDONESIA VS SAUDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
