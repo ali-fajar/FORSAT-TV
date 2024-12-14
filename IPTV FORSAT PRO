@@ -324,7 +324,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://asset-2.tstatic.net/priangan/foto/bank/images/Timnas-Indonesia-vs-Laos-di-Piala-AFF-2024-2.jpg" group-title="LIVE EVENTS", INDONESIA VS LAOS
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7dt4UnQfxRxqkiUdWX8ZagVCvtzRIWNq6EuxVM9g28taZQuC2jyDRzGn&s=10" group-title="LIVE EVENTS", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -380,10 +380,10 @@ https://canale.mizhls.ru/lb/premium92/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=571
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw_3ckJBWI-NlgLvB5KpFhVq6YCKd3Pu8EA&s" group-title="LIVE EVENTS", AFF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7dt4UnQfxRxqkiUdWX8ZagVCvtzRIWNq6EuxVM9g28taZQuC2jyDRzGn&s=10" group-title="LIVE EVENTS", AFF
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw_3ckJBWI-NlgLvB5KpFhVq6YCKd3Pu8EA&s" group-title="LIVE EVENTS", AFF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7dt4UnQfxRxqkiUdWX8ZagVCvtzRIWNq6EuxVM9g28taZQuC2jyDRzGn&s=10" group-title="LIVE EVENTS", AFF
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 ==========================================OLIMPIADE=================================================================
 
