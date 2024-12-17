@@ -5288,6 +5288,21 @@ https://canale.mizhls.ru/lb/premium44/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium45/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8gVB_VOZSrxym1jnKzlX2wKwTbTBJDjtYw&s" group-title="SPORTS", ESPN 1 VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGU2KDhi0220v_CTqPuBEch5yfnjZyPmaIw&s" group-title="SPORTS", ESPN 2 VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://fl5.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://multticanais.com/wp-content/uploads/2023/03/espn4-multicanaistv-online-249x140.jpg" group-title="SPORTS", ESPN 4 VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://cdn-3.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvMp25vzYtmJWOdsUsUMXfmKk-vM6RF4Kew&s" group-title="SPORTS", ESPN 5 VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
