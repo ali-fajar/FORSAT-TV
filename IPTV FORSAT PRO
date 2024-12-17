@@ -5278,12 +5278,12 @@ https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=72
 
 
 
-#EXTINF:-1 tvg-logo="https://usatvlive.com/wp-content/uploads/2024/07/ESPN-Logo-155x87.jpg" group-title="SPORTS", ESPN  USA
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN  USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium44/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://usatvlive.com/wp-content/uploads/2024/07/ESPN2-155x87.png" group-title="SPORTS", ESPN 2 USA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&s" group-title="SPORTS", ESPN 2 USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium45/playlist.m3u8
@@ -5303,6 +5303,10 @@ https://warning.hayo-pencuri-sk21xyz.workers.dev/https://cdn-3.nxplay.com.br/ESP
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTvMp25vzYtmJWOdsUsUMXfmKk-vM6RF4Kew&s" group-title="SPORTS", ESPN 5 VIVO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaYvAoOTLLPWOfgzmyagVP4NBzvG5ad-hY9mB8FL7PxuDPpm76EqTAjMJwjWNNfkuUAE&usqp=CAU" group-title="SPORTS", ESPN 6 VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://super-cdn.link/espn6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
