@@ -2070,67 +2070,49 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="AmarinTV HD.th" tvg-logo="https://iili.io/JyH3NV4.png", AMARIN TV 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="CH5 HD.th" tvg-logo="https://iili.io/JyHFqJt.png", CHANNEL 5 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="NBT 2 HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png", NBT 2 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_NBTSD_480p/chunklist.m3u8
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="ThaiPBS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png", THAI PBS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png", THAIRATH 32 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_THAIRATH_720p/chunklist.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png", TRUE4U 24 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8
-
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="T-Sports7.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png", TSPORTS 7 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="TPBS.t" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0014.png", TPBS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Boomerang.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png",Boomerang Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Channel 8.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Jomyut" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/x240.png",Jomyut
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -2158,8 +2140,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="TNN.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R2_0053.png",TNN
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="TVB Thai.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/TVBThai.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -2167,7 +2148,7 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="JKN 18.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-test.v2h-cdn.com/hls/NEW_114.m3u8
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="7Flix.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/7flix.jpg",7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -2235,7 +2216,7 @@ https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="CH7 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC1" tvg-logo="https://iili.io/JyHqSBj.png", BBC 1
