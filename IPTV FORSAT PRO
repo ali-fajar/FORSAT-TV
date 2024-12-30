@@ -6041,44 +6041,29 @@ https://canale.mizhls.ru/lb/premium115/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE PREMIER 1 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE PREMIER 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS",TRUE PREMIER 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS",TRUE PREMIER 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="SPORTS",TRUE SPORT 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+https://iptv2.wirdy.workes.dev/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="SPORTS",TRUE SPORT 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+https://iptv2.wirdy.workes.dev/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="SPORTS",TRUE SPORT 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/4/chunklist.m3u8
+https://iptv2.wirdy.workes.dev/4/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="SPORTS",TRUE SPORT 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.youdooball.com/?r=tv/
-https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+https://iptv2.wirdy.workes.dev/02_sport5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6383,11 +6368,6 @@ https://canale.mizhls.ru/lb/premium119/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium120/playlist.m3u8
 
-#EXTINF:-1 xui-id="7870" tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Logo_RMC_Sport_3_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133707" group-title="SPORTS", RMC Sport 3 HD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/677.m3u8
-
-#EXTINF:-1 xui-id="7871" tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Logo_RMC_Sport_4_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133111" group-title="SPORTS", RMC Sport 4 HD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/678.m3u8
 
 
 #EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://iili.io/Jpwel7s.png" group-title="SPORTS", TV2 SPORT1
