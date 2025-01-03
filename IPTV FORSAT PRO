@@ -5102,40 +5102,7 @@ https://xyzdddd.mizhls.ru/lb/premium626/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://xyzdddd.mizhls.ru/lb/premium627/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",Champions 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",Champions 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",Champions 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",Champions 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="SPORTS",Champions 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORTS" , DAZN 1 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
@@ -5183,35 +5150,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 1PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDstWjLbofeoZgSrAi3ak9AvzIfsyKM4ybbyWZl3RGE2_GVpAzr3mlEgJ_&s=10" group-title="SPORTS" , DAZN 1 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 2PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6piorHg9nEB6eymc_Mjh_BnLOksrsnAdxtQ5SmIzgIRmBebp_R4C_bhk&s=10" group-title="SPORTS" , DAZN 2 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN ELEVEN 3PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxIZLsFNzcS9HQt193T2vIhHH9D3pTEBgBDvRMdQA6edQanPkF0IJ05j1&s=10" group-title="SPORTS" , DAZN 3 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-056/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN ELEVEN 4PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZX-E9pp2x7GlumnT47Ac0SatJvwGWxr6KRAX-CpEoOxJ0X-1uuVIdcrN&s=10" group-title="SPORTS" , DAZN 4 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN ELEVEN 5PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwuP2CulDWIGTNKruNNHkTNKfS1uqWn1oFvylGmtXO6fNBwtPQqbo-4Dr&s=10" group-title="SPORTS" , DAZN 5 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-058/stream.mpd
 
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS" , DIEMA SPORT 
