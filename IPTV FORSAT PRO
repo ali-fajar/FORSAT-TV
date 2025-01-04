@@ -3567,55 +3567,33 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7104
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7120
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="COLORS CINEPLEX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="INDIA",COLORS CINEPLEX
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7122
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="COLORS RISHTEY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="INDIA",COLORS RISHTEY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400280885.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="MUSIC INDIA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="INDIA",MUSIC INDIA
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/187157.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="MASTIII" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="INDIA",MASTIII
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400159448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="INDIA",SONY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="INDIA",SONY ACTION
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="INDIA",SONY PIX
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/376263.m3u
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="INDIA",SONY SAB
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UK" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="INDIA",SONY SAB UK
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV ASIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA",SONY TV ASIA
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbUnuzNZSUU5Kw0WMIQ3qGY8/ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0c02c389fbb51238d2b2352837ebe4cd.png" group-title="INDIA",Sony TV UK
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="INDIA",STAR PLUS
-http://cdn.bdix.xyz:8080/play/9gfniMdgdqeq9rPB6alKbark3eC1jUYJDchpqrecCrw/ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="INDIA",SONY MAX
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="INDIA",SONY MAX 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="INDIA",SONY PAL
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/187260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="INDIA",SONY YAY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400375216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="INDIA ",STAR BHARAT
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_hitz.png" group-title="INDIA",STAR GOLD
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIA",STAR GOLD SELECT
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/387767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-jalsha-in.png" group-title="INDIA",STAR JALSHA
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-maa-music-in.png" group-title="INDIA",STAR MAA
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="INDIA ",STAR MOVIES
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/187267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/uu/utv-movies-international-in.png" group-title="INDIA ",UTV MOVIES
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_utsav.png" group-title="INDIA",UTSAV GOLD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/387746.m3u8
 
+===============================================USA====================================
 
-
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA", FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA", FS2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX_SOCCER_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="USA", FOX Soccer Plus
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="USA", ESPN
+http://fl1.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="USA", ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="USA", ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png' group-title="USA", ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="USA",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="SHAREEXT@USA~Live Channels",.CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="USA",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="USA",.BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="USA",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 =================================================LIGA INDONESIA=================================================================================================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA"
