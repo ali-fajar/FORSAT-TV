@@ -1355,28 +1355,28 @@ https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-uk.png" group-title="MOVIES",CINEMACHI (V+)
+#EXTINF:-1 tvg-name="CINEMACHI" tvg-logo="https://www.lyngsat.com/logo/tv/oo/originals-real-and-alive-uk.png  " group-title="MOVIES",ORIGINALS (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-action-uk.png" group-title="MOVIES",CINEMACHI ACTION (V+)
+#EXTINF:-1 tvg-name="CINEMACHI ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png " group-title="MOVIES",CINEEDGE (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI MAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-max-uk.png" group-title="MOVIES",CINEMACHI MAX (V+)
+#EXTINF:-1 tvg-name="CINEMACHI MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="MOVIES",SUPERRIX (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-xtra-uk.png" group-title="MOVIES",CINEMACHI XTRA (V+)
+#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-logo="https://www.lyngsat.com/logo/tv/uu/uniques-uk.png" group-title="MOVIES",UNIQUES (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
