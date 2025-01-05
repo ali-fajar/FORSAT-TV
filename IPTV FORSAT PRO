@@ -1194,21 +1194,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
 
 #EXTINF:-1 tvg-id="USBD700011RE" tvg-name="GRAVITAS MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES" , GRAVITAS MOVIES 
-https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES", GREAT! ACTION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6ba8673e29410d8142098c37cc702f:c5da96131ad59385fffe169cd8c1ec24
-https://wp2-obc0304-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV06083/manifest.mpd
+https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES", GREAT! MOVIES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ecd28d01c984df78038e006ffc27e04:021b6cbea6f1b790d261b424ef19dd94
-https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV06081/manifest.mpd
+https://fl5.moveonjoy.com/CINEMAX_EAST/tracks-v1a1/mono.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
