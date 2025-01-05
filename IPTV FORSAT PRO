@@ -1211,7 +1211,7 @@ https://fl6.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-3-ca.png" group-title="MOVIES", CRAVE 3
 https://fl3.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-4-ca.png" group-title="MOVIES", CRAVE 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-4-ca.png" group-title="MOVIES", CRAVE 4
 https://fl6.moveonjoy.com/CRAVE_4/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
