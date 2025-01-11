@@ -1906,10 +1906,10 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="WORLD TV",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="WORLD TV" VIUTV 99
+#EXTINF:-1 tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="WORLD TV",VIUTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3OqdL1D2wNLMsX7oSP_s8FAW0-JI7tQnC1iLm00_vX8PwirQcXvPerGY&s=10" group-title="WORLD TV" VIUTV 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3OqdL1D2wNLMsX7oSP_s8FAW0-JI7tQnC1iLm00_vX8PwirQcXvPerGY&s=10" group-title="WORLD TV",VIUTV 6
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="WORLD TV",Zhejiang (Indi)
