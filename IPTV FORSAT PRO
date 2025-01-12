@@ -1906,6 +1906,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="WORLD TV",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="WORLD TV", CCTV2
+http://220.164.192.48:50085/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="WORLD TV", CCTV3
+http://220.164.192.48:50085/tsfile/live/0004_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="WORLD TV",VIUTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
