@@ -3862,9 +3862,7 @@ https://canale.mizhls.ru/lb/premium910/playlist.m3u8
 
 ======================= LIGA INGGRIS ====================================
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://iili.io/d3txEAl.png", USA (WEST) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+https://fl5.moveonjoy.com/USA_Network/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NBCUniverso_logo.png" group-title="LIGA INGGRIS" tvg-id="001" tvg-name="",NBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
