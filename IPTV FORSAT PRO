@@ -366,10 +366,10 @@ https://canale.mizhls.ru/lb/premium94/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium93/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw_3ckJBWI-NlgLvB5KpFhVq6YCKd3Pu8EA&s" group-title="LIVE EVENTS", Oman vs Irak
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw_3ckJBWI-NlgLvB5KpFhVq6YCKd3Pu8EA&s" group-title="LIVE EVENTS", Uberlandia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium92/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ezembed.me/
+https://wowowoiy.com/live/v1/j17QbtO3kqAr64T1IDmT3frIJy-Ohk41rSZINTgC8FQStVPZyXymjWMk3GIlz9n7/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXw_3ckJBWI-NlgLvB5KpFhVq6YCKd3Pu8EA&s" group-title="LIVE EVENTS", UAE VS QATAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
