@@ -4826,8 +4826,8 @@ https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium664/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  11
-https://p2.skypeak.cloud/stream.m3u8?type=s&id=2%2Csd%2Cl&auth=4a2b8d70663690d35894e8fda545350d193ba552c15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  11 WON
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/n5q2mfjmdn4bh3iwsidtudy4aw42dw5iup/hdntl=exp=1737574179~acl=*%2Fn5q2mfjmdn4bh3iwsidtudy4aw42dw5iup%2F*~data=hdntl~hmac=ccdcf07044c7e47b94abc29d02ad9a08d0b1a12f9166ac1797a412bf7a21084c/chunklist_480.stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  12 RED SPARK VS HILLSTATE
