@@ -2006,35 +2006,19 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_01_nl.png" group-title="WORLD TV", NPO 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
-https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+https://fl5.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_02_nl.png" group-title="WORLD TV", NPO 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
-https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd
+https://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_03_nl.png" group-title="WORLD TV", NPO 3 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
-https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xh5cSfZ/rtl4.png" group-title="WORLD TV", RTL 4 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
-https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
+https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-san-marino-sm.png" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO SPORT
