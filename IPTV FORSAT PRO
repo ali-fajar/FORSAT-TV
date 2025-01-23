@@ -331,15 +331,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", PSIM VS DELTRAS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", FENERBAHCE VS LYON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ezembed.me/
-https://wowowoiy.com/live/v1/SQNOT4lBLebuMqNrwq-2zJNkfwdLRySE+W8L0gOaRSQKTqqug0E3nPDFPJaZbO6x/master.m3u8
+https://wowowoiy.com/live/v1/Mb4A1w9tGrev5cIjEYEnLALiFegw1bXY44diYLrjgxlqZiFxvna4U9honJJRX0vH/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", PONTE VS SANTOS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", AZMAR VS ROMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ezembed.me/
-https://wowowoiy.com/live/v1/Ebe5dy8MmuHK20Kn-fH2Y8Lwx0wJB9wXtD3uveOvGrrCdIxKKM9GKUiX69dLsioN/master.m3u8
+https://wowowoiy.com/live/v1/J1HwajmeY3jUM-wqX3-Prr+cC0ioM5SxDagmgoTPCj7B69V40G3jfUS68inJJVf4/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTiMx_oh3F-n5PPpZO2K902wY6cL1nRJ1Uw&s" group-title="LIVE EVENTS", MALAYSIA OPEN
