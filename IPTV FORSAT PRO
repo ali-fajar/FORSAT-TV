@@ -331,15 +331,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", AR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", BELGRANO VS HURACAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ezembed.me/
-https://wowowoiy.com/live/v1/tRkbpaehHkrZujX26a6Kvr7rElRxo+BHa-qtNqTzjAq8Iy5ItH7oBsaMxEVX9Pzi/master.m3u8
+https://wowowoiy.com/live/v1/8b9oUHx+GJ7zIJv3HqffJUXZJZuWhdAYjgDuCaWB-sHDKUXJdhcEKyarjK9l1sZk/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", INDONESIA VS JORDANIA U20
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", BRAZIL VS ARGENTINA U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ezembed.me/
-https://bf.kmingjl.cn/live/5004434_hd01.m3u8?txSecret=326553f02334879051c2db52407b0d82&txTime=67938416
+https://wowowoiy.com/live/v1/R12B8siazoQwhVryyJVId3T+W8v1lqFpL1faZ4R63BeLi1HVTsRRq8SKCcBr0bbn/master.m3u8
 ==========================================BADMINTON=================================================================
 #EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17rv-5CXKO_zQ6xYJKRiya4jDzXzNyeB1Kg&s", Tomoka Miyazaki - Ratchanok Intanon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5232,7 +5232,10 @@ https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=71
 #EXTVLCOPT:http-referrer=https://colorsportscreen.com/
 https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=72
 
-
+#EXTINF:-1 tvg-logo="https://i1.wp.com/redditsport.cc/imgs/ESPN.png?w=200" group-title="SPORTS", ESPN ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium149/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN  USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6025,6 +6028,10 @@ https://canale.mizhls.ru/lb/premium114/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium115/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="SPORTS", TNT ARGENTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium388/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE PREMIER 1 
 https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
