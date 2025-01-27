@@ -336,10 +336,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTVLCOPT:http-referrer=https://90min.to/
 https://wowowoiy.com/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", IDN U20
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", NOB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel70.m3u8?auth_key=3000001737982217-0-0-6d7adcebe51d6b59a398a85f35344968
+https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001738019659-0-0-6981e7ab9cddcf9d3c472c581f63feab
 ==========================================BADMINTON=================================================================
 #EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17rv-5CXKO_zQ6xYJKRiya4jDzXzNyeB1Kg&s", Wen Chi Hsu - Yu Jin Sim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
