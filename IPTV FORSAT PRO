@@ -331,7 +331,8 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", BAYANGKARA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS", BAYANGKARA VS DEWA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://wowowoiy.com/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", INDIA U20
