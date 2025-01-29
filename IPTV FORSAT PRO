@@ -395,6 +395,16 @@ https://bigembed.mizhls.ru/lb/premium99/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium90/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", Stuttgart VS Psg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium91/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.football5star.net/wp-content/uploads/2025/01/Dortmund-vs-Shaktar_0.jpg" group-title="LIVE EVENTS", Dortmound vs shakhtar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium424/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS",DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90min.to/
