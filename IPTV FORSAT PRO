@@ -333,7 +333,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZOoaGnEooavuxcl1KSeFI978BZKZAKv7qQ&s" group-title="LIVE EVENTS", PSV VS LIVERPOOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/eplayerSuperSportPSL/playlist.m3u8
+https://bigembed.mizhls.ru/lb/premium95/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQl2RCgudHsg6noK67now8WSGhqwcYA04-w&s" group-title="LIVE EVENTS", BARCELONA VS ATALANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -360,9 +360,40 @@ https://bigembed.mizhls.ru/lb/cbssn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/eplayerSuperSportCricket/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGC9xXxFF7D369KU9jSePwBpmgYA70YUEccw&s" group-title="LIVE EVENTS", Bayern Munich - Slovan Bratislava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium96/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4t2LwEIG815jWXvUGIpYDWZXUa32kx9pJOw&s" group-title="LIVE EVENTS", Salzburg - Atletico Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium421/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://kaltimtuntas.id/wp-content/uploads/2025/01/a800f4e83a16fec9b159fddbecf0b6ea.jpg" group-title="LIVE EVENTS", Dinamo Zagreb - AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium912/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.football5star.net/wp-content/uploads/2025/01/Prediksi-Inter-Milan-vs-AS-Monaco-2.jpg" group-title="LIVE EVENTS", Inter - Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium98/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcHi0smAxAi-FeXYvlCZE6WyrucCusj10jA&s" group-title="LIVE EVENTS", Sturm Graz - RB Leipzig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/eplayerSuperSportAction/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-__Eg2qNvxx4NYrIVH1KTIHyD-RcA2LXXQ&s" group-title="LIVE EVENTS", Girona - Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium99/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-__Eg2qNvxx4NYrIVH1KTIHyD-RcA2LXXQ&s" group-title="LIVE EVENTS", Aston Villa - Celtic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS",DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
