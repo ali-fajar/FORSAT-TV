@@ -325,55 +325,55 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZOoaGnEooavuxcl1KSeFI978BZKZAKv7qQ&s" group-title="LIVE EVENTS", PSV VS LIVERPOOL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wCOxV0K-uWhw2FABFACtvBBirTkrLUBGN3DEcesACfqB8NtJRFsBCbOIYC6EPgJfcOA&usqp=CAU" group-title="LIVE EVENTS", SOCIEDAD VS PAOK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium95/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQl2RCgudHsg6noK67now8WSGhqwcYA04-w&s" group-title="LIVE EVENTS", BARCELONA VS ATALANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/eplayerSuperSportFootball/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDtvkYLoFlHqkRCFR2pR3Pd9RFWoWKamZGQ&s" group-title="LIVE EVENTS", BREST VS REAL MADRID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/eplayerSupersportGrandstand/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WG0y1QJDlHeN1AJQJJBF3QQL_P2PLmT8Ow&s" group-title="LIVE EVENTS", Manchester City - Club Brugge KV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/arg_espn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpx8tdBp3svAyNRCBlJvfQXw8dHyRqDiH-fw&s" group-title="LIVE EVENTS", Sporting - Bologna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/cbssn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRZ1tjwqpb6O-McqDzqV6R0GyzxH7y3KijA&s" group-title="LIVE EVENTS", Bayer Leverkusen - Sparta Prague
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/eplayerSuperSportCricket/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGC9xXxFF7D369KU9jSePwBpmgYA70YUEccw&s" group-title="LIVE EVENTS", Bayern Munich - Slovan Bratislava
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium96/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4t2LwEIG815jWXvUGIpYDWZXUa32kx9pJOw&s" group-title="LIVE EVENTS", Salzburg - Atletico Madrid
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVipGUyoV4OeslgpruNvQy_BJlr0o44P7Xw&s" group-title="LIVE EVENTS", SPURS VS ELFSBORG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium421/playlist.m3u8
+https://bigembed.mizhls.ru/lb/premium94/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kaltimtuntas.id/wp-content/uploads/2025/01/a800f4e83a16fec9b159fddbecf0b6ea.jpg" group-title="LIVE EVENTS", Dinamo Zagreb - AC Milan
+#EXTINF:-1 tvg-logo="https://www.dailysports.id/upload/xlarge/91ef4aa0a7745b06ed936ff1ffb2e5ea.jpg" group-title="LIVE EVENTS", Sporting braga vs Lazio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium98/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8-Ygkcw844j-dJpkHRdvOJjG0nhpBz5nBA&s" group-title="LIVE EVENTS", Slavia praha vs Malmo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium69/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuUTl1jhSDdzB0frGSEKiC8x_BWMadN_xtFQ&s" group-title="LIVE EVENTS", Anderlecht vs hoffenheim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium150/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.footitalia.com/wp-content/uploads/2025/01/roma-frankfurt.jpg" group-title="LIVE EVENTS", Roma vs Frankurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium885/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNltiqjyhh9BCJOn0RHldPeg4Zll343SdQ8Q&s" group-title="LIVE EVENTS", RAngers vs union
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium95/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2r_iLF5T6sA0D204JgynKy90MUcJwkXB9PA&s" group-title="LIVE EVENTS", Twente vs besiktas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium912/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.football5star.net/wp-content/uploads/2025/01/Prediksi-Inter-Milan-vs-AS-Monaco-2.jpg" group-title="LIVE EVENTS", Inter - Monaco
+#EXTINF:-1 tvg-logo="https://www.dailysports.id/upload/xlarge/28479e895711bbf271e91b73b86ad764.jpg" group-title="LIVE EVENTS", Ajax vs Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium98/playlist.m3u8
+https://bigembed.mizhls.ru/lb/premium911/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR9loXWMnH8xDwFhZJ-qWVmqYWemrQpC5Xg&s" group-title="LIVE EVENTS", Olympic lyon vs Ludogorest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/premium99/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcHi0smAxAi-FeXYvlCZE6WyrucCusj10jA&s" group-title="LIVE EVENTS", Sturm Graz - RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -405,7 +405,7 @@ https://bigembed.mizhls.ru/lb/premium424/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://90min.to/
 https://wowowoiy.com/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1GNLLbt47QuqMwFLqpWDijiOL91nLogJFg&s" group-title="LIVE EVENTS", NOB
+#EXTINF:-1 tvg-logo="https://i0.wp.com/aksi.co/wp-content/uploads/2025/01/Indonesia-Vs-India-Live-Streaming-Gratis-e1738163334634.webp?resize=900%2C555&ssl=1" group-title="LIVE EVENTS", INDONESIA VS INDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001738019659-0-0-6981e7ab9cddcf9d3c472c581f63feab
