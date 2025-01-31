@@ -5586,28 +5586,30 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
-http://balls.unbelievablejeff.online:8000/live/simoncook/jzpmcksjcU3r/206758.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/optussport1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 2 Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb/premium21/playlist.m3u8
+https://azonew.iosplayer.ru/azo/optussport2/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 3 Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb/premium22/playlist.m3u8
+https://azonew.iosplayer.ru/azo/optussport3/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 4 Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb/premium23/playlist.m3u8
+https://bigembed.mizhls.ru/lb/optussport4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 5 Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.hlsjs.ru/lb/premium24/playlist.m3u8
+https://bigembed.mizhls.ru/lb/optussport5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 6 Australia
