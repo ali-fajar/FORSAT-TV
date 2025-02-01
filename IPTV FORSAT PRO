@@ -329,15 +329,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bintangstreaming.my.id/live/index.m3u8?channel=master&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzVipGUyoV4OeslgpruNvQy_BJlr0o44P7Xw&s" group-title="LIVE EVENTS", SPURS VS ELFSBORG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uf5YhzbXCVDUFTQavjpMrLtPpYkecTrmhwCsTlh_Ix9grfEZvQFgkaY&s=10" group-title="LIVE EVENTS", UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium94/playlist.m3u8
+https://bigembed.mizhls.ru/lb/premium69/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dailysports.id/upload/xlarge/91ef4aa0a7745b06ed936ff1ffb2e5ea.jpg" group-title="LIVE EVENTS", Sporting braga vs Lazio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uf5YhzbXCVDUFTQavjpMrLtPpYkecTrmhwCsTlh_Ix9grfEZvQFgkaY&s=10" group-title="LIVE EVENTS", UFC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium98/playlist.m3u8
+https://bigembed.mizhls.ru/lb/premium119/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8-Ygkcw844j-dJpkHRdvOJjG0nhpBz5nBA&s" group-title="LIVE EVENTS", Slavia praha vs Malmo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
