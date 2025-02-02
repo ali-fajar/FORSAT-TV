@@ -1959,9 +1959,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="WORLD TV", CCTV2
-http://220.164.192.48:50085/tsfile/live/0003_1.m3u8
+http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="WORLD TV", CCTV3
-http://220.164.192.48:50085/tsfile/live/0004_1.m3u8
+http://138.2.110.209:35455/gaoma/cctv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="WORLD TV",VIUTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -5027,10 +5027,10 @@ https://canale.mizhls.ru/lb/premium913/playlist.m3u8
 https://canale.mizhls.ru/lb/premium914/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="SPORTS" , CCTV-5
-http://31.42.187.37:25461/watchpad13158/1234/2526
+http://lt.hxtre.com:35455/gaoma/cctv5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="SPORTS" , CCTV5+
-http://31.42.187.37:25461/watchpad13158/1234/2527
+http://117.144.58.42:35455/gaoma/cctv5p.m3u8
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="SPORTS",COSMOTE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
