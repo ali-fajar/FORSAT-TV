@@ -330,15 +330,15 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/FU5BUy01YIQTJPckezP7GA/Fv2lucGIbhPi2caWYvF5Lg/1738508594864/live/sd-6MtN8UuSNyeQGxtxM1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uf5YhzbXCVDUFTQavjpMrLtPpYkecTrmhwCsTlh_Ix9grfEZvQFgkaY&s=10" group-title="LIVE EVENTS", UFC
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/afc-champions-league-logo-F181112C76-seeklogo.com.png" group-title="LIVE EVENTS", Alsaad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium69/playlist.m3u8
+https://bigembed.mizhls.ru/lb/bet7017867/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uf5YhzbXCVDUFTQavjpMrLtPpYkecTrmhwCsTlh_Ix9grfEZvQFgkaY&s=10" group-title="LIVE EVENTS", UFC 1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/afc-champions-league-logo-F181112C76-seeklogo.com.png" group-title="LIVE EVENTS", Alnassr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/premium119/playlist.m3u8
+https://bigembed.mizhls.ru/lb/bet7017867/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8-Ygkcw844j-dJpkHRdvOJjG0nhpBz5nBA&s" group-title="LIVE EVENTS", Slavia praha vs Malmo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
