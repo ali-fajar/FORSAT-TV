@@ -5928,7 +5928,7 @@ https://bigembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-5-uk.png",TNT SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-5-uk.png",TNT SPORTS 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
