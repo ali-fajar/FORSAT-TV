@@ -4762,8 +4762,8 @@ https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium664/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  11 RED SPARK
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/daeln3wku0qpxzo7yrdrrtujzbhslnz80y/hdntl=exp=1738960849~acl=*%2Fdaeln3wku0qpxzo7yrdrrtujzbhslnz80y%2F*~data=hdntl~hmac=1018d4f518936ad142c43b9332d9a1e05d5f31f044b414265bc9e0b8799661c0/chunklist_480.stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  11 IBK
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/f5fo4p7itt5qkxru8lourkhgk4p97x1lowz3/hdntl=exp=1739034565~acl=*%2ff5fo4p7itt5qkxru8lourkhgk4p97x1lowz3%2f*~data=hdntl~hmac=cc54a6d0bcea29dbdfc5cbef638607d101e4e30df071b498791b06d1c7c321a5/chunklist_480.stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIVE  12 RED SPARK 2
