@@ -4401,7 +4401,12 @@ https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA TV
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298558
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://bigembed.mizhls.ru/lb/nbatv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="BASKET",Sky Sport NBA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1047
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="BASKET",SPORT TV NBA
