@@ -3723,10 +3723,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb//bet6823998/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA", BRI 7 persita vs bali
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIGA INDONESIA", BRI 7 RANS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6824286/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/3c1LtwR55DCQXsXbtcQ8Jg/Fv2lucGIbhPi2caWYvF5Lg/1739114229813/live/sd-6MtJfBThUGFsG26Dbq/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/Rk7HjhEA3_p3qAFjeyOC-41Km3s=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3740101/00b399.jpg" group-title="LIGA INDONESIA", LIGA 2 PERSIKU VS PERSIBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4358,19 +4358,48 @@ https://topembed.mizhls.ru/lb/bet6401215/playlist.m3u8
 
 =========================================== UFC/MMA ==============================================================================
 
-#EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports5.uk" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg",TNT SPORTS 1 UK
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports1.uk" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg",TNT SPORTS 1 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports2.uk" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg",TNT SPORTS 2 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports3.uk" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg",TNT SPORTS 3 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="TNTSports4.uk" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg",TNT SPORTS 4 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 ============================   BASKET  =======================================================================================================================================
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="BASKET",NBA TV HD 
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA TV
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298558
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="BASKET",Sky Sport NBA
