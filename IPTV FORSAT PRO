@@ -4721,7 +4721,7 @@ https://canale.mizhls.ru/lb/premium586/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MOTOGP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
