@@ -4243,6 +4243,34 @@ https://canale.mizhls.ru/lb/premium888/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/bet6342732/playlist.m3u8
+
+#EXTINF:-1 group-title="LIGA BELANDA" tvg-id="ESPN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png", ESPN NL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-hdready-avc/NL_000107_019441.mpd?p=web
+
+#EXTINF:-1 group-title="LIGA BELANDA" tvg-id="ESPN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png", ESPN NL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019441/go-dash-hdready-avc/NL_000107_019441.mpd?p=web
+
+#EXTINF:-1 group-title="LIGA BELANDA" tvg-id="ESPN 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png", ESPN NL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019441/go-dash-hdready-avc/NL_000107_019441.mpd?p=web
+
+#EXTINF:-1 group-title="LIGA BELANDA" tvg-id="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrqnlrj2iQ7p4rnnC9-zrQy2Gmdx9Wgfv0A&s", ESPN NL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://da-d436234b20010b8800010302000000000000000d.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019441/go-dash-hdready-avc/NL_000107_019441.mpd?p=web
+
+
+
+
 ==========================================BUNDESLIGA=======================================================================
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="BUNDESLIGA", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
