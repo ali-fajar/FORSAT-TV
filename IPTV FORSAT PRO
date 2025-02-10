@@ -325,10 +325,10 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", MARCONI VS BLACKTOON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", MALBOURNE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/eBaSA3mUXxK__0Xhkvqc_w/Fv2lucGIbhPi2caWYvF5Lg/1739024191046/live/sd-6MtN8hvgiJ4nr2qXcw/chunklist.m3u8
+https://apisportzz179528093.nsnd.live/SeJy0mlTX2v2uB2KyjHVKw/Fv2lucGIbhPi2caWYvF5Lg/1739202748395/live/sd-6MtMPLGPsmt2ddXCCK/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrtrj9-n-Xl81Qy-I3iIr29hNweQVT7gY4csVtG7qSqI4EB2K5AN9H78&s=10" group-title="LIVE EVENTS", Alsaad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
