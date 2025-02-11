@@ -4433,34 +4433,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 #EXTINF:-1 tvg-id="NovaSport Bulga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-1-cz.png" group-title="AFC CHAMPIONS LEAGUE",Nova Sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium468/playlist.m3u8
+https://canale.mizhls.ru/lb/premium101/playlist.m3u8
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="AFC CHAMPIONS LEAGUE", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium101/playlist.m3u8
+https://canale.mizhls.ru/lb/premium102/playlist.m3u8
 
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="AFC CHAMPIONS LEAGUE", Sport Klub 3 SR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://topembed.mizhls.ru/lb/premium103/playlist.m3u8
+https://canale.mizhls.ru/lb/premium124/playlist.m3u8
 
-#EXTINF:-1 xui-id="11176" tvg-id="" tvg-name="PL: BEIN 1 AFC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-1-qa.png" group-title="AFC CHAMPIONS LEAGUE", BEIN 1 AFC
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370401.m3u8
-
-#EXTINF:-1 xui-id="11176" tvg-id="" tvg-name="PL: BEIN 2 AFC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-2-qa.png" group-title="AFC CHAMPIONS LEAGUE", BEIN 2 AFC
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370402.m3u8
-
-#EXTINF:-1 xui-id="11176" tvg-id="" tvg-name="PL: BEIN 3 AFC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-afc-3-qa.png" group-title="AFC CHAMPIONS LEAGUE", BEIN 3 AFC
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400370403.m3u8
 
 
 #EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://iili.io/JbXlxyl.jpg" group-title="AFC CHAMPIONS LEAGUE", AFC CHAMPIONS LEAGUE
