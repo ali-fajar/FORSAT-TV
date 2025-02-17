@@ -4736,11 +4736,9 @@ https://top2new.iosplayer.ru/top2/premium586/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MOTOGP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u80be43ec4/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="V Sport 1" tvg-logo="https://iili.io/JyvjgLP.png" group-title="MotoGP", MotoGP
