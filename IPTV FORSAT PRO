@@ -4931,14 +4931,10 @@ https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORTS",BEIN 1 THA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="BEIN 3 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png" group-title="SPORTS",BEIN 3 THA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+https://iptv2.wirdy.workers.dev/02_epl2_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2fari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORTS",Beinsport 1 
@@ -4956,7 +4952,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
+https://dokko1new.iosplayer.ru/dokko1/premium92/mono.mhttps://iptv2.wirdy.workers.dev/02_epl2_720p/chunklist.m3u83u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
