@@ -397,17 +397,17 @@ https://bigembed.mizhls.ru/lb/premium90/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium91/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.football5star.net/wp-content/uploads/2025/01/Dortmund-vs-Shaktar_0.jpg" group-title="LIVE EVENTS", Dortmound vs shakhtar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", Dortmound vs shakhtar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium424/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHf_g4VT85xot8h-MVksE9smULDEzU6xydQ&s" group-title="LIVE EVENTS",DEWA UNITED
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS",DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90min.to/
 https://wowowoiy.com/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/aksi.co/wp-content/uploads/2025/01/Indonesia-Vs-India-Live-Streaming-Gratis-e1738163334634.webp?resize=900%2C555&ssl=1" group-title="LIVE EVENTS", INDONESIA VS INDIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", INDONESIA VS INDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001738019659-0-0-6981e7ab9cddcf9d3c472c581f63feab
@@ -416,7 +416,7 @@ https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001738019659-0-
 
 ==========================================PIALA ASIA U20=================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PIALA ASIA U20" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", TIMNAS INDONESIA VS UZBEKISTAN U20
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PIALA ASIA U20" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", TIMNAS INDONESIA VS YAMAN U20
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -425,12 +425,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 
 
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Kyrgistan vs China U20
+#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", INDONESIA VS YAMAN U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/bet7320431/mono.m3u8
+https://ddh2new.iosplayer.ru/ddh2/premium7/mono.m3u8
 
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Korut vs Jordan  u20 
+#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Irak vs Jordan  u20 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklub3serbia/mono.m3u8
