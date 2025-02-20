@@ -3774,8 +3774,18 @@ https://fl5.moveonjoy.com/STARZ_EDGE/tracks-v1a1/mono.ts.m3u8
 https://fl5.moveonjoy.com/STARZ_ENCORE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_westerns_east.png" group-title="USA", Starz Encore Westerns
 https://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/tracks-v1a1/mono.ts.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJafUKnAsIaozFWjRMIPizwAgubE-lP1r2sA&s" group-title="USA", World Fishing Network
+https://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tsn 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png" group-title="USA", TSN 1 USA
+https://fl5.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tsn 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_2_ca.png" group-title="USA", TSN 2 USA
+https://fl5.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tsn 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png" group-title="USA", TSN 3 USA
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tsn 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png" group-title="USA", TSN 4 USA
+https://fl5.moveonjoy.com/TSN_4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tsn 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png" group-title="USA", TSN 5 USA
+https://fl5.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
 
 
 =================================================LIGA INDONESIA=================================================================================================================
