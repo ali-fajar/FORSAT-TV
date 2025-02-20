@@ -3766,6 +3766,16 @@ https://fl5.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 https://fl5.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbA43CKuF0jWSlDbmUI5yOSH6RYrjb5F5Gw&usqp=CAU" group-title="USA", Starz Comedy
 https://fl5.moveonjoy.com/STARZ_COMEDY/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Xrah824_gTlFuALqFVN5_EsXcPZE6p4w8A&s" group-title="USA", Starz Encore Action
+https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_jAWB8d_qJ6cwTrJD9ai2qWuhsYhSg-TtkQ&s" group-title="USA", Starz Edge
+https://fl5.moveonjoy.com/STARZ_EDGE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55fhauYQcrKVijNyf9BxnrOWdgqRm3-3GQg&s" group-title="USA", Starz Encore
+https://fl5.moveonjoy.com/STARZ_ENCORE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_westerns_east.png" group-title="USA", Starz Encore Westerns
+https://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 =================================================LIGA INDONESIA=================================================================================================================
