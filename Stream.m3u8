@@ -1,5 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music (jazzy & lofi hip hop beats)" group-title="Music", Chillhop Music (jazzy & lofi hip hop beats)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ezembed.me/
 https://wowowoiy.com/live/v1/D2syuy31hp4Snm06JPDpmk8I7LULFjFe1XqMYKZawua6amaQawRda+PXOESriuyf/master.m3u8
 
