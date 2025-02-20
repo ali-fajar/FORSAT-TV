@@ -3762,8 +3762,10 @@ https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 https://fl5.moveonjoy.com/MOTOR_TREND/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Geograpic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeakVKxVlh6EQ6wdvFBde-9BWmpxP3--CM7TH2R92IAau5okjkC8AA2U5WNg2Tdn5ybFg&usqp=CAU" group-title="USA", National Geograpic
 https://fl5.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Starz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8OmEIxCZaUhbDFVCFBccrnAMWZ9t8eAKD_g9tA4CHPyPKG_PEZsU0vA&s=10" group-title="USA", Starz
+https://fl5.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbA43CKuF0jWSlDbmUI5yOSH6RYrjb5F5Gw&usqp=CAU" group-title="USA", Starz Comedy
+https://fl5.moveonjoy.com/STARZ_COMEDY/tracks-v1a1/mono.ts.m3u8
 
 
 =================================================LIGA INDONESIA=================================================================================================================
