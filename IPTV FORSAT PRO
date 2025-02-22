@@ -327,20 +327,20 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Buriram vs Ulsan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", LAFC VS MINNEOSTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/III9ZiEC6461ThqulBUWtA/Fv2lucGIbhPi2caWYvF5Lg/1739384317701/live/sd-6MsCw32K2J7J35byQf/chunklist.m3u8
+https://live-xlvb.nsnd.live/Lu_a88AwL_aJ9ytrSTT-3w/e56ce8a755cda33e7f050da0b700d013/1740287792/live/_definst_/stream_1_1bda7@oldFHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Alsaad
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", JUARO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-https://s5youing-cf.tikballcc.com/auth%3D3b6572abb27402c705fcead90722ac02e796644a353fa1ba9d232a5d62b0eb69a197248690523a5492cae2efded9e33a232a4be5bd2bfdb2e8c23ed1740956591c36fca224e0166c05a766780f7e267c1ac1661d8cff7618c1c854f5e6fcd7702a4c4202c50907457a8d5d284a5ee362508a7d4cbe3acc872cadb2959fa2012a9404c6d3d39a76d5134126e7668b062bd872b987d7ead9c7d097cda27119b55f%26cid%3DcZuBG3pq3BflJRCaZqbyx250206%26_v%3D2%26_r%3DRYUU9P%26_vis%3D5c977dc76df59f92f7274c79dda2c70e0f0792e10a1a145907684be94cb868be%26_vvs%3Daa479261c6cfaf03ccea24ab6697ec35f7c6e853d9a79f00652dab71f8ab9be9/app/c314790.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001740266566-0-0-a87d36e7a5db5b36a382565f16065ab184be94cb868be%26_vvs%3Daa479261c6cfaf03ccea24ab6697ec35f7c6e853d9a79f00652dab71f8ab9be9/app/c314790.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", China vs qatar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Mexico club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/owT9KaOBrruYzPHiPa-zjA/Fv2lucGIbhPi2caWYvF5Lg/1739384403258/live/sd-6MtMdVTVS2zZtUAAaP/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live3.procdnlive.com/livecdn/channel66.m3u8?auth_key=3000001740266685-0-0-109bd66c48af00ddeec77a5431d3dcaa
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Uzbekistan vs Maroko U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -367,10 +367,10 @@ https://top2new.iosplayer.ru/top2/eplayerfs2/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://top2new.iosplayer.ru/top2/espn1nl/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Boyaca Chico - Junior Barranquilla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Boca junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/bet7413743/mono.m3u8
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport1serbia/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Olympic lyon vs Ludogorest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -387,30 +387,30 @@ https://bigembed.mizhls.ru/lb/eplayerSuperSportAction/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium99/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0wqYjosqeLoRA8eSDdFCp4GD5GT1mRQBWRw&s" group-title="LIVE EVENTS", Aston Villa - Celtic
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Aston Villa - Celtic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium90/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", Stuttgart VS Psg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Stuttgart VS Psg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium91/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", Dortmound vs shakhtar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Dortmound vs shakhtar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/premium424/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS",DEWA UNITED
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS",DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90min.to/
 https://wowowoiy.com/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjdKnv-wdJHUExOGrEggo4Xux74y2mfYrlQ&s" group-title="LIVE EVENTS", INDONESIA VS INDIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", JUOARO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001738019659-0-0-6981e7ab9cddcf9d3c472c581f63feab
+https://live.vbfast.xyz/9153fbd0b104d6701006a6206c9054f5/1740309707044/majhccy/majhccy@720p.m3u8
 
 
 
