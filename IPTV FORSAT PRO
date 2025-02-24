@@ -3785,7 +3785,8 @@ https://fl5.moveonjoy.com/TSN_3/index.m3u8
 https://fl5.moveonjoy.com/TSN_4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tsn 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png" group-title="USA", TSN 5 USA
 https://fl5.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Travel channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6I5ufta1SrG6TsYDrSe3T95dzF0VzBwNb2BlWLmVnl29VCPleCMBtmMr&s=10" group-title="USA", TRAVEL CH
+https://fl5.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.ts.m3u8
 
 =================================================LIGA INDONESIA=================================================================================================================
 
