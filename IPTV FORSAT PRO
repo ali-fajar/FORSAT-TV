@@ -3879,17 +3879,17 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium31/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 group-title="UCL" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium33/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 
 #EXTINF:-1 group-title="UCL" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium34/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 
 
 
@@ -3910,7 +3910,7 @@ https://windnew.iosplayer.ru/wind/premium579/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
 
 #EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-4-bg.png" group-title="UCL", UCL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3920,7 +3920,7 @@ https://windnew.iosplayer.ru/wind/premium475/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="UCL", UCL 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium32/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium32/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bein 2 Mena" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="UCL", UCL 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
