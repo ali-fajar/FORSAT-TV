@@ -413,9 +413,9 @@ https://live.vbfast.xyz/9153fbd0b104d6701006a6206c9054f5/1740309707044/majhccy/m
 
 
 
-==========================================PIALA ASIA U20=================================================================
+==========================================BADMINTON=================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PIALA ASIA U20" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", TIMNAS INDONESIA VS YAMAN U20
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BADMINTON" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/2021_Orl%C3%A9ans_Masters_logo.png", COURT 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -424,37 +424,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 
 
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", INDONESIA VS YAMAN U20
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/2021_Orl%C3%A9ans_Masters_logo.png", COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium7/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu&type=m3u8
 
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Irak vs Jordan  u20 
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/2021_Orl%C3%A9ans_Masters_logo.png    ", COURT 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklub3serbia/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Jepang vs Thailand
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/2021_Orl%C3%A9ans_Masters_logo.png  ", COURT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://ignoretext.nsnd.live/4_a1i__ZW_JMlgCDj_ejQA/83de23c4424f537b01b08ca40d8e3c83/1739545454/live/_definst_/stream_1_1bda7@heFHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Yaman vs Iran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklub3serbia/mono.m3u8
-
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Saudi vs Irak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklub3serbia/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 
 
-
-#EXTINF:-1 group-title="PIALA ASIA U20" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0z5MAANouEGf7_Qs70NvzIm8E956wFvkXeVhld1bIjHlRh9tWVOgTqe3&s=10", Korea vs Syria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
 =============================================EURO=================================================================
 
 
