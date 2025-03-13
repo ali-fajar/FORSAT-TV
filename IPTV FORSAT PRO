@@ -430,7 +430,13 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu4&type=m3u8
 =============================================EURO=================================================================
 
 
