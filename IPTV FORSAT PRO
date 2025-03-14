@@ -4482,6 +4482,14 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/b
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg", UFC
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc&type=m3u8
+
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://w0.peakpx.com/wallpaper/948/477/HD-wallpaper-silver-ufc-mma-logo-fight-black-ufc-silver.jpg", UFC 1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc1&type=m3u8
+
+
+
 ============================   BASKET  =======================================================================================================================================
 
 
