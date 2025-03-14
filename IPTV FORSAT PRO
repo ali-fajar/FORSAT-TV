@@ -408,10 +408,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed17&type=m3u8
 ==========================================BADMINTON=================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BADMINTON" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=jangkrik&type=m3u8
 
 
 
