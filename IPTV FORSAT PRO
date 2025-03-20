@@ -327,7 +327,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 =========================================== LIVE EVENTS ===========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 1 AUSTRALIA VS INDONESIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 1 UZBIKISTAN VS KRYGIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed1&type=m3u8
 
@@ -343,15 +343,15 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed3&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed4&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 5 ARMENIA VS GEORGIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed5&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 6 TURKI VS HUNGARIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed6&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 7 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 7 QATAR VS KOREA DPR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed7&type=m3u8
 
@@ -360,12 +360,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed7&type=m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://top2new.iosplayer.ru/top2/espn1nl/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 9 DENMARK VS PORTUGAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport1serbia/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=feed9&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 10 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 10 IRAK VS KUWAIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed10&type=m3u8
 
@@ -384,18 +383,18 @@ https://top2new.iosplayer.ru/top2/eplayerSuperSportFootball/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 14
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 14 JORDAN VS PALESTINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed14&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 15
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 15 SAUDI VS CHINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed15&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 16
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 16 BELANDA VS SPANYOL
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed16&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 17
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 17 KROASIA VS PRANCIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed17&type=m3u8
 
