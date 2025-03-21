@@ -401,32 +401,32 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed17&type=m3u8
 
 ==========================================BADMINTON=================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BADMINTON" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BADMINTON" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=jangkrik&type=m3u8
 
 
 
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 2
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu&type=m3u8
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 3 
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 4
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 5
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
-#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSME7-Q26H0qsVuIazjZxoAjis7EhCNdnbbWwBMagJzMDBlxGi5jc4WLXm9&s=10", COURT 6
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TNTSports1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXdJ0HFzTXYmA13vu3hYXrCzdpGJ9uRvnMg&s", COURT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu4&type=m3u8
 =============================================EURO=================================================================
