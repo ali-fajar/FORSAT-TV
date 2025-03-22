@@ -4756,74 +4756,31 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1" , F1 GRAND PRIX 2024 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2024
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
-
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138719.m3u8
-
-
-
-
-
-
-
-
-
-============================== FORMULA ONE ===============================
-#EXTINF:-1 group-title="F1" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png", E-PRIX 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-
-
-#EXTINF:-1 group-title="F1" tvg-id="SSC 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png", E-PRIX 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JpwIXfe.jpg" group-title="F1", Sky SPORT F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1" , F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
+https://windnew.koskoros.ru/wind/premium916/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="SPORT 4PT" group-title="F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940", FORMULA ONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
+#EXTVLCOPT:http-referrer=https://reliabletv.me/
+https://s-b2.aistrem.net/plyvivo/femojaz0gip0bane3uwa/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png", E-PRIX 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://windnew.koskoros.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" group-title="F1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png", E-PRIX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://reliabletv.me/
+https://s-b2.aistrem.net/plyvivo/m0yer0rube7ibomumugu/chunklist.m3u8
+
 
 =======================================MotoGP====================================================
 #EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
