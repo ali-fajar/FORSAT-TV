@@ -4762,6 +4762,12 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 https://windnew.koskoros.ru/wind/premium916/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://nix1-dc4new.koskoros.ru/nix1-dc4/skynz3/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://reliabletv.me/
@@ -4799,10 +4805,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SKYMOTOGP" group-title="F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/800px-Sport_TV6_%282023%29.svg.png",WSBK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="MotoGP", MOTO GP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
