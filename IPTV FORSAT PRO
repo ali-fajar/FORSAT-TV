@@ -4646,14 +4646,26 @@ https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/09/25/kualifikasi-piala-asia-u-20-2025.png?w=600&q=90" group-title="AFC CHAMPIONS LEAGUE", AFC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjrCg6rICu_3cd6tf_IWoOGLbDBMpqHBMxFIuGD9pdw33RNq74jnnXNnQ&s=10" group-title="AFC CHAMPIONS LEAGUE", AFC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=afc1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2024/09/25/kualifikasi-piala-asia-u-20-2025.png?w=600&q=90" group-title="AFC CHAMPIONS LEAGUE", AFC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjrCg6rICu_3cd6tf_IWoOGLbDBMpqHBMxFIuGD9pdw33RNq74jnnXNnQ&s=10" group-title="AFC CHAMPIONS LEAGUE", AFC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=afc2&type=m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjrCg6rICu_3cd6tf_IWoOGLbDBMpqHBMxFIuGD9pdw33RNq74jnnXNnQ&s=10" group-title="AFC CHAMPIONS LEAGUE", AFC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=afc3&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjrCg6rICu_3cd6tf_IWoOGLbDBMpqHBMxFIuGD9pdw33RNq74jnnXNnQ&s=10" group-title="AFC CHAMPIONS LEAGUE", AFC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=afc4&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjrCg6rICu_3cd6tf_IWoOGLbDBMpqHBMxFIuGD9pdw33RNq74jnnXNnQ&s=10" group-title="AFC CHAMPIONS LEAGUE", AFC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=afc5&type=m3u8
 
 ==============================================FUTSAL WORLD CUP=====================================
 #EXTINF:-1 group-title="FUTSAL" tvg-id="Fox Soccer Plus" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_soccer_plus.png", FOX SOCCER PLUS 
