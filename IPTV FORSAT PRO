@@ -2761,7 +2761,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="TRANSVISION",Trans TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2770,7 +2770,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685910daca60191a8636d706700/91a8f8ef60a74a008d45b932eaeab59c.jpg" group-title="TRANSVISION",JOWO(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2779,7 +2779,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="TRANSVISION",Trans 7(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2788,7 +2788,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="TRANSVISION",Metro TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2797,7 +2797,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png" group-title="TRANSVISION",TV One(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2806,7 +2806,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="TRANSVISION",SCTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2815,7 +2815,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="TRANSVISION",Indosiar(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2824,7 +2824,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e6475
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="TRANSVISION",RCTI(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2833,7 +2833,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png", GTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2842,7 +2842,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="TRANSVISION",ANTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2851,7 +2851,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg" group-title="TRANSVISION",BTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2860,7 +2860,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c59
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="TRANSVISION",Kompas TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2869,7 +2869,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="TRANSVISION",NET TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2878,7 +2878,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="TRANSVISION",RTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2887,7 +2887,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png", MNC TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2896,7 +2896,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png" group-title="TRANSVISION",CNN Indonesia(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2905,7 +2905,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" group-title="TRANSVISION",CNBC Indonesia(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2914,7 +2914,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/insert_id.png" group-title="TRANSVISION",Insert(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2923,7 +2923,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png" group-title="TRANSVISION",JAK TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2932,7 +2932,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv-id.png" group-title="TRANSVISION",JTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2941,7 +2941,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg" group-title="TRANSVISION",Kilat TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2950,7 +2950,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/eat&go.png" group-title="TRANSVISION",Eat N Go(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2959,7 +2959,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="TRANSVISION",Lingua Channel(TRV)
@@ -2969,7 +2969,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+https://cdnjkt913.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYi75sypv-mDYiAjkHRGtw6mz4fBGGiS67g&usqp=CAU" group-title="TRANSVISION",Nature Vision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2978,7 +2978,7 @@ https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd090
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/seru.png" group-title="TRANSVISION",Seru Channel(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2987,7 +2987,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456033
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="TRANSVISION",Dunia Lain(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2996,7 +2996,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="TRANSVISION",Nusantara(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3005,7 +3005,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="TRANSVISION",Musik Indonesia(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3014,7 +3014,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="TRANSVISION",Song TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3023,7 +3023,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="TRANSVISION",Clubbing TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3032,7 +3032,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560ac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%20MU.jpg" group-title="TRANSVISION",TV Mu(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3041,7 +3041,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%209.jpg" group-title="TRANSVISION",TV9(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3050,7 +3050,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/PIJAR%20TV.jpg" group-title="TRANSVISION",Pijar TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3059,7 +3059,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/khazanah.png" group-title="TRANSVISION",Khazanah(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3068,7 +3068,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f3551
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg" group-title="TRANSVISION",DAAI TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3077,7 +3077,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="TRANSVISION",Dunia Anak(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3086,7 +3086,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde47
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="TRANSVISION",Cartoon TV Premium(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3095,7 +3095,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="TRANSVISION",Cartoon TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3104,7 +3104,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166f4d93e5e/af61929b5f3b419da7e3d407ce601dbb.jpg" group-title="TRANSVISION",Cartoon TV Classics(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3113,7 +3113,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f218
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="TRANSVISION",Cartoon Network(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3122,7 +3122,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456010
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/boomerang.png" group-title="TRANSVISION",Boomerang(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3131,7 +3131,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="TRANSVISION",Bioskop Indonesia(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3140,7 +3140,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="TRANSVISION",Series Zone(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3149,7 +3149,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq505Bd0BH-e3Chr84A5Ecj97fI8q0WNbyFA&usqp=CAU" group-title="TRANSVISION",Movies News(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3158,7 +3158,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="TRANSVISION",HBO(TRV)
@@ -3168,7 +3168,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="TRANSVISION",HBO Hits(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3177,7 +3177,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="TRANSVISION",HBO Family(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3186,7 +3186,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="TRANSVISION",HBO Signature(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3195,7 +3195,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="TRANSVISION",Cinemax(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3204,7 +3204,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" group-title="TRANSVISION",Warner TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3213,7 +3213,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg" group-title="TRANSVISION",Dizi(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3222,7 +3222,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846169a38c3e61/1901a230a6204d44b4d51f176df0d20c.jpg" group-title="TRANSVISION",Wai Lana(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3231,7 +3231,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d45623
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="TRANSVISION",SuperYacht TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3240,7 +3240,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858119921801816b52686d5e62/fa18ac9f9a8b4e5e92d20a20ba71db39.jpg" group-title="TRANSVISION",Pretty TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3249,7 +3249,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="TRANSVISION",Gem TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3258,7 +3258,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="TRANSVISION",Joke TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3267,7 +3267,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="TRANSVISION",One TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3276,7 +3276,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GOSSIP.png" group-title="TRANSVISION",Gossip(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3285,7 +3285,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="TRANSVISION",Fashion TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3294,7 +3294,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="TRANSVISION",Travel TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3303,7 +3303,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="TRANSVISION",Cooking TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3312,7 +3312,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="TRANSVISION",Gaming TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3321,7 +3321,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="TRANSVISION",Fitness TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3330,7 +3330,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU" group-title="TRANSVISION",Knowledge+(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3339,7 +3339,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq-au4whdudWi4PK-_wP-4UXTvX2x4D4H5g&usqp=CAU" group-title="TRANSVISION",Golf+(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3348,7 +3348,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU" group-title="TRANSVISION",Football TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3357,7 +3357,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff43
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png" group-title="TRANSVISION",Historical Sports(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3366,7 +3366,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg" group-title="TRANSVISION",Motor Racing(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3375,7 +3375,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png" group-title="TRANSVISION",Horizon Sports(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3384,7 +3384,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU" group-title="TRANSVISION",Fight TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3393,7 +3393,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU" group-title="TRANSVISION",IDCyclist(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3402,7 +3402,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU" group-title="TRANSVISION",Xtrem Sports(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3411,7 +3411,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="TRANSVISION",Sports TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3420,7 +3420,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="TRANSVISION",Speed TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3429,7 +3429,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 j
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="TRANSVISION", DISCOVERY SCI(TRV)
@@ -3439,7 +3439,7 @@ j
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="TRANSVISION", CINEMA WORLD(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3448,7 +3448,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="TRANSVISION", AXN(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3457,7 +3457,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TRANSVISION", tvN(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3466,7 +3466,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="TRANSVISION", ZEE BIOSKOP(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3475,7 +3475,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="TRANSVISION", TECHSTROM(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3484,7 +3484,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6858f902547018fe8295b131613/f9876e60-3fd5-4fcf-912a-d05eab063b0f.jpg" group-title="TRANSVISION", KUNLUN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3493,7 +3493,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6858f902547018fe8295b131613/Manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/encrypt/cmaf/4028c6858f902547018fe8295b131613/Manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c6856f08326c016f31138fa87517/b2e491d5-2efb-4f1c-8118-1bb6f59b7fdc.jpg" group-title="TRANSVISION", UJI NYALI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3502,7 +3502,7 @@ https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6858f902547018fe8295b13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f31138fa87517/Manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/encrypt/cmaf/4028c6856f08326c016f31138fa87517/Manifest.mpd
 ================================== Malaysia ===========================================
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
