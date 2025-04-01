@@ -5905,22 +5905,22 @@ https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
 #EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png" group-title="SPORTS",TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium113/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium113/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png" group-title="SPORTS",TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
 
 #EXTINF:-1 tvg-id="TSN 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png" group-title="SPORTS",TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium115/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium115/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="SPORTS", TNT ARGENTINA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium388/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium388/mono.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE PREMIER 1 
 https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
@@ -5950,7 +5950,7 @@ https://iptv2.wirdy.workers.dev/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium885/mono.m3u8
+https://windnew.koskoros.ru/wind/premium885/mono.m3u8
 
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -5959,110 +5959,86 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS",SONY SPORTS TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
+https://windnew.koskoros.ru/wind/premium886/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",SONY SPORTS TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium887/mono.m3u8
+https://windnew.koskoros.ru/wind/premium887/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SS Football Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium56/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SS Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium414/mono.m3u8
 
 
 #EXTINF:-1 xui-id="7646" tvg-id="" tvg-name="SuperSport: Action" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="SPORTS", Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium420/mono.m3u8
+https://windnew.koskoros.ru/wind/premium420/mono.m3u8
 
 
 #EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="SPORTS", Variety 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium416/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium416/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="SPORTS",SS Variety 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium417/mono.m3u8
+https://windnew.koskoros.ru/wind/premium417/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="SPORTS",SS Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium418/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="SPORTS",SS Variety 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium419/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium419/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SS Laliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="SPORTS",SS Maximo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium572/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="SPORTS",SS Blitz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
 
 
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1_hindi.png" group-title="SPORTS",Star Sports 1
-http://iptv12k.com:35461/live/654321/123456/8558.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://wikinew.koskoros.ru/wiki/starsports1/mono.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="SPORTS",Star Sports 2
-http://iptv12k.com:35461/live/654321/123456/8556.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://wikinew.koskoros.ru/wiki/starsports2/mono.m3u8
 
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Select 1
-http://iptv12k.com:35461/live/654321/123456/8555.ts
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Select 2
-http://iptv12k.com:35461/live/654321/123456/8554.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="SPORTS",A Sport
@@ -6072,118 +6048,107 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="SPORTS",Ptv Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium450/mono.m3u8
-
-
-#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="beIN Sports 1 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="SPORTS",beIN Sports 1 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="SPORTS",beIN Sports 2 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="beIN Sports 3 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg/revision/latest?cb=20150715190042" group-title="SPORTS",beIN Sports 3 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
+https://ddy6new.koskoros.ru/ddy6/premium450/mono.m3u8
 
 
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS",Portugal- SPORT TV 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium49/mono.m3u8
+https://windnew.koskoros.ru/wind/premium49/mono.m3u8
 
 
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORTS",Portugal- Sport TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
 
 
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS",Portugal- Sport TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8
+https://ddy6new.koskpros.ru/ddy6/premium454/mono.m3u8
 
 
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORTS",Portugal- Sport TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
 
 
 #EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORTS",Portugal- Sport TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
 
 
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium101/mono.m3u8
 
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="SPORTS", Sport Klub 2 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium102/mono.m3u8
 
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="SPORTS", Sport Klub 3 SR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium103/mono.m3u8
+https://windnew.koskoros.ru/wind/premium103/mono.m3u8
 
 #EXTINF:-1 xui-id="11519" tvg-id="" tvg-name="Sport Klub Fight" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="SPORTS",Sport Klub Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium104/mono.m3u8
+https://windnew.koskoros.ru/wind/premium104/mono.m3u8
 
 
 
 #EXTINF:-1 xui-id="163" tvg-id="" tvg-name="Astro Supersport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456" group-title="SPORTS",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
 
 
 #EXTINF:-1 xui-id="164" tvg-id="" tvg-name="Astro Supersport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="SPORTS",Astro Supersport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
+https://windnew.koskoros.ru/wind/premium124/mono.m3u8
 
 
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="Astro Supersport 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" group-title="SPORTS",Astro Supersport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8
 
 
 #EXTINF:-1 xui-id="166" tvg-id="" tvg-name="Astro Supersport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="SPORTS",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8
 
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607" group-title="SPORTS",BEIN SPORTS 1 ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium61/mono.m3u8
+https://windnew.koskoros.ru/wind/premium61/mono.m3u8
 
 #EXTINF:-1 xui-id="7943" tvg-id="" tvg-name="BEIN SPORTS 2 ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903" group-title="SPORTS",BEIN SPORTS 2 ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium90/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium90/mono.m3u8
 
 #EXTINF:-1 xui-id="7944" tvg-id="" tvg-name="BEIN SPORTS 3 ENGLISH FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/BE_IN_SPORT_3_HD_2012.png/revision/latest/scale-to-width-down/250?cb=20191022180944" group-title="SPORTS",BEIN SPORTS 3 ENGLISH FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
+https://windnew.koskoros.ru/wind/premium46/mono.m3u8
 
 
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="SPORTS", RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium119/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium119/mono.m3u8
 
 
 #EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORTS", RMC Sport 2 HD
@@ -6196,23 +6161,23 @@ https://ddy6new.koskoros.ru/ddy6/premium120/mono.m3u8
 #EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://iili.io/Jpwel7s.png" group-title="SPORTS", TV2 SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium808/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium808/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV2 Sport 2 HD (N) (T)" tvg-logo="https://i.ibb.co/SX1Yvf4/tv2sport2.png" group-title="SPORTS", TV2 SPORT2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium808/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium808/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://iili.io/JpwkWAJ.png" group-title="SPORTS", TV2 Sport Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium810/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium810/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV3+ (N) (T)" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv3_plus_dk.png" group-title="SPORTS", TV3+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium810/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium810/mono.m3u8
 
 
 
@@ -6259,7 +6224,7 @@ https://dokko1new.koskoros.ru/dokko1/premium833/mono.m3u8
 #EXTINF:-1 tvg-id="TVA SPORTS 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-sports-2-ca.png" group-title="SPORTS",  TVA SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium833/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium833/mono.m3u8
 
 
 
