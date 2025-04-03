@@ -4545,7 +4545,19 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1047
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="BASKET",SPORT TV NBA
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/2051
 
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=nba1&type=m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=nba2&type=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=nba3&type=m3u8
 
 ==================== AFC CHAMPIONS LEAGUE====================================
 
