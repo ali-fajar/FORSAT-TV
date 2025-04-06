@@ -4727,11 +4727,6 @@ https://ddh2new.newkso.ru/ddh2/premium32/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium819/mono.m3u8
 
-#EXTINF:-1 group-title="MotoGP" tvg-id="TNTSports4.uk" tvg-logo="https://logoeps.com/wp-content/uploads/2013/03/motocross-world-championship-vector-logo.png", CROSS 1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=cross1&type=m3u8
-
-EXTINF:-1 group-title="MotoGP" tvg-id="TNTSports4.uk" tvg-logo="https://logoeps.com/wp-content/uploads/2013/03/motocross-world-championship-vector-logo.png", CROSS 2
-https://bintangstreaming.my.id/connect/index.m3u8?channel=cross2&type=m3u8
 
 
 ########################################VNL##################
