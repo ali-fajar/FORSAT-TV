@@ -703,10 +703,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 =========================================== RELIGI ===========================================
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png" group-title="RELIGI",MUSLIM TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI", MAKKAH LIVE
@@ -725,16 +726,18 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="TAWAF TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tawaf-tv-id.png" group-title="RELIGI",TAWAF TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="MUHAMMADIYAH TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGI",MUHAMMADIYAH TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:-1 tvg-name="MEKKAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI",MEKKAH TV
@@ -883,16 +886,18 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://www.visionplus.id/images/repository/999/49999-SNAPSHOT-m.png" group-title="ENTERTAINMENT",TVN (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 
@@ -907,16 +912,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="OK TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png" group-title="ENTERTAINMENT",OK TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="FMN" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="ENTERTAINMENT",FMN (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
@@ -934,22 +941,19 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCEntertainment/sa_dash_vmx/MNCE
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="TV5 MONDE" tvg-logo="https://www.visionplus.id/images/repository/021/50021-SNAPSHOT-m.png" group-title="ENTERTAINMENT",TV5 MONDE (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="ABC AUSTRALIA" tvg-logo="https://hometv.pw/logo/entertainment/abc_australia.png" group-title="ENTERTAINMENT",ABC AUSTRALIA (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="NHK WORLD PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/046/50046-SNAPSHOT-m.png" group-title="ENTERTAINMENT",NHK WORLD PREMIUM (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://hometv.pw/logo/entertainment/kbs_world.png" group-title="ENTERTAINMENT",KBS WORLD
@@ -963,10 +967,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
+
 #EXTINF:-1 tvg-name="ARIRANG" tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-m.png" group-title="ENTERTAINMENT",ARIRANG (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
