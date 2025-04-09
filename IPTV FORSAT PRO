@@ -946,18 +946,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 tvg-name="ABC AUSTRALIA" tvg-logo="https://hometv.pw/logo/entertainment/abc_australia.png" group-title="ENTERTAINMENT",ABC AUSTRALIA (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="NHK WORLD" tvg-logo="https://hometv.pw/logo/entertainment/nhk_world.png" group-title="ENTERTAINMENT",NHK WORLD (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="NHK WORLD PREMIUM" tvg-logo="https://www.visionplus.id/images/repository/046/50046-SNAPSHOT-m.png" group-title="ENTERTAINMENT",NHK WORLD PREMIUM (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+https://av-ch-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://hometv.pw/logo/entertainment/kbs_world.png" group-title="ENTERTAINMENT",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -978,13 +971,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
 #EXTINF:-1 tvg-name="SBS ENGLISH" tvg-logo="https://hometv.pw/logo/entertainment/sbs_english.png" group-title="ENTERTAINMENT",SBS KOREA
-https://epg.pw/stream/a0ba0693a636f5cf96fb2f8286fa425db1ad3743f1670f22012eaa75c4178c4c.m3u8
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=6%2Csd%2Cl&auth=366de78abba53a98797e11aa391050831961c73343a
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",Maxstream 
-https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
-
-#EXTINF:-1 tvg-name="Citra Bioskop" tvg-logo="https://hometv.pw/logo/entertainment/citra_bioskop.png" group-title="ENTERTAINMENT",CITRA BIOSKOP (L*)
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/004/50004-SNAPSHOT-l.png" group-title="ENTERTAINMENT",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
