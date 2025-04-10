@@ -1128,15 +1128,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="KNOWLEDGE", NATGEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone13,2; U; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/15E148 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://x4new.newkso.ru/x4/31/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=forsatnatgeo&type=m3u8
 
 
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://iili.io/JpsKDVs.jpg" group-title="KNOWLEDGE", NATGEO WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone13,2; U; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/15E148 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://x4new.newkso.ru/x4/53/mono.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ngw&type=m3u8
 
 
 
