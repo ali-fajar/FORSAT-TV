@@ -23,10 +23,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhuQWnHpsYQpvl2u0RqYaGRAAnM46vRZTysSi7wXAGAj7.jpg" group-title="NASIONAL", RCTI (V+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 
 
 
