@@ -4667,22 +4667,22 @@ https://windnew.newkso.ru/wind/premium467/mono.m3u8
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORTS" , DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.newkso.ru/top2/premium400/mono.m3u8
+https://top1new.newkso.ru/top1/premium400/mono.m3u8
 
 #EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.newkso.ru/top2/premium401/mono.m3u8
+https://top1new.newkso.ru/top1/premium401/mono.m3u8
 
 #EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.newkso.ru/top2/premium402/mono.m3u8
+https://top1new.newkso.ru/top1/premium402/mono.m3u8
 
 #EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="SPORTS" , DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.newkso.ru/top2/premium404/mono.m3u8
+https://top1new.newkso.ru/top1/premium404/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORTS", DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
