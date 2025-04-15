@@ -3345,10 +3345,10 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://x4new.newkso.ru/x4/arenasport1serbia/mono.m3u8
 
-#EXTINF:-1 tvg-id="Arena Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="UCL", UCL 6
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s" group-title="UCL", UCL 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=forsatpro139&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
 
 
 #EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-4-bg.png" group-title="UCL", UCL 7
@@ -3379,10 +3379,10 @@ https://windnew.newkso.ru/wind/premium472/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
+#EXTINF:-1 tvg-id="Digisports 2" group-title="UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top1new.newkso.ru/top1/premium583/mono.m3u8
+https://top1new.newkso.ru/top1/premium401/mono.m3u8
 
 #EXTINF:-1 tvg-id="bein 1 fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="UCL", UCL 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
