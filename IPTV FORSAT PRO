@@ -3362,19 +3362,19 @@ https://live.vbfast.xyz/0c3e2dfdd53b6dea8ba173bb4ee2a042/1740881869299/t7snhbq/t
 
 
 #EXTINF:-1 tvg-id="beINSports" group-title="UCL" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beINSports 1 (VISION+) 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=au1&type=m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports2" group-title="UCL" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beINSports 2 (VISION+) 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=au2&type=m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports3" group-title="UCL" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beINSports 3 (VISION+) 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=au3&type=m3u8
 
