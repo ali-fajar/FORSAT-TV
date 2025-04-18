@@ -4376,11 +4376,7 @@ https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass3vak/master450.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://alkass.bassamnetflix2.workers.dev/hls/live/2097037/Alkass4cn/master450.m3u8
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="SPORTS",Arena Bola 1
-http://iptv12k.com:35461/654321/123456/20630
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="SPORTS",Arena Bola 2
-http://iptv12k.com:35461/654321/123456/20629
 
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="SPORTS",Astro Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
