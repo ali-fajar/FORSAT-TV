@@ -1452,6 +1452,11 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-chno="" tvg-id="Sahid Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8r7o9b3pDKsUohOGkxvY0RM5ItqHkX8_D8K3_BgCOdBIgDnzg9DYpdk&s=10" group-title="MOVIES",Sahid Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_9_0.m3u8
+
+
 =========================================== HBO GROUP ===========================================
 
 
