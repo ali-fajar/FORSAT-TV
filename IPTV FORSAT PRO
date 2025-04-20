@@ -3530,8 +3530,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://iili.io/d3txEAl.png", USA (WEST) 
-https://fl5.moveonjoy.com/USA_Network/tracks-v1a1/mono.m3u8
 
 KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3563,33 +3561,21 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="LIGA INGGRIS",TRUE PREMIER 1 
-https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="LIGA INGGRIS",TRUE PREMIER 2
-https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="LIGA INGGRIS",TRUE PREMIER 3
-https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jpw0blp.png" group-title="LIGA INGGRIS", LIVE 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 03  Southampton vs Manchester United 18.30 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.newkso.ru/ddh2/premium6/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIGA INGGRIS", LIVE 04 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 https://hztnew.newkso.ru/hzt/optussport1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="LIGA INGGRIS", LIVE 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="LIGA INGGRIS", LIVE 06
@@ -3604,19 +3590,17 @@ https://top2new.newkso.ru/top2/premium400/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="LIGA INGGRIS", LIVE 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.newkso.ru/top2/premium401/mono.m3u8
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://top1new.newkso.ru/top1/premium401/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f2/Premier_League_Logo.svg/250px-Premier_League_Logo.svg.png" group-title="LIGA INGGRIS", LIVE 09
-http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="LIGA INGGRIS", LIVE 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 12 ARSENAL VS LEICESTER
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 12 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://hztnew.newkso.ru/hzt/optussport1/mono.m3u8
