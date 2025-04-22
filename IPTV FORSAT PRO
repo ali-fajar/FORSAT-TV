@@ -23,10 +23,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="NASIONAL", RCTI (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=1
+https://tvkitastream.my.id/rctiplus/mpd.php/stream.mpd?id=1
 
 
 
