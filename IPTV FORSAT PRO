@@ -1766,29 +1766,12 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="WORLD TV",Zhejiang (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8 
-
-#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV3 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="WORLD TV",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 
-#EXTINF:-1 tvg-id="htv2hd" group-title="WORLD TV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV4 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-1.png",ช่อง SCTV1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-2.png",ช่อง SCTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 
 ============================= WORLD TV ===================================
 
@@ -1803,34 +1786,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtb-sukmaindera-bn.png" group-title="WORLD TV", RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-3.png",ช่อง SCTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-4.png",ช่อง SCTV4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-5.png",ช่อง SCTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV"tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-6.png",ช่อง SCTV6
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-7.png",ช่อง SCTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-8.png",ช่อง SCTV8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-9.png",ช่อง SCTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 
 
 
