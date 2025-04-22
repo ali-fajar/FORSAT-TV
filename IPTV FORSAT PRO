@@ -1966,12 +1966,11 @@ https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_144p/index.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png", THAIRATH 32 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://ssai-streaming.thairath.co.th/bamm-csai/480p/index.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png", TRUE4U 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1744403309&x_ark_path_prefix=%2Flive%2F&x_ark_signature=HwysdcB2S2z7Yjzz8pNd6g
-
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Boomerang.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/Boomerang_2.png",Boomerang Thai
@@ -1998,86 +1997,55 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="Workpoint TV.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0015_R.png",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="GMM25.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-id="BOX FILM.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/box-flim.png",BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="WORLD TV" tvg-id="CH8.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Cartoon Club.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0100.png",Cartoon Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MONO.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
+https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist_w152618779.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MCOT HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="ONE 31 HD.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="3 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="AmarinTV HD.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="CH7 HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC1" tvg-logo="https://iili.io/JyHqSBj.png", BBC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb_output_0.m3u8?session=NXMx7RyoRemWSGQyzoPJw3
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC2" tvg-logo="https://iili.io/JyHBHvI.png", BBC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4af943b2626c4eb2b3a49f412204ce59:d62226a1df341e526e39a38501050048
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_BBC_1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC3" tvg-logo="https://iili.io/JyHBuje.png", BBC 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a50525c66084589983d260a52808f59:04ebf492aec2c867560092a956bf51b6
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
+https://livetvde.net/bbcthree/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="BBC4" tvg-logo="https://iili.io/JyHBUtn.png", BBC 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
+https://livetvde.net/bbcfour/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMm9G8d/hrt1.png" group-title="WORLD TV", HRT1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
@@ -2100,24 +2068,15 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt3.smil/1/manifest.mpd
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="ITV1" tvg-logo="https://iili.io/JyHB6Pf.png", ITV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium350/playlist.m3u8
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="ITV2" tvg-logo="https://iili.io/JyHCJKx.png", ITV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
-https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="ITV3" tvg-logo="https://iili.io/JyHCnVa.jpg", ITV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=272e9f1e2c83412cab74056d9d53bab3:8d1e6569c78dd567db5f69c84e776285
-https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/tracks-v1a1/mono.ts.m3u8
 
 
 
