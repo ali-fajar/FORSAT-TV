@@ -1135,6 +1135,12 @@ https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.ts.m3u8
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/cowboymovie.jpg" group-title="MOVIES", COWBOY MOVIE
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/bitrate0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9od_Uk4X4Lf8pcf9lSgSOLdrw0TfSEz8LcLWvclCoZBwdsF515i-BMKp2&s=10" group-title="MOVIES", HORROR TV
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/f28f6e9b-a705-4810-811a-7b9ab782ee6a/0.m3u8
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png",IMC (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
