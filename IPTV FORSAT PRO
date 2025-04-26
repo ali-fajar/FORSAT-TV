@@ -3756,6 +3756,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc&type=m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc1&type=m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LACXH_dyXZFaBzeo5x82tRXtOLI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4242647/bf2ef5.jpg" group-title="UFC/MMA", BRI 3 BYON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=18576
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=18576
 
 
 ============================   BASKET  =======================================================================================================================================
