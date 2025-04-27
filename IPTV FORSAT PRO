@@ -442,6 +442,26 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9Bl-hVxDaiy1FpRDIDC6bd03B5k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4244713/27b878.jpg" group-title="BADMINTON", COURT 1A
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/K7k5B8FQvpVvMlEDpvtU2U5p-UU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4244702/cb232e.jpg" group-title="BADMINTON", COURT 2B
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6n2B3rJ-L4vTo3p4CVFssrGo76E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4244707/74e7ef.jpg" group-title="BADMINTON", COURT 3C
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18252&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18252&type=dash
+
+
 =============================================EURO=================================================================
 
 
