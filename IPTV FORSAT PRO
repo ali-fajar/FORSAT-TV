@@ -3336,22 +3336,22 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=efl4&type=m3u8
 
 ======================= LIGA INGGRIS ====================================
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 1 BRENTFORD VS BRIGHTON
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 2 CRYSTAL PALACE VS BOURNEMONTH
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl2&type=m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 3 EVERTON VS MAN CITY
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 4 WESTHAM VS SOUTHAMPTON
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl4&type=m3u8
@@ -3381,7 +3381,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport Peacock
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png ",TNT SPORTS 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
