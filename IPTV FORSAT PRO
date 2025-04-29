@@ -2288,7 +2288,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg" group-title="TRANSVISION",BTV(TRV)
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png" group-title="TRANSVISION",BTV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
@@ -2330,7 +2330,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" group-title="TRANSVISION",CNBC Indonesia(TRV)
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" group-title="TRANSVISION",CNBC Indonesia(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
@@ -2421,7 +2421,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="TRANSVISION",Song TV(TRV)
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/SONG%20TV.jpg" group-title="TRANSVISION",Song TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2430,7 +2430,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="TRANSVISION",Clubbing TV(TRV)
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="TRANSVISION",Clubbing TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2511,7 +2511,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166f4d93e5e/af61929b5f3b419da7e3d407ce601dbb.jpg" group-title="TRANSVISION",Cartoon TV Classics(TRV)
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901846166f4d93e5e/af61929b5f3b419da7e3d407ce601dbb.jpg" group-title="TRANSVISION",Cartoon TV Classics(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2638,7 +2638,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d456
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="TRANSVISION",SuperYacht TV(TRV)
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/SuperYacht%20TV.png" group-title="TRANSVISION",SuperYacht TV(TRV)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
