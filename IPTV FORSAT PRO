@@ -3195,7 +3195,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="UCL", UCL 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3381,7 +3381,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport Peacock
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT SPORTS 1
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png ",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3390,7 +3390,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="LIGA INGGRIS", LIVE 01
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="LIGA INGGRIS", LIVE 01
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3410,31 +3410,25 @@ https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://hztnew.newkso.ru/hzt/optussport1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="LIGA INGGRIS", LIVE 05
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png" group-title="LIGA INGGRIS", LIVE 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="LIGA INGGRIS", LIVE 06
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x5ja5w1659624783.png" group-title="LIGA INGGRIS", LIVE 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="LIGA INGGRIS", LIVE 07
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="LIGA INGGRIS", LIVE 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://top2new.newkso.ru/top2/premium400/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="LIGA INGGRIS", LIVE 08
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png" group-title="LIGA INGGRIS", LIVE 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://top1new.newkso.ru/top1/premium401/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="LIGA INGGRIS", LIVE 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="LIGA INGGRIS", LIVE 12 
@@ -3457,7 +3451,7 @@ https://ddh2new.newkso.ru/ddh2/premium23/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.newkso.ru/wind/premium599/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="LIGA INGGRIS", LIVE 16
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png" group-title="LIGA INGGRIS", LIVE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.newkso.ru/wind/premium61/mono.m3u8
@@ -3487,24 +3481,24 @@ https://hztnew.newkso.ru/hzt/optussport5/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://hztnew.newkso.ru/hzt/optussport6/mono.m3u8
 
-#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png" group-title="LIGA INGGRIS", SkySPORTS EPL NZ
+#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="LIGA INGGRIS", SkySPORTS EPL NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png" group-title="LIGA INGGRIS", SkySPORTS 7 NZ
+#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png" group-title="LIGA INGGRIS", SkySPORTS 7 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SkySports 9 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png" group-title="LIGA INGGRIS", SkySPORTS 9 NZ
+#EXTINF:-1 tvg-id="SkySports 9 NZ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png" group-title="LIGA INGGRIS", SkySPORTS 9 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png" group-title="LIGA INGGRIS", SkySPORTS 4 NZ
+#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png" group-title="LIGA INGGRIS", SkySPORTS 4 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
@@ -3846,7 +3840,7 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
 
 
 
-#EXTINF:-1 tvg-id="NovaSport Bulga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-sport-1-cz.png" group-title="AFC CHAMPIONS LEAGUE",Nova Sport 
+#EXTINF:-1 tvg-id="NovaSport Bulga" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xyyytr1444741576.png" group-title="AFC CHAMPIONS LEAGUE",Nova Sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
@@ -4081,14 +4075,14 @@ https://s-b2.aistrem.net/plyvivo/m0yer0rube7ibomumugu/chunklist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
 
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="MotoGP", MotoGP
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="MotoGP", MotoGP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="MotoGP ",  MotoGP 
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="MotoGP ",  MotoGP 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -4096,7 +4090,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="MotoGP", MOTO GP
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="MotoGP", MOTO GP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
