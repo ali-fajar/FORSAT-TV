@@ -4146,11 +4146,11 @@ https://ddy6new.newkso.ru/ddy6/premium80/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18345&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18345&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZNu-4S5mj5WaPEXgGcsFGWwwPJs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4249587/4bd4d9.jpg" group-title="LIVE VOLLY", WSVI
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2CEjO-QqZPsDPXHxpFOYVKGLm3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258488/7f62f6.jpg" group-title="LIVE VOLLY", WSVI
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18656&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18656&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", LIGA KOREA
