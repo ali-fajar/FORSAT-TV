@@ -447,20 +447,20 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kWSBLyJhrxEhsmt5PyH26dghauU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254887/3ea370.jpg" group-title="BADMINTON", COURT 1A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Yh8e9fs8xJUffZ1YbqRpwWR6K7s=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18250/yonex-taipei-open-2025-qualifiers-r32-court-2-cover-742ebb.jpg" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jG7lM35i8BZVVijzoxHzxUQ8UpA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-sudirman-cup-finals-2025-court-1-7d3c8b.jpg" group-title="BADMINTON", COURT 2B
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg" group-title="BADMINTON", COURT 2B
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VSceRYw5sIG4dpBDfP6fJYnpSW4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/totalenergies-bwf-sudirman-cup-finals-2025-court-3-712672.jpg" group-title="BADMINTON", COURT 3C
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c2dYU_xwh8q8n2aKCkVRwlv7HBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-taipei-open-2025-qualifiers-r32-court-3-677d56.jpg" group-title="BADMINTON", COURT 3C
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18252&type=drm
