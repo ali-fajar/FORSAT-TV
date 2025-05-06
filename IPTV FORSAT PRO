@@ -1149,17 +1149,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES", GREAT! ACTION
 https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES", GREAT! MOVIES
-https://fl3.moveonjoy.com/CINEMAX_MOREMAX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnG2Mh8eYA_Qz9D_jyQOI15jHz0hg88xk2L-89mBeuDm3jEv-3w5HMPKH&s=10" group-title="MOVIES", DISCOVER FILM
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-1-ca.png" group-title="MOVIES", CRAVE 1
-https://fl1.moveonjoy.com/CINEMAX_WEST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HFJQ_Qs41MdgD_ArwCwCe9tb1S0mFW9gDQ8-5NxH5Obmqnivryc5-F8&s=10" group-title="MOVIES", BEST ACTION
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/f48ffd4f-8c7d-4a99-86f3-230d6a10e954/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-2-ca.png" group-title="MOVIES", CRAVE 2
-https://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ0MJYZJwMgxs-x6qoMB2H41geqmffBDfQa9HLZOdOirG-xeKKlpIGFCJ&s=10" group-title="MOVIES", BEST THRILLER
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/31f33923-d596-451a-83ab-f5eab962ebb9/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-3-ca.png" group-title="MOVIES", CRAVE 3
-https://fl2.moveonjoy.com/HBO/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQM0UkLwn28h29i81c4luec-gVCr6liMQO94nWNPK6GANGPNhrSv2yF38E&s=10" group-title="MOVIES", BRITBOX MISTERY
+https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist_384x216.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crave-4-ca.png" group-title="MOVIES", CRAVE 4
 https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/tracks-v1a1/mono.m3u8
