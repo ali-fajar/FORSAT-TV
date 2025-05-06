@@ -1178,25 +1178,25 @@ https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playl
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmm_y0bNjBaMZP4shPjcmKOrV3C9Qk7JcokRSr2NpdnjorcuCNV0MRXp8&s=10" group-title="MOVIES", LIFETIME MOVIES
 https://v1.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png",IMC (V+)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54xdstkj7RPrJEd_LE2bJEECLMJ26GHHfcWSbCMANA-jyYuv8Gka1fQos&s=10",IMC (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=50
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=50
 
 
-#EXTINF:-1 tvg-name="CCM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM (V+)
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Rrq52g1KrV3uA3l96EnbrCOmGFLFNusi5H9hBBWt9DKdkBUfW97RMJRs&s=10" group-title="MOVIES",CCM (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 
 
 
-#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",CELESTIAL MOVIES (V+)
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xxikBll7v0iqK0MOf98e4xBgLHF8vqZfdTrhLF9TMJFWe17g2ZTJ_KA&s=10" group-title="MOVIES",CELESTIAL MOVIES (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=44
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=44
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="MOVIES", ZEE BIOSKOP
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6_hYFDpaSzyTF1AE09RV0titNtgFPL8vGkmEMENj1-l3N51Fnjmxy-A&s=10" group-title="MOVIES", ZEE BIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=47
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=47
@@ -1204,27 +1204,27 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=47
 
 
 
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="MOVIES",ROCK ACTION 
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MOVIES",ROCK ACTION 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=93
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=93
 
 
 
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png" group-title="MOVIES",AXN 
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsM5zicmofoNzXRZgjga8sBMyuK1jOZgUxhcfPcEvYU463NB6UqCzJR6t&s=10" group-title="MOVIES",AXN 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=79
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=79
 
 
-#EXTINF:-1 tvg-name="KIX" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="MOVIES",KIX 
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4Gxm5MMLoHPugSQuNxr60AGXY-90DOREMQ&s" group-title="MOVIES",KIX 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=75
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=75
 
 
 
-#EXTINF:-1 tvg-name="THRILL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",THRILL 
+#EXTINF:-1 tvg-name="THRILL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="MOVIES",THRILL 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=41
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=41
@@ -1261,13 +1261,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 
-#EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="MOVIES",GALAXY 
+#EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPWW9hfSdBL5nvhfxi9WXWNsiMbQ9syBokLTB547bemlm8uylVFFEA5M&s=10" group-title="MOVIES",GALAXY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 
-#EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="MOVIES",GALAXY PREMIUM 
+#EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxqYF4OFYPgUSOpdzNcPM02mpACtH7DU7Skqy_z-pNEp8-_BT8SV1ks&s=10" group-title="MOVIES",GALAXY PREMIUM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
@@ -1280,7 +1280,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
-#EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS MOVIES (V+)
+#EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrhCDrbjPE34AMiTqWkZIXpf-tWEc9FrhNaHqIVNyj_YC1cD16f1twEk&s=10" group-title="MOVIES",HITS MOVIES (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=42
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=42
@@ -1300,14 +1300,14 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=37
 
 
 
-#EXTINF:-1 tvg-name="CINEMACHI MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="MOVIES",SUPERRIX (V+)
+#EXTINF:-1 tvg-name="CINEMACHI MAX" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES",SUPERRIX (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=39
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=39
 
 
 
-#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-logo="https://www.lyngsat.com/logo/tv/uu/uniques-uk.png" group-title="MOVIES",UNIQUES (V+)
+#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES",UNIQUES (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=38
 https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=38
@@ -1334,17 +1334,17 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 
 
 
-#EXTINF:-1 tvg-name="My CINEMA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",My CINEMA (V+)
+#EXTINF:-1 tvg-name="My CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFg81GzgmvEaZVdDOMLfRRI5xBliiKcE_eig&s" group-title="MOVIES",My CINEMA (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-name="My CINEMA Asia" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png" group-title="MOVIES",My CINEMA Asia (V+)
+#EXTINF:-1 tvg-name="My CINEMA Asia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFsmVT3RUOKHEYmSCuF5AvMhLnK19u0Z9ZUKVXlw0ek_cJKkjFpgJuSUO&s=10" group-title="MOVIES",My CINEMA Asia (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="My FAMILY Channel" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="MOVIES",My FAMILY Channel (V+)
+#EXTINF:-1 tvg-name="My FAMILY Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vEPItth5cxy6824LWGIowQKqh8JIdxwTn-C-gx3twN8elzwF4wcTt2o&s=10" group-title="MOVIES",My FAMILY Channel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
@@ -1355,21 +1355,6 @@ https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX (Sg)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="Cinema One.ph" tvg-logo="https://iili.io/JmoHb6b.png" group-title="MOVIES",Cinema One Philippines
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="MOVIES",Cinemo Philippines
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="MOVIES",PBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 
 
@@ -3020,7 +3005,26 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Malaysia" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="Malaysia",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="Malaysia",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="Malaysia",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="Malaysia",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="Malaysia",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="Malaysia",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="Malaysia",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
 
