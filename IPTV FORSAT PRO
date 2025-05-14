@@ -706,7 +706,30 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
 
 =========================================== RELIGI ===========================================
+#EXTINF:-1 tvg-name="INSAN TV" tvg-logo="https://youtv.live/data/channel/insantv.jpg" group-title="RELIGI", INSAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch4.m3u8?chcat=FTA&md5=BQ_2MOpuXHCOBi7uAHWRIg&expires=1747251701
 
+#EXTINF:-1 tvg-name="ASHIL TV" tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg" group-title="RELIGI", ASHIL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch2.m3u8?chcat=FTA&md5=PSuxfK7ljYiG8rHQXk54Ng&expires=1747251963
+
+#EXTINF:-1 tvg-name="SURAU TV" tvg-logo="https://youtv.live/data/channel/surautv.jpg" group-title="RELIGI", SURAU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch3.m3u8?chcat=FTA&md5=nz5VdxwjcFHxHl74Zb_imQ&expires=1747252091
+
+#EXTINF:-1 tvg-name="AHSAN TV" tvg-logo="https://youtv.live/data/channel/ahsantv.jpg" group-title="RELIGI", AHSAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch4.m3u8?chcat=FTA&md5=CXo_Fh8Ekbze1xZlym4Bmg&expires=1747252209
+
+
+#EXTINF:-1 tvg-name="MUADZ TV" tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png" group-title="RELIGI", MUADZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch5.m3u8?chcat=FTA&md5=byMq9FAoZoSFWaNRkGY1Yw&expires=1747252350
+
+#EXTINF:-1 tvg-name="IZZAH TV" tvg-logo="https://youtv.live/data/channel/izzahtv.jpg" group-title="RELIGI", IZZAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch28.m3u8?chcat=FTA&md5=IGfqkTDjvz3KMoneVk0z1w&expires=1747252450
 
 
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGI",MUSLIM TV (V+)
