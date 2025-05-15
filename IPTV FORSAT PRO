@@ -731,6 +731,35 @@ https://flv.intechmedia.net/live/ch5.m3u8?chcat=FTA&md5=byMq9FAoZoSFWaNRkGY1Yw&e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch28.m3u8?chcat=FTA&md5=IGfqkTDjvz3KMoneVk0z1w&expires=1747252450
 
+#EXTINF:-1 tvg-name="HIJRAH TV" tvg-logo="https://youtv.id/data/channel/hijrahtv.jpg" group-title="RELIGI", HIJRAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch8.m3u8?chcat=FTA&md5=ju8Th-yZiXDI29nO_EaS0A&expires=1747320893
+
+#EXTINF:-1 tvg-name="AL IMAN TV" tvg-logo="https://youtv.id/data/channel/al-iman.png" group-title="RELIGI", AL IMAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch9.m3u8?chcat=FTA&md5=BnVTIoTr4pBtbuR7FvNuHQ&expires=1747322861
+
+#EXTINF:-1 tvg-name="NIAGA TV" tvg-logo="https://youtv.id/data/channel/niagatv.jpg" group-title="RELIGI", NIAGA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch10.m3u8?chcat=FTA&md5=SJpDtKIWC_HnX3Tly_Xo3g&expires=1747322978
+
+#EXTINF:-1 tvg-name="BINBAZ TV" tvg-logo="https://youtv.id/data/channel/binbaztv.png" group-title="RELIGI", BINBAZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch22.m3u8?chcat=FTA&md5=-Tf73kwVnkhorYqrOwkU6w&expires=1747323064
+
+#EXTINF:-1 tvg-name="SALAM TV" tvg-logo="https://youtv.id/data/channel/salamtv.png" group-title="RELIGI", SALAM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch12.m3u8?chcat=FTA&md5=MeJbBsdquudq3v2tIcGtZw&expires=1747323133
+
+#EXTINF:-1 tvg-name="NAJIYAH TV" tvg-logo="https://youtv.id/data/channel/naanya-tv_20250211145457.png" group-title="RELIGI", NAJIYAH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch7.m3u8?chcat=FTA&md5=ujvOGamUd5B5KsxhsWSUDw&expires=1747323312
+
+#EXTINF:-1 tvg-name="MEDS TV" tvg-logo="https://youtv.id/data/channel/mediasunnahacehtv.jpeg" group-title="RELIGI", MEDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch23.m3u8?chcat=FTA&md5=JE5Sl4yOTSCKi6RXxU0AZQ&expires=1747323366
+
+
 
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGI",MUSLIM TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
