@@ -4472,7 +4472,7 @@ https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0tqvnP-qdxV5cjZePB-C7CO3xBOwS-IqY9lo4N6MJYRXHaT0JUJdci4&s=10" group-title="SPORTS", RACER TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/5eee9f77-34c3-11f0-99d6-b2ea3c5b86cb/119/384x216_734800/index.m3u8
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8?channel_name=RACER%20International&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=KLs98c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5ssatStv-LfgQFPSM4wOK5aTFUOq2TKtweQMScIefpCZvbFuYUCBUd4&s=10" group-title="SPORTS", MOTORSPORT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4480,7 +4480,7 @@ https://7daa9e4f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUs07q59doozAopJv57fU3f7mASa9e9n18-yW-f6plz2cuv9S1DTqglY&s=10" group-title="SPORTS", MTRSPT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/285cc642-34c4-11f0-bf6d-da0db82bb6c0/62/640x360_1020588/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8?channel_name=MTRSPT1&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&content_url=https%3A%2F%2Fwww.free ...
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaI2wsvt_gp_8pLIY0LlM0dGr9ugsbOc-NxS1QrUHBmMxCeQhHKCftOF4N&s=10" group-title="SPORTS", UNREEL SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
