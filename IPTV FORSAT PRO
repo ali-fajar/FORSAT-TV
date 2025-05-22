@@ -4241,7 +4241,9 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/cb543d1f7a6c6c8e84cb3b67cef342a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7554db80148b61299bce8c37683f03409a5e5afba358b1ebb70f4d8c68a8e24855977c11e79f43c8821ca689860a9c5e8623a3119f90f98b87418181f31d93758ae18a51581fb4b93bfbe45cbadb837a309d03472c7c74d5d3587ad35efc23624ff1feb1df2f9f418de1ade61157db60f82fe454aa12ca69c7812ee0919b952e602aadc5144a32a3eda984fc0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad089406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8eae9be6a1b359d2b080f26afc986fb3cca650da25458f99e6bf575f/96/640x360_792000/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Dazn Combet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuDBNgGJaiqdyXMP4UKJ13AhPybAE5xfeIeqi4jRm26SMKkK-KvbvV0c6&s=10" group-title="SPORTS" , DAZN WOMENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="SPORTS" , DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4394,18 +4396,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wjgklbtvhh/out/v1/6
 
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Арена" tvg-logo="https://iili.io/Jp5BMZJ.png", MATCH! ARENA
+#EXTINF:-1 group-title="SPORTS" tvg-id="Ktv sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5k1C9ufH531IJYpz5uVdXAdT6L17SBBbkA&s", KTV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium573
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight-tv.png", MATCH! FIGHT
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6PJLKztFr1dwnlCZ_00qtVZdlFbciEm7RYe3_2nDxcVmwD3snBitqROA&s=10", MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
-https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8
 
 
 
@@ -4521,15 +4518,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-#EXTINF:-1 tvg-name="PolsatSport.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpjtjTB.png", POLSAT SPORT
+#EXTINF:-1 tvg-name="Tigo Sports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium47
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl_360.m3u8
 
-#EXTINF:-1 tvg-name="PolsatSportExtra.pl" group-title="SPORTS" tvg-logo="https://iili.io/JpwkWAJ.pnghttps://iili.io/JpNoAEg.jpg", POLSAT SPORT EXTRA 
+#EXTINF:-1 tvg-name="Tvs Boxing" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRff9Rd5NI49y1VfD8s5QrLWGNVN3gf2rsJWecPvz_Yk-00W8bP6H90hUY3&s=10", TVS BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium50
+https://bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 
 
 
