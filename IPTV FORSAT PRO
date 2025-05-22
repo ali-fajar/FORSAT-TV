@@ -1977,17 +1977,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",INDIKIDS[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=indikids&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=indikids&type=dash
+https://cdn14jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=antv&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=antv&type=dash
+https://cdn14jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2252,10 +2246,7 @@ https://tvkitastream.my.id/indihome/get.php/.mpd?id=hgtv&type=dash
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=thrill&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=thrill&type=dash
+https://cdn12jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd?encp=&uid=&expp=
 
 
 
