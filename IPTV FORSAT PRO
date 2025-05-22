@@ -1953,12 +1953,9 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/tracks-v1a1/mono.
 
 ############################ INDIHOME #####################################################################################################################################################
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88_ALLPLAYENT_2025_03_17_15_19_48.png",ALLPAYET[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=hits&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=hits&type=dash
+https://cdn12jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1975,54 +1972,33 @@ https://cdn14jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=alquran&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=alquran&type=dash
+https://cdn11jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=muitv&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=muitv&type=dash
+https://cdn11jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=tv9&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=tv9&type=dash
+https://cdn11jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EURONEWS[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=metrotv&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=metrotv&type=dash
+https://cdn11jtedge.indihometv.com/dass/133/euronews/manifest_wuseetv.mpd?encp=tLVDgmlwjk5YbQwz0nJIlw&uid=&expp=1747948455
 
 
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88grey_SPOTV_2025_03_17_14_58_39.png",SPO TV 1[INDIHOME]
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",ANTARA TV [INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=bein1&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=bein1&type=dash
+https://cdn14jtedge.indihometv.com/atm/DASH/antara/manifest.mpd?encp=&uid=&expp=
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88grey_SPOTV2_2025_03_17_14_59_39.png",SPOTV 2[INDIHOME]
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png",NUSANTARA [INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=bein2&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=bein2&type=dash
+https://cdn14jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd?encp=&uid=&expp=
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV[INDIHOME]
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png",JAK TV[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=nba&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=nba&type=dash
+https://cdn13jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2043,10 +2019,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=galaxypremium&type=drm
-https://tvkitastream.my.id/indihome/get.php/.mpd?id=galaxypremium&type=dash
+http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY[INDIHOME]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
