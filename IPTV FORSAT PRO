@@ -3399,7 +3399,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
+#EXTINF:-1 grou-title="LIGA INGGRIS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
@@ -3413,50 +3413,6 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" group-title="LIGA SPANYOL", LALIGA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium84/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="LIGA SPANYOL", LALIGA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" group-title="LIGA SPANYOL", LALIGA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium98/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" group-title="LIGA SPANYOL", LALIGA 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="LIGA SPANYOL", LALIGA 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium475/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png?20220126204156" group-title="LIGA SPANYOL", LALIGA 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="LIGA SPANYOL", LALIGA 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cvlppn1643205563.png" group-title="LIGA SPANYOL", LALIGA 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuf9cH-P3LNXRfIOv1E9VOCrtGuscpzUIQ55qhNT6M_7lpPoFR1nQa7-s8&s=10" group-title="LIGA SPANYOL", SPANYOL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3469,55 +3425,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=spa1&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=spa2&type=m3u8
 
 =======================================LIGA ITALIA==========================================================================
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/s6b35j1629404341.png" group-title="LIGA ITALIA", SERIE A1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://wikinew.newkso.ru/wiki/eplayerSuperSportPSL/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="LIGA ITALIA", SERIE A2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="LIGA ITALIA", SERIE A3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="LIGA ITALIA", SERIE A4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIGA ITALIA", SERIE A5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium910/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png" group-title="LIGA ITALIA", SERIE A6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6l792t1630100876.png" group-title="LIGA ITALIA", SERIE A7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2v005r1643205531.png" group-title="LIGA ITALIA", SERIE A8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fyiqh51630100896.png" group-title="LIGA ITALIA", SERIE A9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mh03f41638048848.png" group-title="LIGA ITALIA", SERIE A9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIGA ITALIA", ITALIA 1
@@ -3548,25 +3456,14 @@ https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 
 ====================================LIGA BELANDA==============================================================
-#EXTINF:-1 tvg-logo="https://iili.io/dW5zNn9.png" group-title="LIGA BELANDA",NL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/dW5I5Sj.png" group-title="LIGA BELANDA",NL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium379/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/dW5I5Sj.png" group-title="LIGA BELANDA",NL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=nl1&type=m3u8
 
 
-#EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIGA BELANDA", NL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium888/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://livenow.one/wp-content/uploads/2021/03/Live-Now-png-1.png" group-title="LIGA BELANDA", NL 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3578,25 +3475,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=nl2&type=m3u8
 ==========================================BUNDESLIGA=======================================================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzp6yffvIhzqrpxF4crch0bMOD2GrtB-wFyYGqgQtd9thcIWVCN4g99pg&s=10" group-title="BUNDESLIGA", BUNDES 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzp6yffvIhzqrpxF4crch0bMOD2GrtB-wFyYGqgQtd9thcIWVCN4g99pg&s=10" group-title="BUNDESLIGA", BUNDES 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium886/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzp6yffvIhzqrpxF4crch0bMOD2GrtB-wFyYGqgQtd9thcIWVCN4g99pg&s=10" group-title="BUNDESLIGA", BUNDES 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium467/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/220px-Vodafone_2017_logo.svg.png" group-title="BUNDESLIGA", BUNDES 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzp6yffvIhzqrpxF4crch0bMOD2GrtB-wFyYGqgQtd9thcIWVCN4g99pg&s=10" group-title="BUNDESLIGA", BUNDES 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3664,11 +3543,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc&type=m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wRgbRIWB2GIlYqZh7l7HQeWiKuU=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4253809/de197e.jpg" group-title="UFC/MMA", ONE CHAMPIONSHIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=16890
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=16890
 
 
 ============================   BASKET  =======================================================================================================================================
@@ -3682,10 +3556,6 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=16890
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="BASKET",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
 
 
 
@@ -3714,30 +3584,14 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=nba3&type=m3u8
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxEUERSkc6M_MdM0sTcbz9_q53dC98aU902pefP_qK_bnNYrLBJKtJxl1&s=10" group-title="AFC CHAMPIONS LEAGUE", SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=115
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="AFC CHAMPIONS LEAGUE", SPORTSTARS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=112
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-
-
-#EXTINF:-1 tvg-id="NovaSport Bulga" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xyyytr1444741576.png" group-title="AFC CHAMPIONS LEAGUE",Nova Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="AFC CHAMPIONS LEAGUE", Sport Klub 1 SR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="AFC CHAMPIONS LEAGUE", Sport Klub 3 SR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
 
 
@@ -3833,63 +3687,15 @@ https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxEUERSkc6M_MdM0sTcbz9_q53dC98aU902pefP_qK_bnNYrLBJKtJxl1&s=10", World Cup 26™ Qualifiers
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=115
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", World Cup 26™ Qualifiers INDONESIA VS CHINA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=113
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
-
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
-
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png",BEIN SPORTS 4 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
-
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png",BEIN SPORTS 5 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
-
-#EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png",BEIN SPORTS 6 AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/d9iom9s.jpg" group-title="World Cup 26™ Qualifiers", 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://top2new.newkso.ru/top2/eplayerSPORTTV5/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/d9iom9s.jpg" group-title="World Cup 26™ Qualifiers", 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://nix1-dc4new.newkso.ru/nix1-dc4/sportklub3serbia/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/d9iom9s.jpg" group-title="World Cup 26™ Qualifiers", KOREA VS QATAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://top2new.newkso.ru/top2/eplayerSPORTTV2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/d9iom9s.jpg " group-title="World Cup 26™ Qualifiers", KORSEL VS PALESTINA 19.00 WITA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://wikinew.newkso.ru/wiki/eplayerSuperSportPSL/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3924,26 +3730,11 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1" , F1 GRAND PRIX 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://wikinew.newkso.ru/wiki/daznf1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://top2new.newkso.ru/top2/eplayerskyf1/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
 #EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
