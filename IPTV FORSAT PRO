@@ -143,13 +143,13 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="NASIONAL",Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=87
-https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=87
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=87
+https://bintangstreaming.my.id/connect/index.mpd?channel=forsat87&type=mpd
 
 #EXTINF:-1 tvg-id="Hanacaraka tv" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKFqsbktyv34vE09Aew5qB9NCu5Ac2GJub-en1aONhIT1WBpsmHZakNaQ&s=10" group-title="NASIONAL",Hanacaraka TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=89
-https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=89
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=89
+https://bintangstreaming.my.id/connect/index.mpd?channel=forsat89&type=mpd
 
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="NASIONAL" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Channel Jowo
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -160,12 +160,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="NASIONAL",Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=72
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=72
 https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=72
 
 #EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="NASIONAL",Food Travel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=36
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=36
 https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=36
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
@@ -176,7 +176,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 
 #EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="NASIONAL",CelebritiesTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=88
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=88
 https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=88
 
 #EXTINF:-1 tvg-id="Citra Entertainment" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="NASIONAL",Citra Entertainment
@@ -234,7 +234,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_5415_240p/hdnt
 
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-logo="https://iili.io/JbtnVEu.png" group-title="NASIONAL", Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/drm.php/widevine?id=26
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti+/index.drm?id=26
 https://bintangstreaming.my.id/rcti+/dash.php/stream.mpd?id=26
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL", Jawa Pos TV
