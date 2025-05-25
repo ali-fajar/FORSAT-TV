@@ -3350,6 +3350,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl7&type=m3u8
+
 
 KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
