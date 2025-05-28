@@ -1,0 +1,13 @@
+#EXTM3U
+
+
+===========================================PLAYLIST FORSAT PRO============================================================
+
+
+=========================================== NASIONAL ===========================================
+
+#EXTINF:-1 tvg-name="INFO" tvg-logo="https://iili.io/d9UB3Bf.jpg" group-title="NASIONAL",BERLANGGANAN APLIKASI FORSAT TV PRO DI 081341216753/DANA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
