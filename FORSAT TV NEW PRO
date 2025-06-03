@@ -233,8 +233,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png", TV Kesehatan
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-id="tvkesehatan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png", CELEBES TV
+https://Ams.Juraganstreaming.Com:5443/LiveApp/Streams/Celebesmedia.M3u8
 
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="NASIONAL",JakTV
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_5415_240p/hdntl=exp=1744566364~acl=%2flive%2f5415%2fmaster.m3u8!%2fhls-p%2fingest_5415*%2f*!%2fhls-b%2fingest_5415*%2f*~id=allUsers~data=hdntl~hmac=92e0e8733dd7d5449fd6d16c5a6ca37f8b0b2148827f4f8808cec5668f0a6a1f/index.m3u8
