@@ -427,8 +427,42 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=feed17&type=m3u8
 
 
 
-==========================================ASIA U17 =================================================================
+==========================================VPLUS =================================================================
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png" group-title="PLUS",R+ LIVE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1008
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1008
 
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" group-title="PLUS",V+ LIVE 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1010
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1010
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-m.png" group-title="PLUS",V+ SPORTS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1011
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1011
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/148/129148-LOGO-m.png" group-title="PLUS",V+ LIVE 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1013
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1013
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-m.png" group-title="PLUS",V+ LIVE 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1013
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1013
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-m.png" group-title="PLUS",V+ LIVE 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1014
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1014
 
 
 
