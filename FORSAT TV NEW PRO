@@ -4149,8 +4149,8 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18851&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18851&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=206&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=206&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="LIVE VOLLY", VOLLEY 1
