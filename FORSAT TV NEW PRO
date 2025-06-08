@@ -4146,7 +4146,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=206&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ou-JJN4Oq-kWUMeJaCQff3jKSN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4340233/b336a4.jpg" group-title="LIVE VOLLY", AVC
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18914&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18913&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18913&type=dash
 
 
