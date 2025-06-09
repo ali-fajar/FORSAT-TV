@@ -1174,17 +1174,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #EXTINF:-1 tvg-id="USBD700011RE" tvg-name="GRAVITAS MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES" , GRAVITAS MOVIES 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-action-uk.png" group-title="MOVIES", GREAT! ACTION
-https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/08/Rakuten-France-Action-Movies-optimized.jpg?x69988" group-title="MOVIES", RAKUTEN TV
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/e2e901ba-ec23-49ca-8b3a-91f9032224ea/5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnG2Mh8eYA_Qz9D_jyQOI15jHz0hg88xk2L-89mBeuDm3jEv-3w5HMPKH&s=10" group-title="MOVIES", DISCOVER FILM
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HFJQ_Qs41MdgD_ArwCwCe9tb1S0mFW9gDQ8-5NxH5Obmqnivryc5-F8&s=10" group-title="MOVIES", BEST ACTION
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/f48ffd4f-8c7d-4a99-86f3-230d6a10e954/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/07/cine-5-optimized.jpg?x69988" group-title="MOVIES", CINE 5TV
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w2032093830.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ0MJYZJwMgxs-x6qoMB2H41geqmffBDfQa9HLZOdOirG-xeKKlpIGFCJ&s=10" group-title="MOVIES", BEST THRILLER
-https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/31f33923-d596-451a-83ab-f5eab962ebb9/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/Xtrema-Cine-Terror-optimized.jpg?x69988" group-title="MOVIES", CINE TERROR
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w429803153.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQM0UkLwn28h29i81c4luec-gVCr6liMQO94nWNPK6GANGPNhrSv2yF38E&s=10" group-title="MOVIES", BRITBOX MISTERY
 https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist_384x216.m3u8
