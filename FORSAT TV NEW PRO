@@ -456,6 +456,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png", DIEMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
+
+
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-m.png" group-title="TIMNAS",V+ LIVE 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
