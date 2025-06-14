@@ -4227,7 +4227,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=afro&type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYaigtB9_RmK4YahWmT0t-9tUEBMVr8QaRK0CT1dtfGqOvriqAk4ABgXV&s=10" group-title="SPORTS", ARRYADIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
 
 
 
@@ -4248,7 +4248,7 @@ https://belayboi-dadd.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3B
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGRZmxAO45TLWXhJWVSBLKX9j63HSCsBXdYrFYNCICumTsvTfmT5u1Fw&s=10", Bahrain Sport 1 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w2040540087_b978000.m3u8
 
 #EXTINF:-1 tvg-name="BEIN 1 TH" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png" group-title="SPORTS",BEIN 1 THA
 https://delicate-hall-d108.wirdytv.workers.dev/02_epl1_720p/chunklist.m3u8
@@ -4432,7 +4432,7 @@ https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6kR_YcC9YBiuF5huJhO59xYtZGMnJUYBrifPkKQ4o8FslVjASwg4HYw&s=10" group-title="SPORTS", FOOSBALL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa0fce45510de6ba4ac1f4cc62d58e68314c9c94dead4d446cf458f20f91598c1a18e85188897ab5efa08ec200c5636429e857781cc2fc6b0f44f3693652a471259aa9083f15c28dc2c2938fffbdbad179c79afd97fee0a54bf099c3dec5aec40861afeb94dfad0d1b3414938aaca5e6d18aee4ad8f895859d640f4adfadf727095b6204e1dba07b9325956fa91d8048bd10185a2318cb668110acffb36f331768795d2a46ede4ce3c9f09733475d6a0570e937c0bb5eabe259e5cab477004f4445d7f63d065fdd2c56464e88845bc65168d1174a87ad6c11e31a727fe973cd1b2f6dda35261cb76f91f04da1131a0720ab415b2196150ac057bace8791892728bcdf8868fe64eea71ed3cce0c80733740da9fb20534403289ebe26451c70cd50fc888ac0790d12e3fec9be91036347125e122d9bf2eb75ac8bc20214028e0675373a4341d64cfd41eb2d654c6ec517d8a9495380052a22afe71c5548639bcdfed0d4818414fb2f9d9fbd142039506fb873362768d2a48416a86b1c30290bf2620e249c095e50e59ccd97fbd13eb4fc6ec8603a0c02259196aec4f3159db9ca7a08a777b53043abf24ef881b5/88/640x360_1561904/index.m3u8
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_v2.m3u8
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="SPORTS", ESPN  USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
