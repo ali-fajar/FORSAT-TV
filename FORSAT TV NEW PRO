@@ -1615,22 +1615,23 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang World (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=164
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=164
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=165
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=165
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=163
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1660,25 +1661,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=157
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=157
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=158
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=158
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=160
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=160
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=160
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=160
 
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=161
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=161
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=161
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=161
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=159
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=159
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=159
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=159
 
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="WORLD TV",之江纪录
