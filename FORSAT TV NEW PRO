@@ -1629,7 +1629,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV5Monde Asie (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
@@ -1659,24 +1659,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=158
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=158
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=160
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=160
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=161
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=161
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV (V+)
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=159
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=159
@@ -1699,11 +1699,7 @@ http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="WORLD TV", CCTV3
 http://138.2.110.209:35455/gaoma/cctv3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="WORLD TV",VIUTV 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3OqdL1D2wNLMsX7oSP_s8FAW0-JI7tQnC1iLm00_vX8PwirQcXvPerGY&s=10" group-title="WORLD TV",VIUTV 6
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png" group-title="WORLD TV",Zhejiang (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
@@ -1737,33 +1733,33 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_01_nl.png" group-title="WORLD TV", NPO 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/2560px-NPO_1_logo_2014.svg.png" group-title="WORLD TV", NPO 1 
 https://fl5.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_02_nl.png" group-title="WORLD TV", NPO 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="WORLD TV", NPO 2
 https://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/npo_03_nl.png" group-title="WORLD TV", NPO 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png" group-title="WORLD TV", NPO 3 
 https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xh5cSfZ/rtl4.png" group-title="WORLD TV", RTL 4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RTL_4_logo_2005.svg/1200px-RTL_4_logo_2005.svg.png" group-title="WORLD TV", RTL 4 
 https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-san-marino-sm.png" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO SPORT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntZs7tMx8-Lg9OTNmuY0lVjZcRFnEOjxSytRoxE_kPqRWgXQAWMZwMW0&s=10" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="WORLD TV", Palestine TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnUwKjfE2P7pdC98s_zyIZkb53Rz8nWDwhKlWs2VHf4vwMpjiWeIbs-Fv&s=10" group-title="WORLD TV", Palestine TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/musawa-ps.png" group-title="WORLD TV", Musawa Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlljW46ry6LchUAfY5-XkaeRundReRPdncwHgBSjKhv7JNLXEhiqpiIswi&s=10" group-title="WORLD TV", Musawa Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/musawahd/index.m3u8
 
