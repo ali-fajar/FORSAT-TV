@@ -15,9 +15,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="NASIONAL", MNC TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=2
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=2
+##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -26,9 +26,10 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=2
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="NASIONAL", RCTI (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
@@ -41,7 +42,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_600000=7-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+https://legacy-global-cdn.visionplus.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="NASIONAL",TransTV HD
@@ -92,9 +94,8 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL", iNEWS 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=4
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
 #EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="NASIONAL", SINDO NEWS
@@ -147,12 +148,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="NASIONAL",Vision Prime
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=87
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=87
+https://legacy-global-cdn.visionplus.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="Hanacaraka tv" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKFqsbktyv34vE09Aew5qB9NCu5Ac2GJub-en1aONhIT1WBpsmHZakNaQ&s=10" group-title="NASIONAL",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -167,14 +164,14 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 
 #EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="NASIONAL",Entertainment
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=72
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=72
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
 #EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="NASIONAL",Food Travel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=71
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=71
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -183,9 +180,9 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=71
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 #EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="NASIONAL",CelebritiesTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=88
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=88
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://legacy-global-cdn.visionplus.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-id="Citra Entertainment" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="NASIONAL",Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
