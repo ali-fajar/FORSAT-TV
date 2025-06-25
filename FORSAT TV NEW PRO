@@ -4347,7 +4347,10 @@ https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbn
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
-
+#EXTINF:-1 tvg-id="bein 1 eng" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png" group-title="SPORTS" , BEIN 1 ENG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium61
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Gor-cwCiKEDxQBSJYjR9wFuQD8ic2ugdDwCEG2dfgWdP2jeCkxmxzM&s=10" group-title="SPORTS" , BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
