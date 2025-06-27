@@ -4859,6 +4859,12 @@ https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-name="sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",HUB PREMIER 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/82plpt1601128493.png" group-title="SPORTS", Sky SPORT ARENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_ARENA/index.m3u8
