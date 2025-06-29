@@ -496,6 +496,12 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1010
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1011
 
 
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png", 20:00 WIB Indonesia (w) vs Kyrgyzstan (w)
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/YGUMSsjyscJADfnqeCvPkg/Fv2lucGIbhPi2caWYvF5Lg/1751222417393/live/may3SD/playlist.m3u8
+
 
 
 
