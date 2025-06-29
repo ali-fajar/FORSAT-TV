@@ -4277,7 +4277,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=f1&type=m3u8
 #EXTVLCOPT:http-referrer=https://reliabletv.me/
 https://s-b2.aistrem.net/plyvivo/m0yer0rube7ibomumugu/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyvMYQe.png" group-title="F1",  F1 GRAND PRIX 2025
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium98
 =======================================MotoGP====================================================
 #EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
 
