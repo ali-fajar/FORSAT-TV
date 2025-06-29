@@ -520,17 +520,17 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QnHn5WuAQx4vx7gR2dsztyvnIBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282470/9b704e.jpg" group-title="BADMINTON", COURT 1A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18250&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QnHn5WuAQx4vx7gR2dsztyvnIBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282470/9b704e.jpg" group-title="BADMINTON", COURT 2B
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lJ0R-3uPAp38wQef9pA_i1lv8yg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-us-open-2025-finals-71e773.jpg" group-title="BADMINTON", COURT 2B
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18249&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://skyblue.openwindow043.workers.dev/play.mpd?id=18249&type=drm
+https://skyblue.openwindow043.workers.dev/play.mpd?id=18249&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QnHn5WuAQx4vx7gR2dsztyvnIBg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4282470/9b704e.jpg" group-title="BADMINTON", COURT 3C
