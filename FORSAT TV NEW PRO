@@ -4408,25 +4408,16 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 #EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://keepinthink.xyz/corsproxy/telkomnetinstan.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.ts
 
 #EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://keepinthink.xyz/corsproxy/telkomnetinstan.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163655.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163986.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tBmF_qDeN3yYEbdlj-urFqByN59EITctS5QYskltfYiV2gihDudEE9Q&s=10" group-title="SPORTS", AFROSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -5438,25 +5429,24 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/156957.ts
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=sk1&type=m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227267.ts
 
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="SPORTS", Sport Klub 2 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=sk2&type=m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227269.ts
 
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="SPORTS", Sport Klub 3 SR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=sk3&type=m3u8
-
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227271.ts
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="SPORTS", RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=rmc1&type=m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1232.ts
 
 
 #EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORTS", RMC Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=rmc2&type=m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1233.ts
 
 
 
