@@ -1939,24 +1939,21 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2Hkg.png",M LIVE+ 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/88f6a7022fd54e759ee6d09f5117ab62/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2Mjj.png",M LIVE 2 
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyHJqtR.png",M LIVE 5 
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyHJqtR.png",M LIVE 6
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iili.io/JyH2iFI.png",M LIVE SPL 01 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1984,18 +1981,18 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w877293702.m3
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1744400401&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=Ul4wcWJY6ktdtECmJwVmhg
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="ThaiPBS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png", THAI PBS
+#EXTINF:-1 group-title="WORLD TV" tvg-id="ThaiPBS" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png", THAI PBS
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_144p/index.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thairath-tv-32-th.png", THAIRATH 32 
+#EXTINF:-1 group-title="WORLD TV" tvg-id="Thairath TV HD.th" tvg-logo="https://iptv36.vercel.app/logo/thairath.png", THAIRATH 32 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png", TRUE4U 24 
+#EXTINF:-1 group-title="WORLD TV" tvg-id="True 4 U.th" tvg-logo="https://i.imgur.com/O6Xre1O.png", TRUE4U 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
@@ -2034,7 +2031,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MONO.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist_w152618779.m3u8
+http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MCOT HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
