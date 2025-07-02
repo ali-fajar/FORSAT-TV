@@ -497,7 +497,7 @@ https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1010
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1011
 
 
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png", 20:00 WIB Indonesia (w) vs Pakistan (w)
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png", Indonesia (w) vs Pakistan (w)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18994&type=drm
