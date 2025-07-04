@@ -4104,7 +4104,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc&type=m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc1&type=m3u8
 
-
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://thumbor.prod.vidiocdn.com/Y43i4P40zSxY_U1j10kkrPgXnHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398420/dde59c.jpg", ONE PRIDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 ============================   BASKET  =======================================================================================================================================
 
