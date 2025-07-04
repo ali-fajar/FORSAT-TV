@@ -508,7 +508,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png" group-title="TIMNAS", Pakistan vs Indonesia
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/68/AFC_Women%27s_Asian_Cup.png" group-title="TIMNAS", Taipei vs Indonesia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18994&type=drm
