@@ -456,6 +456,21 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
+========================================PRESIDEN==========================================================
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7MtaiUHLh7sAGSFRe5eye4S7OLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398542/6d630c.jpg" group-title="PRESIDEN", PERSIB VS PORT FC 6 JULY 16.30 WIB
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19035&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19035&type=dash
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DJ0trSPhPbdmJdABhW5y3cdItlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398543/f669c8.jpg" group-title="PRESIDEN", OXFORD VS ALL STARS 6 JULY 20.00 WIB
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19035&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19035&type=dash
+
 ==========================================TIMNAS =================================================================
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="TIMNAS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
