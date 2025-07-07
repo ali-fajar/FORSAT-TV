@@ -1731,9 +1731,20 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
+#EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="HBO GROUP" , HBO ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula.cfd/h1/usergendx172s9rnd.m3u8
 
+#EXTINF:-1 tvg-id="Hbo 2 romania" tvg-logo="https://tvprofil.com/img/kanali-logo/HBO2_RO_logo.png?1737099480" group-title="HBO GROUP" , HBO 2 ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta.cfd/h2/usergendxn430rnd.m3u8
 
-
+#EXTINF:-1 tvg-id="Hbo 3 romania" tvg-logo="https://tvprofil.com/img/kanali-logo/HBO3_logo_v2.png?1718192064" group-title="HBO GROUP" , HBO 3 ROM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula.cfd/diva/usergenm48Qhxrnd.m3u8
 
 =========================================== MUSIC ===========================================
 
