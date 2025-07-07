@@ -556,17 +556,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa2&type=m3u8
 
 #EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10", FIFA CLUB 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=fifaclub1&type=m3u8
 
-#EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10", FIFA CLUB 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium414
 
-#EXTINF:-1 group-title="FIFA CLUB" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x1WonRpJ3QSezBQeipn--5m-o4-FiimFNyfuXb1RUGeE9w5oBDiVinQC&s=10", FIFA CLUB 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://dcd-co-live-gcr.gcdn.co/58d2tblvjfpz184b97eaescc7/web/stream.mpd?channel=2652&outlet=dazn-mena&plang=en
 
 ===========================KIDS==============================
 
