@@ -5134,6 +5134,18 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
 https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
+#EXTINF:-1 tvg-id="pro arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/PRO_Arena_%282022%29.webp" group-title="SPORTS" , PRO ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://arwen1.panaka.cfd/prx/usergenrnvdfki42man4l.m3u8
+
+
+#EXTINF:-1 tvg-id="se sports extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo-sportextra.png" group-title="SPORTS" , SE SPORTS EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://saruman1.tharen.cfd/sextra/usergenq8eo0q.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS", SKYSPORTS PREMIER LEAGUE
 https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
 
