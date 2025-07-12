@@ -462,23 +462,23 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 
 ========================================LIVE BACKUP==========================================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEHk5Ug.png" group-title="LIVE BACKUP", BACKUP 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUjeoID.png" group-title="LIVE BACKUP", BACKUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MEHk5Ug.png" group-title="LIVE BACKUP", BACKUP 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUjeoID.png" group-title="LIVE BACKUP", BACKUP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/Ngg2RQSX" group-title="LIVE BACKUP", BACKUP 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUjeoID.png" group-title="LIVE BACKUP", BACKUP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono3/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xMbHs3/file-000000002f08622f9ec9a4290ce781c7.png" group-title="LIVE BACKUP", BACKUP 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUjeoID.png" group-title="LIVE BACKUP", BACKUP 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono4/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xMbHs3/file-000000002f08622f9ec9a4290ce781c7.png" group-title="LIVE BACKUP", BACKUP 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUjeoID.png" group-title="LIVE BACKUP", BACKUP 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono5/mono.m3u8
 
