@@ -529,19 +529,30 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono82/mono.m3u8
 EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png", SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png", BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png", DIEMA SPORT 2
+#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6d/Logo_Bayon_Television.png", BAYON TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w321706025.m3u8
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/dqoLfOruDj9aisPYKJ7vJOsmldg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4418150/96326e.jpg" group-title="TIMNAS", INDONESIA VS BRUNAI
