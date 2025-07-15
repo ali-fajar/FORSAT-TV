@@ -556,10 +556,9 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w3
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/dqoLfOruDj9aisPYKJ7vJOsmldg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4418150/96326e.jpg" group-title="TIMNAS", INDONESIA VS BRUNAI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=19062&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=19062&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
 
 
 
