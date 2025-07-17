@@ -4950,12 +4950,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORT
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnE_Je8Z-Ob63D3HcaQ1pJL0_dI3L0R2qx3A&s", BAND SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO7OykNxe50oYT8FWaM2FQKgTadxX0CkRH69S1Cu5YuuEOD9_UStG9LA&s=10" group-title="SPORTS", LACROSE TV
@@ -4980,7 +4974,7 @@ https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5ssatStv-LfgQFPSM4wOK5aTFUOq2TKtweQMScIefpCZvbFuYUCBUd4&s=10" group-title="SPORTS", MOTORSPORT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://7daa9e4f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/3804f396-a44a-42da-a00d-423f0999bb09/3.m3u8
+https://d1phlc8te2m7db.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/9f1e6eba-eaed-4bab-a928-469cb99d643b/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUs07q59doozAopJv57fU3f7mASa9e9n18-yW-f6plz2cuv9S1DTqglY&s=10" group-title="SPORTS", MTRSPT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4988,7 +4982,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstrib
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaI2wsvt_gp_8pLIY0LlM0dGr9ugsbOc-NxS1QrUHBmMxCeQhHKCftOF4N&s=10" group-title="SPORTS", UNREEL SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://dd95c2f6.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlVbnJlZWxfSExT/57ca8ac2-df9f-4bdd-89ac-4c8656301ab8/2.m3u8
+https://dd95c2f6.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlVbnJlZWxfSExT/c3a4098a-b349-4795-989d-0546f22b9b24/2.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/250px-Eurosport_Logo_2015.svg.png" group-title="SPORTS", EUROSPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
