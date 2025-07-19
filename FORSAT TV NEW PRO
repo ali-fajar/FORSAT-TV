@@ -4588,8 +4588,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=voly2&type=m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6ZwAy3aQ20tfIZn3NP0eBs96dKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4428803/f30323.jpg" group-title="LIVE VOLLY", VOLLEY 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/1dSf8Dfc0rhXaboWKlrbeg/Fv2lucGIbhPi2caWYvF5Lg/1752935814209/live/may171/chunklist.m3u8
 
 =========================================== SPORTS======================================================
 
