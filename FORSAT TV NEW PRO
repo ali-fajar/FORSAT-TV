@@ -591,8 +591,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DivN6-qRl4DE3eTt2zOvupgJfss=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-32-court-1-71ea4a.jpg" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18249&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DivN6-qRl4DE3eTt2zOvupgJfss=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2025-round-of-32-court-1-71ea4a.jpg" group-title="BADMINTON", COURT 2B
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -4550,8 +4550,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", LIVE VNL 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=18853&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=18853&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", LIVE VNL 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
