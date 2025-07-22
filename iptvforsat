@@ -342,14 +342,53 @@ https://events2.liveboxpro.com/event/130.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 https://events2.liveboxpro.com/event/60.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/588.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/589.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/590.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/591.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/592.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/593.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/594.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/595.m3u8
 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY NZ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/596.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/587.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",PREMIER SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/451.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",PREMIER SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events2.liveboxpro.com/event/550.m3u8
 
 
 
