@@ -545,7 +545,7 @@ EXTVLCOPT:http-referrer=https://visionplus.id/
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6
