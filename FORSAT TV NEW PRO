@@ -4563,11 +4563,11 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", LIVE VNL 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ufWJWrl7TuAqbWwdsQuSN710KC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4455389/ca26a8.jpg" group-title="LIVE VOLLY", LIVE MOJI 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19176&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19176&type=dash
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
