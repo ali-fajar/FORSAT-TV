@@ -532,12 +532,12 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", World Cup 26™ Qualifiers INDONESIA VS JEPANG
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", World Cup 26™ Qualifiers INDONESIA VS THAILAND
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png", SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -563,13 +563,13 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/-TJwaw1OpDxaT52Jrx_ilKkOpwE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456100/7ae696.jpg" group-title="TIMNAS", THAILAND VS PHILIPINA
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibIv_FXebJNcNTRtQo44GkvRdRbfUAJPiN4ZmgMj-dkAJst2MhaxhyOs&s=10" group-title="TIMNAS", THAILAND VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/EiBRSyr4NaUosiH5haixyvWiVGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4456099/fe2891.jpg" group-title="TIMNAS", VIETNAM VS INDONESIA
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SYgPM3GeaT9G2HwcmzqqndhYc5IunH2OYjRvyKlB_J4Bkmp5y78jrqc&s=10" group-title="TIMNAS", VIETNAM VS KAMBOJA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
@@ -578,7 +578,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-https://live-xlvb.nsnd.live/hjUUFdnzi4zm_t2CY_EPbg/adb8de5045254f4388ff92b08aeba831/1753209608/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
+#https://live-xlvb.nsnd.live/hjUUFdnzi4zm_t2CY_EPbg/adb8de5045254f4388ff92b08aeba831/1753209608/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
 
 =====================================BADMINTON=================================================================
 
