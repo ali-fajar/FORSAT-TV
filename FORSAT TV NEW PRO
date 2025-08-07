@@ -4642,35 +4642,35 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZmTnXikfJdoQ-Hmqw_nmb5D5GAE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4455229/c16414.jpg" group-title="LIVE VOLLY", LIVE MOJI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYFOj_YIdQ-nH4T6ihYkZ7gdIsljCc2rkzrvaJ3u3zgDJx49ot4qYt6M&s=10" group-title="LIVE VOLLY", LIVE MOJI
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=19176
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=19176
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19334&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19334&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ufWJWrl7TuAqbWwdsQuSN710KC8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4455389/ca26a8.jpg" group-title="LIVE VOLLY", LIVE MOJI 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYFOj_YIdQ-nH4T6ihYkZ7gdIsljCc2rkzrvaJ3u3zgDJx49ot4qYt6M&s=10" group-title="LIVE VOLLY", LIVE MOJI 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19176&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19176&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19332&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19332&type=dash
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYFOj_YIdQ-nH4T6ihYkZ7gdIsljCc2rkzrvaJ3u3zgDJx49ot4qYt6M&s=10" group-title="LIVE VOLLY", LIVE MOJI 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18853
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18853
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19331&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19331&type=dash
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYFOj_YIdQ-nH4T6ihYkZ7gdIsljCc2rkzrvaJ3u3zgDJx49ot4qYt6M&s=10" group-title="LIVE VOLLY", LIVE MOJI 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18853&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18853&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=19331&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19331&type=dash
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKNPeUsTl6CBa9t5qo00ZLIbKR0TcffpFoA&s" group-title="LIVE VOLLY", VNL 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6685&type=drm
-https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
 
 
 
