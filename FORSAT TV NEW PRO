@@ -3978,6 +3978,14 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bri7&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
 
+#EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", BRI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
+
 
 
 ==============================================UCL============================================================
