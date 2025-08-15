@@ -3939,6 +3939,8 @@ https://fl5.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 2 
