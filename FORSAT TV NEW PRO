@@ -595,7 +595,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fdc5a88c47666bcc98796994817681d:dc923c54b567fa07cdef250915687003
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19367/file/drm/dash/19367_stream.mpd?hdnts=exp=1755277300~acl=/stream/19367/file/*~id=169793441~hmac=73b5ee79ce0718bc65cc7f7c7a4812054511a8cfc6e0ad68fa1866942e8ed118
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19367/file/drm/dash/19367_stream.mpd?hdntl=exp=1755542947~acl=%2fstream%2f19367%2ffile%2f*~id=49257797~data=hdntl~hmac=12b55c8d2e1d0d5775ea2ea33fae375f5a08d9a3c232a5dd32f3dc18c94b8002
 
 =====================================BADMINTON=================================================================
 
