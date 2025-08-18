@@ -590,12 +590,15 @@ https://twnx1-cf.boblcfwudz421.com/auth%3D2c4dca04a3dc225d8daa742989ef6a621c06a0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 
 
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNAS", TIMNAS VS UZBEKISTAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNAS", TIMNAS VS MALI 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; Build/QT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4fdc5a88c47666bcc98796994817681d:dc923c54b567fa07cdef250915687003
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19367/file/drm/dash/19367_stream.mpd?hdntl=exp=1755542947~acl=%2fstream%2f19367%2ffile%2f*~id=49257797~data=hdntl~hmac=12b55c8d2e1d0d5775ea2ea33fae375f5a08d9a3c232a5dd32f3dc18c94b8002
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19367/file/drm/dash/19367_stream.mpd?hdnts=exp=1755543698~acl=/stream/19367/file/*~id=49257797~hmac=6b43f54e72c1479833b0830084bfa68fa3fa771dc394f148efc3c23ce0ad6f35
+
 
 =====================================BADMINTON=================================================================
 
