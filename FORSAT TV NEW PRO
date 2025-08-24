@@ -5562,7 +5562,7 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium450
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="psjtv.id" tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png",PSJ TV
 #EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
 
 
 #EXTINF:-1   tvg-logo="https://i.ibb.co.com/G36yFmn/orfsportplusat.png" group-title="SPORTS", ORF SPORT+
@@ -5934,7 +5934,9 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS",Star Sports Select 1 HD
-http://watchindia.net:8880/live/32612/55103/1070.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
 http://watchindia.net:8880/live/32612/55103/1071.ts
