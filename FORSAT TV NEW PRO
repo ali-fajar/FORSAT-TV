@@ -5195,6 +5195,43 @@ https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium45
 
+#EXTINF:-1 tvg-id="ESPN AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="SPORTS" , ESPN 1 AR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2 AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="SPORTS" , ESPN 2 AR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+
+#EXTINF:-1 tvg-id="ESPN 3 AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="SPORTS" , ESPN 3 AR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
+#EXTINF:-1 tvg-id="ESPN 1 MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="SPORTS" , ESPN 1 MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://a.00/1/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2 MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f6gq9s1660760610.png" group-title="SPORTS" , ESPN 2 MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+https://a.00/1/out/u/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="ESPN 3 MX" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/xtqms51749408993.png" group-title="SPORTS" , ESPN 3 MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://a.00/1/out/u/dash/ESPN-3-HD/default.mpd
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/olj2cb1657045831.png", DAZN PT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
