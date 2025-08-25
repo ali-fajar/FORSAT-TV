@@ -517,6 +517,7 @@ https://laaaaaaaal.dupereasy.com/event/473.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH", MAXSPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/474.m3u8
 #https://leeeeeeeel.dupereasy.com/event/474.m3u8
 https://laaaaaaaal.dupereasy.com/event/474.m3u8
@@ -670,12 +671,14 @@ https://laaaaaaaal.dupereasy.com/event/530.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",MATCH FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/136.m3u8
 #https://leeeeeeeel.dupereasy.com/event/136.m3u8
 https://laaaaaaaal.dupereasy.com/event/136.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",MATCH FOOTBALL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/137.m3u8
 #https://leeeeeeeel.dupereasy.com/event/137.m3u8
 https://laaaaaaaal.dupereasy.com/event/137.m3u8
@@ -703,6 +706,7 @@ https://laaaaaaaal.dupereasy.com/event/599.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/404.m3u8
 #https://leeeeeeeel.dupereasy.com/event/404.m3u8
 https://laaaaaaaal.dupereasy.com/event/404.m3u8
@@ -730,6 +734,7 @@ https://laaaaaaaal.dupereasy.com/event/583.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",PRIMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/584.m3u8
 #https://leeeeeeeel.dupereasy.com/event/584.m3u8
 https://laaaaaaaal.dupereasy.com/event/584.m3u8
@@ -750,6 +755,7 @@ https://laaaaaaaal.dupereasy.com/event/586.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",PREMIER SPORT BRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://looooooool.footfast.net/event/88.m3u8
 #https://leeeeeeeel.dupereasy.com/event/88.m3u8
 https://laaaaaaaal.dupereasy.com/event/88.m3u8
