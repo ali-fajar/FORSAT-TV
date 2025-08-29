@@ -4781,6 +4781,10 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9kJfUDtfP2UB3lGEOgMg7Lxb3aJECDovFlR6kfoFEFL5WVaD7yvcqubvO&s=10" group-title="LIVE VOLLY", VOLY TURKI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=0uIFg5Zvy4I
 =========================================== SPORTS======================================================
 
 #EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="SPORTS", ABU DHABI SPORTS 1
