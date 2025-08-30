@@ -4156,7 +4156,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl4&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 5 
@@ -4167,21 +4167,25 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 6 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://zukiplay.cfd/
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl7&type=m3u8
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", EPL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl8&type=m3u8
 
 KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png",USA Network 1
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4223,17 +4227,17 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium20
+#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium20
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium595
+#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium595
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://looooooool.footfast.net/event/595.m3u8
+#https://looooooool.footfast.net/event/595.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
