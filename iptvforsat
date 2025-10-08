@@ -9,13 +9,13 @@
 
 
 
-===========================================LIVE MATCHES============================================================
+===========================================FORSAT PRO============================================================
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="LIVE MATCHES" tvg-id="001" tvg-name="016-LABURATV", SPORTSTARS 2 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="FORSAT PRO" tvg-id="001" tvg-name="016-LABURATV", SPORTSTARS 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/f7444f7442ae4bb6a3b904f6219725f2/index.m3u8
 
-#EXTINF:-1 group-title="LIVE MATCHES" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5v-cPvgVswlUj2NvhiGe0Co6CZBPGXx-wegwrRhN7T0QJHeE_2V0eAQl&s=10", TIMNAS VS IRAK
+#EXTINF:-1 group-title="FORSAT PRO" tvg-id="UEFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5v-cPvgVswlUj2NvhiGe0Co6CZBPGXx-wegwrRhN7T0QJHeE_2V0eAQl&s=10", TIMNAS VS IRAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
